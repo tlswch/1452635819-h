@@ -3,6 +3,9 @@
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
 },
+{  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
+   "searchable": 1,"quickSearch": 1,"filterable": 1
+},
 {  "key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_DiDuan","searchable":1,
    "quickSearch":1,"filterable":0
 },
