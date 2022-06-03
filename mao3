@@ -1,7 +1,19 @@
-{"spider": "https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/spriederdd.jar",
+{"spider": "https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/spider.jar",
 "sites": [
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
+},
+{  "key": "SP360","name": "360资源()","type": 3,"api": "csp_SP360" ,
+   "searchable": 1,"quickSearch": 1,"filterable": 1
+},
+{  "key": "LiteApple","name": "小苹果()","type": 3,"api": "csp_LiteApple" ,
+   "searchable": 1,"quickSearch": 1,"filterable": 1
+},
+{  "key": "Newfii","name": "奈落影院()","type": 3,"api": "csp_Newfii" ,
+   "searchable": 1,"quickSearch": 1,"filterable": 1
+},
+{  "key": "Zxzj","name": "在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
+   "quickSearch": 1,"filterable": 1
 },
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
