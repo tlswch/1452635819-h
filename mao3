@@ -3,11 +3,14 @@
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
 },
+{  "key": "LiteApple","name": "小苹果()","type": 3,"api": "csp_LiteApple" ,
+   "searchable": 1,"quickSearch": 1,"filterable": 1
+},
 {  "key": "SP360","name": "360资源()","type": 3,"api": "csp_SP360" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{  "key": "LiteApple","name": "小苹果()","type": 3,"api": "csp_LiteApple" ,
-   "searchable": 1,"quickSearch": 1,"filterable": 1
+{  "key": "push_agent","name": "推送", "type": 3,"api": "csp_PushAgent",
+   "searchable": 0,"quickSearch": 0,"filterable": 0
 },
 {  "key": "Newfii","name": "奈落影院()","type": 3,"api": "csp_Newfii" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1
@@ -17,9 +20,6 @@
 },
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
-},
-{  "key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_DiDuan","searchable":1,
-   "quickSearch":1,"filterable":0
 },
 {  "key":"csp_300看世界","name":"300影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"
@@ -56,6 +56,9 @@
 },
 {  "key": "csp_Buka","name": "不卡影视()","type": 3,
    "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1
+},
+{  "key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_DiDuan","searchable":1,
+   "quickSearch":1,"filterable":0
 }, 
 {       "key" : "资源采集","name" : "资源采集", "type" : 1, 
         "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"
