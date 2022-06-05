@@ -54,6 +54,9 @@
 {  "key":"csp_美剧范","name":"美剧范()","type":3, "api":"csp_AppYs","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"
 },
+{  "key": "csp_appysv2_9e国语","name": "9E国语","type": 3,"api": "csp_AppYsV2","searchable": 1,
+   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+}, 
 {  "key": "csp_Buka","name": "不卡影视()","type": 3,
    "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1
 },
