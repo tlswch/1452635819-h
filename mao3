@@ -12,9 +12,6 @@
 {  "key": "push_agent","name": "推送", "type": 3,"api": "csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
 },
-{  "key": "Newfii","name": "奈落影院()","type": 3,"api": "csp_Newfii" ,
-   "searchable": 1,"quickSearch": 1,"filterable": 1
-},
 {  "key": "Zxzj","name": "在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
@@ -56,6 +53,9 @@
 },
 {  "key": "csp_appysv2_9e国语","name": "9E国语","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+},
+{  "key": "Newfii","name": "奈落影院()","type": 3,"api": "csp_Newfii" ,
+   "searchable": 1,"quickSearch": 1,"filterable": 1
 }, 
 {  "key": "csp_Buka","name": "不卡影视()","type": 3,
    "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1
@@ -143,7 +143,7 @@
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/Xpath/vipmv"
 },
 {  "key":"csp_dsxys","name":"大师兄(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/tvci.json"
+   "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/wCpZFepf"
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
