@@ -142,8 +142,8 @@
 {  "key":"csp_bidiys2","name":"追剧达人(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/Xpath/vipmv"
 },
-{  "key":"csp_dsxys","name":"大师兄(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/wCpZFepf"
+{  "key":"csp_尘落电影","name":"尘落电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"https://notabug.org/hogo18/mao/raw/master/cledy.js"
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
@@ -378,8 +378,7 @@
 		       },
                        {
 			"name": "CCTV-2财经","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8",
-"http://117.148.179.147/PLTV/88888888/224/3221231678/1.m3u8",
+["http://117.148.179.147/PLTV/88888888/224/3221231678/1.m3u8",
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8", 
 "http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8",
@@ -387,8 +386,7 @@
 		       }, 
                        {
 			"name": "CCTV-3综艺","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8",
-"http://117.148.179.183/PLTV/88888888/224/3221231682/1.m3u8",
+["http://117.148.179.183/PLTV/88888888/224/3221231682/1.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8",
 "http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8",
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8",
@@ -396,16 +394,14 @@
 		       }, 
                        {
 			"name": "CCTV-4国际","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8",
-"http://117.148.179.183/PLTV/88888888/224/3221231726/1.m3u8",
+["http://117.148.179.183/PLTV/88888888/224/3221231726/1.m3u8",
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8",
 "http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8"]
 		       },  
                        {
 			"name": "CCTV-6电影","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8",
-"http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8",
+["http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8",
 "http://111.20.41.252/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8",
 "http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8",
@@ -416,8 +412,7 @@
 		       }, 
                        {
 			"name": "CCTV-7军事","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8",
-"http://117.148.179.160/PLTV/88888888/224/3221231633/1.m3u8",
+["http://117.148.179.160/PLTV/88888888/224/3221231633/1.m3u8",
 "http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8",
 "http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8",
@@ -426,8 +421,7 @@
 		       }, 
                        {
 			"name": "CCTV-8电视","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8",
-"http://117.148.179.160/PLTV/88888888/224/3221231694/1.m3u8",
+["http://117.148.179.160/PLTV/88888888/224/3221231694/1.m3u8",
 "http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203903.m3u8",
 "http://v.mp.haue.edu.cn/hls/cctv8hd.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8",
@@ -435,8 +429,7 @@
 		       },
 		       {
 			"name": "CCTV-9纪录","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8",
-"http://117.148.179.162/PLTV/88888888/224/3221231697/1.m3u8", 
+["http://117.148.179.162/PLTV/88888888/224/3221231697/1.m3u8", 
 "http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8", 
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8", 
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8",					
@@ -445,8 +438,7 @@
 		       }, 
                        {
 			"name": "CCTV-10科教","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8",
-"http://117.148.179.137/PLTV/88888888/224/3221231666/1.m3u8",
+["http://117.148.179.137/PLTV/88888888/224/3221231666/1.m3u8",
 "http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203503.m3u8",
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8", 
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8",
@@ -463,8 +455,7 @@
 		       }, 
                        {
 			"name": "CCTV-12社会","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8",
-"http://117.148.179.150/PLTV/88888888/224/3221231660/1.m3u8", 
+["http://117.148.179.150/PLTV/88888888/224/3221231660/1.m3u8", 
 "http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8",
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8", 
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8",
@@ -472,8 +463,7 @@
 		       }, 
                        {
 			"name": "CCTV-14少儿","urls": 
-["http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8",
-"http://117.148.179.182/PLTV/88888888/224/3221231648/1.m3u8", 
+["http://117.148.179.182/PLTV/88888888/224/3221231648/1.m3u8", 
 "http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204403.m3u8",
 "http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8",
@@ -493,9 +483,8 @@
 "http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8"]
 		       },
                        {
-			"name": "CCTV-17农业","urls": [
-"http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8",
-"http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8",
+			"name": "CCTV-17农业","urls": 
+["http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8",
 "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8",
 "http://v.mp.haue.edu.cn/hls/cctv17hd.m3u8",
 "http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8",
