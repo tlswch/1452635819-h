@@ -7,7 +7,7 @@
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
 {  "key":"腾讯直采","name":"腾讯直采","type":1,
-   "api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1
+   "api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1
 },   
 {  "key": "SP360","name": "360资源()","type": 3,"api": "csp_SP360" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1
