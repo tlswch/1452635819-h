@@ -37,9 +37,6 @@
 {  "key":"csp_暖光影视","name":"暖光影视()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
 },
-//{  "key":"csp_飓风影院","name":"飓风影院()","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"http://yidayy.top/lehailb_api.php/v1.vod"
-},
 {  "key":"csp_天空影视","name":"天空影视()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"
 },
@@ -165,9 +162,6 @@
 },   
 {  "key":"csp_瑞丰影视","name":"瑞丰影视()", "type":3, "api":"csp_AppYsV2","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
-},
-//{  "key":"csp_2号币","name":"2号影币()","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":0,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"
 },
 {  "key":"csp_影视猫","name":"影视猫()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"
