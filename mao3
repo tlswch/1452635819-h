@@ -3,7 +3,7 @@
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
 },
-{  "key": "LiteApple","name": "小苹果(ijk)","type": 3,"api": "csp_LiteApple" ,
+{  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
 {  "key":"腾讯直采","name":"腾讯直采","type":1,
@@ -15,7 +15,7 @@
 {  "key":"csp_300看世界","name":"300影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"
 },
-{  "key": "push_agent","name": "推送", "type": 3,"api": "csp_PushAgent",
+{  "key": "push_agent","name": "推送(与推送菜单配合)", "type": 3,"api": "csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
 },
 {  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
@@ -124,7 +124,7 @@
 {  "key":"csp_789kp2","name":"1280(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/1280ys"
 },
-{  "key":"csp_555","name":"555电影()","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+{  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/555dy"
 },
 {  "key":"csp_ddg","name":"达达龟(X)","type":3,"api":"csp_XPathFilter","searchable":1,
