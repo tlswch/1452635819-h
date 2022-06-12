@@ -157,9 +157,6 @@
 {  "key":"csp_dmntv","name":"弹幕影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/c35XAgPd"
 },
-{  "key":"csp_人人影视","name":"人人影视(X)","type":3,"api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/rr520.js"
-}, 
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgc.js"
 }, 
