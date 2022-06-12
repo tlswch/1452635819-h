@@ -61,10 +61,10 @@
 {  "key":"csp_美剧范","name":"美剧范()","type":3, "api":"csp_AppYs","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"
 },
-{  "key": "csp_appysv2_9e国语","name": "9E国语","type": 3,"api": "csp_AppYsV2","searchable": 1,
+{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
 },
-{  "key": "极酷影视","name": "极酷影视","type": 3,"api": "csp_AppYsV2","searchable": 1,
+{  "key": "极酷影视","name": "极酷影视()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"
 },
 {       "key" : "资源采集","name" : "资源采集", "type" : 1, 
@@ -146,10 +146,10 @@
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/Xpath/vipmv"
 },
 {  "key":"csp_尘落电影","name":"尘落电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://notabug.org/hogo18/mao/raw/master/cledy.js"
+   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/cledy.js"
 },
 {  "key": "csp_北川影视","name":"北川影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/z9NkPDki"
+   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/bqys.js"
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
