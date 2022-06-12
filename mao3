@@ -127,6 +127,9 @@
 {  "key":"csp_789kp2","name":"1280(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/1280ys"
 },
+{  "key":"csp_jpys","name":"极品影视(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"https://wds.ecsxs.com/222514.txt"
+},
 {  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/555dy"
 },
@@ -154,11 +157,8 @@
 {  "key":"csp_dmntv","name":"弹幕影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/c35XAgPd"
 },
-{  "key":"csp_jpys","name":"极品影视(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://wds.ecsxs.com/222514.txt"
-},
 {  "key":"csp_人人影视","name":"人人影视(X)","type":3,"api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/06SS1rBM"
+   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/rr520.js"
 }, 
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgc.js"
