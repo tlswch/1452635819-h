@@ -151,6 +151,14 @@
 {  "key": "csp_北川影视","name":"北川影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
    "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/bqys.js"
 },
+{  "key": "csp_366","name":"366影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
+   "quickSearch":1,"filterable":1,
+   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/366ys.js"
+},
+{  "key": "csp_在线电影","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
+   "quickSearch":1,"filterable":1,
+   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/zxdy.js"
+},
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
 },
@@ -673,6 +681,9 @@
 },
 {  "name":"盘古解析","type":1,
    "url":"https://json.pangujiexi.com:12345/json.php?url="
+},
+{  "name": "51解析","type": 1,
+   "url": "https://json.5lp.net/json.php?url="
 },
 {  "name":"爱看美剧","type":1,
    "url":"http://ts.yjhan.com:8090/api/?key=P6XfOl9hD3LpqOFdRJ&url="
