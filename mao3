@@ -128,7 +128,7 @@
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/1280ys"
 },
 {  "key":"csp_jpys","name":"极品影视(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://wds.ecsxs.com/222514.txt"
+   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/jpysP.js"
 },
 {  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/555dy"
