@@ -118,8 +118,8 @@
 {       "key":"剧大神","name":"剧影大神","type":1,
         "api":"http://judashen.com/api.php/provide/vod/"
 },
-{  "key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/saohou.js"
+{  "key":"csp_biubiu_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/tegouB.js"
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/Xpath/348.json"
