@@ -66,6 +66,9 @@
 }, 
 {  "key":"csp_乐云影视","name":"乐云影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://www.leyun.tv/api.php/v1.vod"
+},
+{  "key": "csp_奈非影视","name":"奈非影视()","type":3,"api":"csp_AppYsV2","searchable": 1, 
+   "quickSearch": 0,"filterable": 1,"ext": "https://app.netflixmi.com/api.php/v1.vod"
 }, 
 {       "key":"腾讯直采","name":"腾讯直采","type":1,
         "api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1
