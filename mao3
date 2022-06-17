@@ -160,7 +160,7 @@
 },
 {  "key": "csp_在线电影","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
    "quickSearch":1,"filterable":1,
-   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/zxdy.js"
+   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/zxdyP.js"
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
@@ -169,7 +169,7 @@
    "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/c35XAgPd"
 },
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgc.js"
+   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcP.js"
 }, 
 {  "key":"csp_QC影视","name":"QC影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"
