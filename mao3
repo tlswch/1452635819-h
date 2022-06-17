@@ -149,14 +149,14 @@
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/Xpath/vipmv"
 },
 {  "key":"csp_尘落电影","name":"尘落电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/cledy.js"
+   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/cledyP.js"
 },
 {  "key": "csp_北川影视","name":"北川影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/bqys.js"
+   "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/bqysP.js"
 },
 {  "key": "csp_366","name":"366影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
    "quickSearch":1,"filterable":1,
-   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/366ys.js"
+   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/366ysP.js"
 },
 {  "key": "csp_在线电影","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
    "quickSearch":1,"filterable":1,
