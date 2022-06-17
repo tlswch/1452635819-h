@@ -650,6 +650,8 @@
 {  "name":"默认1","type": 2,"url": "Parallel"
 },
 {  "name":"默认2","type": 2,"url": "Sequence"
+},
+{  "name":"parwix0","url": "https://jx.parwix.com:4433/player/analysis.php?v="
 }, 
 {  "name":"诺讯解析","url": "https://www.nxflv.com/?url="
 },
