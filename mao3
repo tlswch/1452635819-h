@@ -169,7 +169,7 @@
    "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/zxdyP.js"
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
-   "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
+   "filterable":0,"ext":"https://pastebin.com/raw/mquNQhEP"
 },
 {  "key":"csp_dmntv","name":"弹幕影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/c35XAgPd"
