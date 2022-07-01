@@ -223,9 +223,6 @@
 {  "key":"csp_a益达影院","name":"益达影院()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"
 },
-{  "key":"csp_玖肆资源","name":"玖肆资源()","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":0,"filterable":1,"ext":"https://ccbug.cc/lvdou_api.php/v1.vod"
-},
 {  "key":"csp_寒枫视频","name":"寒枫视频()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"https://vip.shenyunwl.cn/mogai_api.php/v1.vod"
 },
@@ -251,10 +248,10 @@
 "lives": [{"group": "收藏1",
 	   "channels": [{
 		         "name": "CCTV-13新闻","urls": 
-["http://117.169.120.140:8080/live/cctv-13/.m3u8",
+["http://117.148.179.139/PLTV/88888888/224/3221231636/1.m3u8",
+"http://117.169.120.140:8080/live/cctv-13/.m3u8",
 "http://newsbsh5ca.v.live.baishancdnx.cn/live/newscctv13_2/index.m3u8",
 "http://36.152.71.75/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8",
-"http://117.148.179.139/PLTV/88888888/224/3221231636/1.m3u8",
 "http://183.251.61.250/PLTV/88888888/224/3221225817/index.m3u8",
 "http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8",
 "http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8"]
