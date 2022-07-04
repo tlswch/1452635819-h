@@ -733,9 +733,6 @@
 {  "name": "王牌解析","type": 1,
    "url": "https://za.kuanjv.com/?url="
 },
-{  "name": "江湖解析","type": 1,
-   "url": "http://103.40.240.46/jh/?url="
-},
 {  "name":"300ys","type":1,
    "url":"https://jiexi.300ys.xyz/json/jianghujx.php/?url="
 },
