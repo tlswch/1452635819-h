@@ -263,7 +263,7 @@
 }
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvaG9nbzE4L2JveC9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}],
 "flags": [
 "youku","wolong","niuxyun","bilibili","cctv","cntv","wasu","1920i","1920l","CL4K","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5","youbo","xigua","qq","pptv","dym3","sohu","letv","qiyi","xkys","m1905","ltnb",
 "fanqie","tkys","mgtv"],
