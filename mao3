@@ -149,27 +149,13 @@
 {  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {  "key": "诺讯资源","name": "诺讯资源", "type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
 {  "key":"51看剧", "name":"51看剧","type":1,"api":"http://51kanju.cn/api.php/provide/vod/"},
-{       "key": "个人影院","name": "个人影院","type": 1,
-        "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/"
-},
-{       "key":"八戒官采","name":"八戒官采","type":1,
-        "api":"https://www.bajiezy.xyz/api.php/provide/vod/"
-},
-{       "key": "黄河影视","name": "黄河影视","type": 1,
-        "api": "http://i.ledu8.cn/api.php/provide/vod/"
-},
-{       "key": "艾特影视","name": "艾特影视","type": 1,
-        "api": "https://www.aitee.cc/api.php/provide/vod/"         
-},
-{       "key": "千寻影视","name": "千寻影视","type": 1,
-	    "api": "http://wy.dqyhg.cn/api.php/provide/vod/"
-},
-{       "key":"趣看","name":"趣看影视","type":1,
-        "api":"https://qkmp4.cn/api.php/provide/vod/"
-},
-{       "key":"阿远采集","name":"阿远采集","type":1,
-        "api":"https://www.cjzy.xyz:8888/api.php/provide/vod/"
-},
+{  "key":"个人影院","name":"个人影院","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/"},
+{  "key":"八戒官采","name":"八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/"},
+{  "key": "黄河影视","name": "黄河影视","type": 1,"api": "http://i.ledu8.cn/api.php/provide/vod/"},
+{  "key": "艾特影视","name": "艾特影视","type": 1,"api": "https://www.aitee.cc/api.php/provide/vod/"},
+{  "key": "千寻影视","name": "千寻影视","type": 1,"api": "http://wy.dqyhg.cn/api.php/provide/vod/"},
+{  "key":"趣看","name":"趣看影视","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/"},
+{  "key":"阿远采集","name":"阿远采集","type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/"},
 {       "key":"小猫咪","name":"小猫咪","type":1,
         "api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"
 },
