@@ -156,49 +156,21 @@
 {  "key": "千寻影视","name": "千寻影视","type": 1,"api": "http://wy.dqyhg.cn/api.php/provide/vod/"},
 {  "key":"趣看","name":"趣看影视","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/"},
 {  "key":"阿远采集","name":"阿远采集","type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/"},
-{       "key":"小猫咪","name":"小猫咪","type":1,
-        "api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"
-},
-{       "key":"思古影院","name":"思古影院","type":1,
-        "api":"https://www.siguyy.com/api.php/provide/vod/"
-},
-{       "key":"土狗2345","name":"土狗2345","type":1,
-        "api":"http://2345.tgzy.cc/api.php/provide/vod/"
-},
-{       "key":"兔子窝","name":"兔子窝","type":1,
-        "api":"http://cj.huimaojia.com:12345/api.php/provide/vod/"
-},
-{       "key":"奇粹影视","name":"奇粹影视","type":1,
-        "api":"http://www.blssv.com/api.php/provide/vod/"
-},
-{       "key":"土剧TV","name":"土剧TV","type":1,
-        "api":"http://tujutv.top/api.php/provide/vod/"
-},
-{       "key":"看猫","name":"看猫资源","type":1,
-        "api":"http://124.222.83.15:88/api.php/provide/vod/"
-},
-{       "key":"忆梦","name":"忆梦影視","type":1,
-        "api":"http://anltv.cn/api.php/provide/vod/"
-},
-{       "key":"木子看剧","name":"木子看剧","type":1,
-        "api":"https://mzkj.maccms.cf/api.php/provide/vod/"
-},
-{       "key":"多多资源","name":"多多资源","type":1,
-        "api":"https://www.ddzyz1.com/api.php/provide/vod/"
-},
-{       "key": "libvio","name": "libvio","type": 1,
-        "api": "http://pandown.pro/maoys/libvio.php"
-},
-{       "key":"6U资源","name":"6U资源","type":1,
-        "api":"http://www.6uzy.cc/inc/apijson_vod.php"
-},
-{       "key": "毒蜥蜴影視","name": "毒蜥影視","type": 1,
-        "api": "https://www.duxiyi.com/api.php/provide/vod/"
-}, 
-{       "key":"海外电影","name":"海外电影","type":1,
-        "api":"https://www.200121.com/api.php/provide/vod/"
-},
-{  "key": "Zxzj","name": "在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
+{  "key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
+{  "key":"思古影院","name":"思古影院","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/"},
+{  "key":"土狗2345","name":"土狗2345","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/"},
+{  "key":"兔子窝","name":"兔子窝","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/"},
+{  "key":"奇粹影视","name":"奇粹影视","type":1,"api":"http://www.blssv.com/api.php/provide/vod/"},
+{  "key":"土剧TV","name":"土剧TV","type":1,"api":"http://tujutv.top/api.php/provide/vod/"},
+{  "key":"看猫","name":"看猫资源","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/"},
+{  "key":"忆梦","name":"忆梦影視","type":1,"api":"http://anltv.cn/api.php/provide/vod/"},
+{  "key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
+{  "key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
+{  "key":"libvio","name":"libvio","type": 1,"api": "http://pandown.pro/maoys/libvio.php"},
+{  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
+{  "key":"毒蜥蜴影視","name": "毒蜥影視","type": 1,"api": "https://www.duxiyi.com/api.php/provide/vod/"}, 
+{  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
+{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
 {  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
