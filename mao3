@@ -27,9 +27,6 @@
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{  "key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_GitCafe",
-   "searchable":1,"quickSearch":1,"filterable":0
-},
 {  "key": "csp_Bttoo","name":"两个BT()","type": 3,"api": "csp_Bttoo","searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
@@ -53,6 +50,9 @@
 },
 {  "key":"csp_非凡影院","name":"非凡影院()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"http://cms.feifan12.xyz/api.php/iptv/vod/"
+},
+{  "key":"csp_双鹿影院","name":"双鹿影院()","type":3,"api":"csp_AppYsV2","searchable":1,
+   "quickSearch":0,"filterable":1,"ext":"http://cr.slidc.top/mubai_api.php/m2.vod"
 },
 {  "key":"csp_零刻影院","name":"零刻影院()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"
@@ -255,11 +255,11 @@
 {  "key":"csp_段友影视","name":"段友影视()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"
 },
+{  "key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_GitCafe",
+   "searchable":1,"quickSearch":1,"filterable":0
+},
 {  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
-},
-{  "key":"csp_双鹿影院","name":"双鹿影院()","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":0,"filterable":1,"ext":"http://cr.slidc.top/mubai_api.php/m2.vod"
 }
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
