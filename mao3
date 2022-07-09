@@ -30,9 +30,6 @@
 {  "key": "csp_Bttoo","name":"两个BT()","type": 3,"api": "csp_Bttoo","searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
-{  "key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,
-   "quickSearch": 1,"filterable": 1
-},
 {  "key": "push_agent","name": "推送(与推送菜单配合)", "type": 3,"api": "csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
 }, 
@@ -71,7 +68,13 @@
 }, 
 {  "key":"csp_瑞丰影视","name":"瑞丰影视()", "type":3, "api":"csp_AppYsV2","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
+}, 
+{  "key": "csp_appysv2_日诚影视","name": "日诚影视()","type": 3,"api": "csp_AppYsV2",
+   "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://tv.rcz168.com/api.php/v1.vod"
 },
+{  "key":"csp_爱酷影视","name":"爱酷影视()","type":3,"api":"csp_AppYsV2","searchable":1,
+   "quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+}, 
 {  "key":"csp_a益达影院","name":"益达影院()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"
 },
@@ -239,13 +242,7 @@
 },
 {  "key": "Zxzj","name": "在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
    "quickSearch": 1,"filterable": 1
-}, 
-{  "key": "csp_appysv2_日诚影视","name": "日诚影视()","type": 3,"api": "csp_AppYsV2",
-   "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://tv.rcz168.com/api.php/v1.vod"
 },
-{  "key":"csp_爱酷影视","name":"爱酷影视()","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-}, 
 {  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"
 },
@@ -257,6 +254,9 @@
 },
 {  "key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_GitCafe",
    "searchable":1,"quickSearch":1,"filterable":0
+},
+{  "key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,
+   "quickSearch": 1,"filterable": 1
 },
 {  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
