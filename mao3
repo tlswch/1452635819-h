@@ -82,10 +82,7 @@
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
 {  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/Xpath/huya.json"
-},
-{  "key": "csp_hamao","name":"虎猫视频(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"  filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/humaoP.js"
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348zP.js"
@@ -98,6 +95,9 @@
 },
 {  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/mao1/git/raw/master/555dy"
+},
+{  "key": "csp_hamao","name":"虎猫视频(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
+   "quickSearch":1,"  filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/humaoP.js"
 },
 {  "key":"csp_ddg","name":"达达龟(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/06SS1rBM"
