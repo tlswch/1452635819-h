@@ -87,7 +87,7 @@
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348zP.js"
 }, 
-{  "key":"csp_789kp2","name":"1280(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,
+{  "key":"csp_789kp2","name":"1280影视(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/1280ys.js"
 },
 {  "key":"csp_jpys","name":"极品影视(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
@@ -100,7 +100,7 @@
    "quickSearch":1,"  filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/humaoP.js"
 },
 {  "key":"csp_ddg","name":"达达龟(X)","type":3,"api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/06SS1rBM"
+   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dadaP.js"
 }, 
 {  "key":"csp_lkvod","name":"耐看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/64JSj4ZC"
