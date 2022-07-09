@@ -137,18 +137,8 @@
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
 },
-{  "key":"csp_dmntv","name":"弹幕影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/c35XAgPd"
-},
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/ysgcP.js"
-}, 
-{  "key": "csp_友播TV","name":"友播TV(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"filterable":1,
-   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/youbotP.js"
-},
-{  "key":"csp_Glory","name":"荣耀影视(ijk解码)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/Bbiu/GloryB.js"
 },
 {  "key":"csp_biubiu_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/tegouB.js"
@@ -156,15 +146,8 @@
 {  "key":"csp_biubiu_F7","name":"好看F7(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/F7hkB.js"
 },
-{       "key" : "资源采集","name" : "资源采集", "type" : 1, 
-        "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"
-},
-{       "key":"天天影视","name":"天天影视","type":1,
-        "api":"http://tt2022.ga/api.php/provide/vod/"
-},
-{       "key": "8090资源","name": "8090资源","type": 1,
-        "api": "http://zy.yilans.net:8090/api.php/provide/vod/"
-},
+{  "key" : "资源采集","name" : "资源采集", "type" : 1, "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"},
+{  "key": "8090资源","name": "8090资源","type": 1,"api": "http://zy.yilans.net:8090/api.php/provide/vod/"},
 {       "key": "畅视资源","name": "畅视资源","type": 1,
         "api": "http://app.reboju.net/api.php/provide/vod"
 },
