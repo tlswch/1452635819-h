@@ -137,6 +137,9 @@
 {  "key":"csp_不卡影院","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
 },
+{  "key":"csp_蓝光影院","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lgyyB%3ejs"
+},
 {  "key":"csp_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/tegouB.js"
 },
