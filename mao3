@@ -5,13 +5,7 @@
 },
 {  "key": "csp_kuaikan","name": "快看影视()","type": 3,"api": "csp_Kuaikan","searchable": 1,
    "quickSearch": 1,"filterable": 1
-},  
-{  "key": "csp_Buka","name": "不卡影视()","type": 3,
-   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1
-},
-{  "key":"csp_DiDuan","name":"低端影视()","api":"csp_DiDuan",
-   "type":3,"searchable":1,"quickSearch":1,"filterable":1
-},
+}, 
 {  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1
 }, 
@@ -175,6 +169,12 @@
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 {  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
    "quickSearch": 1,"filterable": 1
+}, 
+{  "key": "csp_Buka","name": "不卡影视()","type": 3,
+   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1
+},
+{  "key":"csp_DiDuan","name":"低端影视()","api":"csp_DiDuan",
+   "type":3,"searchable":1,"quickSearch":1,"filterable":1
 },
 {  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"
