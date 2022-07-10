@@ -21,10 +21,9 @@
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{  "key": "csp_Bttoo","name":"两个BT()","type": 3,"api": "csp_Bttoo","searchable": 1,
-   "quickSearch": 1,"filterable": 1
-},
-{  "key": "push_agent","name": "推送(与推送菜单配合)", "type": 3,"api": "csp_PushAgent",
+{ "key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{ "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{ "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
 }, 
 {  "key":"csp_appysv2_比邻影视","name":"比邻影视()","type":3,"api":"csp_AppYsV2","searchable":1,
