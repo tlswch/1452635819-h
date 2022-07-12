@@ -1,6 +1,8 @@
 {
   "ua": "",
   "homeUrl": "https://v.xuangz.cn/",
+  "dcVipFlag": "true",
+  "dcPlayUrl": "true",
   "cateNode": "//ul[@class='nav navbar-nav']/li/a[contains(@href,'whole') and not(contains(@href, '5'))]",
   "cateName": "/text()",
   "cateId": "/@href",
