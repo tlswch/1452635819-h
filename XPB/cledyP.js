@@ -40,7 +40,7 @@
   "dtActorR": "",
   "dtDirector": "/div/div/div[2]/table/tbody/tr[1]/td[2]/a/text()",
   "dtDirectorR": "",
-  "dtDesc": "/div/div[2]/div[2]/p/span//span//br/following-sibling::text()",
+  "dtDesc": "//div[@class='col-xs-12 movie-introduce']/p/span//span//br/text()",
   "dtDescR": "",
   "dtFromNode": "//ul[@id='tvTabs']/li/a",
   "dtFromName": "/text()",
