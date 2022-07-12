@@ -2,7 +2,7 @@
     "author": "Cherry",
     "ua": "",
     "homeUrl": "https://www.lkvod.cc",
-    //"dcVipFlag": "true",
+    "dcVipFlag": "true",
     //"pCfgJs": "https://www.lkvod.cc/static/js/playerconfig.js",
     //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcShow2Vip": {},
