@@ -40,7 +40,7 @@
   "dtActorR": "",
   "dtDirector": "//table/tbody/tr[1]/td[2]/a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[@class='col-xs-12 movie-introduce']/p/span//span//br/text()",
+  "dtDesc": "//div[@class='col-xs-12 movie-introduce']/p[@id='txtjs']//span//br/text()",
   "dtDescR": "",
   "dtFromNode": "//ul[@id='tvTabs']/li/a",
   "dtFromName": "/text()",
