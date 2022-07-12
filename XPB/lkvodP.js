@@ -6,7 +6,7 @@
     //"pCfgJs": "https://www.lkvod.cc/static/js/playerconfig.js",
     //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     //"dcShow2Vip": {},
-    //"dcPlayUrl": "true",
+    "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu-items')]/li[contains(@class, 'nav-menu-item')]/a[contains(@href,'type')]",
     "cateName": "/@title",
     "cateId": "/@href",
