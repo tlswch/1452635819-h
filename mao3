@@ -115,7 +115,7 @@
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
 {  "key":"csp_dy888","name":"电影888(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1, "filterable": 0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dy888P.js"
+   "quickSearch":1, "filterable": 0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/9egyP.js"
 },
 {  "key":"csp_追剧达人","name":"追剧达人(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://hogo18.coding.net/p/hogo/d/TVBox/git/raw/master/PB/vipmv.js"
