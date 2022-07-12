@@ -1,8 +1,11 @@
 {// 尤东风于2022.6.17再次编制
   "ua": "",
-  "dcVipFlag": "true",
-  "dcPlayUrl": "true",
   "homeUrl": "https://555dy.fun/",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://555dy.fun/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'myui-header__menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'vodtype')]",
   "cateName": "/text()",
   "cateId": "/@href",
