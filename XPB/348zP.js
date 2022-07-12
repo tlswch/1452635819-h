@@ -43,7 +43,7 @@
     "dtMark": "//span[contains(text(), '更新')]/following-sibling::*/text()",
     "dtMarkR": "",
     "dtActor": "//span[contains(text(), '演员')]/following-sibling::a/text()",
-    "dtActorR": "\\S+：(\\S+)",
+    "dtActorR": "",
     "dtDirector": "//span[contains(text(), '导演')]/following-sibling::*/text()",
     "dtDirectorR": "",
     "dtDesc": "//span[contains(@id, 'cText')]/text()",
