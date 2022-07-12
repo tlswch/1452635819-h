@@ -34,7 +34,7 @@
   "dtActorR": "",
   "dtDirector": "//span[contains(@class,'module-info-item-title') and contains(text(), '导演')]//parent::/div/a/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
+  "dtDesc": "//div[@class='module-info-introduction-content show-desc']/p/text()",
   "dtDescR": "",
   "dtFromNode": "//div[@class='module-tab']//div[@class='module-tab-items']//div[contains(@class,'module-tab-items-box')]//div[contains(@class,'module-tab-item tab-item')]/span",
   "dtFromName": "/text()",
