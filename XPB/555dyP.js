@@ -33,7 +33,7 @@
   "dtAreaR": "",
   "dtMark": "",
   "dtMarkR": "",
-  "dtActor": "//span[contains(@class,'module-info-item-title') and contains(text(), '主演')]/parent::/div/a/text()",
+  "dtActor": "//span[contains(text(),'主演')]/following-sibling::div/a/text()",
   "dtActorR": "",
   "dtDirector": "//span[contains(@class,'module-info-item-title') and contains(text(), '导演')]//parent::/div/a/text()",
   "dtDirectorR": "",
