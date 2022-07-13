@@ -79,6 +79,9 @@
 },
 {  "key":"csp_爱酷影视","name":"爱酷影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+},
+{  "key":"csp_段友影视","name":"段友影视()","type":3,"api":"csp_AppYsV2",
+   "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"
 }, 
 {  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
    "quickSearch": 1,"filterable": 1
@@ -210,9 +213,6 @@
 },
 {  "key": "csp_Kmys","name": "酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,
    "quickSearch": 1,"filterable": 1
-},
-{  "key":"csp_段友影视","name":"段友影视()","type":3,"api":"csp_AppYsV2",
-   "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"
 },
 {  "key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,
    "quickSearch": 1,"filterable": 1
