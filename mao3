@@ -209,8 +209,8 @@
 },
 //{  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
 //   "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod" },
-//{  "key":"AliPS","name":"盘搜()","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,
-//   "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"}
+{  "key":"AliPS","name":"盘搜()","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,
+   "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}],
