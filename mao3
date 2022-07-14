@@ -93,12 +93,8 @@
 {  "key":"csp_段友影视","name":"段友影视()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"
 }, 
-{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
-   "quickSearch": 1,"filterable": 1
-},  
-{  "key":"csp_a益达影院","name":"益达影院()","type":3,"api":"csp_AppYsV2",
-   "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"
-},
+//{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
+//   "quickSearch": 1,"filterable": 1},  
 {  "key": "csp_appysv2_影库","name": "影库()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
