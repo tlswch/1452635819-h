@@ -5,9 +5,9 @@
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
 },
-{  "key": "csp_kuaikan","name": "快看影视()","type": 3,"api": "csp_Kuaikan","searchable": 1,
+{  "key": "csp_kuaikan","name": "快看影视()","type": 3,"api": "csp_Kuaikan","searchable":1,
    "quickSearch": 1,"filterable": 1 }, 
-{  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple" ,
+{  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple",
    "searchable": 1,"quickSearch": 1,"filterable": 1 }, 
 {  "key": "SP360","name": "360资源()","type": 3,"api": "csp_SP360" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1 },
@@ -68,9 +68,6 @@
 },
 {  "key":"csp_tegouys","name":"特狗影视()", "type":3, "api":"csp_AppYs","searchable":1,
    "quickSearch":0,"filterable":1,"ext":"https://www.tegouys.com/xgapp.php/v2/"
-},
-{  "key": "极酷影视","name": "极酷影视()","type": 3,"api": "csp_AppYsV2","searchable": 1,
-   "quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"
 },
 {  "key":"csp_QC影视","name":"QC影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"
@@ -202,15 +199,17 @@
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"毒蜥蜴影視","name": "毒蜥影視","type": 1,"api": "https://www.duxiyi.com/api.php/provide/vod/"}, 
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
-//{  "key": "csp_Buka","name": "不卡影视()","type": 3,
-//   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1 },
 {  "key":"csp_DiDuan","name":"低端影视()","api":"csp_DiDuan",
    "type":3,"searchable":1,"quickSearch":1,"filterable":1
 },
+//{  "key": "csp_Buka","name": "不卡影视()","type": 3,
+//   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1 },
+//{  "key": "极酷影视","name": "极酷影视()","type": 3,"api": "csp_AppYsV2","searchable": 1,
+//   "quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod" },
 //{  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
 //   "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod" },
 {  "key":"AliPS","name":"盘搜()","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,
-   "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"}
+   "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430" }
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}],
