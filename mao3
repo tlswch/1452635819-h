@@ -14,9 +14,11 @@
 {  "key": "SP360","name": "360资源()","type": 3,"api": "csp_SP360" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_Czsapp","searchable": 1,
+{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_CZSPP","searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
+//{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_Czsapp","searchable": 1,
+//  "quickSearch": 1,"filterable": 1},
 {  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
 },
@@ -26,8 +28,14 @@
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{ "key":"Bili","name":"B站()","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
-{ "key":"Nfyun","name":"Nf云()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
+{  "key": "csp_Kmys","name": "酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,
+   "quickSearch": 1,"filterable": 1
+},
+{  "key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,
+   "quickSearch": 1,"filterable": 1
+},
+//{ "key":"Bili","name":"B站()","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{ "key":"Nfyun","name":"Nf云()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
@@ -212,12 +220,6 @@
 },
 {  "key":"csp_appysv2_nanfuyy","name":"南府影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"
-},
-{  "key": "csp_Kmys","name": "酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,
-   "quickSearch": 1,"filterable": 1
-},
-{  "key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,
-   "quickSearch": 1,"filterable": 1
 },
 {  "key":"AliPS","name":"盘搜()","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,
    "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"
