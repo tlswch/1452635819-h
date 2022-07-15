@@ -23,7 +23,7 @@
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555dyP.js"
 },
 {  "key": "csp_hamao","name":"虎猫视频(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"  filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/humaoP.js"
+   "quickSearch":1,"  filterable":1,"ext":"https://pastebin.com/raw/mquNQhEP"
 },
 {  "key":"csp_naifeiorg","name":"奈飞中文(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/box/raw/branch/main/XPB/naif.js"
