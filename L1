@@ -1,4 +1,4 @@
-{
+{"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -131,6 +131,4 @@
 "xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn",
 "s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn",
 "k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-,
-  "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a"
 }
