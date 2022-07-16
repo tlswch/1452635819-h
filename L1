@@ -25,9 +25,6 @@
 {  "key":"csp_6d","name":"六度电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6dP.js"
 },
-{  "key": "csp_hamao","name":"虎猫视频(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"  filterable":1,"ext":"https://pastebin.com/raw/mquNQhEP"
-},
 {  "key":"csp_naifeiorg","name":"奈飞中文(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/box/raw/branch/main/XPB/naif.js"
 },
@@ -43,7 +40,19 @@
 {  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
 },
-{"key": "push_agent","name": "推送","type":3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0}
+{  "key": "csp_appysv2_影库","name": "影库()","type": 3,"api": "csp_AppYsV2","searchable": 1,
+   "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
+},
+{  "key":"csp_appysv2_比邻影视","name":"比邻影视()","type":3,"api":"csp_AppYsV2","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
+},     
+{  "key":"csp_暖光影视","name":"暖光影视()","type":3,"api":"csp_AppYsV2",
+   "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
+},
+{  "key":"csp_天空影视","name":"天空影视()","type":3,"api":"csp_AppYsV2",
+   "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"
+},
+{  "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
    ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
