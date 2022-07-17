@@ -53,6 +53,9 @@
 //{"key":"csp_GitCafe","name":"小纸条()","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 //{ "key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,
 //  "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
+{  "key": "9E03","name": "9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+},
 //{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
 //   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod" },
 {  "key":"csp_300看世界","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
