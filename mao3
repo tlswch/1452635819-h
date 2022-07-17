@@ -25,12 +25,13 @@
 {  "key": "csp_Kmys","name": "酷猫影视()","type": 3,"api": "csp_Kmys","searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
-{  "key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,
-   "quickSearch": 1,"filterable": 1
-},
-{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{ "key":"Bili","name":"B站()","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
-{ "key":"Nfyun","name":"Nf云()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_BBB","name":"bilibili","type": 3,"api":"csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Bliyc","name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blidw","name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+//{ "key":"Bili","name":"B站()","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{ "key":"Nfyun","name":"Nf云()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
