@@ -29,10 +29,10 @@
 //{"key": "csp_BBB","name":"bilibili()","type": 3,"api":"csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Bliyc","name":"演唱会()","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
-{ "key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,
+{ "key":"Zhaozy","name":"找资源(ijk解码)","type":3,"api":"csp_Zhaozy","searchable":1,
   "quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"
 },
-{"key": "AliPS","name": "盘搜","type": 3,"api": "csp_AliPS","searchable": 1,
+{"key": "AliPS","name": "盘搜(ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
 },
 { "key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,
