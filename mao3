@@ -15,16 +15,15 @@
    "quickSearch": 1,"filterable": 1 },
 //{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_Czsapp","searchable": 1,
 //  "quickSearch": 1,"filterable": 1},
-//{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
-//   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod" },
-{  "key":"csp_300看世界","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod" },
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
 {  "key": "csp_Kmys","name": "酷猫影视()","type": 3,"api": "csp_Kmys","searchable": 1,
    "quickSearch": 1,"filterable": 1
-},
+}, 
+{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
+   "quickSearch": 1,"filterable": 1
+}, 
 {"key": "csp_BBB","name":"bilibili()","type": 3,"api":"csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blixs","name":"相声小品()","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bliyc","name":"演唱会()","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -40,6 +39,11 @@
    "searchable":1,"quickSearch":1,"filterable":0 },
 //{ "key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,
 //  "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
+//{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
+//   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod" },
+{  "key":"csp_300看世界","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod" 
+},
 {  "key":"csp_appysv2_比邻影视","name":"比邻影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },     
@@ -85,8 +89,6 @@
 {  "key":"csp_段友影视","name":"段友影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"
 }, 
-{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
-   "quickSearch": 1,"filterable": 1},  
 {  "key": "csp_appysv2_影库","name": "影库(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
