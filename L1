@@ -4,7 +4,7 @@
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_300","name":"300影视()","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+{"key":"csp_300","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod" 
 },
 {"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},      
@@ -56,19 +56,19 @@
 {  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
 },
-{  "key": "csp_appysv2_日诚影视","name": "日诚影视()","type": 3,"api": "csp_AppYsV2",
+{  "key": "csp_appysv2_日诚影视","name": "日诚影视(v)","type": 3,"api": "csp_AppYsV2",
    "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://tv.rcz168.com/api.php/v1.vod"
 },
-{  "key": "csp_appysv2_影库","name": "影库()","type": 3,"api": "csp_AppYsV2","searchable": 1,
+{  "key": "csp_appysv2_影库","name": "影库影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
-{  "key":"csp_appysv2_比邻影视","name":"比邻影视()","type":3,"api":"csp_AppYsV2","searchable":1,
+{  "key":"csp_appysv2_比邻影视","name":"比邻影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },     
-{  "key":"csp_暖光影视","name":"暖光影视()","type":3,"api":"csp_AppYsV2",
+{  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
 },
-{  "key":"csp_天空影视","name":"天空影视()","type":3,"api":"csp_AppYsV2",
+{  "key":"csp_天空影视","name":"天空影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"
 },
 {  "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
