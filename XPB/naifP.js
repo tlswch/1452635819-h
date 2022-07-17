@@ -3,13 +3,7 @@
     "ua": "",
     "homeUrl": "https://www.naifei.org/",
     "dcPlayUrl": "true",
-    "cateManual": {
-      "电影": "dy",
-      "剧集": "juji",
-      "综艺": "zongyi",
-      "动漫": "dongman",
-      "纪录片": "jilupian"
-    },
+    "cateManual": {"电影": "dy","剧集": "juji","综艺": "zongyi","动漫": "dongman","纪录片": "jilupian"},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "homeVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
