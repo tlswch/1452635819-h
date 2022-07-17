@@ -126,7 +126,7 @@
 {  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
 },
-{  "key":"csp_达人","name":"追剧1达人(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,
+{  "key":"csp_友播TV","name":"友播TV(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://gitea.com/3235049327/TvBox/raw/branch/TV/MaoTV/xpath/vipmv.json"
 },
 //{  "key":"csp_bidiys","name":"哔嘀影视(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,
