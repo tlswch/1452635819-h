@@ -1,5 +1,5 @@
 {//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box1.jar",
-"spider": "https://pan.css.lc/api/v3/file/get/13504/0717.jar?sign=3wQ37y3zg4HnoPvTFQn7xNfJjGIOarMh3jb5ZHvdXko%3D%3A0",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/0717.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/TS702.jar",
 "sites": [
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
@@ -15,8 +15,8 @@
    "quickSearch": 1,"filterable": 1 },
 //{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_Czsapp","searchable": 1,
 //  "quickSearch": 1,"filterable": 1},
-{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
-   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod" },
+//{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
+//   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod" },
 {  "key":"csp_300看世界","name":"300影视()","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod" },
 {  "key": "csp_Cokemv","name":"Cokemv()","type": 3,"api":"csp_Cokemv",
@@ -29,8 +29,8 @@
    "quickSearch": 1,"filterable": 1
 },
 {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-//{ "key":"Bili","name":"B站()","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{ "key":"Nfyun","name":"Nf云()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
+{ "key":"Bili","name":"B站()","type":3,"api":"csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
+{ "key":"Nfyun","name":"Nf云()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
@@ -84,8 +84,8 @@
 {  "key":"csp_段友影视","name":"段友影视()","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"
 }, 
-//{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
-//   "quickSearch": 1,"filterable": 1},  
+{  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
+   "quickSearch": 1,"filterable": 1},  
 {  "key": "csp_appysv2_影库","name": "影库()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
