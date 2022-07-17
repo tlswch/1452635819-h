@@ -36,7 +36,7 @@
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
 },
-{  "key":"csp_GitCafe","name":"小纸条()","type":3,"api":"csp_GitCafe",
+{  "key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe",
    "searchable":1,"quickSearch":1,"filterable":0 },
 //{ "key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,
 //  "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
@@ -90,8 +90,9 @@
 {  "key": "csp_appysv2_影库","name": "影库()","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
-{ "key":"csp_AliPanSou","name":"阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-
+{  "key":"csp_AliPanSou","name":"阿里搜索(ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,
+   "quickSearch":1,"filterable":0
+},
 {  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"
 },
