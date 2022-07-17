@@ -4,7 +4,6 @@
   "dcVipFlag": "true",
   "pCfgJs": "https://vipmv.tv/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
-  "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   //"cateNode": "//div[contains(@class,'ec-allnav')]/ul/li/a[contains(@href, 'Movietype')]",
