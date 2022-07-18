@@ -26,6 +26,9 @@
 {  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple",
    "searchable": 1,"quickSearch": 1,"filterable": 1 
 },
+{  "key": "IKan","name": "爱看影视(ijk解码)","type": 3,"api": "csp_IKan","searchable": 1,
+   "quickSearch": 1,"filterable": 1
+},
 {  "key": "csp_Cokemv","name":"Cokemv(ijk与系统解码)","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
@@ -114,6 +117,9 @@
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
+},
+{  "key": "csp_biubiu_斗鱼","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+   "filterable": 0,"ext": "https://fenwe.coding.net/p/catvod/d/fenwe/git/raw/master/Biubiu/斗鱼.json"
 },
 {  "key":"csp_不卡影院","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
