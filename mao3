@@ -200,7 +200,8 @@
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },
 {  "key":"csp_appysv2_海玉影视","name":"海玉影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
-   "filterable":1,"ext":"https://tv2.hykjtv.cn/api.php/v1.vod"
+   "filterable":1,"ext":"https://tv2.hykjtv.cn/api.php/v1.vod",
+   "playUrl": "json:http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="
 },
 {  "key":"csp_appysv2_狐影TV","name":"狐影TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
    "filterable":1,"ext":"https://www.foxhtv.com/api.php/v1.vod"
