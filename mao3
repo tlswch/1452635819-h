@@ -186,7 +186,13 @@
 },
 {  "key":"csp_appysv2_万能影院","name":"万能影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
    "filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
-   },
+},
+{  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"
+},
+{  "key":"csp_appysv2_醉璃笙","name":"醉璃笙TV(v)","type":3,"api":"csp_AppYsV2","searchable":1, 
+   "quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"
+},
 {  "key":"csp_appysv2_比邻影视","name":"比邻影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },
