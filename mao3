@@ -200,9 +200,7 @@
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },
 {  "key":"csp_appysv2_海玉影视","name":"海玉影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
-   "filterable":1,"playUrl": "http://json2.hulanap.com//api//?key=j442QCpre8bOOJNIFE&url=",
-   "ext":"https://tv2.hykjtv.cn/api.php/v1.vod"
-   
+   "filterable":1,"ext":"https://tv2.hykjtv.cn/api.php/v1.vod"
 },
 {  "key":"csp_appysv2_狐影TV","name":"狐影TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
    "filterable":1,"ext":"https://www.foxhtv.com/api.php/v1.vod"
@@ -380,6 +378,9 @@
 },
 {  "name":"个人解析","type":1,
    "url":"http://ts.yjhan.com:8090/api/?key=Y4GefMCIQJz23mc06R&url="
+},
+{  "name":"9","type":1,
+   "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="
 },
 {  "name": "苍蓝蓝光","type": 1,
    "url": "http://ts.yjhan.com:8090/api/?key=1BVRnXqJv5WOma49ti&url="
