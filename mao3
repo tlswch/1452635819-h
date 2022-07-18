@@ -190,6 +190,12 @@
 {  "key":"csp_appysv2_比邻影视","name":"比邻影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },
+{  "key":"csp_appysv2_海玉影视","name":"海玉影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
+   "filterable":1,"ext":"https://tv2.hykjtv.cn/api.php/v1.vod"
+},
+{  "key":"csp_appysv2_狐影TV","name":"狐影TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
+   "filterable":1,"ext":"https://www.foxhtv.com/api.php/v1.vod"
+},
 {  "key":"csp_appysv2_瞬间影视","name":"瞬间影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"http://app.7en7.com/qingdoujiekou.php/v1.vod"
 },     
