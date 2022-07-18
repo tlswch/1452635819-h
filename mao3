@@ -208,6 +208,9 @@
 }, 
 {  "key":"csp_appysv2_盒子视界","name":"盒子视界(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"
+},
+{  "key":"csp_appysv2_醉璃笙","name":"醉璃笙TV(v)","type":3,"api":"csp_AppYsV2","searchable":1, 
+   "quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"
 },    
 
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
