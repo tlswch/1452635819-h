@@ -119,7 +119,7 @@
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
 },
 {  "key": "csp_biubiu_斗鱼","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
-   "filterable": 0,"ext": "https://fenwe.coding.net/p/catvod/d/fenwe/git/raw/master/Biubiu/斗鱼.json"
+   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
 },
 {  "key":"csp_不卡影院","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
