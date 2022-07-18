@@ -23,7 +23,7 @@
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
 },
-{ "key": "Gitcafe","name": "小纸条()","type": 3,"api": "csp_Gitcafe","searchable": 1,
+{ "key": "Gitcafe","name": "阿里纸条()","type": 3,"api": "csp_Gitcafe","searchable": 1,
   "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
 },
 {"key":"csp_Auete","name":"Auete()","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -36,7 +36,7 @@
 { "key":"Zhaozy","name":"找资源(ijk解码)","type":3,"api":"csp_Zhaozy","searchable":1,
   "quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"
 },
-{"key": "AliPS","name": "盘搜(ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
+{"key": "AliPS","name": "阿里盘搜(ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
 },
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
