@@ -7,10 +7,7 @@
 },
 {  "key": "csp_kuaikan","name": "快看影视()","type": 3,"api": "csp_Kuaikan","searchable":1,
    "quickSearch": 1,"filterable": 1 
-}, 
-{  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple",
-   "searchable": 1,"quickSearch": 1,"filterable": 1 
-}, 
+},
 {  "key": "SP360","name": "360资源()","type": 3,"api": "csp_SP360" ,
    "searchable": 1,"quickSearch": 1,"filterable": 1 
 },
@@ -32,7 +29,10 @@
 {"key":"csp_Auete","name":"Auete()","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"Nfyun","name":"奈非云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-
+ 
+{  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple",
+   "searchable": 1,"quickSearch": 1,"filterable": 1 
+}, 
 { "key":"Zhaozy","name":"找资源(ijk解码)","type":3,"api":"csp_Zhaozy","searchable":1,
   "quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"
 },
