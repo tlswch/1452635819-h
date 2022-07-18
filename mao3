@@ -211,6 +211,9 @@
 },
 {  "key":"csp_appysv2_醉璃笙","name":"醉璃笙TV(v)","type":3,"api":"csp_AppYsV2","searchable":1, 
    "quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"
+},
+{  "key":"csp_appysv2_欧闪","name":"欧闪TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,          
+   "filterable":1,"ext":"https://www.aacc.tv/api.php/iptv/vod/"
 },    
 
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
