@@ -23,7 +23,7 @@
 {  "key":"Zxzj","name":"在线之家()","type": 3,"api": "csp_Zxzj" ,"searchable": 1,
    "quickSearch": 1,"filterable": 1
 },
-{  "key": "Bili","name": "B站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
+{  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
 },
 { "key": "Gitcafe","name": "小纸条()","type": 3,"api": "csp_Gitcafe","searchable": 1,
@@ -234,10 +234,9 @@
 //   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1 },
 //{  "key": "极酷影视","name": "极酷影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
 //   "quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod" },
-//{  "key":"csp_appysv2_nanfuyy","name":"南府影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
-//   "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod" },
-{  "key":"AliPS","name":"盘搜()","type":3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,
-   "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430" }
+{  "key":"csp_appysv2_nanfuyy","name":"南府影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod" 
+}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}],
