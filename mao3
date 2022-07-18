@@ -194,6 +194,12 @@
 {  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"
 },
+{  "key":"csp_appysv2_醉璃笙","name":"醉璃笙TV(v)","type":3,"api":"csp_AppYsV2","searchable":1, 
+   "quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"
+},
+{  "key":"csp_appysv2_欧闪TV","name":"欧闪TV(v)","type":3,"api":"csp_AppYsV2","searchable":1"quickSearch":1,          
+   "filterable":1,"ext":"https://www.aacc.tv/api.php/iptv/vod/"
+},
 
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
