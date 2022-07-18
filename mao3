@@ -184,6 +184,9 @@
 {  "key":"csp_300看世界","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod" 
 },
+{  "key":"csp_appysv2_万能影院","name":"万能影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
+   "filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
+   },
 {  "key":"csp_appysv2_比邻影视","name":"比邻影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
 },     
