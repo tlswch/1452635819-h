@@ -179,10 +179,8 @@
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"毒蜥蜴影視","name": "毒蜥影視","type": 1,"api": "https://www.duxiyi.com/api.php/provide/vod/"}, 
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
-{  "key": "旋风", "name": "旋风影视", "type": 1, "api": "http://appimg.ssxmall.cn/api.php/provide/vod/", 
-   "playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=", 
-   "searchable": 1, "quickSearch": 1, "filterable": 1 
-},
+{  "key": "旋风", "name": "旋风影视", "type": 1, "api": "http://appimg.ssxmall.cn/api.php/provide/vod/"},
+
 {  "key": "9E03","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
 },
