@@ -118,13 +118,13 @@
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
 },
-{  "key": "csp_biubiu_斗鱼","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+{  "key": "csp_8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
 },
-{  "key":"csp_不卡影院","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
 },
-{  "key":"csp_蓝光影院","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_10","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lgyyB%3ejs"
 },
 {  "key":"csp_1","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
@@ -136,7 +136,7 @@
 {  "key":"csp_3","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysB.js"
 },
-{  "key":"csp_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_11","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/tegouB.js"
 },
 {  "key":"csp_5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
@@ -151,7 +151,7 @@
 {  "key":"csp_7","name":"莫扎兔(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/mozhatuB.js"
 },
-{  "key":"csp_biubiu_F7","name":"好看F7(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_12","name":"好看F7(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/F7hkB.js"
 },
 
