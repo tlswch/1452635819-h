@@ -1,7 +1,8 @@
-{"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
-//"spider": "https://agit.ai/1452635819/h/raw/branch/master/txmg1.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+{//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/txmg1.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_TX","name": "腾讯#视频()","type": 3,"api": "csp_TX","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_300","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
