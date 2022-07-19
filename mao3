@@ -1,6 +1,6 @@
 {//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box1.jar",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar",
-//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/tim.jar",
 "sites": [
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
