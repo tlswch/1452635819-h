@@ -4,8 +4,24 @@
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1, 
+ "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar"
+},
+{"key":"Bili","name":"Bibi站()","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json",
+ "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar"
+},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
   "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar"
+},
+{"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1, 
+ "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar"
+},
+{"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,
+ "filterable":1,"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar" 
+},
+{"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,
+ "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar"
 },
 {"key":"csp_300","name":"300影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod" 
