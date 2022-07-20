@@ -107,16 +107,26 @@
    ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
   ],
   "parses": [
+    {"name":"默认","type":3,"url":"Demo"},
     {"name":"11","type": 1,"url": "http://124.222.68.182/jiexi/4kJX.php/?url="},
     {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
     {"name": "LTRX","type": 1, "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
     {"name": "王牌解析","type": 1,"url": "https://za.kuanjv.com/?url="},
+    {"name": "美剧虫","url":"https://jx.daiguaji.com/?url="},
+    {"name":"ok解析","url": "https://okjx.cc/?url="},     
     {"name": "久九影视","type": 1, "url": "https://json.hfyrw.com/mao.go?url="},
     {"name":"虎猫视频","type":1,"url":"https://humaosp.com/json.php?url="},
     {"name": "星空影视","type": 1,"url": "http://api.vip123kan.vip/?url="}, 
     {"name":"爱影视","url": "https://bf.516m.com//?url="},
     {"name":"人人解析","url": "https://jx.renrenmi.cc/?url="},
     {"name": "parwix1","type": 0,"url": "https://jx.parwix.com:4433/player/?url="},
+    {"name":"盘古解析","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
+    {"name": "51解析","type": 1,"url": "https://json.5lp.net/json.php?url="},
+    {"name":"9","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
+    {"name":"bilibili","type":1,"url":"https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url="},
+    {"name":"映迷解析","type":1, "url":"https://app.iminna.com/jx/?url="},
+    {"name":"Pro3解析","type":1,"url":"https://jx1.7csn.cn/jsonindex.php/?url="},
+    {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
     {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="}
   ],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"
