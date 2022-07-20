@@ -1,5 +1,5 @@
-{//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+{"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
  "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar
