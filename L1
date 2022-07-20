@@ -1,15 +1,7 @@
-{"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
-//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+{//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 "sites": [
-{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
- "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar
-},
-{"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,
- "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar
-},
-{"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1,
- "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar
-},
+
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Bili","name":"Bibi站()","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"},
