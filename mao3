@@ -1,7 +1,10 @@
 {//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box1.jar",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar",
 "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar",
-//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/tim.jar",
 "sites": [
+{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar"
+},
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
    "searchable":1,"quickSearch":1,"filterable":1
 },
