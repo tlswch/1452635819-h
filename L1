@@ -13,7 +13,7 @@
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"","spider":"https://gitea.com/wangxilin/1/raw/branch/main/qj.jar"
+ "ext":"","spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/qj.jar"
 },
 {"key":"csp_Kmys","name": "酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch": 1,"filterable": 1,
  "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box1.jar"
