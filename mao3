@@ -153,7 +153,7 @@
 {  "key":"csp_Biu6","name":"黑洞影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
 },
-{  "key":"csp_Biu7","name":"莫扎兔(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_Biu7","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB.js"
 },
 {  "key":"csp_Biu12","name":"好看F7(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
