@@ -1,5 +1,5 @@
 {//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
  "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar"},
@@ -15,6 +15,7 @@
 {"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"","spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/qj.jar"
 },
+{"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追剧喵", "name": "追剧喵()","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,
  "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qj.jar"
 },
