@@ -23,7 +23,7 @@
 },
 {"key":"csp_Auete","name":"Auete()","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 { "key":"Nfyun","name":"奈非云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
- 
+{"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {  "key": "LiteApple","name": "小苹果(ijk解码)","type": 3,"api": "csp_LiteApple",
    "searchable": 1,"quickSearch": 1,"filterable": 1 
 },
