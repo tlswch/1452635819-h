@@ -3,7 +3,7 @@
   "url": "https://300ys.xyz/",
   "User": "空",
   "shouye": "1",
-  "fenlei": "电影$/vodshow/38/page/#电视剧$/vodshow/39-----------2022/page/#综艺$/vodshow/41-----------2022/page/#动漫$/vodshow/40-----------2022/page/",
+  "fenlei": "电影$/vodshow/38---page---#电视剧$/vodshow/39-----------2022/page/#综艺$/vodshow/41-----------2022/page/#动漫$/vodshow/40-----------2022/page/",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
