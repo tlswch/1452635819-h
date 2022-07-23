@@ -2,8 +2,8 @@
   "name": "300影视",
   "url": "https://300ys.xyz/",
   "User": "空",
-  "shouye": "1",
-  "fenlei": "电影$/vodshow/38------#电视剧$/vodshow/39-----------2022/page/#综艺$/vodshow/41-----------2022/page/#动漫$/vodshow/40-----------2022/page/",
+  "shouye": "1",--#国产剧$/vodshow/201--------#港台剧$/vodshow/202--------#日韩剧$/vodshow/203--------#欧美剧$/vodshow/204--------#海外剧$/vodshow/205--------#国产动漫$/vodshow/4-中国大陆-------#日本动漫$/vodshow/4-日本-------#美国动漫$/vodshow/4-美国-------#韩国动漫$/vodshow/4-韩国-------#台湾动漫$/vodshow/4-中国台湾-------#动作片$/vodshow/101--------#喜剧片$/vodshow/102--------#爱情片$/vodshow/103--------#科幻片$/vodshow/104--------#剧情片$/vodshow/105--------#悬疑片$/vodshow/106--------#惊悚片$/vodshow/107--------#恐怖片$/vodshow/108--------#犯罪片$/vodshow
+  "fenlei": "电影$/vodshow/38--------#电视剧$/vodshow/39--------#综艺$/vodshow/41--------#动漫$/vodshow/40------/109--------",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
