@@ -67,6 +67,15 @@
 },
 //{"key":"Bili","name":"Bibi站()","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
 //"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"},
+{"key": "XYUI","name": "XYUI(优)","type": 1,"api": "http://jx4.xyui.top:7001/api.php/provide/vod/",
+ "searchable": 1,"quickSearch": 1, "filterable": 0
+},
+{"key": "csp_AppYsV2_美剧范","name": "美剧范","type": 3,"api": "csp_AppYsV2","searchable": 1,
+  "quickSearch": 1, "filterable": 1,"ext": "http://ttzmz.net/api.php/v1.vod"
+},
+{"key": "csp_appysv2_爱酷影视","name": "爱酷影视","type": 3,"api": "csp_AppYsV2","searchable": 1,
+  "quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+},
 {  "key": "csp_appysv2_日诚影视","name": "日诚影视(v)","type": 3,"api": "csp_AppYsV2",
    "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://tv.rcz168.com/api.php/v1.vod"
 },
