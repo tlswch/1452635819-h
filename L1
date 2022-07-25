@@ -1,6 +1,7 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
   //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar;md5;95f1754708eeaf127d93fea25dcd120a",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/07.jar;md5;95f1754708eeaf127d93fea25dcd120a",
+"spider":"https://gitea.com/DS/d/raw/branch/main/jar/0718.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/07.jar;md5;95f1754708eeaf127d93fea25dcd120a",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
@@ -127,6 +128,7 @@
     {"name": "高速解析","url": "https://jsap.attakids.com/?url="},    
     {"name":"爱影视解析","url": "https://bf.516m.com//?url="},
     {"name":"ok解析","url": "https://okjx.cc/?url="},
+    {"name":"Web解析","url":"https://chaxun.truechat365.com/?url="},
     
     {"name": "293-2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name": "王牌解析","type": 1,"url": "https://za.kuanjv.com/?url="},
@@ -135,6 +137,7 @@
     {"name":"极速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
     {"name": "无名解析","type": 1,"url": "http://47.98.234.2:7768/api.php?from=rx&url="},
     {"name": "小白解析","type": 1,"url": "https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url="},
+    {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"盘古解析","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
     {"name": "51解析","type": 1,"url": "https://json.5lp.net/json.php?url="},
     {"name":"映迷解析","type":1, "url":"https://app.iminna.com/jx/?url="},
