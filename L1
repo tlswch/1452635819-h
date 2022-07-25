@@ -12,7 +12,7 @@
 //{"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "追剧喵", "name": "追剧喵()","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Kmys","name": "酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch": 1,"filterable": 1}, 
-{"key": "zhaozy","name": "🗃找资源(SP)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "zhaozy","name": "找资源()","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,
   "ext": "ad3c78559a494bde814f1a6c8c40db51"},
 {"key": "csp_TKY","name": "天空影视()","type":3,"api": csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
@@ -71,6 +71,18 @@
 },
 {  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
+},
+{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+   "filterable": 0,"ext": "clan://TVbox1/XPB/douyuB.js"
+},
+{  "key":"csp_Biu12","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/300ysB.js"
+},
+{  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/cerrdB.js"
+},
+{  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/honglingjB.js"
 },
 //{"key":"Bili","name":"Bibi站()","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
 //"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"},
