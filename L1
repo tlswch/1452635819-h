@@ -16,6 +16,8 @@
 {"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "追剧喵", "name": "追剧喵()","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kmys","name": "酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch": 1,"filterable": 1}, 
+{"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
+{"key":"Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_TKY","name": "天空影视()","type":3,"api": csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -23,8 +25,7 @@
  "ext": "ad3c78559a494bde814f1a6c8c40db51"},
 {"key":"csp_AliPanSou","name":"阿里搜索(ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,
  "ext": "ad3c78559a494bde814f1a6c8c40db51"},
-{"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
-{"key":"Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"filterable": 1},
+
 //{  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
 //  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"},
 {"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},      
@@ -89,6 +90,9 @@
 },
 {  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
+},
+{  "key": "9E03","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
 },
 {"key": "csp_appys_美剧虫","name": "🚂美剧虫(V)","type": 3,"api": "csp_AppYs","searchable": 1,
   "quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"
