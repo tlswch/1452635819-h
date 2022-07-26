@@ -50,7 +50,7 @@
 //{"key": "push_agent","name": "推送()","type": 3,"api": "csp_PushAgent","searchable": 0,
 // "quickSearch": 0,"filterable": 0,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
 //{"key": "csp_BBB","name":"bilibili()","type": 3,"api":"csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Bliyc","name":"演唱会()","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{ "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_CZSPP","searchable": 1,
