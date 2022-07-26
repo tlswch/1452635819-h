@@ -4,7 +4,27 @@
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1},
-
+{"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Blijc","name": "假窗噪声()","type": 3,"api":"csp_Blijc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "追剧喵", "name": "追剧喵()","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Kmys","name": "酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch": 1,"filterable": 1}, 
+{"key": "csp_TKY","name": "天空影视()","type":3,"api": csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
+{"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
+ "ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key":"csp_AliPanSou","name":"阿里搜索(ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,
+"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
+{"key":"Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"filterable": 1},
+{  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"},
 {"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},      
 {"key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"资源采集","name":"资源采集","type":1,"api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"},
@@ -53,6 +73,18 @@
 },
 {  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
+},
+{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+   "filterable": 0,"ext": "clan://TVbox1/XPB/douyuB.js"
+},
+{  "key":"csp_Biu12","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/300ysB.js"
+},
+{  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/cerrdB.js"
+},
+{  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/honglingjB.js"
 },
 {  "key": "csp_appysv2_日诚影视","name": "日诚影视(v)","type": 3,"api": "csp_AppYsV2",
    "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://tv.rcz168.com/api.php/v1.vod"
