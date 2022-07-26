@@ -79,16 +79,16 @@
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
 },
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
-   "filterable": 0,"ext": "clan://TVbox1/XPB/douyuB.js"
+   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
 },
 {  "key":"csp_Biu12","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/300ysB.js"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB.js"
 },
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/cerrdB.js"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
 },
 {  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"clan://TVbox1/XPB/honglingjB.js"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
 },
 {"key": "csp_appys_美剧虫","name": "🚂美剧虫(V)","type": 3,"api": "csp_AppYs","searchable": 1,
   "quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"
