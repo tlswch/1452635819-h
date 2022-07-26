@@ -1,7 +1,7 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box1.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/0720.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/07.jar",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar",
 "sites": [
 
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
