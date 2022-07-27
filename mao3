@@ -53,9 +53,8 @@
 //{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Bliyc","name":"演唱会()","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_CZSPP","searchable": 1,
-   "quickSearch": 1,"filterable": 1 
-},
+//{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_CZSPP","searchable": 1,
+//   "quickSearch": 1,"filterable": 1 },
 //{"key":"csp_GitCafe","name":"小纸条()","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 //{ "key":"csp_AliPanSou","name":"阿里搜索(ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,
 // "quickSearch":1,"filterable":0},
