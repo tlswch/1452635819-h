@@ -1,7 +1,7 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/cl9.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/6.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/07.jar",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar",
 "sites": [
 
 {  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
@@ -49,19 +49,21 @@
 },
 //{"key": "push_agent","name": "推送()","type": 3,"api": "csp_PushAgent","searchable": 0,
 // "quickSearch": 0,"filterable": 0,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-//{"key": "csp_BBB","name":"bilibili()","type": 3,"api":"csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_BBB","name":"bilibili()","type": 3,"api":"csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Bliyc","name":"演唱会()","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{ "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-//{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_CZSPP","searchable": 1,
-//  "quickSearch": 1,"filterable": 1 },
+{ "key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{  "key": "csp_CZSPP","name": "厂长资源()","type": 3,"api": "csp_CZSPP","searchable": 1,
+   "quickSearch": 1,"filterable": 1 
+},
 //{"key":"csp_GitCafe","name":"小纸条()","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 //{ "key":"csp_AliPanSou","name":"阿里搜索(ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,
 // "quickSearch":1,"filterable":0},
 //{ "key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,
 //  "filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
-//{  "key": "csp_Kmys","name": "酷猫影视()","type": 3,"api": "csp_Kmys","searchable": 1,
-//  "quickSearch": 1,"filterable": 1}, 
+{  "key": "csp_Kmys","name": "酷猫影视()","type": 3,"api": "csp_Kmys","searchable": 1,
+  "quickSearch": 1,"filterable": 1
+}, 
 
 {  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"
