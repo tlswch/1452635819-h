@@ -111,14 +111,14 @@
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
 },
-{ "key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1, 
-  "filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/bidid.json"
+{ "key":"csp_bdcl","name":"哔滴磁力(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1, 
+  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysB.js"
 },
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
 },
-{"key": "csp_555电影","name": "🥈555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
- "filterable": 0,"ext": "https://gitea.com/18680363738/sunruiyang/raw/branch/main/MaooXB/555电影.json"
+{"key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
+ "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
 },
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
