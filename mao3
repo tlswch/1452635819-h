@@ -274,14 +274,12 @@
 {  "key": "csp_appysv2_影库","name": "影库(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
-//{  "key": "csp_appysv2_9e国语","name": "9E国语()","type": 3,"api": "csp_AppYsV2","searchable": 1,
-//   "quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod" },
-//{  "key":"csp_DiDuan","name":"低端影视()","api":"csp_DiDuan",
-//   "type":3,"searchable":1,"quickSearch":1,"filterable":1},
-//{  "key": "csp_Buka","name": "不卡影视()","type": 3,
-//   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1 },
-//{  "key": "极酷影视","name": "极酷影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
-//   "quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod" },
+{  "key":"csp_DiDuan","name":"低端影视()","api":"csp_DiDuan",
+   "type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{  "key": "csp_Buka","name": "不卡影视()","type": 3,
+   "api": "csp_Buka","searchable": 1,"quickSearch": 1,"filterable": 1 },
+{  "key": "极酷影视","name": "极酷影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
+   "quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod" },
 {  "key":"csp_appysv2_nanfuyy","name":"南府影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"http://iapp.nfuxs.club/nfuxs.php/v1.vod" 
 }
