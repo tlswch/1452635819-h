@@ -1,7 +1,7 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-"spider": "https://codeberg.org/hogo18/mao/raw/branch/master/q.jar;md5;4a3cb7e090be8916fa23db20049f2647",
+//"spider": "https://codeberg.org/hogo18/mao/raw/branch/master/q.jar;md5;4a3cb7e090be8916fa23db20049f2647",
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/0720.jar",
-//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
@@ -169,7 +169,7 @@
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
     {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="}
   ],
-"flags": ["youku","wolong","niuxyun","bilibili","cctv","cntv","wasu","1920i","1920l","CL4K","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5","youbo","xigua","qq","pptv","dym3","sohu","letv","qiyi","xkys","m1905","ltnb",
+"flags": ["youku","wolong","niuxyun","bilibili","cctv","cntv","wasu","1920i","1920l","CL4K","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5","youbo","xigua","qq","pptv","dym3","sohu","letv","qiyi","iqiyi","xkys","m1905","ltnb",
 "fanqie","tkys","mgtv"
   ],
 "ijk": [{"group": "软解码","options": [
