@@ -21,7 +21,7 @@
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div[contains(@class,'module-item-text')]/text()",
   
-    "dtUrl": "https://www.chinady.ga/voddetail/{vid}.html",
+    "dtUrl": "https://www.chinady.ga/vod/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/a/text()",
     "dtNameR": "",
