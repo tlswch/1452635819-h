@@ -78,7 +78,7 @@
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcP.js"
 },
-{  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
+{  "key":"csp_zgdy","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://pastebin.com/raw/mquNQhEP"
 },
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
