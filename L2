@@ -3,7 +3,8 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/0720.jar",
 "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
 "sites": [
-{"key":"KanSJ","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"KanSJ","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/XC0730.jar"},
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1},
