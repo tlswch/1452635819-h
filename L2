@@ -210,7 +210,7 @@
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
     {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="}
   ],
-"flags": ["youku","wolong","niuxyun","cctv","cntv","wasu","1920i","1920l","CL4K","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","youbo","xigua","qq","pptv","dym3","sohu","letv","qiyi","iqiyi","xkys","m1905","ltnb",
+"flags": ["youku","wolong","niuxyun","cctv","cntv","wasu","1920i","1920l","CL4K","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","youbo","xigua","qq","pptv","芒果","腾讯","sohu","letv","qiyi","iqiyi","xkys","m1905","ltnb",
 "fanqie","tkys","MGTV","mgtv"
   ],
 "ijk": [{"group": "软解码","options": [
