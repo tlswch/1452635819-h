@@ -79,7 +79,7 @@
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
 {  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xlysP.js"
+   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
 },
 {  "key":"csp_zgdy","name":"中国电影(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zgdyP.js"
