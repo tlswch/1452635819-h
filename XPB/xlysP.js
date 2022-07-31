@@ -1,7 +1,7 @@
 {
     "author":"20220522",
     "ua": "",
-    "homeUrl": "http://sogouyy.cn/",
+    "homeUrl": "http://www.158381886.xyz/",
     "dcPlayUrl": "true",
     "cateManual": {"电影": "dianying","剧集": "dianshiju","综艺": "zongyi","动漫": "dongman","B站": "bilibili"},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
@@ -12,7 +12,7 @@
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     
-    "cateUrl": "http://sogouyy.cn/s/{cateId}/page/{catePg}.html",
+    "cateUrl": "http://www.158381886.xyz/s/{cateId}/page/{catePg}.html",
     "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
@@ -21,7 +21,7 @@
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div[contains(@class,'module-item-text')]/text()",
   
-    "dtUrl": "http://sogouyy.cn/d/{vid}.html",
+    "dtUrl": "http://www.158381886.xyz/d/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
     "dtNameR": "",
@@ -48,10 +48,10 @@
     "dtUrlIdR": "/play/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "http://sogouyy.cn/play/{playUrl}.html",
+    "playUrl": "http://www.158381886.xyz/play/{playUrl}.html",
     "playUa": "",
     
-    "searchUrl": "http://sogouyy.cn/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "http://www.158381886.xyz/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
