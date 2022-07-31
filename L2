@@ -1,7 +1,7 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/qim.jar",
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/0720.jar",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
+"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/01.jar",
 "sites": [
 
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
@@ -10,8 +10,12 @@
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/XC0730.jar"},
+{"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1
+//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/XC0730.jar"
+},
+{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0
+ //,"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/0730.jar"
+},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blijc","name": "假窗噪声()","type": 3,"api":"csp_Blijc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -21,7 +25,7 @@
 {"key":"csp_Kmys","name": "酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
 {"key":"Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"filterable": 1},
-//{"key": "csp_TKY","name": "天空影视()","type":3,"api": csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_TKY","name": "天空影视()","type":3,"api": csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
