@@ -42,7 +42,7 @@
     "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[2]/div/span",
     "dtFromName": "/text()",
     "dtFromNameR": "",
-    "dtUrlNode": "//div[contains(@class,'module-tab-content')]//div[contains(@class,'sort-item')]",
+    "dtUrlNode": "//div[contains(@class,'module-blocklist')]//div[contains(@class,'scroll-content')]",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/play/(\\S+).html",
