@@ -3,14 +3,15 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/0720.jar",
 "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
 "sites": [
-{"key":"KanSJ","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/XC0730.jar"},
+
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"KanSJ","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/XC0730.jar"},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Blijc","name": "假窗噪声()","type": 3,"api":"csp_Blijc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
