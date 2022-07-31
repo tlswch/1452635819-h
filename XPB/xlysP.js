@@ -3,7 +3,7 @@
     "ua": "",
     "homeUrl": "http://www.158381886.xyz/",
     "dcPlayUrl": "true",
-    "cateManual": {"电影": "dianying","剧集": "dianshiju","综艺": "zongyi","动漫": "dongman","B站": "bilibili"},
+    "cateManual": {"电影": "1","电视剧": "2","综艺": "3","少儿": "4","4K影视库": "5","综合剧集": "32"},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "homeVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
