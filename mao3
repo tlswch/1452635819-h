@@ -52,7 +52,8 @@
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
 { "key": "Gitcafe","name": "阿里纸条(ijk解码)","type": 3,"api": "csp_Gitcafe","searchable": 1,
-  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
+  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51",
+  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar"
 }, 
 {"key": "AliPS","name": "阿里盘搜(ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
