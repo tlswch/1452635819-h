@@ -4,9 +4,7 @@
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar",
 "sites": [
 
-{  "key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77",
-   "searchable":1,"quickSearch":1,"filterable":1
-},
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {  "key": "csp_kuaikan","name": "快看影视()","type": 3,"api": "csp_Kuaikan","searchable":1,
    "quickSearch": 1,"filterable":1
 },
