@@ -1,6 +1,6 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/0720.jar",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/c1.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
@@ -223,6 +223,7 @@
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"Web解析","url":"https://chaxun.truechat365.com/?url="},
     
+    {"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name": "293-2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name": "王牌解析","type": 1,"url": "https://za.kuanjv.com/?url="},
     {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
