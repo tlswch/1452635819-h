@@ -40,8 +40,8 @@
 {"key":"csp_AliPanSou","name":"阿里搜索(ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,
  "ext": "b1f13d705ec14661a14a575fde303bb0"
 },
-{"key":"FindZY","name":"找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"fc5c34a048554bd58210824bc86ce5eb"
+{"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"fc5c34a048554bd58210824bc86ce5eb"
 },
 {"key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
