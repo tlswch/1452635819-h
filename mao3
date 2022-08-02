@@ -41,10 +41,10 @@
 {  "key": "csp_Cokemv","name":"Cokemv(ijk解码)","type": 3,"api":"csp_Cokemv",
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
-{ "key": "Gitcafe","name": "小纸条(ijk解码)","type": 3,"api": "csp_Gitcafe","searchable": 1,
+{ "key": "Gitcafe","name": "小纸条(ijk解码)","type": 3,"api": "csp_GitCafe","searchable": 1,
   "quickSearch": 1,"filterable": 1,"ext": "b1f13d705ec14661a14a575fde303bb0"
 }, 
-{"key": "AliPS","name": "阿里盘搜(仅搜索ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
+{"key": "AliPS","name": "阿里盘搜(仅搜索ijk解码)","type": 3,"api": "csp_AliPanSou","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "b1f13d705ec14661a14a575fde303bb0"
 },
 {"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
