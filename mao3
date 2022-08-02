@@ -42,12 +42,13 @@
    "searchable": 1,"quickSearch": 1,"filterable": 1
 },
 { "key": "Gitcafe","name": "阿里纸条(ijk解码)","type": 3,"api": "csp_Gitcafe","searchable": 1,
-  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51",
-  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar"
+  "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
 }, 
-{"key": "AliPS","name": "阿里盘搜(ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
- "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar"
+{"key": "AliPS","name": "阿里盘搜(仅搜索ijk解码)","type": 3,"api": "csp_AliPS","searchable": 1,
+ "quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"
+},
+{"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"fc5c34a048554bd58210824bc86ce5eb"
 },
 {"key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent",
    "searchable": 0,"quickSearch": 0,"filterable": 0
