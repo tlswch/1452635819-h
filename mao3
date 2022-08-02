@@ -3,12 +3,11 @@
 "spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/c3.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/cl1.jar",
 "sites": [
-
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
