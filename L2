@@ -114,10 +114,10 @@
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
 },
-{"key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
- "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
+{ "key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
+  "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
 },
-{  "key":"csp_Biu12","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_Biu300","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB1.js"
 },
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
