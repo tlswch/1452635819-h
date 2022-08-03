@@ -18,16 +18,9 @@
 "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js",
 "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
-{
-      "key": "9E03",
-      "name": "9E03",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod", "jar": "http://s1.tpcraft.cn:10006/tv/jar/730.jar"
-    },
+{"key": "9E03","name": "9E国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod", "jar": "http://s1.tpcraft.cn:10006/tv/jar/730.jar"
+},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
