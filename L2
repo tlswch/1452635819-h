@@ -1,6 +1,6 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P1.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar",
 "sites": [
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
