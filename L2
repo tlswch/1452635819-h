@@ -28,6 +28,7 @@
 },
 {"key":"csp_hbys","name":"简影影视()","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
 },
+{"key":"csp_apptt","name":"图图影视()","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.1.95:7788/"}
 {"key":"csp_Kmys","name":"酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,
  "jar":"http://static01.imgkr.com/temp/caa16dd5513b418a80d25a6028c3a8c2.jpg"
 }, 
@@ -253,7 +254,6 @@
     {"name": "LTRX","type": 1, "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
     {"name":"极速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
     {"name": "无名解析","type": 1,"url": "http://47.98.234.2:7768/api.php?from=rx&url="},
-    {"name": "小白解析","type": 1,"url": "https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url="},
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"优解001","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
