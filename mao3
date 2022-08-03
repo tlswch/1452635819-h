@@ -66,9 +66,6 @@
 {  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555dyP.js"
 },
-{  "key": "csp_hamao","name":"虎猫视频(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"  filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/humaoP.js"
-},
 {  "key":"csp_naifeiorg","name":"奈飞中文(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/naifP.js"
 },
@@ -81,18 +78,11 @@
 {  "key":"csp_lkvod","name":"耐看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
-{  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
-},
 {  "key": "csp_vipmv","name":"追剧达人(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,   
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
 },
 {  "key": "csp_北川影视","name":"北川影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
    "quickSearch":1,"filterable":1,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/bqysP.js"
-},
-{  "key": "csp_366","name":"366影视(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
-   "quickSearch":1,"filterable":1,
-   "ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/366ysP.js"
 },
 {  "key": "csp_在线电影","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,
    "quickSearch":1,"filterable":1,
@@ -100,9 +90,6 @@
 },
 {  "key":"csp_czspp","name":"厂长资源(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,
    "filterable":0,"ext":"https://pastebin.com/raw/HztYcqT5"
-},
-{ "key":"csp_bdcl","name":"哔滴磁力(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1, 
-  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysB.js"
 },
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
@@ -112,6 +99,9 @@
 },
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
+},
+{  "key":"csp_Biu7","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB.js"
 },
 {  "key":"csp_Biu13","name":"友播TV(xB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/youbotB.js"
@@ -125,23 +115,11 @@
 {  "key":"csp_Biu2","name":"豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/doujiaoB.js"
 },
-{  "key":"csp_Biu3","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysB.js"
-},
-{  "key":"csp_Biu11","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/tegouB.js"
-},
 {  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
 },
 {  "key":"csp_Biu4","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yixueB.js"
-},
-{  "key":"csp_Biu6","name":"黑洞影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
-},
-{  "key":"csp_Biu7","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB.js"
 },
 {  "key":"csp_Biu12","name":"好看F7(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://codeberg.org/hogo18/mao/raw/branch/master/xpb/F7hkB.js"
