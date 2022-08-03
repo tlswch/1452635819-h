@@ -234,10 +234,13 @@
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"Web解析","url":"https://chaxun.truechat365.com/?url="},
     {"name": "解析2","type": 0,"url": "https://bd.jx.cn/?url="},
+    {"name":"itnb解析","type":0,"url":"https://jx.zui.cm/?url="},
     
     {"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name": "293-2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name": "王牌解析","type": 1,"url": "https://za.kuanjv.com/?url="},
+    {"name":"QIM解02","type":1,"url":"http://106.52.218.221:88/?url="},
+    {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
     {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
     {"name":"解析5","type":1,"url":"https://h2003.fun:443/za1/?url="},
     {"name": "LTRX","type": 1, "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
