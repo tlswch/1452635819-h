@@ -66,8 +66,20 @@
 {  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555dyP.js"
 },
+{  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
+},
+{  "key":"csp_6d","name":"六度电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6dP.js"
+},
 {  "key":"csp_naifeiorg","name":"奈飞中文(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/naifP.js"
+},
+{  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
+},
+{  "key":"csp_zgdy","name":"中国电影(X)","type":3, "api":"csp_XPathFilter","searchable":1,
+   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zgdyP.js"
 },
 {  "key":"csp_尘落电影","name":"尘落电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cledyP.js"
