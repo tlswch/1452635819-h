@@ -247,6 +247,12 @@
 {  "key":"csp_appysv2_万能影院","name":"万能影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
    "filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
 },
+{  "key":"csp_零刻影院","name":"零刻影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"
+},
+{  "key":"csp_优众","name": "优众影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,
+   "filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"
+},
 {  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"
 },
