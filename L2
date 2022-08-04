@@ -1,9 +1,9 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P1.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/km.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar",
 "sites": [
 {"key": "csp_Kmys"       ,"name":"酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,
- "quickSearch": 1,"filterable":1,"jar":"https://gitea.com/gaigai/gougou/raw/branch/main/83qj.jar"
+ "quickSearch": 1,"filterable":1,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/km.jar"
 },
 {"key":"csp_零刻影院","name":"零刻影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"
