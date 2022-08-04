@@ -2,6 +2,12 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P1.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar",
 "sites": [
+{"key": "csp_Kmys"       ,"name":"酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,
+ "quickSearch": 1,"filterable":1,"jar":"https://gitea.com/gaigai/gougou/raw/branch/main/83qj.jar"
+},
+{"key":"csp_AppYsV2","name": "🚁优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,
+"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"
+},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
