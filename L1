@@ -251,7 +251,7 @@
     
     {"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name": "293-2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-    {"name": "王牌解析","type": 1,"url": "https://za.kuanjv.com/?url="},
+    {"name": "太空解析","type": 1,"url": "http://124.222.68.182/jiexi/4kJX.php/?url="},
     {"name":"QIM解02","type":1,"url":"http://106.52.218.221:88/?url="},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
     {"name":"多多","type": 1,"url": "https://player.movie09.com/dplayer/?url="},
@@ -263,7 +263,7 @@
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"优解001","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
-    {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
+    {"name":"CL4K解析","type":1,"url":"http://106.52.218.221:88/?url="},
     {"name":"魏晓芳","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="},
     {"name":"hfyrw","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","renrenmi"]}},
     {"name":"盘古解析","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
@@ -273,8 +273,9 @@
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
     {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="}
   ],
-"flags": ["youku","wolong","niuxyun","bilibili","cctv","cntv","wasu","1920i","1920l","CL4K","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5","youbo","xigua","qq","pptv","dym3","sohu","letv","qiyi","iqiyi","xkys","m1905","ltnb",
-"fanqie","tkys","mgtv"
+"flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","renrenmi","duoduozy",
+"bilibili","wuduzy","m1905","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
+"哔哩","4k蓝光","内部蓝光"
   ],
 "ijk": [{"group": "软解码","options": [
 {"category" : 4, "name" : "opensles", "value" : "0"},
