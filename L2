@@ -5,7 +5,10 @@
 {"key": "csp_Kmys"       ,"name":"酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,
  "quickSearch": 1,"filterable":1,"jar":"https://gitea.com/gaigai/gougou/raw/branch/main/83qj.jar"
 },
-{"key":"csp_AppYsV2","name": "🚁优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,
+{"key":"csp_零刻影院","name":"零刻影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"
+},
+{"key":"csp_优众V2","name": "优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,
 "filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
