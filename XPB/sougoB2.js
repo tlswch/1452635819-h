@@ -3,7 +3,7 @@
   "tihuan": "cnzz.com",
   "shouye": "1",
   "url": "http://sogouyy.cn",
-  "fenlei": "电影$/t/dianying/page/#电视剧$/t/dianshiju/page/#综艺$/t/zongyi/page/#动漫$/t/dongman/page/#B站$/t/bilibili/page/",
+  "fenlei": "电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dongman/page/#B站$/s/bilibili/page/",
   "houzhui": ".html",
   "shifouercijiequ": "1",
   "jiequqian": "class=\"module-items\"",
