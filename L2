@@ -258,7 +258,7 @@
     
     {"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name": "293-2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-    {"name": "王牌解析","type": 1,"url": "https://za.kuanjv.com/?url="},
+    //{"name": "王牌解析","type": 0,"url": "https://za.kuanjv.com/?url="},
     {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
     {"name": "LTRX","type": 1, "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
     {"name":"极速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
@@ -266,7 +266,7 @@
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"优解001","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
-    {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
+    {"name":"CL4K解析","type":1,"url":"http://106.52.218.221:88/?url="},
     {"name":"魏晓芳","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="},
     {"name":"hfyrw","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","renrenmi"]}},
     {"name":"盘古解析","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
