@@ -277,8 +277,7 @@
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
     {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="}
   ],
-"flags": ["youku","wolong","niuxyun","bilibili","cctv","cntv","wasu","1920i","1920l","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5","youbo","xigua","qq","pptv","dym3","sohu","letv","qiyi","iqiyi","xkys","m1905","ltnb",
-"fanqie","tkys","mgtv"
+"flags": ["youku","bilibili","wasu","renrenmi","qq","pptv","sohu","letv","qiyi","iqiyi","mgtv"
   ],
 "ijk": [{"group": "软解码","options": [
 {"category" : 4, "name" : "opensles", "value" : "0"},
