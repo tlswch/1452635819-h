@@ -109,8 +109,8 @@
 {  "key":"csp_剧迷影视","name":"剧迷影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jumiP.js"
 },
-{ "key":"csp_bdcl","name":"哔滴磁力(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1, 
-  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysB.js"
+{ "key":"csp_xiqueP","name":"喜鹊影院(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1, 
+  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xiqueP.js"
 },
 {  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
