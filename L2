@@ -277,7 +277,7 @@
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
     {"name": "虾米","type": 1,"url": "https://jx.xmflv.com/?url="}
   ],
-"flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","wasu","renrenmi","duoduozy",
+"flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi","duoduozy",
 "bilibili","wuduzy","m1905","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
 "哔哩","4k蓝光","内部蓝光"
   ],
