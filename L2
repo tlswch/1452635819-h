@@ -235,6 +235,7 @@
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"毒蜥蜴影視","name": "毒蜥影視","type": 1,"api": "https://www.duxiyi.com/api.php/provide/vod/"}, 
 {  "key": "XYUI","name": "XYUI","type": 1,"api": "http://jx4.xyui.top:7001/api.php/provide/vod/"},
+{  "key": "水蜜桃", "name": "18水蜜桃", "type": 1, "api": "http://51smt4.xyz/api.php/provide/vod/"},
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 
 {"key":"csp_零刻影院","name":"零刻影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
