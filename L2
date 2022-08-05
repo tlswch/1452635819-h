@@ -302,6 +302,7 @@
     {"name":"魏晓芳","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="},
     {"name":"hfyrw","type":1,"url":"https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","renrenmi"]}},
     {"name":"盘古解析","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
+    {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
     {"name": "51解析","type": 1,"url": "https://json.5lp.net/json.php?url="},
     {"name":"映迷解析","type":1, "url":"https://app.iminna.com/jx/?url="},
     {"name":"Pro3解析","type":1,"url":"https://jx1.7csn.cn/jsonindex.php/?url="},
