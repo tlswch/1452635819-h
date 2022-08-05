@@ -51,7 +51,7 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
 },
 {"key":"csp_Km","name":"酷猫影视()","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,  
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/km.jar"
+ "jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258602"
 },
 {"key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
  "ext": "b1f13d705ec14661a14a575fde303bb0"
