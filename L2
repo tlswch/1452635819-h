@@ -229,24 +229,33 @@
 {"key":"csp_优众","name": "优众影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,
 "filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"
 },
+{  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"
+},
+{  "key":"csp_appysv2_醉璃笙","name":"醉璃笙TV(v)","type":3,"api":"csp_AppYsV2","searchable":1, 
+   "quickSearch":1,"filterable":1,"ext":"http://web.xhdj.vip/api.php/iptv/vod/"
+},
+{  "key":"csp_appysv2_海玉影视","name":"海玉影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1, 
+   "filterable":1,"ext":"https://tv2.hykjtv.cn/api.php/v1.vod"
+},
+{  "key":"csp_appysv2_欧闪","name":"欧闪TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,          
+   "filterable":1,"ext":"https://www.aacc.tv/api.php/iptv/vod/"
+},    
 {"key": "csp_AppYsV2_美剧范","name": "美剧范(V)","type": 3,"api": "csp_AppYsV2","searchable": 1,
   "quickSearch": 1, "filterable": 1,"ext": "http://ttzmz.net/api.php/v1.vod"
-},
-{"key": "csp_appysv2_爱酷影视","name": "爱酷影视(V)","type": 3,"api": "csp_AppYsV2","searchable": 1,
-  "quickSearch": 1,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
 },
 {  "key": "csp_appysv2_日诚影视","name": "日诚影视(v)","type": 3,"api": "csp_AppYsV2",
    "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://tv.rcz168.com/api.php/v1.vod"
 },
 {  "key": "csp_appysv2_影库","name": "影库影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
-},
-{  "key":"csp_appysv2_比邻影视","name":"比邻影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"http://0hzy.cn:9990/mogai_api.php/v1.vod"
-},     
+},   
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
 },
+{  "key":"csp_QC影视","name":"QC影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"
+}, 
 {  "key":"csp_天空影视","name":"天空影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"
 }
