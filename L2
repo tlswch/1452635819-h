@@ -77,7 +77,7 @@
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
 },
 {  "key":"csp_BBB_TVBOX","name":"TVBOX课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/2563/bili1.json? sign=0HP2WMx0ohr49Ba7qpeeT4UT4jSVLRxUjiQPjJZR52g%3D%3A0",
+   "filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/2563/bili1.json?sign=0HP2WMx0ohr49Ba7qpeeT4UT4jSVLRxUjiQPjJZR52g%3D%3A0",
    "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/T1.jar"
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
