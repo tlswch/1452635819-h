@@ -132,7 +132,7 @@
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
 },
 { "key": "csp_ikysB","name": "爱看影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
-  "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/ikysB_js"
+  "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/ikysB.js"
 },
 {  "key":"csp_Biu300","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB1.js"
