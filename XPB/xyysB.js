@@ -1,10 +1,10 @@
 {
-  "name": "伊雪湾",
+  "name": "夕阳影视",
   "tihuan": "cnzz.com",
   "shouye": "1",
-  "url": "https://www.yixuewan.com",
+  "url": "http://cms.seo-tv.work/",
   //"fenlei": "电视剧$/vodtype/2-#电影$/vodtype/1-#综艺$/vodtype/3-#动漫$/vodtype/4-#纪录片$/vodtype/5-#动作$/vodtype/6-#喜剧$/vodtype/7-#爱情$/vodtype/8-#科幻$/vodtype/9-#恐怖$/vodtype/10-#剧情$/vodtype/11-#战争$/vodtype/12-#惊悚$/vodtype/20-#犯罪$/vodtype/21-#冒险$/vodtype/22-#国产剧$/vodtype/13-#港台剧$/vodtype/14-#日韩剧$/vodtype/15-#欧美剧$/vodtype/16-#泰剧$/vodtype/29-",
-  "fenlei": "国产剧$/vodshow/13/page/#日韩剧$/vodshow/14/page/#港台剧$/vodshow/15/page/#欧美剧$/vodshow/16/page/#其他剧$/vodshow/20/page/#纪录片$/vodshow/21/page/#大陆动漫$/vodshow/4/area/中国大陆/page/#日本动漫$/vodshow/4/area/日本/page/#美国动漫$/vodshow/4/area/美国/page/#其他动漫$/vodshow/4/area/其他/page/#综艺$/vodshow/3/page/#动作片$/vodshow/6/page/#喜剧片$/vodshow/7/page/#剧情片$/vodshow/24/page/#爱情片$/vodshow/8/page/#科幻片$/vodshow/9/page/#恐怖片$/vodshow/10/page/#冒险片$/vodshow/11/page/#战争片$/vodshow/12/page/#其他片$/vodshow/32/page/",
+  "fenlei": "电影$/vodshow/1------page------#连续剧$/vodshow/2------page------#动漫$/vodshow/4------page------#综艺$/vodshow/3------page------#纪录片$/vodshow/33------page------#电视台片$/vodshow/34------page------",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
