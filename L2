@@ -5,11 +5,11 @@
 
 
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
+{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
 },
-{"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
+{"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
 },
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
