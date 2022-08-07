@@ -63,4 +63,4 @@
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
 "bfqianzhui": "?p="
-},
+}
