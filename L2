@@ -242,7 +242,10 @@
 {  "key": "水蜜桃", "name": "18水蜜桃", "type": 1, "api": "http://51smt4.xyz/api.php/provide/vod/"},
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 
-{"key":"csp_影院","name":"影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+{"key":"csp_云影","name":"云影(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod"
+},
+{"key":"csp_佑尘云影","name":"佑尘云影(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"
 },
 {"key":"csp_零刻影院","name":"零刻影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
