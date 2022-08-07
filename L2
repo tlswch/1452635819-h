@@ -243,7 +243,7 @@
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 
 {"key":"csp_云影","name":"云影(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
- "filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod"
+ "filterable":1,"ext":"https://lb.ybnxcx.com/api.php/v1.vod"
 },
 {"key":"csp_佑尘云影","name":"佑尘云影(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"
