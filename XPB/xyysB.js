@@ -4,7 +4,7 @@
   "shouye": "1",
   "url": "http://cms.seo-tv.work/",
   //"fenlei": "电视剧$/vodtype/2-#电影$/vodtype/1-#综艺$/vodtype/3-#动漫$/vodtype/4-#纪录片$/vodtype/5-#动作$/vodtype/6-#喜剧$/vodtype/7-#爱情$/vodtype/8-#科幻$/vodtype/9-#恐怖$/vodtype/10-#剧情$/vodtype/11-#战争$/vodtype/12-#惊悚$/vodtype/20-#犯罪$/vodtype/21-#冒险$/vodtype/22-#国产剧$/vodtype/13-#港台剧$/vodtype/14-#日韩剧$/vodtype/15-#欧美剧$/vodtype/16-#泰剧$/vodtype/29-",
-  "fenlei": "电影$/vodshow/1------page------#连续剧$/vodshow/2------page------#动漫$/vodshow/4------page------#综艺$/vodshow/3------page------#纪录片$/vodshow/33------page------#电视台片$/vodshow/34------page------",
+  "fenlei": "电影$/vodshow/1------#连续剧$/vodshow/2------#动漫$/vodshow/4------#综艺$/vodshow/3------#纪录片$/vodshow/33------#电视台片$/vodshow/34------",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
