@@ -1,18 +1,18 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar;md5;a98d4c70ffa011e62305288fd667a944",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P3.jar;md5;a98d4c70ffa011e62305288fd667a944",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa",
 "sites": [
 
 
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
+{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
 },
-{"key": "csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
+{"key": "csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
 },
-{"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
+{"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
 },
 {"key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
@@ -39,8 +39,8 @@
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
 },
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
+{"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
 },
 {"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
