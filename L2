@@ -1,5 +1,5 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P2.jar;md5;a98d4c70ffa011e62305288fd667a944",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar;md5;a98d4c70ffa011e62305288fd667a944",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa",
 "sites": [
 
@@ -51,9 +51,7 @@
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar"
 },
-{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1//,  
- //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/km.jar"
-},
+{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
  "ext": "b1f13d705ec14661a14a575fde303bb0"
 },
