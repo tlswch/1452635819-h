@@ -71,6 +71,9 @@
 {  "key":"csp_789kp2","name":"1280影视(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/1280ys.js"
 },
+{  "key":"csp_喵乐影视","name":"喵乐影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
+   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/miaoleP.js"
+},
 {  "key": "csp_vipmv","name":"追剧达人(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,   
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
 },
@@ -107,6 +110,9 @@
 {  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
 },
+{  "key": "csp_dyxs","name": "电影先生(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/dyxsB.js"
+},
 {  "key":"csp_zgdy","name":"中国电影(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zgdyP.js"
 },
@@ -115,6 +121,9 @@
 },
 { "key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
+},
+{  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
 },
 { "key": "csp_ikysB","name": "爱酷影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/ikysB.js"
