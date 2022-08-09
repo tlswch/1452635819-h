@@ -3,7 +3,7 @@
   "url": "https://zjmiao.com",
   "User": "空",
   "shouye": "1",
-  "fenlei": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#国产$/index.php/vod/show/area/内地/id/2/page/",
+  "fenlei": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#国产剧$/index.php/vod/show/area/内地/id/2/page/#在线直播$/ds.php/live/page/#国产$/index.php/vod/show/area/内地/id/2/page/#国产剧$/index.php/vod/show/area/内地/id/2/page/#国产$/index.php/vod/show/area/内地/id/2/page/#国产$/index.php/vod/show/area/内地/id/2/page/",
   "houzhui": "/",
   "shifouercijiequ": "0",
   "jiequqian": "空",
