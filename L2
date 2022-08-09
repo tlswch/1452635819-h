@@ -136,6 +136,9 @@
 { "key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
 },
+{  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
+},
 { "key": "csp_ikysB","name": "爱酷影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/ikysB.js"
 },
@@ -155,7 +158,7 @@
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/shdy2B.js"
 },
 {  "key":"csp_Biu2","name":"豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/%e7%88%b1%e7%9c%8b%e5%bd%b1%e9%99%a2.json"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/doujiaoB.js"
 },
 {  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
