@@ -17,6 +17,9 @@
 {"key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
 },
+{"key":"5511","name":"高中学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+ "ext":"https://gitea.com/fengye/1/raw/branch/main/Bili.js"
+},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
