@@ -3,7 +3,7 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar;md5;a98d4c70ffa011e62305288fd667a944",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa",
 "sites": [
-   {"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/18748/%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B9%A0.txt?sign=VU0V11MhDvJCZ-mgLc2adN6XgEGWIcptPxktjfOyBvY%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
+   {"key": "学堂4","name": "高中学习","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/%e9%ab%98%e4%b8%ad%e5%ad%a6%e4%b9%a0.txt"},
 
 
 
