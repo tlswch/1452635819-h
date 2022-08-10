@@ -329,7 +329,7 @@
     {"name":"CL4K解析","type":1,"url":"http://106.52.218.221:88/?url="},
     {"name":"hfyrw","type":1,"url":"https://json.hfyrw.com/mao.go?url="},
     {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-    {"name":"leduo解析","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
+    {"name":"leduo解析","type":1,"url":"https://json.ioivip.xyz/api/?key=Qklmscna8b02EWhIKT&url="},
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}}
   ],
 "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi","duoduozy",
