@@ -18,7 +18,13 @@
 {"key":"csp_hbys","name":"简影影视()","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
 },
 {"key": "9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
- "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/9e.jar"
+ "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/C.jar"
+},
+{"key":"Nfyun","name":"奈飞云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/C.jar"
+},
+{"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/C.jar"
 },
 //{"key":"csp_apptt","name":"图图影视()","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"http://110.42.1.95:7788/"},
