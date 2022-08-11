@@ -2,7 +2,7 @@
   "url": "https://m.jhys80.com",
   "User": "空",
   "shouye": "1",
-  "fenlei": "电视剧$/vodtype/2/page/#电影$/vodtype/1#综艺$/vodtype/3/page/#动漫$/vodtype/4/page/",
+  "fenlei": "电视剧$/vodtype/2#电影$/vodtype/1#综艺$/vodtype/3#动漫$/vodtype/4",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
