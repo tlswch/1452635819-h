@@ -55,4 +55,4 @@
   "bfbiaotihou": "</span>",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
-},
+}
