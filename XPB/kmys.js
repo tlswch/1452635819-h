@@ -5,7 +5,7 @@
   "tihuan": "cnzz.com",
 "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
-  "fenlei": "电影$/index.php/vod/show/id/1/page/#剧集$/index.php/vod/show/id/66/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#纪录片$/index.php/vod/show/id/75/page/#美剧$/index.php/vod/show/id/69/page/",
+  "fenlei": "电影$/index.php/vod/show/id/1/page/#剧集$/index.php/vod/show/id/66/page/#韩剧$/index.php/vod/show/id/2/page/#美剧$/index.php/vod/show/id/69/page/#纪录片$/index.php/vod/show/id/75/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/",
   "houzhui": ".html",
   "shifouercijiequ": "1",
   "jiequqian": "class=\"module-items",
