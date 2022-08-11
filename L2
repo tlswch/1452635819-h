@@ -69,7 +69,7 @@
  "filterable":1,"ext":"fc5c34a048554bd58210824bc86ce5eb"
 },
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
-  "quickSearch":0,"filterable":0
+  "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
 },
 {"key":"学堂1","name":"高中学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt"
