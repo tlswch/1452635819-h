@@ -1,9 +1,9 @@
 {
     "author":"20220522",
     "ua": "",
-    "homeUrl": "http://www.158381886.xyz/",
+    "homeUrl": "https://www.fcyy8.com/",
     "dcVipFlag": "true",
-    "pCfgJs": "http://www.158381886.xyz/static/js/playerconfig.js",
+    "pCfgJs": "https://www.fcyy8.com/static/js/playerconfig.js",
     "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
@@ -16,7 +16,7 @@
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     
-    "cateUrl": "http://www.158381886.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+    "cateUrl": "https://www.fcyy8.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
     "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
@@ -25,7 +25,7 @@
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div[contains(@class,'module-item-text')]/text()",
   
-    "dtUrl": "http://www.158381886.xyz/index.php/vod/detail/id/{vid}.html",
+    "dtUrl": "https://www.fcyy8.com/index.php/vod/detail/id/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
     "dtNameR": "",
@@ -52,10 +52,10 @@
     "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "http://www.158381886.xyz/play/{playUrl}.html",
+    "playUrl": "https://www.fcyy8.com/play/{playUrl}.html",
     "playUa": "",
     
-    "searchUrl": "http://www.158381886.xyz/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://www.fcyy8.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
