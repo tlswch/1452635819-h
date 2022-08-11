@@ -16,7 +16,7 @@
       "type_name": "7年级历史",
       "type_id": "7年级历史"
     },
-{
+    {
       "type_name": "7年级地理",
       "type_id": "7年级地理"
     },
@@ -33,7 +33,7 @@
       "type_id": "7年级化学"
     },
  
-{
+    {
       "type_name": "8年级语文",
       "type_id": "8年级语文"
     },
@@ -49,7 +49,7 @@
       "type_name": "8年级历史",
       "type_id": "8年级历史"
     },
-{
+   {
       "type_name": "8年级地理",
       "type_id": "8年级地理"
     },
@@ -65,9 +65,40 @@
     {
       "type_name": "8年级化学",
       "type_id": "8年级化学"
+    },
+    {
+      "type_name": "9年级语文",
+      "type_id": "9年级语文"
+    },
+    {
+      "type_name": "9年级数学",
+      "type_id": "9年级数学"
+    },
+   {
+      "type_name": "9年级英语",
+      "type_id": "9年级英语"
+    },
+  {
+      "type_name": "9年级历史",
+      "type_id": "9年级历史"
+    },
+   {
+      "type_name": "9年级地理",
+      "type_id": "9年级地理"
+    },
+    {
+      "type_name": "9年级生物",
+      "type_id": "9年级生物"
+    },
+
+    {
+      "type_name": "9年级物理",
+      "type_id": "9年级物理"
+    },
+    {
+      "type_name": "9年级化学",
+      "type_id": "9年级化学"
     }
-
-
   ],
   "filter": {
    
