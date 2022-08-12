@@ -6,11 +6,11 @@
     //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     //"dcShow2Vip": {},
     "dcPlayUrl": "true",
-    "cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href, 'vodtype') and not(contains(@href, '5'))]",
+    "cateNode": "//div[contains(@class,'head_menu_a')]/ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href, 'vodtype')]",
     "cateName": "/text()",
     "cateId": "/@href",
     "cateIdR": "",
-    "cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
+    //"cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
     "homeVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a[contains(@class, 'vodlist_thumb lazyload')]",
     "homeVodName": "/@title",: 
     "homeVodId": "/@href",
