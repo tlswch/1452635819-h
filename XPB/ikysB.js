@@ -1,6 +1,6 @@
 {
   "author": "hogo18于20220806",
-  "name": "爱看影视",
+  "name": "爱酷影视",
   "url": "https://www.zhanlangbu.com/", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
