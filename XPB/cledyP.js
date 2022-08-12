@@ -1,5 +1,5 @@
 {
-  "ua": "",
+  "ua": "尘落",
   "homeUrl": "https://v.xuangz.cn/",
   "dcVipFlag": "true",
   //"pCfgJs": "https://v.xuangz.cn/static/js/playerconfig.js",
