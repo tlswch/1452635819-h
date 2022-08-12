@@ -10,9 +10,9 @@
     "cateName": "/text()",
     "cateId": "/@href",
     "cateIdR": "",
-    //"cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
+    "cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
     "homeVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a[contains(@class, 'vodlist_thumb lazyload')]",
-    "homeVodName": "/@title",: 
+    "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/v/(\\s+).html",
     "homeVodImg": "/@data-original",
