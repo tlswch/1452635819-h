@@ -1,11 +1,11 @@
 {
     "ua": "",
     "homeUrl": "https://www.diezz.net/",
-    "dcVipFlag": "true",
+    //"dcVipFlag": "true",
     //"pCfgJs": "https://www.diezz.net/static/js/playerconfig.js",
     //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     //"dcShow2Vip": {},
-    "dcPlayUrl": "true",
+    //"dcPlayUrl": "true",
     "cateNode": "//div[contains(@class,'head_menu_a')]/ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href, 'vodtype')]",
     "cateName": "/text()",
     "cateId": "/@href",
