@@ -169,6 +169,9 @@
 {  "key":"csp_Biu13","name":"友播TV(xB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/youbotB.js"
 },
+{  "key":"csp_Biu12","name":"搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, 
+   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoB.js"
+},
 {  "key":"csp_Biu10","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lgyyB%3ejs"
 },
@@ -182,10 +185,7 @@
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
 },
 {  "key":"csp_BF7","name":"好看F7(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348B.js"
-},
-{  "key":"csp_Biu12","name":"搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, 
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoB.js"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/F7hkB.js"
 },
 
 {  "key" : "资源采集","name" : "资源采集", "type" : 1, "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"},
