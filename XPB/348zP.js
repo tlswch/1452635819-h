@@ -10,13 +10,7 @@
     "cateName": "/text()",
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\d+).html",
-    "cateManual": {
-        "电影": "1",
-        "连续剧": "2",
-        "综艺": "3",
-        "动漫": "4",
-        "4K专区": "37"
-    },
+    "cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4","4K专区": "37","直播": "52"},
     "homeVodNode": "//div[contains(@class, 'vodlist hotgrow') and @id='hot1']//a[@class='aplus-exp ecimgbor']",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
