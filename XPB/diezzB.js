@@ -7,7 +7,7 @@
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"vodlist_item num_1\"",
+"jiequshuzuqian": "class=\"vodlist_thumb lazyload\"",
 "jiequshuzuhou": "<span",
 "tupianqian": "data-original\"",
 "tupianhou": "\"",
