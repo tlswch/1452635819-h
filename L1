@@ -69,16 +69,16 @@
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
   "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
 },
-{"key":"学堂1","name":"高中学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+{"key":"学堂1","name":"高中学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt"
 },
-{"key":"学堂2","name":"初中学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+{"key":"学堂2","name":"初中学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/czkc.txt"
 },
-{"key":"学堂3","name":"小学学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+{"key":"学堂3","name":"小学学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xxkc.txt"
 },
-{"key":"学堂4","name":"学前学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+{"key":"学堂4","name":"学前学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xqjy.txt"
 },
 {"key": "2345_spider","name":"2345()","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable": 1,
@@ -137,14 +137,14 @@
 {  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
 },
-{  "key":"csp_zgdy","name":"中国电影(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zgdyP.js"
-},
 {  "key": "csp_dyxs","name": "电影先生(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/dyxsB.js"
 },
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
+},
+{  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
 },
 {  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
