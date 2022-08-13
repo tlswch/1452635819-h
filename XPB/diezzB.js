@@ -8,7 +8,7 @@
 "jiequqian": "空",
 "jiequhou": "空",
 "jiequshuzuqian": "class=\"vodlist_item num_1\"",
-"jiequshuzuhou": "span",
+"jiequshuzuhou": "<span",
 "tupianqian": "data-original\"",
 "tupianhou": "\"",
 "biaotiqian": "title=\"",
