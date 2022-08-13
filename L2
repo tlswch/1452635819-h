@@ -143,10 +143,9 @@
 {  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
 },
-{  "key":"csp_蝶众影院","name":"蝶众影院(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzP.js"
-},
-{  "key": "csp_dyxs","name": "电影先生(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+//{  "key":"csp_蝶众影院","name":"蝶众影院(X)","type":3, "api":"csp_XPathFilter","searchable":1,
+//  "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzP.js"},
+{  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
 },
 {  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
