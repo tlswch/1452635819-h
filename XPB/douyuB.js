@@ -3,7 +3,7 @@
   "name": "斗鱼",
   "url": "https://www.douyu.com/", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  "User": "User-Agent:Dart/2.14 (dart:io)", //这个不用动，是个别网站播放需要请求头时才用到
   "shouye": "1",
   "横图显示": "1",
 
