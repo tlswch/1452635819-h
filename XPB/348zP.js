@@ -29,8 +29,8 @@
     "cateVodMark": "/span[4][@class='pack-prb hidden']/text()",
     "dtUrl": "https://348z.com/voddetail/{vid}.html",
     "dtNode": "//body",
-    //"dtName": "//div[@class='s-top-info-title cf wow fadeInDownBig']/h1/text()",   (原文)
-    "dtName": "//div[@class='s-top-right']/div/h1/text()",
+    "dtName": "//div[@class='s-top-info-title cf wow fadeInDownBig']/h1/text()",   (原文)
+    //"dtName": "//div[@class='s-top-right']/div/h1/text()",
     "dtNameR": "",
     "dtImg": "//div[@class='s-cover box']/a/img/@src",
     "dtImgR": "\\S+(http\\S+)",
@@ -51,8 +51,8 @@
     "dtFromNode": "//a[contains(@class, 'channelname swiper-slide')]",
     "dtFromName": "/text()",
     "dtFromNameR": "",
-    //"dtUrlNode": "//div[contains(@id, 'tagContent')]//ul[contains(@class,'content_playlist cf')]",    (原文)
-    "dtUrlNode": "//div[contains(@class, 'playlist_notfull')]/ul[contains(@class,'content_playlist cf')]",
+    "dtUrlNode": "//div[contains(@id, 'tagContent')]//ul[contains(@class,'content_playlist cf')]",
+    //"dtUrlNode": "//div[contains(@class, 'playlist_notfull')]/ul[contains(@class,'content_playlist cf')]",
     "dtUrlSubNode": "/li/a",
     "dtUrlId": "@href",
     "dtUrlIdR": "/vodplay/(\\S+).html",
