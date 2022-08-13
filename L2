@@ -94,7 +94,7 @@
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
 },
-{  "key":"csp_BBB_TVBOX","name":"TVBOX课堂(X)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
+{  "key":"csp_TVBOX","name":"TVBOX课堂(X)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt",
    "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/T1.jar"
 },
