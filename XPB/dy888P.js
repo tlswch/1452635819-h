@@ -18,7 +18,7 @@
     //"homeVodImg": "/@data-original",
     //"homeVodMark": "",
     "cateUrl": "https://www.dy888.tv/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "cateVodNode": "//div[contains(@class,'pannel clearfix')]/ul[contains(@class,'vodlist vodlist_wi clearfix')]/li/a[contains(@class,'vodlist_thumb lazyload')]",
+    "cateVodNode": "//ul[contains(@class,'vodlist vodlist_wi clearfix')]/li/a[contains(@class,'vodlist_thumb lazyload')]",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/index.php/vod/detail/id/(\\s+).html",
