@@ -89,20 +89,19 @@
 "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
 
-{  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"
-},
+//{  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+ //  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"},
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348zP.js"
 }, 
-{  "key":"csp_789kp2","name":"1280影视(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/1280ys.js"
-},
 {  "key":"csp_喵乐影视","name":"喵乐影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
    "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/miaoleP.js"
+},
+{  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
 },
 {  "key": "csp_vipmv","name":"追剧达人(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,   
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
@@ -112,9 +111,6 @@
 },
 {  "key":"csp_555","name":"555电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555dyP.js"
-},
-{  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
 },
 {  "key":"csp_6d","name":"六度电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6dP.js"
@@ -140,11 +136,13 @@
 {  "key":"csp_sougoP","name":"搜狗影院(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoP.js"
 },
-{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
-   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
-},
+//{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+//   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"},
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
+},
+{  "key":"csp_Biu300","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB1.js"
 },
 {  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
@@ -154,9 +152,6 @@
 },
 { "key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
-},
-{  "key":"csp_Biu300","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB1.js"
 },
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
