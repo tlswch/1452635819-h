@@ -4,13 +4,6 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar;md5;a98d4c70ffa011e62305288fd667a944",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa",
 "sites": [
-{ "key":"2345","name":"2345影视()1","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,
-"filterable":1,
-"ext":"https://gitea.com/xkwjyu/jar/raw/branch/master/MaooXP/2345.json",
-"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/2345.jar"
-},
-{"key": "360_spider","name": "360影视()1","type": 3,"api": "csp_YS360","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/xkwjyu/789/raw/branch/master/360.json","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/2345.jar"},
-{"key": "sogou_spider","name": "搜狗影视()1","type": 3,"api": "csp_YSSogou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/xkwjyu/jar/raw/branch/master/MaooXP/suogou.json","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/2345.jar"},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa"
