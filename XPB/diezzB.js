@@ -2,7 +2,7 @@
 "url": "https://www.diezz.net/",
 "tihuan": "cnzz.com",
 //"User": "Mozilla/5.0 (Linux; Android 4.0.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.822.0 Safari/536.0 ",
-"fenlei": "电影$/vodshow/1---/page/----#连续剧$/vodshow/2-------#国产剧$/vodshow/2---国产----#日韩剧$/vodshow/2---日韩----#海外剧$/vodshow/2---海外----#动作剧$/vodshow/2---动作----#奇幻剧$/vodshow/2---奇幻----#悬疑剧$/vodshow/2---悬疑----#动作电影$/vodshow/1---动作----#武侠电影$/vodshow/1---武侠----#枪战电影$/vodshow/1---枪战----#动漫$/vodshow/4-------#综艺$/vodshow/3-------",
+"fenlei": "电影$/vodshow/1---/page----#连续剧$/vodshow/2-------#国产剧$/vodshow/2---国产----#日韩剧$/vodshow/2---日韩----#海外剧$/vodshow/2---海外----#动作剧$/vodshow/2---动作----#奇幻剧$/vodshow/2---奇幻----#悬疑剧$/vodshow/2---悬疑----#动作电影$/vodshow/1---动作----#武侠电影$/vodshow/1---武侠----#枪战电影$/vodshow/1---枪战----#动漫$/vodshow/4-------#综艺$/vodshow/3-------",
 "houzhui": "----.html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
