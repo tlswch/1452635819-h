@@ -11,7 +11,7 @@
     "cateId": "/@href",
     "cateIdR": "",
     "cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
-    "homeVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a[contains(@class, 'vodlist_thumb lazyload')]",
+    "homeVodNode": "//div[contains(@class,'cbox1')]/ul[contains(@class,'vodlist vodlist_wi')]/li[contains(@class,'vodlist_item')]/a[contains(@class, 'vodlist_thumb lazyload')]",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/index.php/vod/detail/id/(\\s+).html",
