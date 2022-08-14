@@ -263,6 +263,7 @@
     {"name":"itnb解析","type":0,"url":"https://jx.zui.cm/?url="},
     {"name":"盖世解析","url":"https://www.gai4.com/?url="},
     
+    {"name": "江湖解析0","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {"name":"江湖解析","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name":"293-2","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
     {"name":"太空解析","type": 1,"url": "http://124.222.68.182/jiexi/4kJX.php/?url="},
