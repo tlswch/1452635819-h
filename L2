@@ -91,9 +91,8 @@
 "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
 
-{  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"
-},
+//{  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+//  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"},
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
 },
@@ -144,9 +143,8 @@
 },
 //{  "key":"csp_蝶众影院","name":"蝶众影院(X)","type":3, "api":"csp_XPathFilter","searchable":1,
 //  "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzP.js"},
-{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
-   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"
-},
+//{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+//   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"},
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
 },
