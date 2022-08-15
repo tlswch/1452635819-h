@@ -2,6 +2,11 @@
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://www.kyikan.cc/",
+    "dcVipFlag": "true",
+    "pCfgJs": "https://www.kyikan.cc/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+    "dcShow2Vip": {},
+    "dcPlayUrl": "true",
     // 分类节点
 	"cateNode": "//ul[@class='top-nav']/li/a[contains(@href, 'vodtypehtml')]",
     // 分类名
