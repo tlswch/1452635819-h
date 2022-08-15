@@ -17,7 +17,7 @@
     "综艺": "5",
     "动漫": "4",
     "纪录片": "3",
-    "Bilibili": "24",
+    "Bilibili": "zhibo",
     "少儿": "29"
   },
   "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
