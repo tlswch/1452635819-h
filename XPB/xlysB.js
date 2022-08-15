@@ -17,7 +17,7 @@
 "lianjiehou": "\"",
 "sousuoqian": "/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
+"sousuohouzhui": "/index.php/vod/detail/id/",
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
