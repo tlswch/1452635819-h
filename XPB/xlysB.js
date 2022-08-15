@@ -2,7 +2,7 @@
 "url": "http://www.158381886.xyz/",
 "tihuan": "cnzz.com",
 "User": "Mozilla/5.0 (Linux; Android 4.0.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.822.0 Safari/536.0 ",
-"fenlei": "电影$/index.php/vod/show/id/1/page/#连续剧$/index.php/vod/show/id/2/page/#国产剧$/index.php/vod/show/id/13/page/#港台剧$/index.php/vod/show/id/14/page/#韩剧$/index.php/vod/show/id/15/page/#奇幻剧$/index.php/vod/show/class/奇幻/id/2/page/#动漫$/index.php/vod/show/id/4/page/#综艺$/index.php/vod/show/id/3/page/",
+"fenlei": "电影$/index.php/vod/show/id/1/page/#动作片$/index.php/vod/show/id/6/page/#科幻片$/index.php/vod/show/id/9/page/#犯罪片$/index.php/vod/show/id/21/page/#连续剧$/index.php/vod/show/id/2/page/#国产剧$/index.php/vod/show/id/13/page/#港台剧$/index.php/vod/show/id/14/page/#韩剧$/index.php/vod/show/id/15/page/#奇幻剧$/index.php/vod/show/class/奇幻/id/2/page/#动漫$/index.php/vod/show/id/4/page/#综艺$/index.php/vod/show/id/3/page/",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
