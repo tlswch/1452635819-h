@@ -15,7 +15,7 @@
 "biaotihou": "\"",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
-"sousuoqian": "/ajax/suggest?mid=1&wd=",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
 "sousuohouzhui": "/index.php/vod/detail/id/",
 "ssmoshi": "0",
