@@ -1,4 +1,4 @@
-{"name": "vidhub",
+{"name": "小鸟影视",
 "url": "http://www.158381886.xyz/",
 "tihuan": "cnzz.com",
 "User": "Mozilla/5.0 (Linux; Android 4.0.1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/30.0.822.0 Safari/536.0 ",
