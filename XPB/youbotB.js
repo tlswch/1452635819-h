@@ -3,7 +3,7 @@
   "url": "https://www.youbotv.cn/",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
-  "fenlei": "电影$/vodshow/1-----------/#电视剧$/vodshow/2-----------/",
+  "fenlei": "电影$/vodshow/1-----------2022/#电视剧$/vodshow/2-----------2022/",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
