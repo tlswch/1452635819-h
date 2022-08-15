@@ -239,6 +239,7 @@
   ],
   "parses": [
     {"name":"默认","type":3,"url":"Demo"},
+    {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name": "parwix1","url": "https://jx.parwix.com:4433/player/?url="},
     {"name":"九亿解析","url":"https://m3u8.look4you.top/?url="},
@@ -249,7 +250,6 @@
     {"name": "高速解析","url": "https://jsap.attakids.com/?url="},    
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"Web解析","url":"https://chaxun.truechat365.com/?url="},
-     {"name": "解析2","type": 0,"url": "https://bd.jx.cn/?url="},
     {"name":"itnb解析","type":0,"url":"https://jx.zui.cm/?url="},
     
     {"name":"GGTV快速","type": 1,"url":"https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="},
