@@ -17,7 +17,7 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-  "sousuoqian": "/?c=search&wd=",
+  "sousuoqian": "/search.php&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/edu-",
   "ssmoshi": "1",
