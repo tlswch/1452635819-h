@@ -152,6 +152,9 @@
 {  "key":"csp_Biu13","name":"友播TV(xB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/youbotB.js"
 },
+{  "key":"csp_小鸟影视","name":"小鸟影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xlysB.js"
+},
 {  "key":"csp_Biu12","name":"搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, 
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sougoB.js"
 },
@@ -161,14 +164,11 @@
 {  "key":"csp_Biu1","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/shdy2B.js"
 },
-{  "key":"csp_Biu2","name":"豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/doujiaoB.js"
+{  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
 {  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
-},
-{  "key":"csp_小鸟影视","name":"小鸟影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xlysB.js"
 },
 
 {  "key" : "资源采集","name" : "资源采集", "type" : 1, "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"},
