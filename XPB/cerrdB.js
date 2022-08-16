@@ -28,7 +28,7 @@
   "ssjiequqian": "空",
   "ssjiequhou": "空",
   "ssjiequshuzuqian": "class=\"thumb\"",
-  "ssjiequshuzuhou": "</span>",
+  "ssjiequshuzuhou": "</div>",
   "sstupianqian": "data-original=\"",
   "sstupianhou": "\"",
   "ssbiaotiqian": "title=\"",
