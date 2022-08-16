@@ -3,7 +3,7 @@
   "url": "https://www.youbotv.cn/",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
-  "fenlei": "电影$/vodshow/1-----------#院线电影$/vodshow/1---院线--------#动作电影$/vodshow/1-动作----#电视剧$/vodshow/2-----------#内地剧$/vodshow/2-内地----------#韩国剧$/vodshow/2-韩国----------#美国剧$/vodshow/2-美国----------#综艺$/vodshow/3-----------#动漫$/vodshow/4-----------",
+  "fenlei": "电影$/vodshow/1-----------#院线电影$/vodshow/1---院线--------#电视剧$/vodshow/2-----------#内地剧$/vodshow/2-内地----------#韩国剧$/vodshow/2-韩国----------#美国剧$/vodshow/2-美国----------#综艺$/vodshow/3-----------#动漫$/vodshow/4-----------",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
