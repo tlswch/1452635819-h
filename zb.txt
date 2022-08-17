@@ -156,7 +156,6 @@ Kory-x 腿高度训练 体育40X6组,http://txtest-xp2p.p2p.huya.com/src/1099531
 💖央视,#genre#
 央视4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 央视4K,http://liveop.cctv.cn:80/hls/4KHD/playlist.m3u8
-CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8$河北移动源
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
