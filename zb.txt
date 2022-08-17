@@ -30,7 +30,6 @@ CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w128582
 湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://39.136.48.18:8089/PLTV/88888888/224/3221225767/1.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视,http://117.148.179.172/PLTV/88888888/224/3221231729/1.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 第一财经,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
 第一财经,http://111.40.196.30:80/wh7f454c46tw4271377561_1868192408/PLTV/88888888/224/3221225497/index.m3u8
