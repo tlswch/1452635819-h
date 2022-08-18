@@ -1,5 +1,6 @@
 {"wallpaper":"http://xn--4bra.live/pic/api.php",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;f390d4835a1076e3651d08a2fd0e31ac",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
+//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;f390d4835a1076e3651d08a2fd0e31ac",
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar;md5;a98d4c70ffa011e62305288fd667a944",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar",
 "sites": [
@@ -14,15 +15,17 @@
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_hbys","name":"简影影视()","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+{"key":"csp_Jiany","name":"简影TV","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
 },
+{"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppYsV2","name":"优众影视()","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,  
  "ext": "http://121.205.88.178:8090/xgapp.php/v2/"
-},
+}, 
+
 {"key": "9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/C.jar"
 },
-//{"key":"Nfyun","name":"奈飞云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Nfyun","name":"奈飞云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
 {"key":"Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"filterable": 1},
@@ -32,16 +35,21 @@
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Blixs","name":"相声小品()","type":3,"api":"csp_Blixs","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/D.jar"
-},
+{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"追剧喵","name":"追剧喵(ijk解码)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv(ijk解码)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
- "ext": "b1f13d705ec14661a14a575fde303bb0"
+ "ext": "4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar"
+},
+{"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
+ "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+},
+{"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"fc5c34a048554bd58210824bc86ce5eb"
 },
 {"key":"csp_AliPanSou","name":"阿里搜索(仅搜索ijk解码)","type":3,"api":"csp_AliPanSou","searchable":1,
  "quickSearch":1,"ext": "b1f13d705ec14661a14a575fde303bb0"
@@ -49,12 +57,10 @@
 {"key":"csp_xpath_cilisou","name":"磁力搜索(仅搜索)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1, 
  "filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cls.json"
 },
-{"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
- "filterable":1,"ext":"fc5c34a048554bd58210824bc86ce5eb"
-},
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
   "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
 },
+
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js"
 },
