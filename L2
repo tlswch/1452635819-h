@@ -54,6 +54,9 @@
 {"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"fc5c34a048554bd58210824bc86ce5eb"
 },
+{"key":"csp_xpath_cilisou","name":"磁力搜索(仅搜索)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1, 
+ "filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cls.json"
+},
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
   "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
 },
@@ -93,18 +96,9 @@
 },
 {"key":"csp_xp_bd01","name":"哔滴影视(磁)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysP.js"},
-{"key":"csp_xpath_Grab4K","name":"Grab4K(磁力)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/yuegu09/wailian/raw/branch/main/XP/Grab4K_XPCL.json"},
-{
-      "key": "csp_xpath_音范丝磁力",
-      "name": "🐞音范丝磁力(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ftyyy.tk/MeowXP/yinfans.json"
-    },
-{"key":"csp_xpath_cilisou","name":"磁力搜索(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cls.json"},
+{"key": "csp_xpath音范","name": "音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,
+  "filterable": 1,"ext": "https://ftyyy.tk/MeowXP/yinfans.json"
+},
 {  "key": "csp_vipmv","name":"追剧达人(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,   
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
 },
