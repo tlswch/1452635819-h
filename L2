@@ -95,9 +95,7 @@
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
 },
 {"key":"csp_xp_bd01","name":"哔滴影视(磁)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysP.js"},
-{"key": "csp_xpath音范","name": "音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,
-  "filterable": 1,"ext": "https://ftyyy.tk/MeowXP/yinfans.json"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysP.js"
 },
 {  "key": "csp_vipmv","name":"追剧达人(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,   
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
