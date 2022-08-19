@@ -2,7 +2,6 @@
 //"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 "wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;f390d4835a1076e3651d08a2fd0e31ac",
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/P.jar;md5;a98d4c70ffa011e62305288fd667a944",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa",
 "sites": [
@@ -259,7 +258,7 @@
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
-    {"name":"CL4K解析","type":1,"url":"https://api.playaaaa.com//?url="},
+    {"name":"CL4K解析","type":1,"url":"http://123.56.222.84:2025/iphones/100.php?url="},
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}}
   ],
 "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi","duoduozy",
