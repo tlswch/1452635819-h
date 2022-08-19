@@ -39,9 +39,7 @@ CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w128582
 第一财经,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
 第一财经,http://111.40.196.30:80/wh7f454c46tw4271377561_1868192408/PLTV/88888888/224/3221225497/index.m3u8
 🏀文体,#genre#
-游戏赛事,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 游戏赛事,http://111.62.156.35/tx.rtmp.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.m3u8
-HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 CCTV5,http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
