@@ -36,6 +36,12 @@ CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w128582
 湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
 湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+湖南卫视,http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
+湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 第一财经,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
 第一财经,http://111.40.196.30:80/wh7f454c46tw4271377561_1868192408/PLTV/88888888/224/3221225497/index.m3u8
 文体,#genre#
@@ -175,7 +181,6 @@ Kory-x 腿高度训练 体育40X6组,http://txtest-xp2p.p2p.huya.com/src/1099531
 央视4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 央视4K,http://liveop.cctv.cn:80/hls/4KHD/playlist.m3u8
 央视4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
@@ -454,7 +459,7 @@ CETV-1,http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
 CETV-2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
    
-4K高清,#genre#
+4K,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 8K超高清,http://117.148.179.157/PLTV/88888888/224/3221233439/index.m3u8?zzhongd
@@ -480,7 +485,22 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 影院4k,http://epg.112114.xyz/douyu/9249162💟
-湖南频道,#genre#
+湖南,#genre#
+湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.136.48.18:8089/PLTV/88888888/224/3221225767/1.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+湖南卫视,http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
+湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2&ztecid=201500000245&ispcode=3
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -996,19 +1016,6 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 金泫雅,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
 
 卫视,#genre#
-
-湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
-湖南卫视,http://39.136.48.18:8089/PLTV/88888888/224/3221225767/index.m3u8
-湖南卫视,http://39.136.48.2:8089/PLTV/88888888/224/3221225767/index.m3u8
-湖南卫视,http://39.136.48.5:8089/PLTV/88888888/224/3221225767/index.m3u8
-湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
-湖南卫视,http://117.148.179.135/TVOD/88888888/224/3221230206/index.m3u8
-湖南卫视,http://117.148.179.148/TVOD/88888888/224/3221230824/index.m3u8
-湖南卫视,http://117.148.179.172/TVOD/88888888/224/3221231729/index.m3u8
-湖南卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
-湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
 东方卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
@@ -1239,7 +1246,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 新疆卫视,http://218.204.51.252:9901/tsfile/live/1044_1.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 
-🕹️广西,#genre#
+广西,#genre#
 百色综合,http://39.135.32.236:6610/PLTV/77777777/224/3221225900/index.m3u8?
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁新闻综合,rtmp://rtmp.nntv.cn/nnlive/NNTV_NEWS_A?zguangxd
@@ -1287,7 +1294,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 田东综合,https://live-cdn.gxxw.com/gx/tiandong/index.m3u8?zguangxd
 田阳综合,https://cdn.gdlive.gdmain.com/live/0yzvdpr5.m3u8?zguangxd
 西林综合,https://cdn.gdlive.gdmain.com/live/lj16xrkl.m3u8?zguangxd
-🌳上海,#genre#
+上海,#genre#
 东方,http://39.135.32.10:6610/000000001000/HD-4000k-1080P-dongfangstv/1.m3u8?IASHttpSessionId=OTT?zshangd
 东方影院,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8?zshangd
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
@@ -1315,7 +1322,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 天水公共,http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?shanghai
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
-🌺广东,#genre#
+广东,#genre#
 广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
 南方卫视,http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
 广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
