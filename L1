@@ -249,12 +249,13 @@
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},  
     {"name":"ok解析","url": "https://okjx.cc/?url="},
-    {"name":"Web解析","url":"https://chaxun.truechat365.com/?url="},
-    {"name":"解析2","type": 0,"url": "https://bd.jx.cn/?url="},
-    {"name":"itnb解析","type":0,"url":"https://jx.zui.cm/?url="},
-    
+    {"name":"117解析","url":"http://1.117.152.239:39000/?url="},
+    {"name":"ces解析","url":"https://wds.ecsxs.com/225173.html?url="},
+    {"name":"itnb解析","url":"https://jx.zui.cm/?url="},
+
     {"name":"GGTV快速","type": 1,"url":"https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="},
     {"name":"盘古解析","type":1,"url":"http://150.230.216.174/tvjx.php?url=","ext":{"header": {"User-Agent":"Dart/2.14 (dart:io)"}}},
+    {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name":"搬运解析","type":1,"url":"https://jx.bynote.top/API.php?url="},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
