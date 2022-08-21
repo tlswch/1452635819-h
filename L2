@@ -181,7 +181,7 @@
 {  "key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
 {  "key":"土狗2345","name":"土狗2345","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/"},
 {  "key":"土剧TV","name":"土剧TV","type":1,"api":"http://tujutv.top/api.php/provide/vod/"},
-{  "key":"看猫","name":"看猫资源","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/"},
+//{  "key":"看猫","name":"看猫资源","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/"},
 {  "key":"忆梦","name":"忆梦影視","type":1,"api":"http://anltv.cn/api.php/provide/vod/"},
 //{  "key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {  "key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
@@ -255,7 +255,6 @@
     {"name":"搬运解析","type":1,"url":"https://jx.bynote.top/API.php?url="},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-    {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
     {"name":"CL4K解析","type":1,"url":"http://123.56.222.84:2025/iphones/100.php?url="}
   ],
 "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi","duoduozy",
