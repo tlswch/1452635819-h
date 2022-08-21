@@ -9,7 +9,6 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-},
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 },
