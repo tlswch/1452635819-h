@@ -51,9 +51,9 @@
     {"name":"人人解析","url": "https://jx.blbo.cc:4433/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="}  
   ],
-//"flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi","duoduozy",
-//"bilibili","wuduzy","m1905","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
-//"哔哩","4k蓝光","内部蓝光"],
+"flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi","duoduozy",
+"bilibili","wuduzy","m1905","优酷","爱奇艺","腾讯","腾讯视频","乐视视频","乐视","土豆","芒果","芒果TV","芒果tv","哔哩哔哩",
+"哔哩","4k蓝光","内部蓝光"],
 "ijk": [{"group": "软解码","options": [
 {"category" : 4, "name" : "opensles", "value" : "0"},
 {"category" : 4, "name" : "overlay-format", "value" : "842225234"},
