@@ -20,7 +20,7 @@
     "cateVodMark": "//span[@class='pic_text text_right']/text()",
     "dtUrl": "https://www.366ys.cc/y/{vid}.html",
     "dtNode": "//body",
-    "dtName": "//div[@class='stui-content__detail']/h1/text()",
+    "dtName": "//div[@class='stui-content__thumb']/a[@class='pic']/@title",
     "dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
     "dtArea": "//span[contains(text(), '地区')]/following-sibling::*/text()",
 	"dtAreaR": "",
