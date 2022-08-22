@@ -22,7 +22,7 @@
     "dtNode": "//body",
     "dtName": "//div[@class='stui-content__thumb']/a[@class='pic']/@title",
     "dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
-    "dtArea": "//span[contains(text(), '地区')]/following-sibling::*/text()",
+    "dtArea": "//p[contains(text(), '地区')]/text()",
 	"dtAreaR": "",
     "dtCate": "//div[@class='stui-content__detail']/p[1]/text()",
     "dtDirector": "//p[contains(text(), '导演')]/following-sibling::a/text()",
