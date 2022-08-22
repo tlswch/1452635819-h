@@ -22,7 +22,7 @@
     "dtNode": "//body",
     "dtName": "//div[@class='stui-content__thumb']/a[@class='pic']/@title",
     "dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
-    "dtArea": "//p[contains(text(), '地区')][]3/text()",
+    "dtArea": "//p[contains(text(), '地区')][3]/text()",
 	"dtAreaR": "",
     "dtYear": "//p[contains(text(), '年份')][4]/text()",
     "dtCate": "//p[contains(text(), '类型')][1]/text()",
