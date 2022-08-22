@@ -7,14 +7,14 @@
     "class_name": "电影&电视剧&动漫&综艺&热门电视剧&港台剧&日韩剧&欧美剧",
     "class_value": "1&2&4&3&13&15&44&45",
     "filterdata":"",
-    "cat_YN_twice": "1",
-    "cat_twice_pre": "class=\"module-items",
-    "cat_twice_suf": "<div id=\"page",
-    "cat_arr_pre": "<a",
-    "cat_arr_suf": "</a>",
+    "cat_YN_twice": "1",      //是否二次截取（0，1）
+    "cat_twice_pre": "class=\"module-items",  //截取前
+    "cat_twice_suf": "<div id=\"page",   //截取前
+    "cat_arr_pre": "<a",     //截取前
+    "cat_arr_suf": "</a>",   //截取后
     "cat_pic": "data-original=\"&&\"",
     "cat_title": "title=\"&&\"",
-    "cat_subtitle": "module-item-note\">&&<",
+    "cat_subtitle": "module-item-note\">&&<",   //相当于描述：如更新多少集或者HD，BD等
     "cat_url": "href=\"&&\"",
     "cat_prefix": "https://www.o8tv.com",
     "cat_suffix": "",
