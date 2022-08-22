@@ -81,8 +81,10 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
-//{  "key":"csp_xpath_huya","name":"虎牙直播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-//  "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/huyaP.js"},
+{  "key":"csp_2Biu1","name":"虎牙直播(2B)","type":3,"api":"csp_XYQBiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js",
+   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/2Biu.jar"
+},
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
 },
@@ -164,10 +166,6 @@
 },
 {  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
-},
-{  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/%e8%99%8e%e7%89%99%e4%bb%a3%e7%90%86%e7%9b%b4%e9%93%be.json",
-   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/2Biu.jar"
 },
 
 //{  "key" : "资源采集","name" : "资源采集", "type" : 1, "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"},
