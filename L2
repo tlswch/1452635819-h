@@ -166,7 +166,7 @@
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
 {  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/honglingjB.js"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/%e8%99%8e%e7%89%99%e4%bb%a3%e7%90%86%e7%9b%b4%e9%93%be.json"
 },
 
 //{  "key" : "资源采集","name" : "资源采集", "type" : 1, "api" : "http://www.zycaiji.net:7788/api.php/provide/vod/"},
