@@ -165,7 +165,7 @@
 {  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
-{  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_Biu5","name":"红领巾(XB)","type":3,"api":"csp_XYQBiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555BB.js",
    "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/2Biu.jar"
 },
