@@ -30,7 +30,7 @@
     "dtActorR": "\\S+主演：(\\S+)",
     "dtYear": "//div[@class='stui-content__detail']/p[4]/text()",
     //"dtMark": "//div[@class='video-info-item'][1]/text()",
-    "dtDesc": "//div[@class='desc detail']/span[2]/text()",
+    "dtDesc": "//p[@class='desc detail']/span[2]/text()",
     "dtFromNode": "//div[@class='stui-vodlist__head']//ul[contains(@class, 'nav nav-tabs  dpplay pull-right')]/li/a",
     "dtFromName": "/text()",
     "dtUrlNode": "//div[contains(@class, 'stui-vodlist__head')]//ul[contains(@class,'stui-content__playlist clearfix ')]",
