@@ -24,7 +24,7 @@
     "dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
     "dtArea": "//span[contains(text(), '地区')]/following-sibling::*/text()",
 	"dtAreaR": "",
-    "dtCate": "//p[contains(text(), '类型')]/text()",
+    "dtCate": "//p[@class='data hidden-xs][1]/text()",
     "dtDirector": "//span[contains(text(), '导演')]/following-sibling::*/text()",
     "dtActor": "//span[contains(text(), '主演')]/following-sibling::*/text()",
     "dtActorR": "\\S+主演：(\\S+)",
