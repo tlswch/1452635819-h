@@ -102,7 +102,8 @@
 {"key":"csp_xp_bd01","name":"哔滴影视(磁)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bdysP.js"
 },
-{"key":"cspmozhatu","name":"莫扎兔(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/moztP.js"
+{"key":"cspmozhatu","name":"莫扎兔(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/moztP.js"
 },
 {  "key": "csp_vipmv","name":"追剧达人(X)","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,   
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
