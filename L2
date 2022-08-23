@@ -1,8 +1,8 @@
 {//"wallpaper":"http://xn--4bra.live/pic/api.php",
 //"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 "wallpaper": "http://css.lc/api.php",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
+//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar;md5;cfb6050065eab136c5f8f4d75ffb62fa",
 "sites": [
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -80,12 +80,12 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xqjy.txt"
 },
 {"key": "2345_spider","name":"2345()","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js"//,
- //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
 {  "key":"csp_2Biu1","name":"虎牙直播(2B)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js",
-   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/2Biu.jar"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js"//,
+   //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/2Biu.jar"
 },
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
