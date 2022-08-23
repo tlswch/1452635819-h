@@ -5,7 +5,9 @@
 
 
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key": "csp_QQ","name": "腾讯视频()","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+},
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -43,11 +45,10 @@
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
- "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-},
-{"key":"csp_Gitcafe1","name":"小纸条（）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0, 
- "ext":"7bb5b24ca3274ad781a6071082e9eebd"
+//{"key":"csp_GitCafe","name":"纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
+// "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_Gitcafe1","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,
+ "filterable":0, "ext":"7bb5b24ca3274ad781a6071082e9eebd"
 },
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
