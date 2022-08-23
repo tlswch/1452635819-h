@@ -25,7 +25,7 @@
 }, 
 
 {"key": "9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
- "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/C.jar"
+ "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
 },
 {"key":"Nfyun","name":"奈飞云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,11 +43,11 @@
 {"key":"csp_Cokemv","name":"Cokemv(ijk解码)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_GitCafe","name":"小纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
-//"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"//,"jar":"https://gitea.com/habao260/2/raw/branch/main/jar/XC0822.jar"},
+//"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_Gitcafe","name":"小纸条（）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0, 
- "ext":"7bb5b24ca3274ad781a6071082e9eebd"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/x.jar"
+ "ext":"7bb5b24ca3274ad781a6071082e9eebd"
 },
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
@@ -84,8 +84,7 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
 {  "key":"csp_2Biu1","name":"虎牙直播(2B)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js"//,
-   //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/2Biu.jar"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js"
 },
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
