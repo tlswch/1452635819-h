@@ -1,11 +1,11 @@
 {//标准的首页直接分类型(2022.6.15)
   "ua": "",
   "homeUrl": "http://www.jpys.me",
-  "dcVipFlag": "true",
+  //"dcVipFlag": "true",
   //"pCfgJs": "http://www.jpys.me/static/js/playerconfig.js",
   //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   //"dcShow2Vip": {},
-  "dcPlayUrl": "true",
+  //"dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'myui-header__menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'vodtype') and not(contains(@href, '26'))]",
   "cateName": "/text()",
   "cateId": "/@href",
