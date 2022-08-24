@@ -123,9 +123,6 @@
 },
 {  "key":"csp_ddg","name":"达达龟(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dadaP.js"
-}, 
-{  "key":"csp_lkvod","name":"耐看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcP.js"
@@ -133,16 +130,11 @@
 {  "key":"csp_366","name":"366影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/366ysP.js"
 },
-//{  "key": "csp_Biu8","name": "斗鱼(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
-//   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/douyuB.js"},
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
 },
 {  "key":"csp_Biu300","name":"300影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysB1.js"
-},
-{ "key": "csp_555B","name": "35电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
-  "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/555B.js"
 },
 {  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
@@ -177,7 +169,7 @@
 {  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {  "key": "诺讯资源","name": "诺讯资源", "type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
 {  "key":"个人影院","name":"个人影院","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/"},
-//{  "key":"八戒官采","name":"八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/"},
+{  "key":"八戒官采","name":"八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/"},
 {  "key": "艾特影视","name": "艾特影视","type": 1,"api": "https://www.aitee.cc/api.php/provide/vod/"},
 {  "key": "千寻影视","name": "千寻影视","type": 1,"api": "http://wy.dqyhg.cn/api.php/provide/vod/"},
 {  "key":"趣看","name":"趣看影视","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/"},
