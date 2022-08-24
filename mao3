@@ -44,8 +44,8 @@
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Gitcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,
- "filterable":0, "ext":"7bb5b24ca3274ad781a6071082e9eebd"
+{"key":"cspcafe","name":"小纸条（ijk解码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1"filterable":0,
+ "ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
 },
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
