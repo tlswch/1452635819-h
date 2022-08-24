@@ -32,7 +32,7 @@
     "dtYear": "//a[@class='tag-link'][2]/text()",
     "dtArea": "//a[@class='tag-link'][3]/text()",
     "dtAreaR": "",
-    "dtDesc": "//span[contains(text(), '剧情')]/parent::*/div/span/text()",
+    "dtDesc": "concat(//span[contains(text(),'剧情')]/parent::*/div/span/text()",
     "dtDescR": "",
     "dtActor": "concat(//span[contains(text(), '主演')]/parent::*/div/a/text())",
     "dtActorR": "",
