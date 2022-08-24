@@ -17,15 +17,15 @@
     "cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
     "cateVodIdR": "/voddetail/(\\w+).html",
-    "cateVodImg": "/div[contains(@class, 'module-item-cover')]/div[contains(@class, 'module-item-pic')]/img/@src",
+    "cateVodImg": "/div[contains(@class, 'module-item-cover')]/div[contains(@class, 'module-item-pic')]/img/@data-src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div[contains(@class,'module-item-text')]/text()",
   
     "dtUrl": "https://quanyingshi.com/voddetail/{vid}.html",
     "dtNode": "//body",
-    "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/a/text()",
+    "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
     "dtNameR": "",
-    "dtImg": "//div[@class=('module-item-pic')]/img/@src",
+    "dtImg": "//div[@class=('module-item-pic')]/img/@data-src",
     "dtImgR": "(http\\S+)",
     "dtCate": "//div[contains(@class,'tag-link')]/a/text()",
     "dtCateR": "",
@@ -42,7 +42,7 @@
     "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[2]/div/span",
     "dtFromName": "/text()",
     "dtFromNameR": "",
-    "dtUrlNode": "//div[contains(@class,'module-tab-content')]//div[contains(@class,'sort-item')]",
+    "dtUrlNode": "//div[contains(@class,'module-blocklist')]//div[contains(@class,'scroll-content')]",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/vodplay/(\\S+).html",
@@ -60,7 +60,7 @@
     "scVodMark": "",
   
     "filter":{
-      "dy":[
+      "1":[
         {
           "key": "cateId",
           "name": "类型",
@@ -181,7 +181,7 @@
           ]}
       ],
   
-      "juji":[
+      "2":[
         {
           "key": "cateId",
           "name": "类型",
@@ -282,7 +282,7 @@
             {"n": "评分排序","v": "score"}
           ]}
       ],
-      "zongyi":[
+      "3":[
         {
           "key": "cateId",
           "name": "类型",
@@ -371,7 +371,7 @@
             {"n": "评分排序","v": "score"}
           ]}
       ],
-      "dongman":[
+      "4":[
         {
           "key": "cateId",
           "name": "类型",
@@ -430,89 +430,6 @@
             {"n": "韩语","v": "韩语"},
             {"n": "日语","v": "日语"},
             {"n": "其它","v": "其它"}
-          ]},
-        {
-          "key": "year",
-          "name": "年份",
-          "value": [
-            {"n": "全部","v": ""},
-            {"n": "2022","v": "2022"},
-            {"n": "2021","v": "2021"},
-            {"n": "2020","v": "2020"},
-            {"n": "2019","v": "2019"},
-            {"n": "2018","v": "2018"},
-            {"n": "2017","v": "2017"},
-            {"n": "2016","v": "2016"},
-            {"n": "2015","v": "2015"},
-            {"n": "2014","v": "2014"},
-            {"n": "2013","v": "2013"},
-            {"n": "2012","v": "2012"},
-            {"n": "2011","v": "2011"},
-            {"n": "2010","v": "2010"},
-            {"n": "2009","v": "2009"},
-            {"n": "2008","v": "2008"}
-          ]},
-        {
-          "key": "by",
-          "name": "排序",
-          "value": [
-            {"n": "全部","v": ""},
-            {"n": "时间排序","v": "time"},
-            {"n": "人气排序","v": "hits"},
-            {"n": "评分排序","v": "score"}
-          ]}
-      ],
-      "jilupian":[
-        {
-          "key": "class",
-          "name": "剧情",
-          "value": [
-            {"n": "全部剧情","v": ""},
-            {"n": "人物","v": "人物"},
-            {"n": "军事","v": "军事"},
-            {"n": "历史","v": "历史"},
-            {"n": "文化","v": "文化"},
-            {"n": "探索","v": "探索"},
-            {"n": "科技","v": "科技"},
-            {"n": "自然","v": "自然"},
-            {"n": "解密","v": "解密"},
-            {"n": "其他","v": "其他"}
-          ]},
-        {
-          "key": "area",
-          "name": "地区",
-          "value": [
-            {"n": "全部","v": ""},
-            {"n": "内地","v": "内地"},
-            {"n": "香港","v": "香港"},
-            {"n": "台湾","v": "台湾"},
-            {"n": "美国","v": "美国"},
-            {"n": "韩国","v": "韩国"},
-            {"n": "法国","v": "法国"},
-            {"n": "英国","v": "英国"},
-            {"n": "日本","v": "日本"},
-            {"n": "德国","v": "德国"},
-            {"n": "泰国","v": "泰国"},
-            {"n": "印度","v": "印度"},
-            {"n": "意大利","v": "意大利"},
-            {"n": "西班牙","v": "西班牙"},
-            {"n": "加拿大","v": "加拿大"},
-            {"n": "其他","v": "其他"}
-          ]},
-        {
-          "key": "lang",
-          "name": "语言",
-          "value": [
-            {"n": "全部","v": ""},
-            {"n": "普通话","v": "普通话"},
-            {"n": "英语","v": "英语"},
-            {"n": "粤语","v": "粤语"},
-            {"n": "闽南语","v": "闽南语"},
-            {"n": "韩语","v": "韩语"},
-            {"n": "日语","v": "日语"},
-            {"n": "法语","v": "法语"},
-            {"n": "德语","v": "德语"},
-            {"n": "其他","v": "其他"}
           ]},
         {
           "key": "year",
