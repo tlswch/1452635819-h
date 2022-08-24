@@ -222,7 +222,7 @@
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"CL4K解析","type":1,"url":"http://123.56.222.84:2025/iphones/100.php?url="}
   ],
-"flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","pptv","wasu","renrenmi",
+"flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","tudou","mgtv","wasu","renrenmi",
 "bilibili","m1905","哔哩哔哩"
   ],
 "ijk": [{"group": "软解码","options": [
