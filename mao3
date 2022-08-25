@@ -159,6 +159,7 @@
 {  "key":"cs影视","name":"影音世界","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/"},
 {  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {  "key": "诺讯资源","name": "诺讯资源", "type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
+{  "key":"北雁资源","name":"北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/"},
 {  "key":"八戒官采","name":"八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/"},
 {  "key": "艾特影视","name": "艾特影视","type": 1,"api": "https://www.aitee.cc/api.php/provide/vod/"},
 {  "key": "千寻影视","name": "千寻影视","type": 1,"api": "http://wy.dqyhg.cn/api.php/provide/vod/"},
@@ -210,6 +211,9 @@
     {"name":"ces解析","url":"https://wds.ecsxs.com/225173.html?url="},
     {"name":"itnb解析","url":"https://jx.zui.cm/?url="},
 
+    {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
+     "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}
+	  },
     {"name":"GGTV快速","type": 1,"url":"https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="},
     {"name":"盘古解析","type":1,"url":"http://150.230.216.174/tvjx.php?url=","ext":{"header": {"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
