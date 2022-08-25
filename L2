@@ -11,7 +11,7 @@
 {"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
