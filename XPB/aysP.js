@@ -3,7 +3,7 @@
     "ua": "",
     "homeUrl": "https://aiyingshis.com/",
     "dcPlayUrl": "true",
-    "cateManual": {"电影": "1","电视剧": "2","综艺": "3","动漫": "4"},
+    "cateManual": {"蓝光片": "37","电影": "1","电视剧": "2","综艺": "3","动漫": "4"},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "homeVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
@@ -12,7 +12,7 @@
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     
-    "cateUrl": "https://aiyingshis.com/vodshow/{cateId}--------{catePg}---.html",
+    "cateUrl": "https://aiyingshis.com/vodshow/id/{cateId}/page/{catePg}.html",
     "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
