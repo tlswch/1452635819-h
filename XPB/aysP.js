@@ -1,7 +1,7 @@
 {
     "author":"20220522",
     "ua": "",
-    "homeUrl": "https://quanyingshi.com/",
+    "homeUrl": "https://aiyingshis.com/",
     "dcPlayUrl": "true",
     "cateManual": {"电影": "1","电视剧": "2","综艺": "3","动漫": "4"},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
@@ -12,7 +12,7 @@
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     
-    "cateUrl": "https://quanyingshi.com/vodshow/{cateId}--------{catePg}---.html",
+    "cateUrl": "https://aiyingshis.com/vodshow/{cateId}--------{catePg}---.html",
     "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
@@ -21,7 +21,7 @@
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div[contains(@class,'module-item-text')]/text()",
   
-    "dtUrl": "https://quanyingshi.com/voddetail/{vid}.html",
+    "dtUrl": "https://aiyingshis.com/voddetail/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
     "dtNameR": "",
@@ -48,10 +48,10 @@
     "dtUrlIdR": "/vodplay/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://quanyingshi.com/vodplay/{playUrl}.html",
+    "playUrl": "https://aiyingshis.com/vodplay/{playUrl}.html",
     "playUa": "",
     
-    "searchUrl": "https://quanyingshi.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://aiyingshis.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
