@@ -204,6 +204,9 @@
 },
 {  "key": "csp_appysv2_影库","name": "影库影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
+},
+{  "key":"521看剧","name":"521看剧(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+   "ext":"http://521kanju.com/api.php/v1.vod"
 },   
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
