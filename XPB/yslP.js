@@ -1,5 +1,5 @@
 {
-    "author":"20220522",
+    "author":"//hogo18于2022.8.25,
     "ua": "",
     "homeUrl": "https://quanyingshi.com/",
     "dcPlayUrl": "true",
