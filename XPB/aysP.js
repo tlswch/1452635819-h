@@ -7,10 +7,10 @@
     //"homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     //"homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
     "homeVodNode": "//div[contains(@class, 'module-list')]/div[contains(@class, 'module-items')]",
-    "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
-    "homeVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
+    "homeVodName": "//div[contains(@class, 'module-item-pic')]/a/@title",
+    "homeVodId": "//div[contains(@class, 'module-item-pic')]/a/@href",
     "homeVodIdR": "/voddetail/(\\w+).html",
-    "homeVodImg": "/div[contains(@class, 'module-item-cover')]/div[contains(@class, 'module-item-pic')]/img/@data-src",
+    "homeVodImg": "//div[contains(@class, 'module-item-pic')]/img/@data-src",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     
