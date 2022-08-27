@@ -1,9 +1,9 @@
 {//"wallpaper":"http://xn--4bra.live/pic/api.php",
 //"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 "wallpaper": "http://css.lc/api.php",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
-"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar",
 "sites": [
   
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -60,27 +60,27 @@
 
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json",
-   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar"
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js",
-   "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"学堂1","name":"高中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt",
-   "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"学堂2","name":"初中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/czkc.txt",
-   "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"学堂3","name":"小学课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xxkc.txt",
-   "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"学堂4","name":"学前学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xqjy.txt",
-   "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {"key": "2345_spider","name":"2345()","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js",
