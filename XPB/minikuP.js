@@ -41,7 +41,7 @@
     "dtFromNode": "//ul[contains(@class,'nav nav-tabs')]/li/a",
     "dtFromName": "/text()",
     "dtFromNameR": "",
-    "dtUrlNode": "//div[@class='tab-content myui-panel_bd']/ul[@class='myui-content__list']",
+    "dtUrlNode": "//div[@class='tab-content myui-panel_bd']//ul[@class='myui-content__list']",
     "dtUrlSubNode": "/li/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/vodplay/(\\S+).html",
