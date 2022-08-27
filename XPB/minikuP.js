@@ -49,11 +49,11 @@
     "dtUrlNameR": "",
     "playUrl": "https://www.miniku.cc/vodplay/{playUrl}.html",
     "playUa": "",
-    "searchUrl": "https://www.miniku.cc/search.html?wd={wd}&submit=",
-    "scVodNode": "//a[contains(@class,'v-thumb')]",
-    "scVodName": "/@title",
-    "scVodId": "/@href",
-    "scVodIdR": "/movie/(\\S+).html",
-    "scVodImg": "/@data-original",
-    "scVodMark": "/span[@class='pic-text text-right']/text()"
+    "searchUrl": "https://www.miniku.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": ""
 }
