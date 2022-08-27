@@ -15,11 +15,14 @@
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     
     "cateUrl": "https://aiyingshis.com/vodshow/id/{cateId}/page/{catePg}.html",
-    "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
-    "cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
-    "cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
+    //"cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
+    //"cateVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
+    //"cateVodId": "/div[contains(@class, 'module-item-titlebox')]/a/@href",
+    "cateVodNode": "//div[contains(@class, 'module-list')]/div[contains(@class, 'module-items')]",
+    "cateVodName": "//div[contains(@class, 'module-item-pic')]/a/@title",
+    "cateVodId": "//div[contains(@class, 'module-item-pic')]/a/@href",
     "cateVodIdR": "/voddetail/(\\w+).html",
-    "cateVodImg": "/div[contains(@class, 'module-item-cover')]/div[contains(@class, 'module-item-pic')]/img/@data-src",
+    "cateVodImg": "//div[contains(@class, 'module-item-pic')]/img/@data-src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div[contains(@class,'module-item-text')]/text()",
   
