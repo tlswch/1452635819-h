@@ -96,12 +96,6 @@
 {  "key":"csp_影视录","name":"影视录(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yslP.js"
 },
-{  "key":"9亿国语","name":"9亿国语(X)️","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable": 1,
-   "ext": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/9Eguoyu.json"
-},
-{  "key":"80SCL","name":"80S磁力(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
-   "ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xp/80SCL.json"
-},
 {  "key":"csp爱影视","name":"爱影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aysP.js"
 },
