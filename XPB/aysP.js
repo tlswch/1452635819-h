@@ -23,9 +23,9 @@
   
     "dtUrl": "https://aiyingshis.com/voddetail/{vid}.html",
     "dtNode": "//body",
-    "dtName": "//div[contains(@class,'video-info')]/div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
+    "dtName": "//div[contains(@class,'video-info-header')]/h1[@class='page-title']/text()",
     "dtNameR": "",
-    "dtImg": "//div[contains(@class,'video-cover')]/div[@class=('module-item-pic')]/img/@data-src",
+    "dtImg": "//div[@class=('module-item-pic')]/img/@data-src",
     "dtImgR": "(http\\S+)",
     "dtCate": "//div[contains(@class,'tag-link')]/a/text()",
     "dtCateR": "",
