@@ -39,10 +39,10 @@
     "dtDirector": "concat(//span[contains(text(), '导演')]/parent::*/div/a/text())",
     "dtDirectorR": "",
     
-    "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[2]/div/span",
+    "dtFromNode": "//div[contains(@class,'module-tab-items')]/div[contains(@class,'module-tab-content')]/div/span",
     "dtFromName": "/text()",
     "dtFromNameR": "",
-    "dtUrlNode": "//div[contains(@class,'module-blocklist')]//div[contains(@class,'scroll-content')]",
+    "dtUrlNode": "//div[contains(@class,'module-blocklist scroll-box')]//div[contains(@class,'scroll-content')]",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/vodplay/(\\S+).html",
