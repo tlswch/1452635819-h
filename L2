@@ -95,7 +95,7 @@
    "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
 },
 {  "key":"csp_2B神马","name":"神马影视(By)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/smysBY.js",
+   "quickSearch":1,"filterable":0,"ext":"https://gitea.com/chuqiuyu/TVBox/raw/branch/main/XYQB/%E5%A5%BD%E6%81%90%E6%80%96%E7%A3%81%E5%8A%9B.json",
    "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
 },
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
