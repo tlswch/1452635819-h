@@ -5,8 +5,8 @@
     //"dcVipFlag": "true",
     //"dcPlayUrl": "true",
     //"dcShow2Vip": {},
-    //"pCfgJs": "http://www.ml1080.com/static/js/playerconfig.js",
-    //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+    "pCfgJs": "http://www.ml1080.com/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "cateManual": {
       "电影": "1",
       "连续剧": "13",
