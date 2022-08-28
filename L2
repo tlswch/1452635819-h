@@ -44,7 +44,7 @@
 {"key":"tcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
 },
-{"key":"t4public","name":"T4搜索","type":4,"searchable":1,"quickSearch":1,"filterable":0,
+{"key":"t4public","name":"全网搜索（T4）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
 },
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
