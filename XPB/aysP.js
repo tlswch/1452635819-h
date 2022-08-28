@@ -2,7 +2,7 @@
     "author":"//hogo18于2022.8.25",  
     "ua": "",
     "homeUrl": "https://aiyingshis.com/",
-    "dcPlayUrl": "true",
+    //"dcPlayUrl": "true",
     "cateManual": {"蓝光片": "37","电影": "1","电视剧": "2","综艺": "3","动漫": "4"},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
