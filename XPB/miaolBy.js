@@ -1,11 +1,11 @@
 {
-    "title": "555影视",
+    "title": "miaole影视",
     "author": "香雅情",
     "UserAgent":"",
     "firstpage": "1",
-    "class_url": "https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html",
-    "class_name": "电影&电视剧&动漫&综艺&热门电视剧&港台剧&日韩剧&欧美剧",
-    "class_value": "1&2&4&3&13&15&44&45",
+    "class_url": "https://www.ml1080.com/show/id/{cateId}/page/{catePg}.html",
+    "class_name": "电影&电视剧&动漫&国产剧&港台剧&日韩剧&欧美剧",
+    "class_value": "1&2&3&13&14&15&16",
     "filterdata":"",
     "cat_YN_twice": "1",      //是否二次截取（0，1）
     "cat_twice_pre": "class=\"module-items",  //截取前
@@ -16,9 +16,9 @@
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "module-item-note\">&&<",   //相当于描述：如更新多少集或者HD，BD等
     "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://www.o8tv.com",
+    "cat_prefix": "https://www.ml1080.com/",
     "cat_suffix": "",
-    "search_url": "https://www.o8tv.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://www.ml1080.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",
@@ -32,7 +32,7 @@
     "sea_pic": "",
     "sea_title": "",
     "sea_url": "",
-    "search_prefix": "https://www.o8tv.com/voddetail/",
+    "search_prefix": "https://www.ml1080.com/move/",
     "search_suffix": ".html",
     "sea_subtitle": "",
     "force_play": "0",
@@ -59,6 +59,6 @@
     "epi_arr_suf": "/a>",
     "epi_title": "<span>&&<",
     "epi_url": "href=\"&&\"",
-    "epiurl_prefix": "https://www.o8tv.com",
+    "epiurl_prefix": "https://www.ml1080.com/",
     "epiurl_suffix": ""    
 }
