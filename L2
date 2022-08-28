@@ -105,9 +105,6 @@
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348zP.js"
-}, 
-{  "key":"csp_喵乐影视","name":"喵乐影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/1280ysP.js"
 },
 {  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
@@ -135,6 +132,9 @@
 },
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcP.js"
+}, 
+{  "key":"csp_喵乐影视","name":"喵乐影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
+   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/miaoleP.js"
 },
 {  "key":"csp_366","name":"366影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/366ysP.js"
