@@ -1,7 +1,7 @@
 {
   "author": "20220613",
   "name": "555电影",
-  "url": "https://www.xawqxh.net",
+  "url": "http://www.ml1080.com/",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
