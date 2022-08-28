@@ -94,10 +94,6 @@
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js",
    "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
 },
-{  "key":"csp_2B","name":"虎牙(By)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/miaolBy.js",
-   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
-},
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
 },
@@ -156,7 +152,7 @@
   "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/ikysB.js"
 },
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/miaolBy.js"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
 },
 {  "key":"csp_Biu13","name":"友播TV(xB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/youbotB.js"
