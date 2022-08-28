@@ -90,8 +90,12 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
-{  "key":"csp_2Biu1","name":"虎牙直播(2B)","type":3,"api":"csp_XYQBiu","searchable":1,
+{  "key":"csp_2Biu1","name":"虎牙直播(By)","type":3,"api":"csp_XYQBiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js",
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
+},
+{  "key":"csp_2B神马","name":"神马影视(By)","type":3,"api":"csp_XYQBiu","searchable":1,
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/smysBY.js",
    "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
 },
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
