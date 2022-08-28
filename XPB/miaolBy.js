@@ -7,7 +7,7 @@
   "shouye": "1",
 
   "fenlei": "电影$/show/id/1/page#电视剧$/show/id/2/page#动漫show/id/3/page#国产剧$show/id/13/page#港台剧$/show/id/14/page#日韩剧$show/id/15/page#欧美剧$show/id/16/page#",
-  "houzhui": "---.html",
+  "houzhui": ".html",
 
   "shifouercijiequ": "1",
   "jiequqian": "class=\"module-items",
