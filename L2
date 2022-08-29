@@ -67,8 +67,8 @@
    //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js",
-   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js"//,
+   //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
 },
 {  "key":"学堂1","name":"高中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt",
