@@ -172,9 +172,8 @@
 {  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
-{"key": "csp_Alist13","name": "Alist1","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,
-  "filterable": 0, "jar":"http://刚刚.live/jar2/jar0828.jar",
-  "ext": "https://pan.142856.xyz"
+{"key":"csp_Alist13","name":"Alist1","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
+ "ext":"https://pan.142856.xyz","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 
 {  "key":"cs影视","name":"影音世界","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/"},
