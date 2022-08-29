@@ -40,11 +40,11 @@
     "play_suffix": "空",
     "play_header": "空",
     "proj_actor": "空",
-    "proj_plot": "class=\"module-info-introduction-content&&</div>",
+    "proj_plot": "class=\"module-info-introduction-content&&</div>",//简介
     "tab_YN_twice": "0",
     "tab_twice_pre": "",
     "tab_twice_suf": "",
-    "tab_arr_pre": "<div class=\"module-tab-item tab-item",
+    "tab_arr_pre": "<div class=\"module-tab-item tab-item",//影视来源
     "tab_arr_suf": "</div>",
     "tab_title": "<span>&&</span>",
     "list_YN_twice": "0",
