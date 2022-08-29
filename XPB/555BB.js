@@ -41,16 +41,16 @@
     "play_header": "空",
     "proj_actor": "空",
     "proj_plot": "class=\"module-info-introduction-content&&</div>",//简介
-    "tab_YN_twice": "0",
+    "tab_YN_twice": "0",                                        //来源
     "tab_twice_pre": "",
     "tab_twice_suf": "",
     "tab_arr_pre": "<div class=\"module-tab-item tab-item",//影视来源
     "tab_arr_suf": "</div>",
     "tab_title": "<span>&&</span>",
-    "list_YN_twice": "0",
+    "list_YN_twice": "0",                                 //播放
     "list_twice_pre": "空",
     "list_twice_suf": "空",
-    "list_arr_pre": "class=\"module-play-list-content",
+    "list_arr_pre": "class=\"module-play-list-content",//播放数组
     "list_arr_suf": "</div>",
     "epi_YN_twice": "0",
     "epi_twice_pre": "空",
