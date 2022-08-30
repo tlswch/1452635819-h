@@ -10,5 +10,6 @@
   "晴园的宝藏库": "https://alist.52qy.repl.co",
   "听闻网盘": "https://wangpan.sangxuesheng.com",
   "神族九帝": "https://alist.shenzjd.com",
-  "姬路白雪の资源小站": "https://pan.jlbx.xyz"
+  "姬路白雪の资源小站": "https://pan.jlbx.xyz",
+  "七米蓝": "https://al.chirmyram.com"
 }
