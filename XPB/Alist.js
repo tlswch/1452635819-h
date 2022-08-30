@@ -12,5 +12,7 @@
   "神族九帝": "https://alist.shenzjd.com",
   "姬路白雪の资源小站": "https://pan.jlbx.xyz",
   "七米蓝": "https://al.chirmyram.com",
-  "9t网盘": "https://drive.9t.ee"
+  "9t网盘": "https://drive.9t.ee",
+  "梦拾网盘": "http://breadmyth.asuscomm.com:22222"
+"
 }
