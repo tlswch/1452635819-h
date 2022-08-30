@@ -5,5 +5,6 @@
   "菊花盘": "https://pan.142856.xyz",
   "帅盘": "https://hi.shuaipeng.wang",
   "轻弹浅唱": "https://g.xiang.lol",
-  "嗨翻": "https://pan.hikerfans.com"
+  "嗨翻": "https://pan.hikerfans.com",
+  "一只鱼": "https://alist.youte.ml"
 }
