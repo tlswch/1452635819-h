@@ -42,7 +42,7 @@
 //{"key":"csp_GitCafe","name":"纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
 //  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"tcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"4acb3ad2f2254ba1b566279f7cd98ba3"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
+ "ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
 },
 {"key":"t4public","name":"全网搜索（T4）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
@@ -63,24 +63,19 @@
   "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"},
 
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
-   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/BiLikt.js"//,
-   //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
+   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/BiLikt.js"
 },
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js"//,
-   //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js"
 },
 {  "key":"学堂1","name":"高中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt"//,
-   //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
+   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt"
 },
 {  "key":"学堂2","name":"初中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/czkc.txt"//,
-   //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
+   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/czkc.txt"
 },
 {  "key":"学堂3","name":"小学课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xxkc.txt"//,
-  // "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/b1.jar"
+   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xxkc.txt"
 },
 {  "key":"学堂4","name":"学前学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xqjy.txt"//,
@@ -91,8 +86,7 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
 },
 {  "key":"csp_2Biu1","name":"虎牙直播(By)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js"//,
-   //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar"
+   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hyzbBB.js"
 },
 {  "key":"csp_xpath_qiumi","name":"DJ看直播(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jrskanzbP.js"
@@ -176,8 +170,8 @@
  "ext":"https://pan.142856.xyz"
 },
 {"key": "csp_Alist1","name": "AlistQ","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,
- "ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com",
-  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/alist.jar"
+ "ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"//,
+  //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/alist.jar"
 },
 
 {  "key": "M3U8资源","name":"M3U8资源","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
