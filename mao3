@@ -3,7 +3,10 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar",
 "sites": [
-
+{ "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
+  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/A.jar"
+},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -54,10 +57,6 @@
 },
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
   "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
-},
-{ "key":"csp_Alist1","name":"Alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
-  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
-  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/A.jar"
 },
 
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -220,6 +219,7 @@
     {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
      "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}
 	  },
+    {"name":"线路3","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="}, 
     {"name":"GGTV快速","type": 1,"url":"https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="},
     {"name":"盘古解析","type":1,"url":"http://150.230.216.174/tvjx.php?url=","ext":{"header": {"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
