@@ -10,6 +10,9 @@
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar"
  }, 
 
+{"key":"t4public","name":"全局筛选（请打开聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
+ "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
+},
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
@@ -48,9 +51,6 @@
 //  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"tcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
-},
-{"key":"t4public","name":"全网搜索（T4）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
- "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
 },
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
