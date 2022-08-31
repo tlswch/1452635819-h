@@ -1,4 +1,5 @@
-{
+{ 
+  "小兵网盘":"https://6vv.app",
   "七米蓝": "https://al.chirmyram.com",
   "9t网盘": "https://drive.9t.ee",
   "一只鱼": "https://alist.youte.ml",
