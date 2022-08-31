@@ -3,14 +3,15 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/T.jar",
 "sites": [
-{"key": "csp_AlistJH","name":"Alist集合","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,
- "ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com#9t网盘$https://al.chirmyram.com#梦拾网盘$https://al.chirmyram.com",
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar"
-}, 
-
-
+{ "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
+  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/A.jar"
+},
 {"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
+},
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/77.jar"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,9 +23,6 @@
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"
-},
-{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/77.jar"
 },
 //{"key":"Nfyun","name":"奈飞云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
