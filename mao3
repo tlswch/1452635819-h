@@ -9,7 +9,7 @@
 }, 
 
 
-{"key":"t4public","name":"全局筛选（请打开聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
+{"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
