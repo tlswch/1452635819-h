@@ -9,6 +9,7 @@
   "资源小站": "https://960303.xyz/",
   "菊花盘": "https://pan.142856.xyz",
   "帅盘": "https://hi.shuaipeng.wang",
+  "非盘":"http://www.feifwp.top",
   "轻弹浅唱": "https://g.xiang.lol",
   "嗨翻网盘": "https://pan.hikerfans.com",
   "晴园宝库": "https://alist.52qy.repl.co",
