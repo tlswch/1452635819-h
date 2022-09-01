@@ -223,6 +223,9 @@
 },   
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
+},
+{  "key": "tjbook","name": "听书()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/tjbook.json"
 }
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
