@@ -4,31 +4,35 @@
       "type_name": "4K",
       "type_id": "4K"
     },
-        {
+    {
+      "type_name":"相声小品",
+      "type_id":"相声小品"
+    },
+    {
       "type_name": "电影",
       "type_id": "电影"
-         },
-          {
+      },
+     {
       "type_name": "电视剧",
       "type_id": "电视剧"
-         },
+      },
      {
       "type_name": "纪录片",
       "type_id": "纪录片超清"
     },
-         {
+    {
       "type_name": "音乐",
       "type_id": "音乐"
     },
-          {
+    {
       "type_name": "歌曲",
       "type_id": "歌曲"
     },
-        {
+    {
       "type_name": "歌曲MV",
       "type_id": "歌曲MV超清"
     },
-         {
+    {
       "type_name": "影视MV",
       "type_id": "影视MV超清"
     },
@@ -48,7 +52,7 @@
       "type_name": "平面设计教学",
       "type_id": "平面设计教学"
     },
-         {
+    {
       "type_name": "软件教程",
       "type_id": "软件教程"
     },
@@ -56,7 +60,7 @@
       "type_name": "Windows",
       "type_id": "Windows"
     },
-           {
+    {
       "type_name": "广场舞",
       "type_id": "广场舞"
     },
@@ -72,7 +76,7 @@
       "type_name": "球星",
       "type_id": "球星"
     },
-      {
+    {
       "type_name": "旅游",
       "type_id": "旅游"
     },
@@ -100,22 +104,18 @@
       "type_name": "儿童",
       "type_id": "儿童"
     },
-        {
+    {
             "type_name":"动物世界",
             "type_id":"动物世界"
-        },
+   },
    {
             "type_name":"演唱会",
             "type_id":"演唱会"
-        },
-        {
-            "type_name":"相声小品",
-            "type_id":"相声小品"
-        },
-        {
+   },
+    {
             "type_name":"戏曲",
             "type_id":"戏曲"
-        },
+   },
     {
       "type_name": "演讲",
       "type_id": "演讲"
