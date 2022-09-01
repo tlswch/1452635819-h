@@ -191,6 +191,15 @@
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 
+{"key":"csp云玺TV","name":"云玺TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://43.138.193.213:8181//api.php/Miguo/vod/"
+},
+{"key":"csp369TV","name":"369TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"
+},
+{"key":"csp天空TV","name":"天空TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://tv.tkys.tv/api.php/iptv/vod/"
+},
 {"key":"csp_佑尘云影","name":"佑尘云影(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"
 },
