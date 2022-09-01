@@ -264,7 +264,7 @@
     {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
     {"name":"CL4K解析","type":1,"url":"http://123.56.222.84:2025/iphones/100.php?url="}
   ],
-"flags": [ "qq","iqiyi","mgtv","qiyi","youku","sohu","wasu","letv","tudou","pptv","renrenmi","bilibili","m1905"
+"flags": [ "qq","iqiyi","mgtv","qiyi","youku","sohu","wasu","letv","tudou","pptv","renrenmi","bilibili","m1905","9亿奇异"
   ],
 "ijk": [{"group": "软解码","options": [
 {"category" : 4, "name" : "opensles", "value" : "0"},
