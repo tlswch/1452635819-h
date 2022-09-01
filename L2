@@ -108,6 +108,9 @@
 {  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
 },
+{  "key": "cspyinfans","name":"音范丝4K","type":3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "ext": "https://gaotianliuyun.github.io/cat/json/音范丝.json"
+},
 {"key":"cspmozhatu","name":"莫扎兔(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/moztP.js"
 },
