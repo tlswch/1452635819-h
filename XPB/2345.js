@@ -768,6 +768,7 @@
         ]
     },
     "urls": {
+        "dianying": "//dianying.2345.com/",
         "dianshiju": "//tv.2345.com/",
         "zongyi": "//kan.2345.com/zongyi/",
         "dongman": "//dongman.2345.com/",
