@@ -180,6 +180,12 @@
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 
+{"key":"csp369TV","name":"369TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"
+},
+{"key":"csp天空TV","name":"天空TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://tv.tkys.tv/api.php/iptv/vod/"
+},
 {"key":"csp_佑尘云影","name":"佑尘云影(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"
 },
@@ -191,15 +197,30 @@
 },
 {  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"
+},
+{ "key":"csp_appysv2_迷你","name":"迷你库(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+  "filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"
+},
+{ "key":"csp_appysv2_筑梦","name":"筑梦影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
+  "filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"
+},
+{ "key":"cVip影视","name":"VIP影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"https://www.dpp8.xyz/api.php/v1.vod"
 }, 
-{"key": "csp_AppYsV2_美剧范","name": "美剧范(V)","type": 3,"api": "csp_AppYsV2","searchable": 1,
+{ "key": "csp_AppYsV2_美剧范","name": "美剧范(V)","type": 3,"api": "csp_AppYsV2","searchable": 1,
   "quickSearch": 1, "filterable": 1,"ext": "http://ttzmz.net/api.php/v1.vod"
 },
 {  "key": "csp_appysv2_影库","name": "影库影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
+},
+{  "key":"521看剧","name":"521看剧(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+   "ext":"http://521kanju.com/api.php/v1.vod"
 },   
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
+},
+{  "key": "tjbook","name": "听书()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/tjbook.json"
 }
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
