@@ -8,17 +8,17 @@
     "class_value": "dianying&dianshiju&dongman&zongyi",
     "filterdata":"",
     "cat_YN_twice": "1",      //是否二次截取（0，1）
-    "cat_twice_pre": "class=\"module-items",  //截取前
+    "cat_twice_pre": "class=\"layout-box",  //截取前
     "cat_twice_suf": "<div id=\"page",   //截取前
     "cat_arr_pre": "<a",     //截取前
     "cat_arr_suf": "</a>",   //截取后
     "cat_pic": "data-original=\"&&\"",
     "cat_title": "title=\"&&\"",
-    "cat_subtitle": "module-item-note\">&&<",   //相当于描述：如更新多少集或者HD，BD等
+    "cat_subtitle": "titles\">&&<",   //相当于描述：如更新多少集或者HD，BD等
     "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://www.o8tv.com",
+    "cat_prefix": "https://www.dlidl.com/",
     "cat_suffix": "",
-    "search_url": "https://www.o8tv.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://www.dlidl.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",
@@ -32,7 +32,7 @@
     "sea_pic": "",
     "sea_title": "",
     "sea_url": "",
-    "search_prefix": "https://www.o8tv.com/voddetail/",
+    "search_prefix": "https://www.dlidl.com/dlidl/",
     "search_suffix": ".html",
     "sea_subtitle": "",
     "force_play": "0",
