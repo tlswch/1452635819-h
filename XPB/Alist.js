@@ -4,6 +4,8 @@
   "9t网盘": "https://drive.9t.ee",
   "一只鱼": "https://alist.youte.ml",
   "听闻网盘": "https://wangpan.sangxuesheng.com",
+  "星梦网盘": "https://pan.bashroot.top/",
+  "A2影音库":"http://37.16.3.89/",
   "米奇妙屋": "https://anime.mqmmw.ga",
   "小光盘": "https://alist.xiaoguanxiaocheng.life",
   "资源小站": "https://960303.xyz/",
@@ -14,6 +16,9 @@
   "嗨翻网盘": "https://pan.hikerfans.com",
   "晴园宝库": "https://alist.52qy.repl.co",
   "神族九帝": "https://alist.shenzjd.com",
+  "小江网盘":"https://dyj.me/视频",
+  "触光网盘":"https://pan.ichuguang.com/",
+  "好汉盘吧":"https://8023.haohanba.cn/",
   "姬路白雪": "https://pan.jlbx.xyz",
   "梦拾网盘": "http://breadmyth.asuscomm.com:22222"
 }
