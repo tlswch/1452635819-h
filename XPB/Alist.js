@@ -20,5 +20,6 @@
   "触光网盘":"https://pan.ichuguang.com/",
   "好汉盘吧":"https://8023.haohanba.cn/",
   "姬路白雪": "https://pan.jlbx.xyz",
-  "梦拾网盘": "http://breadmyth.asuscomm.com:22222"
+  "梦拾网盘": "http://breadmyth.asuscomm.com:22222",
+  "DISK":"http://124.222.140.243:8080/"
 }
