@@ -5,7 +5,7 @@
     "firstpage": "1",
     "class_url": "https://www.dlidl.com/list/{cateId}--------{catePg}---.html",
     "class_name": "电影&电视剧&动漫&综艺",
-    "class_value": "dianying1&dianshiju&dongman&zongyi",
+    "class_value": "dianying&dianshiju&dongman&zongyi",
     "filterdata":"",
     "cat_YN_twice": "1",      //是否二次截取（0，1）
     "cat_twice_pre": "class=\"module-items",  //截取前
