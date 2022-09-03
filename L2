@@ -13,8 +13,8 @@
 {"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
 },
-{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/77.jar"
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/77.jar"
 },
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
