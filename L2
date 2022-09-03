@@ -5,6 +5,7 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar",
 "sites": [
+ 
  {"key": "csp_Alist2","name": "️Alist合集(SP)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,
 "ext": "http://120.53.102.254/tvb/ad?url=https://gitea.com/Mike906/jar/raw/branch/main/Alist.json",
       "jar": "http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
@@ -14,7 +15,7 @@
 },
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
-  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/77.jar"
+  "jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"
 },
 {"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
