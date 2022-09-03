@@ -6,9 +6,9 @@
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar",
 "sites": [
  
- {"key": "csp_Alist2","name": "️Alist合集()","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,
-"ext": "http://120.53.102.254/tvb/ad?url=https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
-      "jar": "http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"
+ {"key": "csp_Alist2","name":"️Alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
+  "jar": "http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"
 },
  
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
