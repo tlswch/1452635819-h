@@ -8,14 +8,12 @@
  
  {"key": "csp_Alist2","name": "️Alist合集(SP)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,
 "ext": "http://120.53.102.254/tvb/ad?url=https://gitea.com/Mike906/jar/raw/branch/main/Alist.json",
-      "jar": "http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
- {"key": "csp_Alist","name": "🗂Alist","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,
-      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/Alist.json",
-      "jar": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/alist.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
+      "jar": "http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"
 },
+ 
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
-  "jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"
+  "jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/alist.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
 },
 {"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10"
