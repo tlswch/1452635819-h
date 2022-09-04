@@ -136,9 +136,6 @@
 {  "key":"csp_ddg","name":"达达龟(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dadaP.js"
 },
-{  "key":"csp_2Biu6","name":"虎(By)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://notabug.org/hogo18/test/raw/main/XYQ/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.json"
-},
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcP.js"
 }, 
