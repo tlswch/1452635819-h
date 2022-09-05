@@ -12,7 +12,6 @@
 },
 {"key": "cspAlist2","name":"️alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
-  //"jar": "http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
 },
 {"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
@@ -25,18 +24,7 @@
 {"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"VIP2","name":"T4VIP2","type":4,"api":"https://vod.kooo.eu.org/t4/vip100002",
-// "searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"VIP4","name":"T4VIP4","type":4,"api":"https://vod.kooo.eu.org/t4/vip100004",
-// "searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"VIP8","name":"T4VIP8","type":4,"api":"https://vod.kooo.eu.org/t4/vip100008",
-// "searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"VIP16","name":"T4VIP16","type":4,"api":"https://vod.kooo.eu.org/t4/vip100016",
-//"searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"VIP32","name":"T4VIP32","type":4,"api":"https://vod.kooo.eu.org/t4/vip100032",
-// "searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"VIP64","name":"T4VIP64","type":4,"api":"https://vod.kooo.eu.org/t4/vip100064",
-// "searchable":1,"quickSearch":1,"filterable":1},
+
 //{"key":"VIP128","name":"T4VIP128","type":4,"api":"https://vod.kooo.eu.org/t4/vip100128",
 //"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -49,7 +37,6 @@
 {"key":"9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"
 },
-//{"key":"Nfyun","name":"奈飞云影()","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
 {"key":"Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch": 1,"filterable": 1},
@@ -65,9 +52,6 @@
 {"key":"csp_Cokemv","name":"Cokemv(ijk解码)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Km","name":"酷猫影视(ijk解码)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_GitCafe","name":"纸条(ijk解码)","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,
-//  "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"tcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
 },
