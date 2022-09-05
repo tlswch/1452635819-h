@@ -25,8 +25,9 @@
 {"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"VIP128","name":"T4VIP128","type":4,"api":"https://vod.kooo.eu.org/t4/vip100128",
-//"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP128","name":"T4VIP128","type":4,"api":"https://vod.kooo.eu.org/t4/vip100128",
+ "searchable":1,"quickSearch":1,"filterable":1
+},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
