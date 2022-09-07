@@ -1,7 +1,7 @@
 {"wallpaper":"https://qiu.moe/a723",
 //"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //"wallpaper": "http://css.lc/api.php",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q3.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar",
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar",
 "sites": [
@@ -71,7 +71,7 @@
  "ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
 },
 {"key":"Yisou","name":"易搜(仅搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "f8ff9896499c4d5b9dca44c5ff4e0108"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q6.jar"
+ "ext": "f8ff9896499c4d5b9dca44c5ff4e0108","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q6.jar"
 },
 {"key":"FindZY","name":"找资源(仅搜索ijk解码)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,
  "filterable":1,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
