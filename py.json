@@ -7,7 +7,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_bilibili.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilibili.py"
 	}, {
 		"key": "py_cctv",
 		"name": "央视",
@@ -34,7 +34,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_zxzj.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zxzj.py"
 	}, {
 		"key": "py_voflix",
 		"name": "Voflix",
@@ -43,7 +43,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_voflix.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
 	}, {
 		"key": "py_bilimd",
 		"name": "🔥B站影视",
@@ -52,7 +52,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_bilimd.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
 	}, {
 		"key": "py_gimytv",
 		"name": "剧迷",
@@ -70,7 +70,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_genmov.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/genmov.py"
 	}, {
 		"key": "py_huya",
 		"name": "🔥虎牙",
@@ -79,7 +79,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_huya.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/huya.py"
 	}, {
 		"key": "py_douyu",
 		"name": "🔥斗鱼",
@@ -88,7 +88,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_douyu.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
 	}, {
 		"key": "py_cokemv",
 		"name": "COKE",
@@ -97,7 +97,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_cokemv.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
 	}, {
 		"key": "py_xmaomi",
 		"name": "猫咪",
@@ -106,7 +106,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_xmaomi.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/xmaomi.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
@@ -115,7 +115,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_zhaozy.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
@@ -124,7 +124,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_pansou.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/pansou.py"
 	}, {
 		"key": "push_agent",
 		"name": "阿里",
@@ -133,7 +133,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_ali.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/ali.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
