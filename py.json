@@ -16,7 +16,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/XP/cctv.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
 	}, {
 		"key": "py_czspp",
 		"name": "厂长",
@@ -25,7 +25,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_czspp.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czsy.py"
 	}, {
 		"key": "py_zxzj",
 		"name": "在线之家",
