@@ -115,7 +115,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zhaozy.py"
+		"ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
