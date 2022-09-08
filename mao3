@@ -185,6 +185,21 @@
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
 
+{"key":"喵喵","name":"喵喵影视","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable": 1,
+ "quickSearch": 1,"filterable": 0
+},
+{"key":"万能影视","name":"万能影视","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视",
+ "searchable": 1,"quickSearch": 1,"filterable": 0
+},
+{"key":"莫扎兔","name":"莫扎兔","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔",
+ "searchable": 1,"quickSearch": 1,"filterable": 0
+},
+{"key":"蓝光影院","name":"蓝光影视","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院",
+  "searchable": 1,"quickSearch": 1,"filterable": 0
+},
+{"key":"在线之家","name":"在线之家","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家",
+ "searchable": 1,"quickSearch": 1,"filterable": 0
+},
 {  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {  "key": "诺讯资源","name": "诺讯资源", "type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
 {  "key":"北雁资源","name":"北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/"},
