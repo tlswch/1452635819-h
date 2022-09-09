@@ -1,0 +1,64 @@
+{
+    "title": "",
+    "author": "尤东风",
+    "UserAgent":"",
+    "firstpage": "1",
+    "class_url": "https://www.dlidl.com/list/{cateId}--------{catePg}---.html",
+    "class_name": "电影&电视剧&动漫&综艺",
+    "class_value": "dianying&dianshiju&dongman&zongyi",
+    "filterdata":"",
+    "cat_YN_twice": "1",      //是否二次截取（0，1）
+    "cat_twice_pre": "class=\"layout-box",  //截取前
+    "cat_twice_suf": "<div id=\"page",   //截取前
+    "cat_arr_pre": "<a",     //截取前
+    "cat_arr_suf": "</a>",   //截取后
+    "cat_pic": "data-original=\"&&\"",
+    "cat_title": "title=\"&&\"",
+    "cat_subtitle": "titles\">&&<",   //相当于描述：如更新多少集或者HD，BD等
+    "cat_url": "href=\"&&\"",
+    "cat_prefix": "https://www.dlidl.com/",
+    "cat_suffix": "",
+    "search_url": "https://www.dlidl.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_mode": "0",
+    "jsonpic": "pic",
+    "jsonname": "name",
+    "jsonid": "id",
+    "jsonstitle":"",
+    "sea_YN_twice": "",
+    "sea_twice_pre": "",
+    "sea_twice_suf": "",
+    "sea_arr_pre": "",
+    "sea_arr_suf": "",
+    "sea_pic": "",
+    "sea_title": "",
+    "sea_url": "",
+    "search_prefix": "https://www.dlidl.com/dlidl/",
+    "search_suffix": ".html",
+    "sea_subtitle": "",
+    "force_play": "0",
+    "play_prefix": "空",
+    "play_suffix": "空",
+    "play_header": "空",
+    "proj_actor": "空",
+    "proj_plot": "class=\"text-muted&&</p>",//简介
+    "tab_YN_twice": "0",                                        //来源
+    "tab_twice_pre": "",
+    "tab_twice_suf": "",
+    "tab_arr_pre": "<li",//影视来源
+    "tab_arr_suf": "</li>",
+    "tab_title": ">&&</a>",
+    "list_YN_twice": "0",                                 //播放
+    "list_twice_pre": "空",
+    "list_twice_suf": "空",
+    "list_arr_pre": "class=\"fade-in  show",//播放数组
+    "list_arr_suf": "</div>",
+    "epi_YN_twice": "0",
+    "epi_twice_pre": "空",
+    "epi_twice_suf": "空",
+    "epi_arr_pre": "<a",
+    "epi_arr_suf": "/a>",
+    "epi_title": ">&&/a>",
+    "epi_url": "href=\"&&\"",
+    "epiurl_prefix": "https://www.dlidl.com/",
+    "epiurl_suffix": ""    
+}
