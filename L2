@@ -36,6 +36,15 @@
 {"key":"TT", "name":"TT影视()", "api":"csp_AppTT","type":3, "filterable":1,"quickSearch":1,"searchable":1,
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
 },
+{"key": "py_cctv","name": "央视视频","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+},
+{"key":"py_czspp","name":"厂长影视","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czsy.py"
+}, 
+{"key": "py_zxzj","name":"在线之家","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zxzj.py"
+},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
