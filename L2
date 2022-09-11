@@ -5,9 +5,6 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/q.jar;md5;30d70b9c16cb3b76b070719ceb7d3d6c",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/box2.jar",
 "sites": [
-{"key":"py_bilibili","name":"哔哩哔哩","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_bilibili.py"	
-},
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
@@ -40,6 +37,9 @@
 },
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+},
+{"key":"py_bilibili","name":"哔哩哔哩(py)","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_bilibili.py"	
 },
 {"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czsy.py"
