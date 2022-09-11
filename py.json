@@ -1,5 +1,6 @@
 {
 	"sites": [
+	
 	{"key": "py_cctv","name": "央视视频","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,
 	 "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
 	},
@@ -61,9 +62,6 @@
 	}, 
 	{"key": "py_pansou","name":"盘搜","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable": 0,
 	 "ext": "https://gitea.com/UndCover/PyramidStore/raw/branch/main/plugin/py_pansou.py"
-	}, 
-	{"key":"py_ali","name":"阿里","type":3,"api": "py_ali","searchable":0,"quickSearch": 0,"filterable": 0,
-	 "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/ali.py"
 	}
 	],
 	"parses": [{
