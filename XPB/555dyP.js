@@ -1,5 +1,5 @@
 {// 尤东风于2022.6.17再次编制
-  "ua": "",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.5dy6.cc/",
   //"dcVipFlag": "true",
   //"pCfgJs": "https://555dy.fun/static/js/playerconfig.js",
