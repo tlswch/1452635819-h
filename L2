@@ -81,8 +81,8 @@
   "quickSearch":0,"filterable":0,"ext":"f8ff9896499c4d5b9dca44c5ff4e0108"
 },
 
-{"key": "py_cctv","name": "央视视频(py)","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+{"key": "py_yiso","name": "央视视频(py)","type": 3,"api": "py_yiso","searchable": 0,"quickSearch": 0,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_yiso.py"
 },
 {"key":"py_bilibili","name":"哔哩哔哩(py)","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_bilibili.py"	
