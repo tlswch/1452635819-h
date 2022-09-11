@@ -277,8 +277,6 @@ CCTV5+,http://39.136.48.53:8089/PLTV/88888888/224/3221225781/index.m3u8
 
 CCTV6,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV6,http://mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv6hd/1000/01.m3u8?msisdn=20220911135205a3edc421ada6490b9c6d5a5f9f4fb608&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20220911135205&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=223.150.221.96&SecurityKey=20220911135205&mvid=5100001694&mcid=500020&mpid=&playurlVersion=WX-A1-5.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=b43389bbb09ba16c8b484e36c4814641&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=65a6f34e8cc9a2f71fbc8f4d77363192
-CCTV6,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
-CCTV6,http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
 CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
 CCTV6,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8?
 CCTV6,http://222.240.82.92:9901/tsfile/live/0006_1.m3u8
