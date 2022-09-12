@@ -9,7 +9,7 @@
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
 },
 {"key": "cspAlist2","name":"️alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"//,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
 },
 {"key":"t4public","name":"全局筛选（请开启聚合模式）","type":4,"searchable":1,"quickSearch":1,"filterable":0,
