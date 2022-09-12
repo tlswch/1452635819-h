@@ -293,7 +293,6 @@ CCTV6,http://182.151.211.171:808/hls/6/index.m3u8
 CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
 CCTV6,http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
 CCTV7,http://mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv7hd/50/01.m3u8?msisdn=20220912145721b8f290fd45164c0595e7e2f4c9c57468&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20220912145721&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=223.150.235.113&SecurityKey=20220912145721&mvid=5102910278&mcid=500020&mpid=&playurlVersion=WX-A1-5.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=5d5ac6474320522481f0393a86cb3899&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dee3df425bf8228f9e9feee0b8abca16
-CCTV7,http://api.cntv.cn/epg/epginfo?serviceId=cbox&c=cctv10&d=20220912
 CCTV7,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168121
 CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 CCTV7,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
