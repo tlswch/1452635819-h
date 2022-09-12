@@ -5,7 +5,7 @@
 
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
-  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
+  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
 },
 {"key": "cspAlist2","name":"️alist合集","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
@@ -29,7 +29,7 @@
 },
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "小熊","name":"小熊TV()","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
@@ -42,7 +42,9 @@
 {"key":"Smdyy_spider","name":"神马影视()","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
+},
 //{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"追剧喵","name":"追剧喵(ijk解码)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
