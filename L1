@@ -21,9 +21,6 @@
 {"key": "csp_IQIYI","name": "爱奇艺()","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "csp_MGTV","name": "芒果TV()","type": 3, "api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"哔滴","name":"哔滴影视(ijk解码)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
-},
 {"key":"TT", "name":"图图影视()", "api":"csp_AppTT","type":3, "filterable":1,"quickSearch":1,"searchable":1,
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
 },
@@ -42,11 +39,17 @@
 {"key":"Smdyy_spider","name":"神马影视()","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_在线之家","name":"在线之家()","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家",
+ "searchable":1,"quickSearch":1,"filterable":0
+},
 {"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
 },
 //{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"哔滴","name":"哔滴影视(ijk解码)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
+},
 {"key":"追剧喵","name":"追剧喵(ijk解码)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv(ijk解码)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
