@@ -2,8 +2,8 @@
 	"sites": [
 	
 
-{"key":"dr_莫扎兔","name":"莫扎兔(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_在线之家","name":"在线之家(道长)","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_莫扎兔","name":"莫扎兔()","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_在线之家","name":"在线之家()","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"py_czspp","name":"厂长影视","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
 	 "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czsy.py"
 	}, 
