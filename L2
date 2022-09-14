@@ -4,11 +4,7 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3",
 "sites": [
-{"key":"csp_AppYsV2","name":"优众影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
-},
-{"key":"csp_Jianying","name":"简影影视()","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8","jar":"https://神器每日推送.tk/jar;md5;89a367a21768e46bc528b6ecf735e1b3"
-},
+
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
@@ -228,7 +224,9 @@
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
 
-
+{"key":"csp_AppYsV2","name":"优众影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
+},
 {"key":"csp369TV","name":"369TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"
 },
