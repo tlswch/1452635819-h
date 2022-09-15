@@ -4,7 +4,9 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3",
 "sites": [
-
+{key:'vip影院',name:'vip影院()',type:1,api:'http://cms.nokia.press/vod?rule=vip影院',
+ searchable:1,quickSearch:1,filterable:0
+},
 { "key":"csp_Alist1","name":"Alist集合","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
