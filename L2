@@ -102,7 +102,7 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
 },
 {"key": "voflix","name":"Voflix","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Voflix.py"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
  //"https://github.com/hogo18/hogoTV/raw/main/Py/py_voflix.py"
 },  
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
