@@ -67,20 +67,20 @@
  "ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
 },
 {"key": "Yiso","name": "易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+ "ext": "7bb5b24ca3274ad781a6071082e9eebd"
 },
 {"key": "zhaozy","name": "找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+ "ext": "7bb5b24ca3274ad781a6071082e9eebd"
 },
 {"key":"AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,
- "quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
+ "quickSearch":1,"filterable":1,"ext": "7bb5b24ca3274ad781a6071082e9eebd",
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
 },
 {"key":"csp_xpath_cilisou","name":"磁力搜索(仅搜索)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1, 
  "filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cls.json"
 },
 { "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
-  "quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"
+  "quickSearch":0,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd"
 },
 
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,
