@@ -4,23 +4,6 @@
 "sites": [
 
 
-
-{"key":"tcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"29975243e264440b85919670b76916c4"
-},
-{"key": "Yiso","name": "易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "29975243e264440b85919670b76916c4"
-},
-{"key": "zhaozy","name": "找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "29975243e264440b85919670b76916c4"
-},
-{"key":"AliPS","name":"阿里盘搜(ijk解码)","type":3,"api":"csp_AliPS","searchable":1,
- "quickSearch":1,"filterable":1,"ext": "29975243e264440b85919670b76916c4",
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
-},
-{ "key":"push_agent","name":"推送(与推送菜单配合)","type":3,"api":"csp_PushAgent","searchable":0,
-  "quickSearch":0,"filterable":0,"ext":"29975243e264440b85919670b76916c4"
-},
 {"key":"csp555","name":"555电影()","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/Bili.json"
