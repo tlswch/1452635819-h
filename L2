@@ -83,8 +83,8 @@
   "quickSearch":0,"filterable":0,"ext":"29975243e264440b85919670b76916c4"
 },
 
-{"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,
- "ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gitcafe.py"
+{"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/yiso.py"
 },
 {"key": "py_kpys","name": "快播影视(py)","type": 3,"api":"py_kpys","searchable": 0,"quickSearch": 0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kpys.py"
