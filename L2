@@ -51,6 +51,7 @@
 },
 //{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp555","name":"555电影()","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"追剧喵(ijk解码)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Cokemv(ijk解码)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"LiteApple","name":"小苹果(ijk解码)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
@@ -58,8 +59,7 @@
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/c.jar;md5;292c5f602e90ca870e9a017b16cf59cb"
 },
 //{"key":"IKan","name":"爱看影视(ijk解码)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp555","name":"555电影()","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"tcafe","name":"小纸条（ijk解码）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"tcafe","name":"小纸条(ijk解码)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"29975243e264440b85919670b76916c4"
 },
 {"key": "Yiso","name": "易搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
