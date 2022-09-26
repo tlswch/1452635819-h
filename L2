@@ -115,7 +115,6 @@
 },
 {"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
- //"https://github.com/hogo18/hogoTV/raw/main/Py/py_voflix.py"
 },  
 
 {  "key":"csp_2Biu1","name":"虎牙直播(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
