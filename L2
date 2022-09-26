@@ -8,8 +8,8 @@
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
 },
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
-  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
-  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js"//,
+  //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3"
 },
 {"key": "cspAlist2","name":"️alist合集()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
@@ -20,8 +20,8 @@
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/BiLikt.js"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1//,
+ //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
