@@ -17,9 +17,7 @@
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json",
   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar;md5;2F19C527B9A335FB1415C5F9686515C8"
 },
-{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/a.jar"
-},
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/BiLikt.js"
 },
