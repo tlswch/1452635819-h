@@ -142,7 +142,8 @@
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/vipmvP.js"
 },
 {  "key":"cspheihei","name":"嘿嘿视频(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/heiheiQ.json"
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/heiheiQ.json",
+   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {  "key":"csp_6d","name":"六度电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6dP.js"
