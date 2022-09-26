@@ -85,8 +85,8 @@
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
  //  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_ali.py"
 },
-{"key":"py_wmkk","name":"完美看看(pyramid)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/wanmkk.py"
+{"key":"py_wmkk","name":"酷云77(py)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
 },
 {"key": "py_cyys","name": "创艺影视(py)","type": 3,"api":"py_cyys","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cyys.py"
