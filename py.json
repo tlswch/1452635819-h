@@ -1,4 +1,9 @@
 {
+	"wallpaper":"https://qiu.moe/a723",
+//"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
+//"wallpaper": "http://css.lc/api.php",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;15462016CBE37BA591A6F37E1BF42E33",
+//"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3",
 	"sites": [
 	{"key":"csp_xBPQ_在线","name":"️在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/zxzj2.json"},        
                 {"key": "csp_xBPQ_buka","name":"️不卡影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://刚刚.live/jar2/tvjs/buka.json"},
