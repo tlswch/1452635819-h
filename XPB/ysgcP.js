@@ -1,4 +1,4 @@
-{ //2022.6.8
+{ //2022.6.8   www.3434.tv
   "author": "尤东风",
   "ua": "",
   "homeUrl": "https://www.ysgc.cc/",
