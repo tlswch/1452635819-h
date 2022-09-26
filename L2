@@ -6,8 +6,6 @@
 "sites": [
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
- //"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8"
- //"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10&douban=96385077"
 },
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js",
