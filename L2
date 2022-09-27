@@ -123,7 +123,7 @@
 {"key":"csp_x爱酷","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aikysPQ.json"
 },
-{ "key":"xBPQ555","name":"555电影(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{ "key":"xBPQ555","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555dyPQ.js"
 }, 
 {  "key":"csp_2Biu1","name":"虎牙直播(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
@@ -161,8 +161,8 @@
 {  "key":"csp_6d","name":"六度电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6dP.js"
 },
-{  "key":"csp_naifeiorg","name":"奈飞中文(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/naifP.js"
+{  "key":"csp_smysQ","name":"神马影视(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
+   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/smysQ.js"
 },
 {  "key":"csp_段友","name":"段友影视(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dyysQ.json"
