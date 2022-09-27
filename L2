@@ -123,7 +123,7 @@
 {"key":"csp_x爱酷","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aikysPQ.json"
 },
-{  "key":"csp_smysQ","name":"神马影视(X)","type":3,"api":"csp_xBPQ","searchable":1,
+{  "key":"cspzxzjPQ","name":"在线之家(PQ)","type":3,"api":"csp_xBPQ","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zxzjPQ.json"
 },
 { "key":"xBPQ555","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
