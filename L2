@@ -4,6 +4,10 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;15462016CBE37BA591A6F37E1BF42E33",
 //"spider": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;64b0a0bb8060617b7c10bb0a8b89e2a3",
 "sites": [
+{"key":"csp_xBPQ_极品","name":"极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+	"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jp.json"
+  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q6.jar"
+},  
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
 },
