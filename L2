@@ -3,7 +3,7 @@
 //"wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-
+//==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
 },
@@ -78,7 +78,7 @@
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch":0,
  "filterable":1,"type_flag":1,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
-
+//==================================PY爬虫==================================================================
 {"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
 {"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
@@ -114,7 +114,7 @@
 {"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
 },  
-
+//==================================Xpath==================================================================
 {"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json"
 }, 
@@ -212,7 +212,7 @@
 {  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
-
+//==================================采集资源=================================================================
 {  "key": "M3U8资源","name":"M3U8资源","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
 {  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {  "key":"江湖官采","name":"江湖官采","type": 1,"api": "http://119.29.1.173/api.php/provide/vod/"},
@@ -228,7 +228,7 @@
 {  "key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {  "key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/"},
-
+//==================================M浏览器V1爬虫==================================================================
 {"key":"csp_AppYsV2","name":"优众影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://121.205.88.194:7878/xgapp.php/v2/"
 },
@@ -247,6 +247,7 @@
 {  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
    "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
 },
+//====================================课堂================================================================
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/TVkt.js"
 },
