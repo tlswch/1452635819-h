@@ -118,7 +118,7 @@
 },  
 
 {"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jp.json"
+ "ext":"https://agit.ai/767820774/TVboxo/raw/branch/main/XBPQ/%e6%9e%81%e5%93%81%e5%bd%b1%e8%a7%86.json"
 }, 
 {"key":"csp_x爱酷","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aikysPQ.json"
