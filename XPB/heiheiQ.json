@@ -34,7 +34,7 @@
     //分类页面截取数据模式，0为json，其它数字为普通网页。
     "cat_mode": "1",
     //分类列表数组定位，最多支持3层，能力有限，不是所有页面都能支持
-    "cat_arr_rule": ".module-items&&.module-item:not(:contains(伦理片))",
+    "cat_arr_rule": ".module-items&&.module-item",
     //分类片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "cat_is_jsoup":"1",
     //分类片单标题
@@ -46,7 +46,7 @@
     //分类片单副标题
     "cat_subtitle":".module-item-text&&Text",
     //分类片单链接补前缀  
-    "cat_prefix": "https://vidhub.top",
+    "cat_prefix": "http://heiheiys.com",
     //分类片单链接补后缀
     "cat_suffix": "",
     
@@ -89,32 +89,32 @@
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
     
     //项目信息jsoup与xb截取写法切换，1为jsoup写法(默认)，0为xb写法
-    "proj_is_jsoup":"1",
+    "proj_is_jsoup":"0",
     //类型数据，截取前缀&&截取后缀
-    "proj_cate": ".video-info&&.video-info-aux&&Text",
+    "proj_cate": "",
     //年代数据，截取前缀&&截取后缀
-    "proj_year": ".video-info&&.video-info-items,2&&Text",
+    "proj_year": "",
     //地区数据，截取前缀&&截取后缀
     "proj_area": "",
     //演员数据，截取前缀&&截取后缀
-    "proj_actor": ".video-info&&.video-info-items,1&&Text",
+    "proj_actor": "主演：</span>&&</div>",
     //简介内容，截取前缀&&截取后缀
-    "proj_plot": ".video-info&&.video-info-content&&Text",
+    "proj_plot": "剧情：</span>&&</div>",
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
-    "tab_arr_rule": ".module-tab-items&&.module-tab-item",
+    "tab_arr_rule": ".module-tab-content&&span",
     //线路标题，截取前缀&&截取后缀
-    "tab_title": "Text",
+    "tab_title": "span&&Text",
     
     //列表数组截取，必须
-    "list_arr_rule": "body&&.module-player-list",
+    "list_arr_rule": "body&&body&&.module-blocklist",
     //集数数组截取，必须
-    "epi_arr_rule": ".scroll-content&&a",
+    "epi_arr_rule": "a",
     //集数标题，截取前缀&&截取后缀
-    "epi_title": "Text",
+    "epi_title": "a&&Text",
     //集数链接，截取前缀&&截取后缀
-    "epi_url": "href",
+    "epi_url": "a&&href",
     //选集是否反转显示
     "epi_reverse": "0",
     //集数链接补前缀
