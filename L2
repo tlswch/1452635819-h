@@ -83,8 +83,8 @@
 },
 {"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
 {"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
- "ext": "https://agit.ai/767820774/TVboxo/raw/branch/main/Py/py_ali2.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+ //"ext": "https://agit.ai/767820774/TVboxo/raw/branch/main/Py/py_ali2.py"
 },
 {"key":"py_wmkk","name":"酷云七七(py)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
