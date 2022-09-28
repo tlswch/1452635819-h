@@ -207,11 +207,8 @@
 {  "key":"csp_Biu10","name":"蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lgyyB%3ejs"
 },
-{  "key":"csp_Biu1","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp江湖影院","name":"江湖影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jhysB.js"
-},
-{  "key":"csp秋千影视","name":"秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/qqysB.json"
 },
 {  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
