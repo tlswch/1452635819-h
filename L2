@@ -195,7 +195,7 @@
 {  "key":"csp_Biu9","name":"不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cerrdB.js"
 },
-{  "key":"csp_Biu13","name":"思乐影视(xB)","type":3,"api":"csp_XBiubiu","searchable":1,
+{  "key":"csp_Biu13","name":"思古影视(xB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/siguB.js"
 },
 {  "key":"csp_小鸟影视","name":"小鸟影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
