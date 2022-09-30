@@ -2,7 +2,7 @@
   "author": "20220801",
   "name": "300影视",
   // 填网站链接https://www.300kan.top，www.300kan.top，www.300ys.xyz
-  "url": "https://300ys.xyz",
+  "url": "https://www.300kan.top",
   // 这个不用动，是个别网站播放需要请求头时才用到
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "User": "空",
