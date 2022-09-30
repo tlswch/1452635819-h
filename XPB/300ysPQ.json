@@ -4,7 +4,7 @@
 "分类": "电视剧$39#电影$38#动漫$40#综艺$41",
 "导演": "导演：&&</div",
 "主演": "主演：&&</div",
-"简介": "show-desc&&</p>",
+"简介": "span&&</a",
 "副标题":"class=\"module-item-text\">&&</div>",
 "线路数组": "class=\"module-tab-item tab-item&&</div>",
 "线路标题": "<span>&&</span>",
