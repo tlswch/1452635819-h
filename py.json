@@ -7,7 +7,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_kunyu77.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
 	}, {
 		"key": "py_bilibili",
 		"name": "哔哩",
@@ -16,7 +16,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilibili.py"
 	}, {
 		"key": "py_bilivd",
 		"name": "B站(带搜索)",
@@ -43,7 +43,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
 	},{
 		"key": "py_cctv_full",
 		"name": "央视大全",
@@ -61,7 +61,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czspp.py"
 	},{
 		"key": "py_cyys",
 		"name": "创艺",
@@ -70,7 +70,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cyys.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cyys.py"
 	},{
 		"key": "py_zxzj",
 		"name": "在线之家",
@@ -79,7 +79,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zxzj.py"
 	},{
 		"key": "py_wmkk",
 		"name": "完美看看(半残)",
@@ -97,7 +97,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
 	}, {
 		"key": "py_bilimd",
 		"name": "B站影视",
@@ -133,7 +133,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/huya.py"
 	}, {
 		"key": "py_douyu",
 		"name": "斗鱼",
@@ -142,7 +142,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
 	}, {
 		"key": "py_cokemv",
 		"name": "COKE",
@@ -151,7 +151,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
 	}, {
 		"key": "py_xmaomi",
 		"name": "猫咪",
@@ -178,7 +178,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_yiso.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/yiso.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
@@ -196,7 +196,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/pansou.py"
 	}, {
 		"key": "push_agent",
 		"name": "阿里",
