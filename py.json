@@ -1,14 +1,14 @@
 {
 	"sites": [
 		{
-            "key": "py_gitcafe",
-            "name": "py_gitcafe(Pyramid)",
+            "key": "py_kuaikan",
+            "name": "py_kuaikan(Pyramid)",
             "type": 3,
-            "api": "py_gitcafe",
+            "api": "py_kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://drpy.tvboxpython.repl.co/txt/py/py_gitcafe.py"
+            "ext": "https://drpy.tvboxpython.repl.co/txt/py/py_kuaikan.py"
         },
 		{
 		"key": "py_kunyu77",
