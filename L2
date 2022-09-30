@@ -119,8 +119,8 @@
 {"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json"
 }, 
-{"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysPQ.json"
+{"key":"番茄PQ","name":"番茄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/feqePQ.json"
 }, 
 {"key":"csp_x爱酷","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aikysPQ.json"
