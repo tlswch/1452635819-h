@@ -106,7 +106,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/yiso.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_yiso.py"
 	}, {
 		"key": "py_zhaozy",
 		"name": "找资源",
@@ -115,7 +115,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zhaozy.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
 	}, {
 		"key": "py_pansou",
 		"name": "盘搜",
@@ -124,7 +124,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/pansou.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_pansou.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
