@@ -9,24 +9,6 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
 	}, {
-		"key": "py_bilibili",
-		"name": "哔哩",
-		"type": 3,
-		"api": "py_bilibili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilibili.py"
-	}, {
-		"key": "py_bilivd",
-		"name": "B站(带搜索)",
-		"type": 3,
-		"api": "py_bilivd",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilivd.py"
-	},{
 		"key": "py_3qu",
 		"name": "3QU",
 		"type": 3,
@@ -34,7 +16,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_3qu.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kpys.py"
 	},{
 		"key": "py_cctv",
 		"name": "央视",
@@ -44,15 +26,6 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-	},{
-		"key": "py_cctv_full",
-		"name": "央视大全",
-		"type": 3,
-		"api": "py_cctv_full",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv_full.py"
 	},{
 		"key": "py_czspp",
 		"name": "厂长",
@@ -81,15 +54,6 @@
 		"filterable": 1,
 		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zxzj.py"
 	},{
-		"key": "py_wmkk",
-		"name": "完美看看(半残)",
-		"type": 3,
-		"api": "py_wmkk",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_wmkk.py"
-	},{
 		"key": "py_voflix",
 		"name": "Voflix",
 		"type": 3,
@@ -106,25 +70,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py"
-	}, {
-		"key": "py_gimytv",
-		"name": "剧迷",
-		"type": 3,
-		"api": "py_gimytv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py"
-	}, {
-		"key": "py_genmov",
-		"name": "跟剧",
-		"type": 3,
-		"api": "py_genmov",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py"
+		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
 	}, {
 		"key": "py_huya",
 		"name": "虎牙",
@@ -152,25 +98,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
-	}, {
-		"key": "py_xmaomi",
-		"name": "猫咪",
-		"type": 3,
-		"api": "py_xmaomi",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py"
-	}, {
-		"key": "py_gitcafe",
-		"name": "小纸条",
-		"type": 3,
-		"api": "py_gitcafe",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gitcafe.py"
-	}, {
+	},   {
 		"key": "py_yiso",
 		"name": "易搜",
 		"type": 3,
@@ -197,15 +125,6 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/pansou.py"
-	}, {
-		"key": "push_agent",
-		"name": "阿里",
-		"type": 3,
-		"api": "py_ali",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_ali.py"
 	}],
 	"parses": [{
 		"name": "默认选项",
