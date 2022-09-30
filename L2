@@ -168,8 +168,8 @@
 {  "key":"csp_影视工场","name":"影视工场(X)","type":3,"api":"csp_XPathFilter","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcP.js"
 },
-{  "key":"csp_366","name":"366影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-  "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/cqpzq/TVboxo/raw/branch/main/MaooXP/Hoho.json"
+{  "key":"csphoho","name":"hoho影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
+  "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hoho.json"
 },
 
 {  "key":"csp_2Biu1","name":"虎牙直播(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
