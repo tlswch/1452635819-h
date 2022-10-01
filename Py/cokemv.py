@@ -96,6 +96,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		title = divContent.xpath('.//h1/text()')[0]#title名称
 		pic = root.xpath(".//div[@class='module-poster-bg']//img/@data-original")[0]
 		detail = root.xpath(".//div[@class='module-info-introduction-content']/p/text()")[0]#简介
+		#下面定义了一个vod字典装载视频数据详情
 		vod = {
 			"vod_id":tid,
 			"vod_name":title,
