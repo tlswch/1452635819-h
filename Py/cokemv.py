@@ -15,6 +15,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result = {}
 		cateManual = {
 			"抖音电影":"5",
+			"新片快递":"45"
 			"电视剧":"2",
 			"电影":"1",
 			"动漫":"4",
