@@ -48,7 +48,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				"vod_name":name,
 				"vod_pic":pic,
 				"vod_remarks":mark
-			})
+			}) #通过for语句将视频数据装入videos列表
 		result = {
 			'list':videos
 		}
@@ -79,7 +79,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				"vod_name":name,
 				"vod_pic":pic,
 				"vod_remarks":mark
-			})#通过for语句将视频数据装入videos列表
+			})
 
 		result['list'] = videos
 		result['page'] = pg
