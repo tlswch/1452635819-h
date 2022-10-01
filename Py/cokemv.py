@@ -92,10 +92,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 		url = 'https://cokemv.me/voddetail/{0}.html'.format(tid)
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
-		divContent = root.xpath("//div[@class='module-info-main']")[0]
-		title = divContent.xpath('.//h1/text()')[0]
+		divContent = root.xpath("//div[@class='module-info-main']")[0]# title路经节点
+		title = divContent.xpath('.//h1/text()')[0]#title名称
 		pic = root.xpath(".//div[@class='module-poster-bg']//img/@data-original")[0]
-		detail = root.xpath(".//div[@class='module-info-introduction-content']/p/text()")[0]
+		detail = root.xpath(".//div[@class='module-info-introduction-content']/p/text()")[0]#简介
 		vod = {
 			"vod_id":tid,
 			"vod_name":title,
