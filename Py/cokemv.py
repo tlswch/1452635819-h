@@ -25,7 +25,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			classes.append({
 				'type_name':k,
 				'type_id':cateManual[k]
-			})
+			}) #将分类列表装入classes
 		
 		result['class'] = classes
 		if(filter):
