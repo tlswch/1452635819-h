@@ -33,8 +33,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 	def homeVideoContent(self):
 		rsp = self.fetch("https://cokemv.me/")
-		root = self.html(rsp.text)
-		aList = root.xpath("//div[@class='main']//div[contains(@class,'module-items')]/a")
+		root = self.html(rsp.text) #获得的首页数据赋值给root
+		aList = root.xpath("//div[@class='main']//div[contains(@class,'module-items')]/a") #首页列表视频路经节点赋值给alist
 
 		videos = []
 		for a in aList:
