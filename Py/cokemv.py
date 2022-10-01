@@ -111,14 +111,14 @@ class Spider(Spider):  # 元类 默认的元类 type
 		}
 
 		vod_play_from = '$$$'
-		playFrom = []
+		playFrom = [] #定义视频来源数组列表
 		vodHeader = root.xpath("//div[@class='module-tab-item tab-item']/span/text()")
 		for v in vodHeader:
 			playFrom.append(v)
 		vod_play_from = vod_play_from.join(playFrom)
 		
 		vod_play_url = '$$$'
-		playList = []
+		playList = [] #定义视频播放数组列表
 		vodList = root.xpath("//div[@class='module-play-list']")
 		for vl in vodList:
 			vodItems = []
