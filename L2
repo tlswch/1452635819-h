@@ -3,7 +3,7 @@
 //"wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-  {"key":"Upyunso","name":"Up云(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xxooo.ml/36FBSX"},
+  
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
@@ -69,6 +69,9 @@
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "29975243e264440b85919670b76916c4","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+},
+{"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
+ "filterable":0,"ext":"29975243e264440b85919670b76916c4"
 },
 {"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,
  "quickSearch":1,"filterable":1,"ext": "29975243e264440b85919670b76916c4"
