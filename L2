@@ -86,8 +86,8 @@
 //==================================PY爬虫==================================================================
 {"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
 {"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
 },
 {"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
@@ -128,6 +128,9 @@
 {"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
 }, 
+{"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
+},
 {"key": "dr_腾云驾雾","name": "腾云驾雾(道长)","type":1,"api":"http://www.fenwe.tk:5705/vod?rule=腾云驾雾",
  "searchable": 2,"quickSearch": 0,"filterable": 0
 },
