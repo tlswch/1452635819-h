@@ -207,10 +207,6 @@
 {  "key":"csp_段友","name":"段友影视(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dyysQ.json"
 },
-{  "key":"cspheihei","name":"嘿嘿视频(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/rp123.json",
-   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
-},
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
 },
