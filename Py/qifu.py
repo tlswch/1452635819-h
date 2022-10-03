@@ -58,7 +58,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		if 'id' not in extend.keys():
 			extend['id'] = tid
 		extend['page'] = pg
-		filterParams = ["id", "area", "by", "class", "lang", "", "", "", "page", "", "", "year"]
+		filterParams = ["id", "area", "by", "class", "lang", "", "", "", "page", "", "", "year"]#应该是“内置了12个参数id=0,page=8”
 		params = ["", "", "", "", "", "", "", "", "", "", "", ""]
 		for idx in range(len(filterParams)):
 			fp = filterParams[idx]
