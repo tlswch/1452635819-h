@@ -65,7 +65,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			if fp in extend.keys():
 				params[idx] = extend[fp]
 		suffix = '-'.join(params)
-		url = 'http://www.qifudata.com/vodshow/{0}.html'.format(suffix)
+		url = 'http://www.qifudata.com/vodshow/{0}.html'.format(suffix)#{0}=分类-地区-time-动作--语言------年份等等
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
 		aList = root.xpath("//div[@class='stui-vodlist__box']/a")
