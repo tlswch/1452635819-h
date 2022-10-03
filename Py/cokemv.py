@@ -61,7 +61,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		urlParams[8] = pg
 		for key in extend:
 			urlParams[int(key)] = extend[key]
-		params = '-'.join(urlParams)
+		params = '-'.join(urlParams)#通过join连接各个参数为id-喜剧--G-2012,使下面的url格式化后为一个完整筛选页面
 		url = 'https://cokemv.me/vodshow/{0}.html'.format(params)
 		print(url)
 		rsp = self.fetch(url)
