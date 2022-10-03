@@ -133,7 +133,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 
 		vod_play_from = '$$$'
 		playFrom = []
-		vodHeader = root.xpath("//div[@class='stui-vodlist__head']//li/a/text()")
+		#vodHeader = root.xpath("//div[@class='stui-vodlist__head']//li/a/text()")
+		vodHeader = divContent.xpath(".//div[@class='myui-panel_hd']/div/ul/li/a[contains(@href,'playlist')]/text()")
 		for v in vodHeader:
 			playFrom.append(v)
 		vod_play_from = vod_play_from.join(playFrom)
