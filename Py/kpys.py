@@ -44,7 +44,7 @@ class Spider(Spider):  # 元类 默认的元类 type
     def categoryContent(self, tid, pg, filter, extend):
         result = {}
         header = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"}
-        url = 'https://www.3qu.live/videos/{0}?page={1}'.format(tid, pg)
+        url = 'https://www.3qu.live/videos/{0}?page={1}'.format(tid, pg)#这里主要参数：id,page,次为year等
         rsp = self.fetch(url,headers=header)
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[@class='main-content-box']/div/div/div/div/div/div/a")
