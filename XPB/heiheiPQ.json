@@ -13,7 +13,5 @@
 "播放标题":"<span>&&</span>",
 "搜索url": "http://heiheiys.com/vodsearch/{wd}-----------.html",
 "搜索模式": "1",
-"搜索数组": "class=\"module-search-item&&</div>",
-"搜索标题": "title=\"&&\""
-
+"搜索数组": "class=\"module-search-item&&</div>"
 }
