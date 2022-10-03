@@ -86,10 +86,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['pagecount'] = 9999
 		result['limit'] = 90
 		result['total'] = 999999
-		return result
+		return result  #获得视频列表
 	def detailContent(self,array):
-		tid = array[0]
-		url = 'https://cokemv.me/voddetail/{0}.html'.format(tid)
+		tid = array[0]#在列表中，用户点中任一个视频而获得的地址赋值给tid
+		url = 'https://cokemv.me/voddetail/{0}.html'.format(tid)#通过格式化而获得视频详情页面
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
 		divContent = root.xpath("//div[@class='module-info-main']")[0]# title路经节点
