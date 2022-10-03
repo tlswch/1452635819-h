@@ -4,8 +4,6 @@
     "UserAgent":"PC_UA",
     "firstpage": "1",
     "class_url": "https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-    //https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html
- //   "class_url": "https://shangjihuoke.com/index.php/vod/show/{cateId}-{area}-{by}-{catelog}-{lang}----{catePg}---{year}.html",
     "class_name": "电影&电视剧&动漫&综艺&B站",
     "class_value": "1&2&4&3&31",
     "filterdata": {
