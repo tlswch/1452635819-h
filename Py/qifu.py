@@ -188,8 +188,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		"player": {
 			"dpp": {
 				"sh": "DP播放",
-				#"pu": "https://jx.qifudata.com/?url=",
-				"pu": "https://json.legendwhb.cn//llq//?url=",
+				"pu": "https://jx.qifudata.com/?url=",
 				"sn": 1,
 				"or": 999
 			}
