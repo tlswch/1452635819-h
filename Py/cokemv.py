@@ -1,7 +1,7 @@
 #coding=utf-8
 #!/usr/bin/python
 import sys
-sys.path.append('..') # 这代表添加当前路径的上一级目录
+sys.path.append('..') # 添加当前路径的上一级目录(应该是与APP内置PY插件建立联系)
 from base.spider import Spider
 import json
 
