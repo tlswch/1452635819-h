@@ -5,7 +5,7 @@
 "sites": [
 {
       "key": "zbk-test-DRPY-JS",
-      "name": "真不卡测试[DRPY][JS]",
+      "name": "真不卡[JS]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
     },
