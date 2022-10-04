@@ -168,7 +168,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 				retry = retry - 1
 
 	def searchContent(self, key, quick):
-		url = 'https://cokemv.me/vodsearch/-------------.html?wd={0}'.format(key)
+		#url = 'https://cokemv.me/vodsearch/-------------.html?wd={0}'.format(key)
+		url = 'https://cokemv.me/index.php/ajax/suggest?mid=1&wd={0}'.format(key)
 		session = self.verifyCode(url)
 		rsp = session.get(url)
 		root = self.html(rsp.text)
