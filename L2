@@ -3,7 +3,16 @@
 //"wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-  
+  {
+  "key": "csp_xb_heihei",
+  "name": "💠嘿嘿视频(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html" 
+ },
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
