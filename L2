@@ -3,7 +3,7 @@
 //"wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-{"key": "zbk-test-DRPY-JS", "name": "真不卡[JS]","type":3,
+{"key": "zbk-test", "name": "真不卡[JS]","type":3,
  "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
  //"api": "https://agit.ai/1452635819/t/raw/branch/master/drpy.js"
 },
