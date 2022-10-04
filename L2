@@ -3,7 +3,12 @@
 //"wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-
+{
+      "key": "zbk-test-DRPY-JS",
+      "name": "真不卡测试[DRPY][JS]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
+    },
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
