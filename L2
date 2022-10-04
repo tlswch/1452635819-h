@@ -246,11 +246,11 @@
 },
 {"key":"xb_yueq","name":"💠云雀影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
- "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+ "jar": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0"
 },
 {"key": "xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
- "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
+ "jar": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0"
 },
 //==================================采集资源=================================================================
 {  "key": "M3U8资源","name":"资源采集","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
