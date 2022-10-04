@@ -1,17 +1,19 @@
 {"wallpaper":"https://qiu.moe/a723",
 //"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //"wallpaper": "http://css.lc/api.php",
-"spider": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0",
-//"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
 {"key":"xb_heihei","name": "💠嘿嘿视频(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html" 
+ "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html",
+ "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar" 
 },
 {"key":"xb_yueq","name":"💠云雀影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+ "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+ "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
 },
 {"key": "xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+ "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
 },
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
