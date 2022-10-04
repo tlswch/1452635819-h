@@ -3,10 +3,7 @@
 //"wallpaper": "http://css.lc/api.php",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-{"key": "zbk-test", "name": "真不卡[JS]","type":3,
- //"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
- "api": "https://ghproxy.com/https://raw.githubusercontent.com/hogo18/CatVodSpiderJS/main/drpy.js"
-},
+
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
@@ -136,6 +133,10 @@
 },
 {"key": "dr_腾云驾雾","name": "腾云驾雾(道长)","type":1,"api":"http://www.fenwe.tk:5705/vod?rule=腾云驾雾",
  "searchable": 2,"quickSearch": 0,"filterable": 0
+},
+{"key": "zbk-test", "name": "真不卡[JS]","type":3,
+ //"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
+ "api": "https://ghproxy.com/https://raw.githubusercontent.com/hogo18/CatVodSpiderJS/main/drpy.js"
 },
 //==================================Xpath==================================================================
 {"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
