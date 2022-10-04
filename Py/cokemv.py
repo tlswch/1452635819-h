@@ -144,8 +144,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 
 	def searchContent(self,key,quick):
-		url = 'http://freezdytv.tk/api/search.php?key=free&wd={0}'.format(key)
-		#url = 'https://cokemv.me/vodsearch/{wd}-------------.html
+		#url = 'http://freezdytv.tk/api/search.php?key=free&wd={0}'.format(key)
+		url = 'https://cokemv.me/vodsearch/{0}-------------.html'.format(wd)
 		rsp = self.fetch(url)
 		ja = json.loads(rsp.text)
 		result = {}
