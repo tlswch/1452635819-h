@@ -12,7 +12,7 @@
  "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
 },
 {"key": "xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+ "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
  "jar": "https://agit.ai/895322156/Q/raw/branch/master/jar/XBiu.jar"
 },
 //==================================jar爬虫==================================================================
