@@ -5,7 +5,7 @@
 "sites": [
 {"key": "zbk-test", "name": "真不卡[JS]","type":3,
  //"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
- "api": "https://agit.ai/1452635819/t/raw/branch/master/drpy.js"
+ "api": "https://ghproxy.com/https://raw.githubusercontent.com/https://agit.ai/1452635819/t/raw/branch/master/drpy.js"
 },
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
