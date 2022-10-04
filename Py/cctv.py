@@ -69,10 +69,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 			"美食中国": "TOPC1571034804976375",
 			"动物世界": "TOPC1451378967257534",
 			"经典咏流传 第五季":"VIDAIiNbDQzOjE5mLl3T4t2B220403"
-			"等着我": "TOPC1451378757637200",
-			"我爱发明": "TOPC1569314345479107",
-			"创新进行时": "TOPC1570875218228998",
-			"我爱发明2021": "TOPC1451557970755294"
 		}
 		classes = []
 		for k in cateManual:
@@ -101,7 +97,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 				params[idx] = '{0}={1}'.format(filterParams[idx],extend[fp])
 		suffix = '&'.join(params)
 		url = 'https://api.cntv.cn/NewVideo/getVideoListByColumn?{0}&n=20&sort=desc&mode=0&serviceId=tvcctv&t=json'.format(suffix)
-		print(url)
+		if not tid.startswith('TOPC'):
+			url = 'https://api.cntv.cn/NewVideo/getVideoListByAlbumIdNew?{0}&n=20&sort=desc&mode=0&serviceId=tvcctv&t=json'.format(suffix)
 		rsp = self.fetch(url,headers=self.header)
 		jo = json.loads(rsp.text)
 		vodList = jo['data']['list']
@@ -164,7 +161,18 @@ class Spider(Spider):  # 元类 默认的元类 type
 		content = rsp.text.strip()
 		arr = content.split('\n')
 		urlPrefix = self.regStr(id,'(http[s]?://[a-zA-z0-9.]+)/')
+		
+		subUrl = arr[-1].split('/')
+		subUrl[3] = '1200'
+		subUrl[-1] = '1200.m3u8'
+		hdUrl = urlPrefix + '/'.join(subUrl)
+
 		url = urlPrefix + arr[-1]
+
+		hdRsp = self.fetch(hdUrl,headers=self.header)
+		if hdRsp.status_code == 200:
+			url = hdUrl
+
 		result["parse"] = 0
 		result["playUrl"] = ''
 		result["url"] = url
