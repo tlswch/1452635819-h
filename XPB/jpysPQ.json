@@ -6,6 +6,8 @@
 "播放数组":"class=\"module-play-list&&</div>",
 "分类url":"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
+"搜索url": "https://www.jpys.me/vodsearch/{wd}------------.html",
+"搜索数组": "class=\"module-card-item module-item&&</li>",
 "筛选":{"1":[
       {
         "key": "cateId",
