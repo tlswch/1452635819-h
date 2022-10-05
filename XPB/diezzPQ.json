@@ -1,9 +1,13 @@
 {
+"站名": "蝶众影院",
+"主页url": "https://www.diezz.net/",
+//"请求头": "",
 "免嗅":"1",
 "分类url":"https://www.diezz.net/vodshow/{cateId}--------{catePg}---.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#日韩剧$83",
 "数组": "class=\"module-item&&</div>",
 "副标题":"class=\"module-item-text\">&&</div>",
+//"状态":"<li class=\"hl-col-xs-12 hl-col-sm-4&&</li>",
 "导演": "导演：&&</div",
 "主演": "主演：&&</div",
 "简介": "span>&&</span",
