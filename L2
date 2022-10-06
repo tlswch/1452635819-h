@@ -89,6 +89,9 @@
   //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"
 },
+{"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"
+},
 {"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
 },
