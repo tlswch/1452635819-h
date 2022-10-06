@@ -4,7 +4,7 @@
 //"请求头": "",
 "免嗅":"1",
 "分类url":"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-//"分类": "电视剧$2#电影$1#动漫$4#综艺$3",
+//"分类": "电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi",
 //"数组": "class=\"module-item&&</div>",
 "副标题":"class=\"module-item-note">&&</span>",
 //"状态":"<div class=\"video-info&&</div>",
