@@ -23,7 +23,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			"动漫":"4",
 			"综艺":"3"
 		}
-		classes = []
+		classes = []  #[{},{},{},--------]列表内装字典
 		for k in cateManual:
 			classes.append({
 				'type_name':k,
