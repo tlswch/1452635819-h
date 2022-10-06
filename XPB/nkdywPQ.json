@@ -2,7 +2,7 @@
 "站名": "耐看点播",
 "主页url": "https://www.nkdyw.com/",
 //"请求头": "",
-"免嗅":"1",
+"免嗅":"0",
 "分类url":"https://www.nkdyw.com/show/{cateId}--------{catePg}---.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
 //"数组": "class=\"module-items&&</div>",
