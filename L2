@@ -89,8 +89,8 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
 },
 {"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
 },
 {"key":"py_cctvall","name":"央视大全(py)","type":3,"api":"py_cctvall","searchable":0,"quickSearch":0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
@@ -134,6 +134,9 @@
 {"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
 },
+{"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
+},
 {"key": "dr_腾云驾雾","name":"腾讯影视(道长)","type":1,"api":"http://www.fenwe.tk:5705/vod?rule=腾云驾雾",
  "searchable": 2,"quickSearch": 0,"filterable": 0
 },
@@ -171,7 +174,10 @@
 },
 {"key":"csplgyy","name":"蓝光影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lgyyPQ.json"
-}, 
+},
+{"key":"zjmaoPQ","name":"追喵影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zjmaoPQ.json"
+},  
 {"key":"PQcokemv","name":"cok影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cokePQ.json"
 },
@@ -187,9 +193,7 @@
 {"key":"heihei","name":"嘿嘿影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/heiheiPQ.json"
 },
-{"key":"zjmaoPQ","name":"追喵影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zjmaoPQ.json"
-},      
+     
 
 
 {  "key":"csp_影视录","name":"影视录(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
