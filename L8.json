@@ -1,10 +1,7 @@
-{
-	 "spider": "https://share.nite07.com/api/v3/file/source/23634/0928.jar?sign=U0rovqg_GxGZv2wrDojrx92r_oJWvpAta_tXudvPl6w%3D%3A0",
-
-	"wallpaper":"http://壁纸.神器每日推送.tk",
-
-	"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzU0Mi9saXZlLnR4dD9zaWduPXZEUmpEc1NGM1RRUnkxdEg1dEx0V19GX1pPT05mWmVpdFNUTTdOZ1Vld2slM0QlM0Ew"]}] }],
-
+{"wallpaper":"https://qiu.moe/a723",
+//"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
+//"wallpaper": "http://css.lc/api.php",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
 {
 "key": "py_Alist",
