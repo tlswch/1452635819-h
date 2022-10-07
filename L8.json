@@ -83,7 +83,7 @@
 },
 
 //==================================PY爬虫==================================================================
-{"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
+              {"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
 {"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
 },
@@ -146,7 +146,7 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
 },
 {"key": "py_ali","name":" 阿里(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_ali.py"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_ali.py"
 },
 {"key": "Yiso1","name":"💠易搜(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_yiso.py"
