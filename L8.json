@@ -27,7 +27,7 @@
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_ali_subtitle.py"
 },
 {"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_star.py"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/xgys.py"
 },
 {"key": "py_gitcafe", "name":"小纸条(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
