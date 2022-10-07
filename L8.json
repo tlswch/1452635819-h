@@ -82,8 +82,65 @@
   "quickSearch":0,"filterable":0,"ext":"29975243e264440b85919670b76916c4"
 },
 
+//==================================PY爬虫==================================================================
+{"key":"000","name":"下面(py)爬虫需安装py专版支持","type":1,"api":"csp_Bdys01"},
+{"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
+},
+{"key": "py_Alist","name": "Alist网盘(py)","type": 3,"api":"py_Alist","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Alist.py"
+},
+{"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Alist.py"
+},
+{"key":"py_cctvall","name":"央视大全(py)","type":3,"api":"py_cctvall","searchable":0,"quickSearch":0,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
+},
+{"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"
+},
+{"key":"py_wmkk","name":"酷云七七(py)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
+},
+{"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
+},
+{"key": "py_cyys","name": "创艺影视(py)","type": 3,"api":"py_cyys","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cyys.py"
+},
+{"key": "py_kpys","name": "快播影视(py)","type": 3,"api":"py_kpys","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kpys.py"
+},
+{"key":"py_bilibili","name":"哔哩哔哩(py)","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_bilibili.py"	
+},
+{"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czsy.py"
+},
 {"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/xgys.py"
+},
+{"key":"py_kuaikan","name":"快看影视(Py)","type":3,"api":"py_kuaikan","searchable":1,"quickSearch":1,"filterable":0,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kuaikan.py"
+},
+{"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/huya.py"
+}, 
+{"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
+},
+{"key":"py_cokemv","name":"COKE(py)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
+},
+{"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
+}, 
+{"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
+},
+{"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
 },
 {"key": "py_gitcafe", "name":"小纸条(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
