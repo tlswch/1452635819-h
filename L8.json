@@ -15,9 +15,7 @@
     "quickSearch": 0,
     "filterable": 0,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_alist.py"
-}
-
-,
+},
 {
 "key": "py_ali_subtitle",
     "name": "Py | 字幕匹配",
@@ -39,57 +37,7 @@
     "quickSearch": 0,
     "filterable": 0,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_bilivd.py"
-}
-
-,
-{
-"key": "py_cctv",
-    "name": "Py | 央视",
-    "type": 3,
-    "api": "py_cctv",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_cctv.py"
-}
-
-,
-{
-"key": "py_cctv2",
-    "name": "Py | 央视2",
-    "type": 3,
-    "api": "py_cctv2",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_cctv2.py"
-}
-
-,
-{
-"key": "py_cctvdy",
-    "name": "Py | 央视电影",
-    "type": 3,
-    "api": "py_cctvdy",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_cctvdy.py"
-}
-
-,
-{
-"key": "py_czspp",
-    "name": "Py | 厂长",
-    "type": 3,
-    "api": "py_czspp",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_czspp.py"
-}
-
-,
+},
 {
 "key": "py_star",
     "name": "Py | 星光影视",
@@ -111,151 +59,7 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_gitcafe.py"
-}
-
-,
-{
-"key": "py_voflix",
-    "name": "Py | Voflix",
-    "type": 3,
-    "api": "py_voflix",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_voflix.py"
-}
-
-,
-{
-"key": "py_gimytv",
-    "name": "Py | 剧迷",
-    "type": 3,
-    "api": "py_gimytv",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_gimytv.py"
 },
-
-{
-"key": "py_genmov",
-    "name": "Py | 跟剧",
-    "type": 3,
-    "api": "py_genmov",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_genmov.py"
-}
-
-,
-{
-"key": "py_cokemv",
-    "name": "Py | COKE",
-    "type": 3,
-    "api": "py_cokemv",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_cokemv.py"
-}
-
-,
-{
-"key": "py_kunyu77",
-    "name": "Py | 酷云七七",
-    "type": 3,
-    "api": "py_kunyu77",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_kunyu77.py"
-}
-
-,
-{
-"key": "py_kuaikan",
-    "name": "Py | 快看影视",
-    "type": 3,
-    "api": "py_kuaikan",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_kuaikan.py"
-},
-{
-		"key": "py_3qu",
-		"name": "Py | 3QU影视",
-		"type": 3,
-		"api": "py_3qu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kpys.py"
-	},
-    {
-		"key": "py_cyys",
-		"name": "Py | 创艺影视",
-		"type": 3,
-		"api": "py_cyys",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cyys.py"
-	},
-{
-		"key": "py_zxzj",
-		"name": "Py | 在线之家",
-		"type": 3,
-		"api": "py_zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zxzj.py"
-	},
-    {
-		"key": "py_bilimd",
-		"name": "Py | B站影视",
-		"type": 3,
-		"api": "py_bilimd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
-	}, {
-		"key": "py_huya",
-		"name": "Py | 虎牙直播",
-		"type": 3,
-		"api": "py_huya",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/huya.py"
-	}, {
-		"key": "py_douyu",
-		"name": "Py | 斗鱼直播",
-		"type": 3,
-		"api": "py_douyu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
-	}, 
-
-{
-   "key": "py_xmaomi",
-   "name": "Py | 小猫咪",
-   "type": 3,
-   "api": "py_xmaomi",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "http://43.139.29.179:5705/txt/py/py_xmaomi.py"
-  },
-
- {"key":"py_3qu","name":"Py | 快播影视","type":3,"api":"py_3qu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/py_/py/-/raw/py/py_3qu.py","jar":"http://121.199.23.234:8080/ipfs/QmfRFUorYcdBm2KD9YBQpTX6psZ2G6DQvhquWwmS1eKsLj?filename=999.png;md5;3E92F56BD34DBC49F26EBCE77B845255"},
- 
-
 {
 "key": "py_ali",
     "name": " 🚩Py | 阿里",
@@ -270,7 +74,7 @@
 ,
 {
 "key": "Yiso1",
-    "name":"💠Py | 易搜(仅搜索)",
+    "name":"💠易搜(Py)",
     "type": 3,
     "api": "py_yiso",
     "searchable": 1,
@@ -282,7 +86,7 @@
 ,
 {
 "key": "Pansou",
-    "name": " 💎Py | 盘搜(仅搜索)",
+    "name": " 💎Py盘搜(Py)",
     "type": 3,
     "api": "py_pansou",
     "searchable": 1,
@@ -294,7 +98,7 @@
 ,
 {
 "key": "Zhaozy",
-    "name": " 🔋Py | 找资源(仅搜索)",
+    "name": " 🔋找资源(Py)",
     "type": 3,
     "api": "py_zhaozy",
     "searchable": 1,
