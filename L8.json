@@ -36,15 +36,8 @@
     "filterable": 1,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_star.py"
 },
-{
-"key": "py_gitcafe",
-    "name": "Py | 小纸条",
-    "type": 3,
-    "api": "py_gitcafe",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
+{"key": "py_gitcafe", "name":"小纸条","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
 },
 //{"key": "py_gitcafe","name": "Py | 小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,
  //"filterable": 0,"ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_gitcafe.py"},
