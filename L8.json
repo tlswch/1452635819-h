@@ -25,18 +25,6 @@
     "quickSearch": 0,
     "filterable": 0,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_ali_subtitle.py"
-}
-
-,
-{
-"key": "py_Bilivd",
-    "name": "Py | Bilivd",
-    "type": 3,
-    "api": "py_bilivd",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_bilivd.py"
 },
 {
 "key": "py_star",
@@ -47,9 +35,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_star.py"
-}
-
-,
+},
 {
 "key": "py_gitcafe",
     "name": "Py | 小纸条",
@@ -60,6 +46,8 @@
     "filterable": 0,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_gitcafe.py"
 },
+//{"key": "py_gitcafe","name": "Py | 小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,
+ //"filterable": 0,"ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_gitcafe.py"},
 {
 "key": "py_ali",
     "name": " 🚩Py | 阿里",
