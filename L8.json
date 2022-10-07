@@ -100,6 +100,9 @@
 {"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
 }],
+ "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
+   ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
+  ],
 "parses": [
     {"name":"默认","type":3,"url":"Demo"},
     {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
