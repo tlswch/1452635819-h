@@ -94,7 +94,7 @@
 },
 {"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
   //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zylt.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zgwf.py"
 },
 {"key":"py_cctvall","name":"央视大全(py)","type":3,"api":"py_cctvall","searchable":0,"quickSearch":0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
@@ -157,6 +157,9 @@
 },
 {"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
+},
+{"key": "py_zylt","name": "中医讲道(py)","type": 3,"api":"py_zylt","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zylt.py"
 },
 {"key": "zbk-test", "name": "真不卡[JS]","type":3,
  //"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
