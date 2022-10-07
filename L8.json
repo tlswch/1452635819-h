@@ -26,66 +26,23 @@
     "filterable": 0,
     "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_ali_subtitle.py"
 },
-{
-"key": "py_star",
-    "name": "Py | 星光影视",
-    "type": 3,
-    "api": "py_star",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_star.py"
+{"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_star.py"
 },
 {"key": "py_gitcafe", "name":"小纸条(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
 },
-//{"key": "py_gitcafe","name": "Py | 小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,
- //"filterable": 0,"ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_gitcafe.py"},
-{
-"key": "py_ali",
-    "name": " 🚩Py | 阿里",
-    "type": 3,
-    "api": "py_ali",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_ali.py"
-}
-
-,
-{
-"key": "Yiso1",
-    "name":"💠易搜(Py)",
-    "type": 3,
-    "api": "py_yiso",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_yiso.py"
-}
-
-,
-{
-"key": "Pansou",
-    "name": " 💎Py盘搜(Py)",
-    "type": 3,
-    "api": "py_pansou",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_pansou.py"
-}
-
-,
-{
-"key": "Zhaozy",
-    "name": " 🔋找资源(Py)",
-    "type": 3,
-    "api": "py_zhaozy",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_zhaozy.py"
+{"key": "py_ali","name":" 阿里(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_ali.py"
+},
+{"key": "Yiso1","name":"💠易搜(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
+ "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_yiso.py"
+},
+{"key": "Pansou","name":" 💎盘搜(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_pansou.py"
+},
+{"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/895322156/Q/raw/branch/master/plugin/py_zhaozy.py"
 }],
 	"parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
