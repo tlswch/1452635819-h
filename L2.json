@@ -91,8 +91,8 @@
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Alist.py"
 },
 {"key": "py_ali","name": "央视视频(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/freezb.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/freezb.py"
 },
 {"key":"py_cctvall","name":"央视大全(py)","type":3,"api":"py_cctvall","searchable":0,"quickSearch":0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
@@ -129,6 +129,9 @@
 }, 
 {"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
+},
+{"key": "py_free","name": "free直播(py)","type": 3,"api":"py_free","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/freezb.py"
 },
 {"key":"py_cokemv","name":"COKE(py)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
