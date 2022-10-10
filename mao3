@@ -149,9 +149,45 @@
 {"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
 },
-{"key": "zbk-test", "name": "真不卡[JS]","type":3,
- //"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js"
- "api": "https://ghproxy.com/https://raw.githubusercontent.com/hogo18/CatVodSpiderJS/main/drpy.js"
+//==================================js爬虫==================================================================
+{"key": "drpy酷云77","name":"七七影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+     "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/kuyun77.js"
+},
+{"key": "drpy360影视","name":"360影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+     "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/360ys.js"
+},
+{"key": "drpy万能影视","name":"万能影视(js)","type":3, "api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+     "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/wnys.js"
+},
+{"key": "drpy人人影视","name":"人人影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+     "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/RRys.js"
+},
+{"key": "drpy影视工厂","name":"影视工厂(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/ysgc.js"
+},
+{"key": "drpy555影视","name":"555影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/555dyjs"
+},
+{"key": "drpy蓝光影院","name":"蓝光影院(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/lgyy.js"
+},
+{"key": "drpy007影视","name":"007影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/007ys.js"
+},
+{"key": "drpy干饭影视","name":"干饭影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/gfys.js"
+},
+{"key": "drpy喵喵","name":"喵喵(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/maom.js"
+},
+{"key": "drpy莫扎兔","name":"莫扎兔(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/mzto.js"
+},
+{"key": "drpy真不卡","name":"真不卡(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/zbk.js"
+},
+{"key": "drpy_js_追剧喵","name":"追剧喵(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/zjmao.js"
 },
 //==================================Xpath==================================================================
 {"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
