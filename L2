@@ -44,8 +44,7 @@
 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
-{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
+{"key":"csp_Nmys","name":"农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
 {"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
