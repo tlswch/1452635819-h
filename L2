@@ -4,9 +4,7 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar;md5;85D2B2400B8C5BF6CB454911345CDE2F",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
-},
+
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10&douban=96385077"
@@ -45,6 +43,10 @@
 },
 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+},
+{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json",
+  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
 {"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
