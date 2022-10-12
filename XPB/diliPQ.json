@@ -1,7 +1,7 @@
 {
 "免嗅":"1",
 "分类url":"https://www.dlidl.com/list/{cateId}--------{catePg}---.html",
-"分类": "电视剧$2#电影$dianying#动漫$4#综艺$3#体育片$36#伦理片$20",
+"分类": "国产剧$guocanju#香港剧$xianggangju#欧美剧$oumeiju#电影$dianying#动漫$4#综艺$3#体育片$36#伦理片$20",
 "数组": "class=\"module-item&&</div>",
 "副标题":"class=\"module-item-text\">&&</div>",
 "状态":"<div class=\"video-info-main&&</div>",
