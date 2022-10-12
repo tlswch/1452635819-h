@@ -292,9 +292,6 @@
 {  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
 },
-{  "key":"csp在线之家","name":"在线之家(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zxzjP.json"
-},
 {  "key":"csp爱影视","name":"爱影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aysP.js"
 },
@@ -318,11 +315,6 @@
 },
 {  "key":"csphoho","name":"hoho影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
   "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hohoP.json"
-},
-
-{  "key":"csp_2Biu1","name":"虎牙直播(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/heiheiQ.js",
-   "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {  "key":"csp_段友","name":"段友影视(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dyysQ.json"
