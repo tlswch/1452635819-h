@@ -15,43 +15,43 @@
 {"key": "cspAlist2","name":"️alist合集()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"
 },
-{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+{"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
 {  "key": "Bili","name": "Bibi站()","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/BiLikt.js"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1//,
+ //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
-{"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+{"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
-{"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
- "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+{"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"TT", "name":"TT影视()", "api":"csp_AppTT","type":3, "filterable":1,"quickSearch":1,"searchable":1},
 {"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+{"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
 {"key":"csp_Jianying","name":"简影影视","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,
- "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw",
-"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+ "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"//,
+//"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
-{"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+{"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
-{"key":"csp_Nmys","name":"农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nmys.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+{"key":"csp_Nmys","name":"农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1//,
+ //"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nmys.json",
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
 {"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
- //"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key":"9E03","name":"9E国语()","type":3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,
+ "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
 
@@ -78,16 +78,13 @@
  "ext": "29975243e264440b85919670b76916c4"
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "29975243e264440b85919670b76916c4","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+ "ext": "29975243e264440b85919670b76916c4"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
  "filterable":0,"ext":"29975243e264440b85919670b76916c4"
 },
 {"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,
  "quickSearch":1,"filterable":1,"ext": "29975243e264440b85919670b76916c4"
-},
-{"key":"csp_xpath_cilisou","name":"磁力搜索()","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1, 
- "filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/climao.json"
 },
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,
   "quickSearch":0,"filterable":0,"ext":"29975243e264440b85919670b76916c4"
