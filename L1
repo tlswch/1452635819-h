@@ -165,8 +165,9 @@
 {"key": "drpy优酷","name": "优酷视频(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
      "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/youku.js"
 },
-//{"key": "drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"},
+{"key": "drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"
+},
 {"key": "drpy酷云77","name":"七七影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
      "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/kuyun77.js"
 },
