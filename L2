@@ -62,7 +62,7 @@
  "filterable":1,"type_flag":1,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "29975243e264440b85919670b76916c4"
+ "ext": "29975243e264440b85919670b76916c4","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "29975243e264440b85919670b76916c4","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
