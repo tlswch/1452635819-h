@@ -102,8 +102,8 @@
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Alist.py"
 },
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/yyds.py"
+  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zumaiso.py"
 },
 {"key":"py_cctvall","name":"央视大全(py)","type":3,"api":"py_cctvall","searchable":0,"quickSearch":0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
