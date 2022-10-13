@@ -41,7 +41,6 @@
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
 },
 {"key": "csp_CZSPP","name": "厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch": 1,"filterable": 1},
-
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
@@ -341,17 +340,11 @@
 {  "key":"csp_旧梦影视","name":"旧梦影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jmysB.js"
 },
-{"key":"xb_heihei","name": "💠嘿嘿视频(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html"//,
- //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/XBiu.jar" 
-},
 {"key":"xb_yueq","name":"💠云雀影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"//,
- //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/XBiu.jar"
+ "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 },
 {"key": "xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"//,
- //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/XBiu.jar"
+ "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 },
 //==================================采集资源=================================================================
 //{  "key":"电视家","name":"电 视 家","type":1,"api":"http://mytvhome.xyz/api.php/provide/vod/"},
