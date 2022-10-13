@@ -11,8 +11,8 @@
 //"类型":"0",
 "播放数组":"class=\"module-play-list-content&&</div>",
 "播放标题":"<span>&&</span>",
-"搜索url": "https://348z.com/vodsearch.html?wd={wd}",
-"搜索数组": "class=\"search-list cf&&</li>",
+"搜索url": "https://shangjihuoke.com/index.php/vod/search/wd/{wd}.html",
+"搜索数组": "class=\"module-items module-card-items&&</div>",
       "筛选": {
     "1": [
                         {
