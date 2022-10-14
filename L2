@@ -289,9 +289,6 @@
 {  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
 },
-{  "key":"csp爱影视","name":"爱影视(X)","type":3, "api":"csp_XPathFilter","searchable":1,
-  "quickSearch":1, "filterable": 1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aysP.js"
-},
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348zP.js"
 },
@@ -324,9 +321,6 @@
 },
 {  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
-},
-{ "key": "csp_ikysB","name": "爱酷影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,   
-  "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/ikysB.js"
 },
 {  "key":"csp_小鸟影视","name":"小鸟影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xlysB.js"
