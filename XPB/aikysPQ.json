@@ -3,7 +3,7 @@
 	"副标题": "class=\"handle-btn-name\">&&</span>",
 	"导演": "导演：&&</div",
 	"主演": "主演：&&</div",
-	"简介": "简介：&&</li>",
+	"简介": "class=\"module-info-introduction-content\">&&</p>",
 	"线路数组": "class=\"module-tab-item tab-item&&</div>",
     "线路标题": "<span>&&</span>",
 	"播放标题": "span>&&</span",
