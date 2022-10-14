@@ -86,8 +86,8 @@
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Alist.py"
 },
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/zumaiso.py"
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
+  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/wmkk.py"
 },
 {"key":"py_cctvall","name":"央视大全(py)","type":3,"api":"py_cctvall","searchable":0,"quickSearch":0,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
@@ -112,6 +112,9 @@
 },
 {"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czsy.py"
+},
+{"key": "py_wmkk","name": "完美看看(py)","type": 3,"api":"py_wmkk","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/wmkk.py"
 },
 {"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/xgys.py"
