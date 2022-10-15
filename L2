@@ -161,7 +161,7 @@
 },
 //==================================js爬虫==================================================================
 {"key": "drpy腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://notabug.org/hogo18/t/raw/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/TXsp.js"
+ "ext": "https://notabug.org/hogo18/t/raw/main/dr/TXsp.js"
 },
 {"key": "drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
      "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"
