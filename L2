@@ -96,7 +96,7 @@
 {"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"
 },
-{"key":"py_wmkk","name":"酷云七七(py)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"py_kunyu77","name":"酷云七七(py)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
 },
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
