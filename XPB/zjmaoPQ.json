@@ -4,7 +4,7 @@
   "主页url": "https://chasemiao.com",
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4#记录$76",
   "分类url": "https://chasemiao.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/",
-  //"副标题": "module-item-note\">&&</div>",
+  "副标题": "module-item-note\">&&</div>",
   //"导演": "导演：&&</div>",
   //"主演": "主演：&&</div>",
   //"简介": "list\"><span>&&</span>",
@@ -13,7 +13,6 @@
   "播放数组": "class=\"module-list&&</div>",
   "搜索url": "https://chasemiao.com/index.php/vod/search/?wd={wd}",
   "搜索数组": "class=\"module-card-item module-item&&</div>",
-  "搜索后缀":"/vod/search/",
   "筛选": {
 "1":[
   {"key":"class","name":"剧情","value":[
