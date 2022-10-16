@@ -1,6 +1,6 @@
 # h仓库:
 1,zb.txt的编码为：aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ=
-MD5值:64b0a0bb8060617b7c10bb0a8b89e2a3  911.jar
+MD5值:  ;md5;614831abf011d5e24b9dcb372c94392c  Q2
 添加过程
 1.添加pyramid.aar到android项目libs目录下
 2.在 app\build.gradle 中添加内容
