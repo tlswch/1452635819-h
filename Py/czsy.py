@@ -36,7 +36,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def homeVideoContent(self):
-        rsp = self.fetch("https://czspp.com")
+        rsp = self.fetch("https://www.czspp.com")
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[@class='mi_btcon']//ul/li")
         videos = []
@@ -59,7 +59,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def categoryContent(self, tid, pg, filter, extend):
         result = {}
-        url = 'https://czspp.com/{0}/page/{1}'.format(tid, pg)
+        url = 'https://www.czspp.com/{0}/page/{1}'.format(tid, pg)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[contains(@class,'mi_cont')]//ul/li")
@@ -85,7 +85,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def detailContent(self, array):
         tid = array[0]
-        url = 'https://czspp.com/movie/{0}.html'.format(tid)
+        url = 'https://www.czspp.com/movie/{0}.html'.format(tid)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))
         node = root.xpath("//div[@class='dyxingq']")[0]
@@ -162,7 +162,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def searchContent(self, key, quick):
-        url = 'https://czspp.com/xssearch?q={0}'.format(key)
+        url = 'https://www.czspp.com/xssearch?q={0}'.format(key)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))
         vodList = root.xpath("//div[contains(@class,'mi_ne_kd')]/ul/li/a")
@@ -203,7 +203,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return msg[0:-paddingLen]
 
     def playerContent(self, flag, id, vipFlags):
-        url = 'https://czspp.com/v_play/{0}.html'.format(id)
+        url = 'https://www.czspp.com/v_play/{0}.html'.format(id)
         pat = '\\"([^\\"]+)\\";var [\\d\\w]+=function dncry.*md5.enc.Utf8.parse\\(\\"([\\d\\w]+)\\".*md5.enc.Utf8.parse\\(([\\d]+)\\)'
         rsp = self.fetch(url)
         html = rsp.text
