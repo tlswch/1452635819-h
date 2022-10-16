@@ -14,8 +14,8 @@
 
 "简介": "content\">&&</div",
   
-"线路数组": "class=\"nav nav-btn clearfix\"&&</ul>",
-"线路标题":">&&/a>",
+//"线路数组": "class=\"nav nav-btn clearfix\"&&</ul>",
+//"线路标题":">&&/a>",
 "播放数组":"id=\"playlist&&</ul",
 "播放标题": ">&&</a>",
 "搜索url":"https://www.qxsyy.com/index.php/ajax/suggest?mid=1&wd={wd}",
