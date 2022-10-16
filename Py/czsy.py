@@ -36,7 +36,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def homeVideoContent(self):
-        rsp = self.fetch("https://www.czspp.com")
+        rsp = self.fetch("https://www.czspp.com/?btwaf=86276706")
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[@class='mi_btcon']//ul/li")
         videos = []
