@@ -2,7 +2,7 @@
 "免嗅":"1",
 "分类url":"https://dsxys.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 //"分类":"数字||$124",
-"分类": "电视剧$2#动漫$4#电影$1#综艺$3",
+"分类": "电视剧$2#国产剧$13#日韩剧$15#海外剧$23#电影$1#动作片$6#战争片$12#动漫$4#综艺$3",
 "导演": "导演：&&</div",
 "主演": "主演：&&</div",
 "简介": "module-info-item module-info-introduction&&</div>",
