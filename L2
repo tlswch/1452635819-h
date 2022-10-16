@@ -235,9 +235,6 @@
 {  "key":"cspzxzjPQ","name":"在线之家(PQ)","type":3,"api":"csp_xBPQ","searchable":1,
    "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zxzjPQ.json"
 },
-{ "key":"xBPQapp影院","name":"app影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/appPQ.json"
-},
 {"key":"aiysPQ","name":"爱影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aiysPQ.json"
 }, 
@@ -291,6 +288,9 @@
 },
 {"key":"ddguiPQ","name":"达达龟影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ddguiPQ.json"
+},
+{ "key":"xBPQapp影院","name":"app影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/appPQ.json"
 },
      
 {  "key":"csp_影视录","name":"影视录(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
