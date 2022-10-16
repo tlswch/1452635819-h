@@ -9,7 +9,7 @@
 	"播放标题": "span>&&</span",
 	"播放数组": "module-play-list&&</div>",
 	"分类": "电视剧$2#动漫$4#电影$1#综艺$3",
-	"分类url": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html",
+	"分类url": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}/page/{catepg}.html",
 	"搜索url": "https://www.zhanlangbu.com/index.php/vod/search.html?wd={wd}",
 	"搜索数组": "class=\"module-card-item module-item&&</div>",
 	"年份": "2004-2022",
