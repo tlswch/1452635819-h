@@ -5,15 +5,13 @@
 "免嗅": "1",
 "嗅探词":".mp4#.m3u8#.flv",
 "过滤词":".html#=http",
-
 "分类url": "https://www.qxsyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "副标题": "pic-text text-right\">&&</span",
 "链接": "href=\"/vod/&&.html\"",
 "链接前缀": "https://www.qxsyy.com/play/",
 "链接后缀": "-1-1.html",
-
+"状态":"<div class=\"myui-content__detail&&</div>",
 "简介": "content\">&&</div",
-  
 //"线路数组": "href=\"playlist\"&&</a>",
 "线路标题":">&&/a>",
 "播放数组":"id=\"playlist&&</ul",
