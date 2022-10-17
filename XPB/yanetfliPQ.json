@@ -18,5 +18,6 @@
 //"播放请求头": "",
 "搜索url": "https://yanetflix.com/vodsearch/-------------.html?wd={wd}",
 "搜索模式": "1",
-"搜索数组": "class=\"module-card-item module-item&&</div>"
+"搜索数组": "class=\"module-items module-card-items&&</div>",
+"搜索链接前缀": "/voddetail/"
 }
