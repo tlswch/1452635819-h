@@ -1,6 +1,6 @@
 {
 "免嗅":"1",
-//"副标题": "class=\"module-item-note\">&&<div >",
+"副标题": "class=\"module-item-note\">&&<div >",
 "线路数组": "class=\"module-tab-item tab-item&&</div>",
 "线路标题": "<span>&&</span>",
 "播放标题":"<span>&&</span>",
@@ -8,11 +8,11 @@
 "分类url":"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
 "搜索url": "https://www.jpys.me/vodsearch/{wd}------------.html",
-"搜索数组": "class=\"module-card-item module-item&&</li>",
+"搜索数组": "class=\"module-items module-card-items&&</li>",
 "搜索图片": "data-original=\"&&\"",
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
-"搜索链接前缀": "/Moviedetail/",
+"搜索链接前缀": "/voddetail/",
 "筛选":{"1":[
       {
         "key": "cateId",
