@@ -14,7 +14,8 @@
   "播放数组": "class=\"module-play-list&&</div>",
   "播放标题": "span>&&</span",
   "搜索url": "https://chasemiao.com/index.php/vod/search/?wd={wd}",
-  "搜索数组": "class=\"module-card-item module-item&&</div>",
+  "搜索数组": "class=\"module-items module-card-items&&</div>",
+  "搜索链接前缀": "/index.php/vod/detail/id/",
   "筛选": {
 "1":[
   {"key":"class","name":"剧情","value":[
