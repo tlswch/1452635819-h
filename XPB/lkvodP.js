@@ -11,7 +11,7 @@
     "cateName": "/@title",
     "cateId": "/@href",
     "cateIdR": "/type/(\\d+)/",
-    "cateManual": {"大陆剧": "13","港台剧": "14","日韩剧": "15","欧美剧": "16","综艺": "3","动漫": "4",
+    "cateManual": {"国产剧": "13","港台剧": "14","日韩剧": "15","欧美剧": "16","综艺": "3","动漫": "4",
         "动作片": "6","爱情片": "8","喜剧片": "7","科幻片": "9","恐怖片": "10", "剧情片": "11","战争片": "12"},
     "homeVodNode": "//div[@class='module-items']//div[@class='module-item-cover']",
     "homeVodName": "//div[@class='module-item-pic']/a/@title",
