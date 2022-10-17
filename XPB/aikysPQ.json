@@ -12,7 +12,11 @@
 	"分类": "电视剧$2#动漫$4#电影$1#综艺$3",
 	"分类url": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}/page/{catepg}.html",
 	"搜索url": "https://www.zhanlangbu.com/index.php/vod/search.html?wd={wd}",
-	"搜索数组": "class=\"module-card-item module-item&&</div>",
+	"搜索数组": "class=\"module-items module-card-items&&</div>",
+	"搜索图片": "data-original=\"&&\"",
+	"搜索标题": "alt=\"&&\"",
+	"搜索链接": "href=\"&&\"",
+	//"搜索链接前缀": "/Moviedetail/",
 	"年份": "2004-2022",
 	"筛选": "1"
 }
