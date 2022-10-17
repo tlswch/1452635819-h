@@ -2,7 +2,7 @@
 "免嗅":"1",
 "分类url":"https://www.54pv.com/vodshow/{cateId}--------{catePg}---.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#体育片$36#伦理片$20",
-"数组": "class=\"module-item&&</div>",
+//"数组": "class=\"module-item&&</div>",
 "副标题":"class=\"module-item-text\">&&</div>",
 "状态":"<div class=\"video-info-main&&</div>",
 "导演": "导演：&&</div",
