@@ -224,6 +224,9 @@
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/quyy.js"
 },
 //==================================Xpath==================================================================
+{"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json"
+},
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zjdrPQ.json"
 },
@@ -256,9 +259,6 @@
 },
 { "key":"xBPQapp影院","name":"app影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/appPQ.json"
-},
-{"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json"
 }, 
 {"key":"yanetfli","name":"鸭奈飞(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yanetfliPQ.json"
