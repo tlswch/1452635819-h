@@ -9,6 +9,10 @@
 "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
 "搜索url": "https://vipmv.tv/vod/search.html?wd={wd}",
 "搜索数组": "class=\"module-items module-card-items&&</li>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "alt=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索链接前缀": "/Moviedetail/",
 "筛选":{"1":[
       {
         "key": "cateId",
