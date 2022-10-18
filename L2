@@ -359,12 +359,7 @@
 {  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 {  "key":"江湖官采","name":"江湖官采","type": 1,"api": "http://119.29.1.173/api.php/provide/vod/"},
 {  "key": "诺讯资源","name": "诺讯资源", "type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
-{  "key":"北雁资源","name":"北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/"},
-{  "key":"八戒官采","name":"八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/"},
-{  "key": "艾特影视","name": "艾特影视","type": 1,"api": "https://www.aitee.cc/api.php/provide/vod/"},
-{  "key": "千寻影视","name": "千寻影视","type": 1,"api": "http://wy.dqyhg.cn/api.php/provide/vod/"},
 {  "key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
-{  "key":"土狗2345","name":"土狗2345","type":1,"api":"http://2345.tgzy.cc/api.php/provide/vod/"},
 {  "key":"忆梦","name":"忆梦影視","type":1,"api":"http://anltv.cn/api.php/provide/vod/"},
 {  "key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {  "key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
@@ -382,9 +377,6 @@
 },
 {  "key": "csp_appysv2_影库","name": "影库影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
-},
-{  "key":"csp_暖光影视","name":"暖光影视(v)","type":3,"api":"csp_AppYsV2",
-   "searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"
 },
 //====================================电视课堂================================================================
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
