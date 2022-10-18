@@ -106,10 +106,6 @@
 {"key":"py_bilibili","name":"哔哩哔哩(py)","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_bilibili.py"	
 },
-//{"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
-// "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cz.py"},
-//{"key": "py_wmkkk","name": "完美看看(py)","type": 3,"api":"py_wmkkk","searchable": 1,"quickSearch": 1,"filterable": 1,
-//  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/wmkk.py"},
 {"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/xgys.py"
 },
@@ -125,6 +121,10 @@
 {"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
 },
+//{"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
+// "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cz.py"},
+//{"key": "py_wmkkk","name": "完美看看(py)","type": 3,"api":"py_wmkkk","searchable": 1,"quickSearch": 1,"filterable": 1,
+//  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/wmkk.py"},
 //{"key": "py_free","name": "free直播(py)","type": 3,"api":"py_free","searchable": 1,"quickSearch": 1,"filterable": 1,
 //  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/freezb.py"},
 //{"key":"py_cokemv","name":"COKE(py)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,
@@ -174,12 +174,6 @@
 {"key": "drpy人人影视","name":"人人影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/RRys.js"
 },
-{"key": "drpy影视工厂","name":"影视工厂(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/ysgc.js"
-},
-{"key": "drpy555影视","name":"555影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/555dy.js"
-},
 {"key": "drpy蓝光影院","name":"蓝光影院(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/lgyy.js"
 },
@@ -189,14 +183,11 @@
 {"key": "drpy干饭影视","name":"干饭影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/gfys.js"
 },
-{"key": "drpy喵喵","name":"喵喵(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+{"key": "drpy喵喵","name":"喵喵影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/maom.js"
 },
 {"key": "drpy莫扎兔","name":"莫扎兔(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/mzto.js"
-},
-{"key": "drpy真不卡","name":"真不卡(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/zbk.js"
 },
 {"key": "drpy_js_追剧喵","name":"追剧喵(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/zjmao.js"
@@ -206,9 +197,6 @@
 },
 {"key": "drpy剧白白","name":"剧白白(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/jubb.js"
-},
-{"key": "drpy大米星球","name":"大米星球(js)","type": 3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/dmxq.js"
 },
 {"key": "drpy牛马","name":"牛马TV(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/LmTV.js"
