@@ -89,7 +89,8 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
 },
 {"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"},
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"
+},
 {"key":"py_kunyu77","name":"酷云七七(py)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
 },
@@ -115,25 +116,24 @@
 {"key":"py_kuaikan","name":"快看影视(Py)","type":3,"api":"py_kuaikan","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kuaikan.py"
 },
+{"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
+},
 {"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/huya.py"
 }, 
 {"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
 },
-{"key": "py_free","name": "free直播(py)","type": 3,"api":"py_free","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/freezb.py"},
-{"key":"py_cokemv","name":"COKE(py)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"
-},
+//{"key": "py_free","name": "free直播(py)","type": 3,"api":"py_free","searchable": 1,"quickSearch": 1,"filterable": 1,
+//  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/freezb.py"},
+//{"key":"py_cokemv","name":"COKE(py)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,
+// "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cokemv.py"},
 {"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
 }, 
 {"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
-},
-{"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
 },
 {"key": "py_gitcafe", "name":"小纸条(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
