@@ -6,7 +6,7 @@
 "分类url":"http://www.158381886.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html",
 "分类": "电视剧$2#电影$1#4K影视$5#综合剧集$32#综艺$3#少儿剧$4",
 "数组": "class=\"module-item&&</div>",
-//"副标题":"class=\"module-item-text\">&&</div>",
+"副标题":"class=\"module-item-text\">&&</div>",
 //"状态":"<div class=\"video-info-aux scroll-content&&</div>",
 //"导演": "导演：&&</div",
 //"主演": "主演：&&</div",
