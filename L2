@@ -205,6 +205,9 @@
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/quyy.js"
 },
 //==================================Xpath==================================================================
+{"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/deyuysPQ.json"
+},
 { "key":"xBPQdsxys","name":"大师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dsxysPQ.json"
 },
@@ -278,7 +281,7 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yuqeysPQ.json"
 },
 {"key":"54pvPQ","name":"极速影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzPQ.json"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ysgcPQ.json"
 },
      
 {  "key":"csp_影视录","name":"影视录(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,
@@ -304,9 +307,6 @@
 },
 { "key":"csphoho","name":"hoho影视(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bttwooP.js"
-},
-{  "key":"csp_段友","name":"段友影视(XQ)","type":3,"api":"csp_XYQBiu","searchable":1,
-   "quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dyysQ.json"
 },
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
