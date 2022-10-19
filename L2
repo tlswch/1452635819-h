@@ -308,17 +308,11 @@
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
 },
-{  "key":"csp_黑洞影院","name":"黑洞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
-   "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hddyB.js"
-},
 {  "key":"csp_小鸟影视","name":"小鸟影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,
    "quickSearch":1,"filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xlysB.js"
 },
 {"key":"csp_干饭影视","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, 
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysB.js"
-},
-{"key":"xb_yu","name":"💠云影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "http://www.158381886.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 },
 {"key":"xb_yueq","name":"💠云雀影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
