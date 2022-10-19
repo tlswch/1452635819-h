@@ -12,7 +12,7 @@
 //"导演": "导演：&&</div",
 //"主演": "主演：&&</div",
 //"简介": "class=\"col-pd text-collapse content\">&&</span>",
-"线路数组": "class=\"myui-panel__head&&</div>",
+"线路数组": "class=\"nav nav-tabs&&</ul>",
 //"线路标题": ">&&</a>",
 "播放数组":"class=\"myui-content__list scrollbar&&</ul>",
 //"播放标题":">&&<a>",
