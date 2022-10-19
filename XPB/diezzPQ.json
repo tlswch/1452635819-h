@@ -19,7 +19,7 @@
 //"播放请求头": "",
 "搜索url": "https://www.diezz.net/vodsearch/-------------.html?wd={wd}&submit=",
 "搜索模式": "1",
-//"搜索数组": "class=\"module-search-item&&</div>",
+"搜索数组": "class=\"searchlist_item&&</div>",
 //"搜索图片":"data-src=\"&&\"",
 //"搜索标题":"title=\"&&\"",
 //"搜索链接":"href=\"&&\"",
