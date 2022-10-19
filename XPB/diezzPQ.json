@@ -12,7 +12,7 @@
 "导演": "导演：&&</div",
 "主演": "主演：&&</div",
 "简介": "class=\"content_desc context clearfix\">&&</div>",
-"线路数组": "class=\"play_source&&</div>",
+"线路数组": "class=\"play_source_tab&&</div>",
 //"线路标题": "<span>&&</span>",
 "播放数组":"class=\"content_playlist list_scroll&&</ul>",
 "播放标题":">&&<a>",
