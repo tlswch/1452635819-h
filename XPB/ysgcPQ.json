@@ -3,24 +3,17 @@
   "站名": "影视工场",
   "主页url": "https://www.ysgc.fun",
   "免嗅": "1",
-  
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
   "分类url": "https://www.ysgc.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  
   "副标题": "text-right\">&&</span>",
-  
   "搜索后缀": "/voddetail/",
-  
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
   "简介": "sketch content\">&&</span>",
-  
   "线路数组": "<a href=\"#playlist&&</li>",
   "线路标题": ">&&</a>",
-  
   "播放数组": "<div id=\"playlist&&</ul>",
-  
-  "筛选":{
+   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
