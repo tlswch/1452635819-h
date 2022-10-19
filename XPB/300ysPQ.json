@@ -15,7 +15,7 @@
 "线路数组": "class=\"module-tab-item tab-item&&</div>",
 "线路标题": "<span>&&</span>",
 "播放数组":"class=\"scroll-content&&</div>",
-//"播放标题":"<span>&&<span",
+"播放标题":"<span>&&<span",
 //"播放请求头": "",
 "搜索url": "http://www.158381886.xyz/index.php/vod/search.html?wd={wd}",
 "搜索模式": "1",
