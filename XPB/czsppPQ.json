@@ -12,7 +12,7 @@
 //"导演": "导演：&&</div",
 //"主演": "主演：&&</div",
 //"简介": "class=\"video-info-item video-info-content vod_content\">&&</div>",
-//"线路数组": "class=\"myui-panel__head&&</ul>",
+"线路数组": "class=\"nav nav-tabs&&</ul>",
 //"线路数组": "<a href=\"#playlist&&</ul>",
 "线路标题": ">&&</a>",
 "播放数组":"<div id=\"playlist&&</ul>",
