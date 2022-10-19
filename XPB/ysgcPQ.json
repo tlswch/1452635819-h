@@ -14,7 +14,7 @@
 "简介": "class=\"col-pd text-collapse content\">&&</div>",
 "线路数组": "class=\"nav nav-tabs&&</ul>",
 "线路标题": ">&&</a>",
-"播放数组":"class=\"myui-content__list scrollbar&&</ul>",
+"播放数组":"id=\"playlist&&</div>",
 "播放标题":">&&<a>",
 //"播放请求头": "",
 "搜索url": "https://shangjihuoke.com/index.php/vod/search.html?wd={wd}",
