@@ -5,7 +5,7 @@
 "免嗅":"1",
 "分类url":"https://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
-"数组": "class=\"myui-vodlist&&</ul>",
+"数组": "class=\"myui-vodlist__box&&</div>",
 //"标题": "title=\"&&\"",
 //"副标题":"class=\"pic-text text-right\">&&</div>",
 //"状态":"<div class=\"detail_list&&</div>",
