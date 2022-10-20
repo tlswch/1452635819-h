@@ -1,9 +1,9 @@
 {
 "站名": "348",
-"主页url": "https://348z.com/",
+"主页url": "https://mozhatu.com/",
 //"请求头": "",
 "免嗅":"1",
-"分类url":"https://348z.com/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类url":"https://mozhatu.com/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#4K专区$37#直播$52",
 "数组": "class=\"pack-ykpack&&</div>",
 //"标题": "title=\"&&\"",
