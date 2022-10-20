@@ -14,7 +14,7 @@
 "简介": "class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
 "线路数组": "class=\"play_source_tab&&</div>",
 //"线路标题": ";&&==",
-"播放数组":"class=\"play_list_box show daoxu&&</div>",
+"播放数组":"class=\"playlist_notfull&&</div>",
 //"播放标题":">&&</a>",
 //"播放请求头": "",
 "搜索url": "https://348z.com/vodsearch.html?wd={wd}",
