@@ -20,7 +20,7 @@
 //"播放请求头": "",
 "搜索url": "https://mozhatu.com/index.php/vod/search.html?wd={wd}",
 "搜索模式": "1",
-//"搜索数组": "class=\"pack-packcover returl list-top-b&&</div>",
+//"搜索数组": "class=\"module-card-item module-item&&</div>",
 //"搜索图片":"data-original=\"&&\"",
 //"搜索标题":"title=\"&&\"",
 //"搜索链接":"href=\"&&\"",
