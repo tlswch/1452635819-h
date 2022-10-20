@@ -215,6 +215,9 @@
 {"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json"
 },
+{"key":"mozhatPQ","name":"莫扎兔视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/mozhatPQ.json"
+},
 {"key":"coke","name":"coke影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cokePQ.json"
 },
@@ -285,7 +288,7 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yuqeysPQ.json"
 },
 {"key":"54pvPQ","name":"极速影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/348PQ.json"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/mozhatPQ.json"
 },
 {  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
@@ -296,14 +299,8 @@
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
-{"key":"cspmozhatu","name":"莫扎兔(X)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/moztP.js"
-},
 {  "key":"kyikanP","name":"看一看电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kyikanP.json"
-},
-{ "key":"csphoho","name":"hoho影视(X)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bttwooP.js"
 },
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/diezzB.js"
@@ -313,9 +310,6 @@
 },
 {"key":"csp_干饭影视","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, 
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysB.js"
-},
-{"key":"xb_yueq","name":"💠云雀影视(R)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/smysQ.js"
 },
 {"key": "xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
