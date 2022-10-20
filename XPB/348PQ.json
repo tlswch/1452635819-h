@@ -13,7 +13,7 @@
 //"主演": "主演：&&</div",
 "简介": "class=\"desc_txt cf ec-palytcji cor3\">&&</div>",
 "线路数组": "class=\"play_source_tab&&</div>",
-//"线路标题": "<span>&&</span>",
+"线路标题": ";&&==",
 //"播放数组":"id=\"tagContent&&</div>",
 //"播放标题":">&&</a>",
 //"播放请求头": "",
