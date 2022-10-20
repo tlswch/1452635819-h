@@ -1,7 +1,7 @@
 {
   "作者": "菜妮丝",
   "站名": "神马影院",
-  "免嗅":"0",
+  "免嗅":"1",
   "主页url": "https://www.smdyy.cc",
   "分类": "电影$1#电视剧$2#动漫$4#日韩剧$15#欧美剧$16",
   "分类url": "https://www.smdyy.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
