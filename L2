@@ -291,7 +291,7 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yuqeysPQ.json"
 },
 {"key":"54pvPQ","name":"极速影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/hetoPQ.json"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysPQ.json"
 },
 {  "key":"csp_wnyy","name":"万能影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnyyP.js"
@@ -313,9 +313,6 @@
 },
 {"key":"csp_干饭影视","name":"干饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0, 
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysB.js"
-},
-{"key": "xb_heitao","name":"💠核桃影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 },
 //==================================采集资源=================================================================
 {  "key":"4星资源2","name":"爱 追 剧","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/"},
