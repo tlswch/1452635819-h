@@ -21,9 +21,6 @@
    "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/BiLikt.js"
 },
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
-{"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"TT", "name":"TT影视()", "api":"csp_AppTT","type":3, "filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
@@ -152,15 +149,6 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
 },
 //==================================js爬虫==================================================================
-{"key": "drpy腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://notabug.org/hogo18/t/raw/main/drpy.js",
- "ext": "https://notabug.org/hogo18/t/raw/main/dr/TXsp.js"
-},
-{"key": "drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"
-},
-{"key": "drpy优酷","name": "优酷视频(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/youku.js"
-},
 //{"key": "drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"},
 {"key": "drpy酷云77","name":"七七影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
