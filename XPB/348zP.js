@@ -1,9 +1,9 @@
 {
     "ua": "",
     "homeUrl": "https://348z.com",
-    //"dcVipFlag": "true",
-    //"pCfgJs": "https://348z.com/static/js/playerconfig.js",
-    //"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+    "dcVipFlag": "true",
+    "pCfgJs": "https://348z.com/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     //"dcShow2Vip": {},
     //"dcPlayUrl": "true",
     "cateNode": "//div[contains(@class,'ecnav-nav')]/div[contains(@class, 'nav-channel')]/a[contains(@href, 'vodtype')",
