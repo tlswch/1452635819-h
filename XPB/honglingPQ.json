@@ -15,7 +15,7 @@
 "简介": "class=\"desc detail\">&&</p>",
 "线路数组": "class=\"layui-tab-title&&</ul>",
 //"线路标题": ">&&</li>",
-//"播放数组":"class=\"layui-tab-content&&</div>",
+"播放数组":"class=\"layui-tab-item&&</div>",
 //"播放标题":">&&</a>",
 //"播放请求头": "",
 //"搜索url": "https://www.honglingjin.tv/search/{wd}",
