@@ -8,7 +8,7 @@
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
 //"数组": "class=\"stui-vodlist clearfix&&</a>",
 //"标题": "title=\"&&\"",
-"副标题":"class=\"pic-text text-right\">&&</div>",
+"副标题":"class=\"pic-text text-right\">&&</span>",
 //"状态":"<div class=\"video-info&&</div>",
 //"导演": "导演：&&</div",
 //"主演": "主演：&&</div",
@@ -25,7 +25,7 @@
 //"搜索标题":"title=\"&&\"",
 //"搜索链接":"href=\"&&\"",
 //"搜索链接前缀":"/index.php/vod/detail/id/",
-"年份":"20011-2022",
+//"年份":"20011-2022",
 //"排序":"时间$id#人气$hits",
 //"筛选":"1"
 }
