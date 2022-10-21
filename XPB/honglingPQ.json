@@ -9,7 +9,7 @@
 //"数组": "class=\"stui-vodlist clearfix&&</ul>",
 //"标题": "title=\"&&\"",
 "副标题":"class=\"pic-text text-right\">&&</span>",
-//"状态":"<div class=\"video-info&&</div>",
+"状态":"<div class=\"stui-content__detail&&</div>",
 //"导演": "导演：&&</div",
 //"主演": "主演：&&</div",
 //"简介": "class=\"desc detail\">&&</p>",
