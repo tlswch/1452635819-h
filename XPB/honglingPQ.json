@@ -6,7 +6,7 @@
 "免嗅":"1",
 "分类url":"https://www.honglingjin.tv/list/{cateId}/{catePg}.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
-//"数组": "class=\"stui-vodlist clearfix&&</a>",
+"数组": "class=\"stui-vodlist clearfix&&</ul>",
 //"标题": "title=\"&&\"",
 "副标题":"class=\"pic-text text-right\">&&</span>",
 //"状态":"<div class=\"video-info&&</div>",
