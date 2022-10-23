@@ -2,7 +2,7 @@
 "免嗅":"1",
 "分类url":"https://v.yunque.vip/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "分类": "电视剧$21#电影$20#动漫$23#综艺$22",
-//"数组": "class=\"module-poster-item module-item&&</a>",
+"数组": "class=\"module-poster-item module-item&&</a>",
 //"图片": "data-original=\"&&\"",
 //"标题": "title=\"&&\"",
 //"链接": "href=\"&&\"",
