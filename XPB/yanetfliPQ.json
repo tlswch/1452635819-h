@@ -2,7 +2,7 @@
 "站名": "鸭奈飞",
 "主页url": "https://yanetflix.com/",
 //"请求头": "",
-"免嗅":"1",
+"免嗅":"0",
 "分类url":"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类": "电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi",
 //"数组": "class=\"module&&</div>",
