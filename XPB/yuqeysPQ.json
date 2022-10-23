@@ -6,7 +6,7 @@
 "图片": "data-original=\"&&\"",
 "标题": "alt=\"&&\"",
 "链接": "href=\"&&\"",
-"链接前缀": "/index.php/vod/detail/id/",
+//"链接前缀": "/index.php/vod/detail/id/",
 "副标题":"class=\"module-item-note\">&&</div>",
 "导演": "导演：&&</div",
 "主演": "主演：&&</div",
