@@ -18,6 +18,6 @@
 //"播放请求头": "",
 "搜索url": "https://www.fcyy8.com/vodsearch?keyword={wd}",
 "搜索模式": "1",
-"搜索数组": "class=\"module-item-cover&&</div>",
+"搜索数组": "class=\"module-item-picr&&</div>",
 "搜索链接前缀":"/voddetail/"
 }
