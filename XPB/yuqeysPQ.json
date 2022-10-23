@@ -1,7 +1,7 @@
 {
 "免嗅":"1",
 "分类url":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
-//user-agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+"UserAgent": "Mozilla/5.0 (Linux; Android 12; M2102J2SC Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36",
 "分类": "电视剧$21#电影$20#动漫$23#综艺$22",
 "数组": "class=\"module&&</div>",
 "图片": "data-original=\"&&\"",
