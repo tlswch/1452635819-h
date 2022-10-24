@@ -44,6 +44,9 @@
 {"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/deyuysPQ.json"
 },
+{"key":"aiysPQ","name":"爱视电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aiysPQ.json"
+}, 
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar",
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnvodPQ.json"
@@ -162,9 +165,6 @@
 //{"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"},
 //==================================Xpath==================================================================
-{"key":"aiysPQ","name":"爱影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aiysPQ.json"
-}, 
 { "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dsxysPQ.json"
 },
