@@ -19,11 +19,11 @@
   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"
 },
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
-{"key":"csp_IQIYI","name":"爱奇艺()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy优酷","name": "优酷视频(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/youku.js"
 },
-{"key": "csp_MGTV","name":"芒果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
 },
@@ -38,7 +38,7 @@
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nmys.json"
 },
-{"key":"LiteApple","name":"小苹果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
+{"key":"LiteApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"剧荒TV(SP)","name":"剧荒TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
