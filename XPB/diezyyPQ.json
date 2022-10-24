@@ -13,7 +13,7 @@
 //"导演": "导演：&&</div",
 //"主演": "主演：&&</div",
 "简介": "class=\"desc hidden_xs\">&&</li>",
-"线路数组": "class=\"play_source_tab&&</div>",
+"线路数组": "class=\"play_source&&</div>",
 //"线路数组": "id=\"NumTab&&</div>",
 //"线路标题": ">&&</a>",
 "播放数组":"id=\"playlistbox&&</div>",
