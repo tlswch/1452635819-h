@@ -331,9 +331,6 @@
 {	"key": "cspM2雪人","name":"雪人影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
 	"ext": "http://app.xueren.one:80/xgapp.php/v2/"
 },
-{"key":"csp369TV","name":"369TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"http://106.13.10.156:2023//api.php/Chengcheng/vod/"
-},
 {  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod"
 },
