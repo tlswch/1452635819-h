@@ -71,26 +71,26 @@
 },
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"tcafe","name":"小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"4579ba19830d47749c6f6ad680748d96","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+ "ext":"672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable": 1,"quickSearch":0,
  "filterable":1,"type_flag":1,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "4579ba19830d47749c6f6ad680748d96","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+ "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "4579ba19830d47749c6f6ad680748d96","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
+ "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 {"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
- "filterable":0,"ext":"4579ba19830d47749c6f6ad680748d96",
+ "filterable":0,"ext":"672809702fb943c1b57cfe27b0c76ef0",
  "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "4579ba19830d47749c6f6ad680748d96","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+ "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-  "ext":"4579ba19830d47749c6f6ad680748d96","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+  "ext":"672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 
 //==================================PY爬虫==================================================================
