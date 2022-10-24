@@ -6,20 +6,15 @@
   
   "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
   "分类url": "https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  
-  "副标题": "text-right\">&&</span>",
-  
-  "搜索后缀":"/detail/",
-  
-  "导演": "导演：&&</p>",
-  "主演": "主演：&&导演：",
-  "简介": "display: none;\">&&</span>",
-  
-  "线路数组": "<h3 class=\"iconfont&&</div>",
-  "线路标题": ">&&<[不包含:网盘]",
-  
-  "播放数组": "<ul class=\"stui-content&&</ul>",
-  
+  //"数组": "class=\"stui-vodlist clearfix&&</ul>",
+  "副标题": "pic-text text-right\">&&</span>",
+  //"导演": "导演：&&</p>",
+  //"主演": "主演：&&导演：",
+  //"简介": "display: none;\">&&</span>",
+  //"线路数组": "<h3 class=\"iconfont&&</div>",
+  //"线路标题": ">&&<[不包含:网盘]",
+  //"播放数组": "<ul class=\"stui-content&&</ul>",
+  //"搜索后缀":"/detail/",
   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
