@@ -76,9 +76,6 @@
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
-{"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
- "filterable":1,"type_flag":1,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
-},
 //{"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
 // "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"},
 //{"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
@@ -88,6 +85,9 @@
 // "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"},
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
   "ext":"672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+},
+{"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
+ "filterable":1,"type_flag":1,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
 
 //==================================PY爬虫==================================================================
@@ -194,9 +194,6 @@
 },
 {"key":"xcysPQ","name":"小城影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xcysPQ.json"
-},
-{"key":"555dyPQ","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/555dyPQ.json"
 },
 {"key":"yanetfli","name":"鸭奈飞(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yanetfliPQ.json"
