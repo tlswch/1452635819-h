@@ -3,6 +3,7 @@
 "主页url": "https://www.kkdy.live/",
 //"请求头": "",
 "免嗅":"0",
+"图片代理": "1",
 "分类url":"https://www.kkdy.live/vod-show-id-{cateId}-page-{catePg}.html",
 "分类": "电视剧$tvplay#电影$movie#动漫$dongman#综艺$zongyi#纪录片$documentary",
 "数组": "class=\"myui-vodlist__box&&</div>",
