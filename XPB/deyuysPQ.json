@@ -5,7 +5,7 @@
 "免嗅":"1",
 "分类url":"https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#B站$31",
-"数组": "class=\"module-main&&</div>",
+"数组": "class=\"module-item&&</a>",
 //"标题": "alt=\"&&\"",
 "副标题":"class=\"module-item-note\">&&</div>",
 //"状态":"<div class=\"detail_list&&</div>",
