@@ -8,7 +8,7 @@
 "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
 "dcShow2Vip": {},
 "dcPlayUrl": "true",
-"免嗅":"1",
+"免嗅":"0",
 "分类":"电视剧$2#动漫$3#电影$1#综艺$4#全网资源$5",
 "分类url":"http://6d.wpwpzm.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html",
 "副标题":"pic-text text-right\">&&</span",
