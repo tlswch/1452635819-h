@@ -377,10 +377,6 @@
     {"name": "酷云解析","url": "http://139.159.220.126:5705/parse/api/酷云.js?url=",
      "type": 1,"ext": {"header": {"User-Agent": "Mozilla/5.0"}}
     },
-    {"name": "飞跃解析","url": "http://139.159.220.126:5705/parse/api/飞跃.js?url=",
-     "type": 1,"ext": {"header": {"User-Agent": "Mozilla/5.0"}}
-    },
-    {"name": "鸿途解析","url": "https://jx.bynote.top/API.php?url=","type": 1},
     {"name": "无名解析","url": "https://hc.izny.cn/json.php?url=","type":1},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}
   ],
