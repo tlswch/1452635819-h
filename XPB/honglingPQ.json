@@ -1,10 +1,10 @@
 {
 //"请求头": "",
 "站名": "",
-"主页url": "https://www.dlidl.com/",
+"主页url": "https://www.xinyaoys.com/",
 //"请求头": "",
 "免嗅":"1",
-"分类url":"https://www.dlidl.com/list/{cateId}______{catePg}.html",
+"分类url":"https://www.xinyaoys.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
 "分类": "动作片$dongzuopian#国产剧$guocanju",
 //"数组": "class=\"pic-list-hover&&</li>",
 //"标题": "title=\"&&\"",
