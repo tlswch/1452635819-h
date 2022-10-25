@@ -14,7 +14,7 @@
 "简介": "class=\"module-info-introduction-content\">&&</div>",
 "线路数组": "class=\"module-tab-item tab-item&&</div>",
 //"线路标题": "<span>&&</span>",
-//"播放数组":"class=\"play_list_box&&</div>",
+"播放数组":"class=\"module-play-list-content&&</div>",
 //"播放标题":">&&<a>",
 //"播放请求头": "",
 "搜索url": "https://shangjihuoke.com/index.php/vod/search.html?wd={wd}",
