@@ -6,9 +6,8 @@
   "Host": "www.libvio.me",
   "Referer": "WebView",
   "免嗅": "1",
-  
+  "分类url": "https://www.libvio.me/show/{cateId}-----{catePg}---.html",
   "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-  "分类url": "https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   "数组": "class=\"stui-vodlist clearfix&&</ul>",
   "副标题": "pic-text text-right\">&&</span>",
   //"导演": "导演：&&</p>",
