@@ -13,7 +13,7 @@
 //"导演": "导演：&&</p",
 //"主演": "主演：&&</p",
 "简介": "class=\"hl-col-xs-12 blurb\">&&</li>",
-"线路数组": "class=\"hl-plays-wrap hl-tabs-swiper&&</div>",
+"线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&</a>",
 //"线路标题": "nbsp;&&</a>",
 "播放数组":"id=\"hl-plays-list&&</ul>",
 //"播放标题":">&&</a>",
