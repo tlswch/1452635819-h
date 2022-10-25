@@ -8,7 +8,7 @@
   "免嗅": "1",
   "分类url": "https://www.libvio.me/show/{cateId}-----{catePg}---.html",
   "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-  "数组": "class=\"stui-vodlist clearfix&&</ul>",
+  //"数组": "class=\"stui-vodlist clearfix&&</ul>",
   "副标题": "pic-text text-right\">&&</span>",
   //"导演": "导演：&&</p>",
   //"主演": "主演：&&导演：",
@@ -16,8 +16,8 @@
   //"线路数组": "<h3 class=\"iconfont&&</div>",
   //"线路标题": ">&&<[不包含:网盘]",
   //"播放数组": "<ul class=\"stui-content&&</ul>",
-  //"搜索后缀":"/detail/",
-  "筛选":{
+  //"搜索后缀":"/detail/"
+  //"筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
