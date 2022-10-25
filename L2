@@ -253,6 +253,9 @@
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
+{"key":"lkvo","name":"点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://codeberg.org/hogo18/mao/raw/branch/master/xpb/dlidlP.js"
+},
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
