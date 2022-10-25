@@ -1,7 +1,7 @@
 {
   "站名": "LIBVIO",
   "主页url": "https://www.libvio.me",
-  
+  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
   "免嗅": "1",
   
   "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
