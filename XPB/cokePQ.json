@@ -10,7 +10,8 @@
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
-  "线路数组": "data-dropdown-value=&&</div>",
+  "线路数组": "module-tab-item tab-item&&</div>",
+  //"线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</span>",
   "播放数组": "module-play-list\">&&</div>",
   "筛选":{
