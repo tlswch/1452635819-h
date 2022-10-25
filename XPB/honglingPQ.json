@@ -6,7 +6,7 @@
 "免嗅":"1",
 "分类url":"https://www.dlidl.com/list/{cateId}______{catePg}.html",
 "分类": "动作片$dongzuopian#国产剧$guocanju",
-"数组": "id=\"col-lg-6 col-md-5 col-sm-3 col-xs-2 pic-list-hover&&</li>",
+"数组": "class=\"col-lg-6 col-md-5 col-sm-3 col-xs-2 pic-list-hover&&</li>",
 //"标题": "title=\"&&\"",
 "副标题":"class=\"titles\">&&</span>",
 //"状态":"<div class=\"stui-content__detail&&</div>",
