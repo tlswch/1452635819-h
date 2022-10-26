@@ -768,7 +768,7 @@
         ]
     },
     "urls": {
-        "dianshiju": "//tv.2345.com/",
+        "dianshiju": "//tv.2345.com/---.html",
         "zongyi": "//kan.2345.com/zongyi/",
         "dongman": "//dongman.2345.com/",
         "search": "//tv.2345.com/moviecore/server/search/?q={wd}&ctl=think&querytype=suggest",
