@@ -14,7 +14,7 @@
 //"简介": "class=\"text\">&&</div>",
 "线路数组": "class=\"tit&&</div>",
 "线路标题": ">&&</span>",
-"播放数组":"class=\"playlist&&</div>",
+"播放数组":"style=\"playlist&&</div>",
 //"播放数组":"class=\"display: none;&&</ul>",
 "播放标题":">&&</a>",
 //"播放请求头": "",
