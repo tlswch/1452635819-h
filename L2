@@ -376,9 +376,7 @@
     {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
      "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}},
     {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-    {"name": "酷云解析","url": "http://139.159.220.126:5705/parse/api/酷云.js?url=",
-     "type": 1,"ext": {"header": {"User-Agent": "Mozilla/5.0"}}
-    },
+    {"name": "酷云解析","url": "http://api.ckflv.cn/?url=","type": 1},
     {"name": "无名解析","url": "https://hc.izny.cn/json.php?url=","type":1},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}
   ],
