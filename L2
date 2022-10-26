@@ -5,7 +5,7 @@
 //"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/1.jar",
 //"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
-{"key":"csp_SPSogou","name":"看影视()","type":3,"api":"csp_SPSogou","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_SPSogou","name":"看影视()","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"},
 //==================================jar爬虫==================================================================
 //{"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
