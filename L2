@@ -372,12 +372,12 @@
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"117解析","url":"https://jx.fulitang365.com/?url="},
     {"name":"ces解析","url":"https://wds.ecsxs.com/225173.html?url="},
-    
+    http://lanlan.ckflv.cn/?url=
     {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
      "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}},
     {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
     {"name": "酷云解析","url": "http://api.ckflv.cn/?url=","type": 1},
-    //{"name": "酷云解析1","url": "http://api.8a5.cn/parse/kuaikan/de.php?url=","type": 1},
+    {"name": "懒懒解析","url": "http://lanlan.ckflv.cn/?url=","type": 1},
     {"name": "无名解析","url": "https://hc.izny.cn/json.php?url=","type":1},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}
   ],
