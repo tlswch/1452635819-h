@@ -1,0 +1,22 @@
+{
+	"免嗅":"1",
+    "分类url":"http://www.qfitv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+	"分类": "电视剧$2#电影$1#动漫$4#综艺$3#纪录片$55#电视直播$51",
+    //"数组":"class=\"module-item&&</div>",
+    "副标题":"class=\"module-item-note\">&&</div>",
+	//"导演": "导演：&&</div",
+	//"主演": "主演：&&</div",
+	"简介": "class=\"module-info-introduction-content\">&&</p>",
+	"线路数组": "class=\"module-tab-item tab-item&&</div>",
+	"线路标题": "<span>&&</span>",
+	"播放标题": "span>&&</span",
+	"播放数组": "module-play-list&&</div>",
+	"搜索url": "https://www.zhanlangbu.com/index.php/vod/search.html?wd={wd}",
+	"搜索数组": "class=\"module-items module-card-items&&</div>",
+	"搜索图片": "data-original=\"&&\"",
+	"搜索标题": "alt=\"&&\"",
+	"搜索链接": "href=\"&&\"",
+	"搜索链接前缀": "/index.php/vod/detail/id/",
+	"年份": "2004-2022",
+	"筛选": "1"
+}
