@@ -2,7 +2,7 @@
 "站名": "小鸟影视",
 "主页url": "http://www.158381886.xyz/",
 //"请求头": "",
-"免嗅":"1",
+"免嗅":"0",
 "分类url":"http://www.158381886.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "分类": "电视剧$2#电影$1#4K影视$5#综合剧集$32#综艺$3#少儿剧$4",
 "数组": "class=\"module-item&&</div>",
@@ -24,6 +24,12 @@
 "搜索标题":"alt=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "搜索链接前缀":"/index.php/vod/play/id/",
+"Anal_MacPlayer":"0",
+"ManualSniffer":"1",
+ //手动嗅探视频链接关键字，每个用#隔开
+"VideoFormat":".m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#item/video#is_play_url=1",
+//手动嗅探视频链接过滤关键词,每个用#隔开
+"VideoFilter":".html#=http",
 "年份":"2004-2022",
 "排序":"时间$id#人气$hits",
 "筛选":"1"
