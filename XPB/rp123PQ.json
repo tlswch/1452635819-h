@@ -6,13 +6,14 @@
   "分类url": "https://mac.rp123.top/vodshow/{cateId}------{catePg}---{year}/",
   //"数组": "module-item&&</div>",
   "副标题": "module-item-note\">&&</div>",
-  "导演": "导演：&&</div>",
-  "主演": "主演：&&</div>",
-  "简介": "list\"><span>&&</span>",
+  "链接前缀": "",
+  //"导演": "导演：&&</div>",
+  //"主演": "主演：&&</div>",
+  "简介": "class=\"module-info-introduction-content show-desc\">&&</div>",
   "线路数组": "data-dropdown-value=&&</div>",
   "线路标题": "<span>&&</small>",
   "播放数组": "class=\"module-play-list\">&&</div>",
-  //"搜索后缀":"/voddetail/",
+  //"搜索链接前缀":"/voddetail/",
   "筛选": {
 "1":[
   {"key":"class","name":"剧情","value":[
