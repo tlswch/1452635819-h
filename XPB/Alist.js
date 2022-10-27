@@ -6,6 +6,7 @@
   "听闻网盘": "https://wangpan.sangxuesheng.com",
   "星梦网盘": "https://pan.bashroot.top/",
   "A2影音库":"http://37.16.3.89/",
+  "轻弹浅唱": "https://g.xiang.lol",
   "触光网盘":"https://pan.ichuguang.com",
   "米奇妙屋": "https://anime.mqmmw.ga",
   "晴园宝库": "https://alist.52qy.repl.co",
