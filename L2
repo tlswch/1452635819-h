@@ -276,13 +276,15 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
 },
 //==================================js爬虫==================================================================
-{"key": "drpy腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://notabug.org/hogo18/t/raw/main/drpy.js",
+{"key": "drpy腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
  "ext": "https://notabug.org/hogo18/t/raw/main/dr/TXsp.js"
 },
-//{"key": "drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"},
-//{"key": "drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"},
+{"key": "drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"
+},
+{"key": "drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"
+},
 //{"key": "drpy酷云77","name":"七七影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/kuyun77.js"},
 //{"key": "drpy360影视","name":"360影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
