@@ -5,6 +5,7 @@
   "听闻网盘": "https://wangpan.sangxuesheng.com",
   "星梦网盘": "https://pan.bashroot.top/",
   //"A2影音库":"http://37.16.3.89/",
+  "触光网盘":"https://pan.ichuguang.com",
   "米奇妙屋": "https://anime.mqmmw.ga",
   "资源小站": "https://960303.xyz/",
   "菊花盘": "https://pan.142856.xyz",
