@@ -222,6 +222,9 @@
 {"key":"6dPQ","name":"六度影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6dPQ.json"
 },
+{"key":"kuaikan","name":"快看影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kuaikanPQ.json"
+},
 {"key":"ddguiPQ","name":"达达龟影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/ddguiPQ.json"
 },
@@ -279,10 +282,10 @@
 {"key":"drpy腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
  "ext": "https://notabug.org/hogo18/t/raw/main/dr/TXsp.js"
 },
-{"key": "lanhua","name":"兰花影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/lanhua.js"},
 {"key": "5imv","name":"我爱电影(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/5imv.js"},
+//{"key": "lanhua","name":"兰花影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/lanhua.js"},
 //{"key":"drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"},
 //{"key":"drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
