@@ -280,7 +280,8 @@
  "api":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/js/lib/drpy.min.js",
  "ext": "https://notabug.org/hogo18/t/raw/main/dr/TXsp.js"
 },
-{"key": "drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
+{"key": "drpy奇珍异兽","name":"爱奇异(js)","type":3,
+"api":"https://agit.ai/1452635819/js/raw/branch/main/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"},
 //{"key": "drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://drpyfork.fenwe521.repl.co/libs/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"},
