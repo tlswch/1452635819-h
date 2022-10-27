@@ -2,7 +2,7 @@
 "站名": "小鸟影视",
 "主页url": "https://www.nunxun.com/",
 //"请求头": "",
-"免嗅":"0",
+"免嗅":"1",
 "分类url":"https://www.nunxun.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 "分类": "电视剧$2#电影$1#综艺$3#少儿剧$4",
 //"数组": "class=\"module-item&&</a>",
