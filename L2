@@ -79,15 +79,15 @@
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "672809702fb943c1b57cfe27b0c76ef0"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
-{"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "672809702fb943c1b57cfe27b0c76ef0"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+{"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
  "filterable":0,"ext":"672809702fb943c1b57cfe27b0c76ef0"//,
  //"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "672809702fb943c1b57cfe27b0c76ef0"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+ "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
   "ext":"672809702fb943c1b57cfe27b0c76ef0"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
@@ -265,16 +265,16 @@
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
 },
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
 },
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json"//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
 },
 {"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/40ybH.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/40ybH.json"//,
+ //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
 },
 {"key":" czsppPH","name":"厂长资源(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/czsppPH.json",
