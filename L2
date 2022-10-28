@@ -54,9 +54,8 @@
 {"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/300ysPQ.json"
 },
-{"key":"TT", "name":"TT影视()", "api":"csp_AppTT","type":3, "filterable":1,"quickSearch":1,"searchable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/1.jar"
-},
+//{"key":"TT", "name":"TT影视()", "api":"csp_AppTT","type":3, "filterable":1,"quickSearch":1,"searchable":1,
+// "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/1.jar"},
 //{"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
 // "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/1.jar"},
 //{"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
@@ -80,7 +79,7 @@
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "672809702fb943c1b57cfe27b0c76ef0"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q8.jar"
 },
-{"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "672809702fb943c1b57cfe27b0c76ef0"//,"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 {"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
