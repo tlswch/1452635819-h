@@ -58,7 +58,7 @@
 // "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/1.jar"},
 //{"key":"KanSJ","name":"看视界()","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,
 // "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/1.jar"},
-{"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_LibVio","name":"LibVio()","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"293视频","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Cokemv","name":"Cokemv()","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -68,6 +68,7 @@
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"追剧喵","name":"追剧喵()","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"cspTkys","name":"天空影视()","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "2345_s","name":"2345影视()","type":3,"api":"csp_YS2345","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/2345.js",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/b.jar"
