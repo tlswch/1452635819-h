@@ -85,7 +85,7 @@
 },
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"tcafe","name":"小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"672809702fb943c1b57cfe27b0c76ef0"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "672809702fb943c1b57cfe27b0c76ef0"
