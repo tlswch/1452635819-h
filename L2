@@ -4,6 +4,7 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar",
 //"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
+  {"key":"csp_XPath_鹅直播","name":"🐧直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/qezb.json"},
 
 //==================================jar爬虫==================================================================
 //{"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
