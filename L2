@@ -88,23 +88,25 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "672809702fb943c1b57cfe27b0c76ef0"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
 },
 {"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
- "filterable":0,"ext":"672809702fb943c1b57cfe27b0c76ef0"
+ "filterable":0,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
 },
 {"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"filterable":1,
- "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt",
+ "jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
 //{"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
-// "ext": "672809702fb943c1b57cfe27b0c76ef0","jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"},
+// "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt",
+//"jar":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"},
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-  "ext":"672809702fb943c1b57cfe27b0c76ef0"
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
 },
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
  "filterable":1,"type_flag":1
 },
-{"key":"csp鹅直播","name":"企鹅直播(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
+{"key":"csp鹅直播","name":"企鹅体育(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/liveqqP3.json",
 "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q1.jar"
 },
