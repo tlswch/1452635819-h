@@ -430,7 +430,7 @@
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xqjy.txt"
 },
 {  "key": "tjbook","name": "听书()","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,
-   "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/tjbook.json"
+   "ext": "https://agit.ai/1452635819/h/raw/branch/master/jy/tjbook.json"
 }
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
