@@ -354,7 +354,7 @@
 //==================================js爬虫==================================================================
 {"key":"drpy腾云驾雾","name":"腾讯影视(js)","type":3,
  "api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
- "ext": "https://notabug.org/hogo18/t/raw/main/dr/TXsp.js"
+ "ext": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/腾讯.js"
 },
 {"key": "5imv","name":"我爱电影(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/5imv.js"},
