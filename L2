@@ -404,7 +404,19 @@
 {  "key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 //==================================M浏览器V1爬虫==================================================================
-{	"key": "cspM2雪人","name":"雪人影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"万能影院","name":"万能影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
+},
+{"key":"鑫总资源","name":"鑫总资源(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
+},
+{"key":"悟空影院","name":"悟空影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://dapi.pntao.com/api.php/v1.vod"
+},
+{"key":"天诚影视","name":"天诚影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://tcspvip.cn/api.php/v1.vod"
+},
+{	"key": "pM2雪人","name":"雪人影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
 	"ext": "http://app.xueren.one:80/xgapp.php/v2/"
 },
 {  "key":"csp_appysv2_OK影视","name":"OK影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,
