@@ -357,40 +357,40 @@
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/TXsp.js"
 },
 {"key": "5imv","name":"我爱电影(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/5imv.js"},
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/5imv.js"},
 //{"key": "lanhua","name":"兰花影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/lanhua.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lanhua.js"},
 //{"key":"drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/iqiyi.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/iqiyi.js"},
 //{"key":"drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/MgTV.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/MgTV.js"},
 //{"key": "dr360影视","name":"360影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/360ys.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/360ys.js"},
 //{"key": "d万能影视","name":"万能影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/wnys.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/wnys.js"},
 //{"key": "d蓝光影院","name":"蓝光影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/lgyy.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lgyy.js"},
 //{"key": "drpy追剧喵","name":"追剧喵(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/zjmao.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/zjmao.js"},
 //{"key": "drpyLIBVIO","name":"LIBVIO(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/LIBVIO.js"},
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/LIBVIO.js"},
 {"key": "drpy喵喵","name":"喵喵影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/maom.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/maom.js"
 },
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/007ys.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/007ys.js"
 },
 {"key": "drpy莫扎兔","name":"莫扎兔(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/mzto.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/mzto.js"
 },
 {"key": "drpy剧白白","name":"剧白白(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/jubb.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/jubb.js"
 },
 {"key": "drpy牛马","name":"牛马TV(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/LmTV.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/LmTV.js"
 },
 {"key": "drp奇优影院","name":"奇优影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/quyy.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/quyy.js"
 },
 //==================================采集资源=================================================================
 {  "key":"4星资源2","name":"爱 追 剧","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/"},
