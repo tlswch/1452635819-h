@@ -355,8 +355,6 @@
 {"key":"dr腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/TXsp.js"
 },
-{"key": "5imv","name":"我爱电影(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/5imv.js"},
 {"key":"drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/iqiyi.js"},
 {"key":"drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
@@ -370,14 +368,17 @@
 {"key": "drpy莫扎兔","name":"莫扎兔(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/mzto.js"
 },
-//{"key": "drpy剧白白","name":"剧白白(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/jubb.js"},
+{"key": "5imv","name":"我爱电影(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/5imv.js"
+},
 {"key": "drpy牛马","name":"牛马TV(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/LmTV.js"
 },
 {"key": "drp奇优影院","name":"奇优影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/quyy.js"
 },
+//{"key": "drpy剧白白","name":"剧白白(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/jubb.js"},
 //{"key": "lanhua","name":"兰花影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lanhua.js"},
 //{"key": "dr360影视","name":"360影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
