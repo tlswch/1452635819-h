@@ -8,7 +8,7 @@
 "分类url":"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
 "搜索url": "https://www.jpys.me/vodsearch/{wd}------------.html",
-"搜索数组": "class=\"module-items module-card-items&&</li>",
+"搜索数组": "class=\"module-items module-card-items&&</div>",
 "搜索图片": "data-original=\"&&\"",
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
