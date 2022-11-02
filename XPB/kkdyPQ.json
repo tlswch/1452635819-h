@@ -20,7 +20,7 @@
 //"播放请求头": "",
 "搜索url": "https://www.kkdy.live/vod-search.html?wd={wd}&submit=",
 "搜索模式": "1",
-//"搜索数组": "class=\"thumb&&</div>",
+"搜索数组": "class=\"detail&&</div>",
 //"搜索图片":"data-original=\"&&\"",
 //"搜索标题":"title=\"&&\"",
 //"搜索链接":"href=\"&&\"",
