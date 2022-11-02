@@ -24,7 +24,7 @@
 //"搜索标题":"title=\"&&\"",
 //"搜索链接":"href=\"&&\"",
 //"搜索链接前缀":"/voddetail/",
-//"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "年份":"2004-2022",
 "排序":"时间$id#人气$hits",
 "筛选":"1"
