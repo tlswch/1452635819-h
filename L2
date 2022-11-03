@@ -376,10 +376,12 @@
 {"key": "310zb","name":"310直播(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/310zb.js"
 },
-{"key": "lanhua","name":"兰花影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lzizy.js"},
-{"key": "dr360影视","name":"360影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/huya.js"},
+{"key": "lzizy","name":"量子影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lzizy.js"
+},
+{"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/huya.js"
+},
 //{"key": "d万能影视","name":"万能影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/wnys.js"},
 //{"key": "d蓝光影院","name":"蓝光影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
