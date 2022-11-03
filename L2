@@ -162,8 +162,9 @@
 {"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
 },
-//{"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
-// "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"},
+{"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
+},
 //{"key":"py_czspp","name":"厂长影视(py)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cz.py"},
 //{"key": "py_wmkkk","name": "完美看看(py)","type": 3,"api":"py_wmkkk","searchable": 1,"quickSearch": 1,"filterable": 1,
