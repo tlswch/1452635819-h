@@ -5,7 +5,7 @@
 //"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar;md5;614831abf011d5e24b9dcb372c94392c",
 "sites": [
 
-{"key":"csp_xb_5G","name":"5G(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xb_5G","name":"5G(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"},
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=672809702fb943c1b57cfe27b0c76ef0&timeout=10&douban=96385077"
