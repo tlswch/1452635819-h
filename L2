@@ -361,9 +361,11 @@
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/TXsp.js"
 },
 {"key":"drpy奇珍异兽","name":"爱奇异(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/iqiyi.js"},
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/iqiyi.js"
+},
 {"key":"drpy百忙无果","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/MgTV.js"},
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/MgTV.js"
+},
 {"key": "drpy喵喵","name":"喵喵影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/maom.js"
 },
