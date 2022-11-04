@@ -350,9 +350,6 @@
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 },
-{"key":"cspi","name":"爱影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"http://www.310.tv/{cateId}"
-},
 //==================================js爬虫==================================================================
 {"key":"dr腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/TXsp.js"
