@@ -294,13 +294,8 @@ CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
 4K,#genre#
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-CCTV4K F,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-影院4k,http://epg.112114.xyz/douyu/9249162💟
 湖南,#genre#
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
