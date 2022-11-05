@@ -1,0 +1,291 @@
+{
+  "cookie": "_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc; buvid3=E9D0A426-85E9-E6C7-C75E-206A3E1BEB4D81910infoc; b_nut=1666168082; buvid4=4FC87B9C-3540-2275-688C-8612D3EA719B81910-022101916-ZLe640jXRAMHySuaCe9aUw==; rpdid=|(k|u)YYm)uY0J'uYYYuY)uuu; i-wanna-go-back=-1; fingerprint=9c214a6da0197a48e576ccf22e9f0ac7; buvid_fp_plain=undefined; nostalgia_conf=-1; DedeUserID=3493076028885079; DedeUserID__ckMd5=60a8757a1f4d6ae9; buvid_fp=9c214a6da0197a48e576ccf22e9f0ac7; CURRENT_QUALITY=80; b_ut=5; CURRENT_FNVAL=4048; PVID=2; bp_video_offset_3493076028885079=undefined; SESSDATA=a8f3eeec,1683060208,52956*b2; bili_jct=46b9b1895ab6ba9bb0c8027af30be16b; sid=7wckic0c; innersign=0; b_lsid=AD245D4A_1844214179E",
+  "classes": [
+    {
+      "type_name": "4K",
+      "type_id": "4K"
+    },
+    {
+      "type_name": "8K",
+      "type_id": "8K"
+    },
+    {
+      "type_name": "儿童",
+      "type_id": "儿童"
+    },
+   {
+      "type_name": "戏曲",
+      "type_id": "戏曲"
+    },
+    {
+      "type_name": "Sports",
+      "type_id": "球星"
+    },
+   {
+      "type_name": "演唱会",
+      "type_id": "演唱会"
+    },
+   {
+      "type_name": "相声小品",
+      "type_id": "相声小品"
+    },
+     {
+      "type_name": "动物世界",
+      "type_id": "动物世界"
+    },
+    {
+      "type_name": "风景",
+      "type_id": "风景"
+    },
+    {
+      "type_name": "食谱",
+      "type_id": "食谱"
+    },
+   {
+      "type_name": "美食",
+      "type_id": "美食"
+    },
+   {
+      "type_name": "鬼畜",
+      "type_id": "鬼畜"
+    },
+    {
+      "type_name": "健身",
+      "type_id": "健身"
+    },
+    {
+      "type_name": "演讲",
+      "type_id": "演讲"
+    },
+    {
+      "type_name": "评测",
+      "type_id": "评测"
+    },
+    {
+      "type_name": "吾爱",
+      "type_id": "吾爱评测"
+    },
+
+    {
+   
+      "type_name": "挑战",
+      "type_id": "挑战"
+    },
+    {
+      "type_name": "露营",
+      "type_id": "露营"
+    },
+    {
+      "type_name": "蹦极",
+      "type_id": "蹦极"
+    },
+    {
+      "type_name": "体育",
+      "type_id": "体育"
+    },
+    {
+      "type_name": "电影",
+      "type_id": "电影"
+    },
+    {
+      "type_name": "游泳",
+      "type_id": "游泳教学"
+    },
+    {
+      "type_name": "LOL",
+      "type_id": "英雄联盟"
+    },
+    {
+      "type_name": "PVP",
+      "type_id": "王者荣耀"
+    },
+    {
+      "type_name": "PUBG",
+      "type_id": "绝地求生"
+    },
+    {
+      "type_name": "广场舞",
+      "type_id": "广场舞"
+    },
+    {
+      "type_name": "歌曲MV",
+      "type_id": "歌曲MV"
+    },
+    {
+      "type_name": "影视MV",
+      "type_id": "影视MV"
+    },
+    {
+      "type_name": "粤语",
+      "type_id": "粤语MV4k合集"
+    },
+    {
+      "type_name": "年热榜",
+      "type_id": "2022年热门MV4k合集"
+    },
+    {
+      "type_name": "热门",
+      "type_id": "KTV热门MV4k合集"
+    },
+    {
+      "type_name": "滚石",
+      "type_id": "滚石MV4k合集"
+    },
+    {
+      "type_name": "老歌",
+      "type_id": "经典老歌"
+    },
+    {
+      "type_name": "古风",
+      "type_id": "古风MV4k合集"
+    },
+    {
+      "type_name": "闽南语",
+      "type_id": "闽南语MV4k合集"
+    },
+    {
+      "type_name": "印度",
+      "type_id": "印度歌舞MV4k合集"
+    },
+
+    {
+      "type_name": "网红",
+      "type_id": "网红翻唱MV4k合集"
+    },
+    {
+      "type_name": "女团",
+      "type_id": "韩国女团MV4k合集"
+    },
+    {
+      "type_name": "纪录片",
+      "type_id": "纪录片"
+    },
+    {
+      "type_name": "小姐姐",
+      "type_id": "小姐姐"
+    },
+    {
+      "type_name": "真人秀",
+      "type_id": "真人秀"
+    },
+
+    {
+      "type_name": "百家讲坛",
+      "type_id": "百家讲坛"
+    },
+    {
+      "type_name": "电影解说",
+      "type_id": "电影解说"
+    },
+    {
+      "type_name": "探索频道",
+      "type_id": "Discovery探索频道"
+    },
+    {
+      "type_name": "假窗白噪音",
+      "type_id": "窗白噪音"
+    },
+    {
+      "type_name": "凡人修仙传",
+      "type_id": "凡人修仙传"
+    },
+   {
+      "type_name": "MT管理器",
+      "type_id": "MT管理器"
+    },
+    {
+      "type_name": "网盘挂载",
+      "type_id": "网盘挂载"
+    },
+    {
+      "type_name": "alist+WebDav",
+      "type_id": "alist+WebDav"
+    },
+    {
+      "type_name": "阿里换token",
+      "type_id": "阿里token"
+    },
+    {
+      "type_name": "Git入门到精通",
+      "type_id": "Git入门到精通"
+    },
+    {
+      "type_name": "java",
+      "type_id": "java教程"
+    },
+    {
+      "type_name": "phyton",
+      "type_id": "phyton教程"
+    },
+    {
+      "type_name": "xml",
+      "type_id": "xml教程"
+    },
+    {
+      "type_name": "photoshop",
+      "type_id": "photoshop教程"
+    },
+    {
+      "type_name": "PR",
+      "type_id": "PR教程"
+    },
+    {
+      "type_name": "AE",
+      "type_id": "AE教程"
+    }, 
+    {
+      "type_name": "C4D",
+      "type_id": "C4D教程"
+    },
+    {
+      "type_name": "VLOOKUP",
+      "type_id": "VLOOKUP"
+    },
+    {
+      "type_name": "VLOOKUP技巧",
+      "type_id": "VLOOKUP技巧"
+    },
+    {
+      "type_name": "VLOOKUP教程",
+      "type_id": "VLOOKUP教程"
+    },
+    {
+      "type_name": "VLOOKUP公式",
+      "type_id": "VLOOKUP公式"
+    },
+    {
+      "type_name": "VLOOKUP常用",
+      "type_id": "VLOOKUP常用"
+    },
+    {
+      "type_name": "VLOOKUP组合",
+      "type_id": "VLOOKUP组合"
+    },
+    {
+      "type_name": "VLOOKUP视频",
+      "type_id": "VLOOKUP视频"
+    },
+    {
+      "type_name": "VLOOKUP高级",
+      "type_id": "VLOOKUP高级"
+    },
+    {
+      "type_name": "VLOOKUP用法",
+      "type_id": "VLOOKUP用法"
+    },
+    {
+      "type_name": "数据透视表",
+      "type_id": "数据透视表"
+    },
+    {
+      "type_name": "数据透视表高阶用法",
+      "type_id": "数据透视表高阶用法"
+    },
+    {
+      "type_name": "数据透视表技巧",
+      "type_id": "数据透视表技巧"
+    }
+  ],
+  "filter": {
+  }
+}
