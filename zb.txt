@@ -85,13 +85,6 @@ CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-Eurosport1 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
-Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
-Eurosport2 HD,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-Eurosport2 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
-Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -117,7 +110,6 @@ WWE精彩视频秀李霞独家专访！体育首位WWE中国之星驾到,http://
 后浪-大祭司 你不知道的川藏线旅体育行,http://txtest-xp2p.p2p.huya.com/src/1199566096018-1199566096018-5455555222740926464-2399132315492-10057-A-0-1.xs?wsSecret=ec6f41bce86545d874bfb29e4b1bd8e8&wsTime=6246cbca&u=0&seqid=16487204567970000&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103
 德国足球甲级联赛4 斯图加特3:1霍芬海姆 2021/22德甲联赛,http://txtest-xp2p.p2p.huya.com/src/0-0-0-2199063580970-10057-A-0-1.xs?wsSecret=181a901613fe2a0d155458d26d3b26b5&wsTime=6246cbd6&u=0&seqid=16487204689760000&ctype=tars_mobile&txyp=o%3An111%3B&fs=bgct&t=103
 蜜桃同学 十分钟站立减肥操体育,http://txtest-xp2p.p2p.huya.com/src/1199549075839-1199549075839-5382454110563860480-2399098275134-10057-A-0-1.xs?wsSecret=1505c46dea949cf1c7b14f1e53c1a91c&wsTime=6246cbdb&u=0&seqid=16487204738060000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
-德甲比赛精华1 德甲比赛精华体育,http://txtest-xp2p.p2p.huya.com/src/1099531728802-1099531728802-86333249286045696-2199063581060-10057-A-0-1.xs?wsSecret=3bc33d94704bf23ca8b52da6f12acfa7&wsTime=6246cbe0&u=0&seqid=16487204789070000&ctype=tars_mobile&fs=bgct&t=103?体育
 世界不一样呀大棒槌”驴蹄一步一崴真难受，一刀到底切大块，脚底严重腐烂体育！,http://txtest-xp2p.p2p.huya.com/src/1099531728593-1099531728593-86332351637880832-2199063580642-10057-A-0-1.xs?wsSecret=7304b0ca514e6b8768c67688951c1c46&wsTime=6246cbe4&u=0&seqid=16487204821390000&ctype=tars_mobile&txyp=o%3Atyeic12%3B&fs=bgct&t=103
 T台可人儿 男女互抽巴掌，扇到头破血流体育,http://txtest-xp2p.p2p.huya.com/src/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.xs?wsSecret=4e346b65c0d86c6a792434be0ea74bd5&wsTime=6246cbe5&u=0&seqid=16487204839750000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
 少林功夫网络考功 2022少林功夫网络考功大赛 重播体育,http://txtest-xp2p.p2p.huya.com/src/1099531728991-1099531728991-86334061034864640-2199063581438-10057-A-0-1.xs?wsSecret=4c563887a64e2b5ce3ae97c02d8e967a&wsTime=6246cbe9&u=0&seqid=16487204875480000&ctype=tars_mobile&txyp=o%3Acs6%3B&fs=bgct&t=103
@@ -127,7 +119,6 @@ T台可人儿 男女互抽巴掌，扇到头破血流体育,http://txtest-xp2p.p
 开心老师 瑜伽老师体育,http://txtest-xp2p.p2p.huya.com/src/1279521993636-1279521993636-16822127287603298304-2559044110728-10057-A-0-1.xs?wsSecret=b0827b729089e979e2f75270aa80db59&wsTime=6246cbf7&u=0&seqid=16487205012240000&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103
 帅soserious 吃出6块腹肌！10种食物帮你快速减脂！体育新手必看！,http://txtest-xp2p.p2p.huya.com/src/1299518413687-1299518413687-10472377075179192320-2599036950830-10057-A-0-1.xs?wsSecret=38aeb6f72fe50ae5a77f0cea6ded4157&wsTime=6246cbfa&u=0&seqid=16487205047740000&ctype=tars_mobile&txyp=o%3Anceic2%3B&fs=bgct&t=103
 足协杯广州专场 哥伦比亚足球专场体育,http://txtest-xp2p.p2p.huya.com/src/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs?wsSecret=6ef8bc28488859aeefcaefef269a5454&wsTime=6246cbfb&u=0&seqid=16487205059010000&ctype=tars_mobile&fs=bgct&t=103
-2020全国游泳锦标赛洪荒少女傅园慧！全国游泳冠军赛,http://txtest-xp2p.p2p.huya.com/src/1099531627797-1099531627797-85899436114313216-2199063379050-10057-A-0-1.xs?wsSecret=cc9b9bca3ed3c44a1e0ccbde48721201&wsTime=6246cc00&u=0&seqid=16487205106540000&ctype=tars_mobile&fs=bgct&t=103?体育
 EQUALIZER #草廠格鬥傳說# 体育2020 还有谁-寻找传说 原创剧集,http://txtest-xp2p.p2p.huya.com/src/1299516584312-1299516584312-10464519969382072320-2599033292080-10057-A-0-1.xs?wsSecret=7793d54bd2511bbb398c05699ae9c82a&wsTime=6246cc02&u=0&seqid=16487205129600000&ctype=tars_mobile&txyp=o%3Afz6%3B&fs=bgct&t=103
 欧尼酱 上肢力量感知 · 体育30X4组,http://txtest-xp2p.p2p.huya.com/src/1099531627837-1099531627837-85899607913005056-2199063379130-10057-A-0-1.xs?wsSecret=95b208895e6169ae13422c820274e4bd&wsTime=6246cc04&u=0&seqid=16487205142710000&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&t=103
 洪豆豆 腿1部力量强化体育 35X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627854-1099531627854-85899680927449088-2199063379164-10057-A-0-1.xs?wsSecret=3cc0ebd32a9ccd691334ff5e86bf7d50&wsTime=6246cc05&u=0&seqid=16487205154400000&ctype=tars_mobile&fs=bgct&t=103
@@ -140,8 +131,6 @@ EQUALIZER #草廠格鬥傳說# 体育2020 还有谁-寻找传说 原创剧集,ht
 Kory-x 腿高度训练 体育40X6组,http://txtest-xp2p.p2p.huya.com/src/1099531627846-1099531627846-85899646567710720-2199063379148-10057-A-0-1.xs?wsSecret=cfa66a6e252d5c25d290a0cd0b1aebf3&wsTime=6246cc10&u=0&seqid=16487205269310000&ctype=tars_mobile&fs=bgct&t=103
 我要航海网 阿铁船长的独体育白,http://txtest-xp2p.p2p.huya.com/src/1199539387568-1199539387568-5340843303464075264-2399078898592-10057-A-0-1.xs?wsSecret=3ed212a47af195e209f1ea5e75f01088&wsTime=6246cc11&u=0&seqid=16487205281250000&ctype=tars_mobile&txyp=o%3Acs7%3B&fs=bgct&t=103
 南城以北 5分钟零基础热身训练体育 30X4组,http://txtest-xp2p.p2p.huya.com/src/1099531627833-1099531627833-85899590733135872-2199063379122-10057-A-0-1.xs?wsSecret=cab8213bb0e1b2762dddd505ad5b724c&wsTime=6246cc13&u=0&seqid=16487205293590000&ctype=tars_mobile&fs=bgct&t=103
-小赛车-大世界 小小马体育,http://txtest-xp2p.p2p.huya.com/src/1199544921112-1199544921112-5364609693975052288-2399089965680-10057-A-0-1.xs?wsSecret=27fa1ed2dcccefd919361f1ff0d268dc&wsTime=6246cc14&u=0&seqid=16487205304870000&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&t=103
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 
 央视,#genre#
