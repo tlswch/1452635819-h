@@ -1,4 +1,5 @@
 { 
+  "小雅网盘":"http://alist.xiaoya.pro",
   "小兵网盘":"https://6vv.app",
   "七米蓝": "https://al.chirmyram.com",
   "一只鱼": "https://alist.youte.ml",
