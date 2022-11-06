@@ -421,11 +421,11 @@
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
 //====================================电视课堂================================================================
+{  "key":"biliKT","name":"bili杂谈()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
+   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/bilijyB.json"
+},
 {  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
    "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/TVkt.js"
-},
-{  "key":"biliKT","name":"bili课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/bilijyB.json"
 },
 {  "key":"学堂1","name":"高中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
    "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt"
@@ -444,8 +444,8 @@
 }
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
-   ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
-   //["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2RlYWRyYWluL1RWYm94L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}
+   //["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
+   ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2RlYWRyYWluL1RWYm94L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}
   ],
 "parses": [
     {"name":"默认","type":3,"url":"Demo"},
