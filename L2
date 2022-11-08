@@ -463,118 +463,17 @@
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},   
     {"name":"ok解析","url": "https://okjx.cc/?url="},
-    {"name":"117解析","url":"https://jx.fulitang365.com/?url="},
-    {"name":"ces解析","url":"https://wds.ecsxs.com/225173.html?url="},
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-    {
-            "name":"tkys",
-            "type":1,
-            "url":"https://rx.bt5v.com/json/jsonindex.php/?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
-        {
-            "name":"xifanys",
-            "type":1,
-            "url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
-        {
-            "name":"酷享影视",
-            "type":1,
-            "url":"http://pandown.pro/app/kxjx.php?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
-        {
-            "name":"江湖",
-            "type":1,
-            "url":"http://pandown.pro/app/ysmjx.php?url=",
-            "ext":{
-                "flag":[
-                    "qq",
-                    "qiyi",
-                    "mgtv",
-                    "youku",
-                    "letv",
-                    "sohu",
-                    "xigua",
-                    "1905",
-                    "优播线路",
-                    "腾播线路"
-                ],
-                "header":{
-                    "User-Agent":"Dart/2.14 (dart:io)"
-                }
-            }
-        },
+    {"name":"江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
+     "ext":{"flag":"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+    },
+    {"name":"tkys","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+    {"name":"xifanys", "type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
+    {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url="},
     {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
      "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}},
     {"name": "酷云解析","url": "http://api.ckflv.cn/?url=","type": 1},
     {"name": "懒懒解析","url": "http://lanlan.ckflv.cn/?url=","type":1},
-    {"name": "无名解析","url": "https://hc.izny.cn/json.php?url=","type":1},
     {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}
   ],
 "flags": ["qq","iqiyi","mgtv","qiyi","youku","sohu","wasu","letv","tudou","pptv","renrenmi","bilibili","m1905","9亿奇异"
