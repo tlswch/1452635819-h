@@ -464,9 +464,8 @@
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},   
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-    {"name":"江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
-     "ext":{"flag":"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
-    },
+    //{"name":"江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
+    // "ext":{"flag":"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"tkys","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
     {"name":"xifanys", "type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
     {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url="},
