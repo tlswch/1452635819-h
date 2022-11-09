@@ -454,7 +454,6 @@
     {"name":"默认","type":3,"url":"Demo"},
     {"name": "多多测试","url": "https://h5.freejson.xyz/player/?url="},
     {"name": "多多①线","url": "https://jx.xmflv.com/?url="},
-    {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name": "91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
@@ -462,6 +461,7 @@
     {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
     {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
     {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
+    {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},   
