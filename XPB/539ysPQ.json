@@ -5,7 +5,7 @@
 //"分类url": "https://539539.xyz/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
 "分类url": "https://539539.xyz/vodshow/{cateId}/page/{catePg}.html",
 "分类":"电影$1#剧集$2#综艺$3#动漫$4#伦理$31",
-"数组": "class=\"myui-vodlist clearfix&&</ul>",
+"数组": "class=\"col-lg-8 col-md-6 col-sm-4 col-xs-3&&</li>",
 //"图片": "data-original=\"&&\"",
 //"标题": "title=\"&&\"",
 //"链接":"href=\"&&\"",
