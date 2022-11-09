@@ -163,7 +163,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             'vod_name': infoJo['share_name'],
             'vod_pic': infoJo['avatar'],
             'vod_content': tid,
-            'vod_play_from': 'AliYun$$$AliYun原画'
+            'vod_play_from': 'AliYun原画$$$AliYun'
         }
         fileType = fileInfo['type']
         if fileType != 'folder':
@@ -399,17 +399,20 @@ class Spider(Spider):  # 元类 默认的元类 type
             rsp = requests.post(url, json=params, headers=newHeader)
             jo = json.loads(rsp.text)
             ja = jo['items']
+            if dirname != '':
+                dirname = '[' + dirname + ']|'
             for jt in ja:
                 if jt['type'] == 'folder':
                     al = jt['file_id'] + '@@@' + jt['name']
                     arrayList.append(al)
                 else:
                     if 'video' in jt['mime_type'] or 'video' in jt['category']:
-                        repStr = '[' + dirname + ']' + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
+                        remark = self.getsize(jt['size'])
+                        repStr = dirname + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1] + remark
                         map[repStr] = shareId + "+" + shareToken + "+" + jt['file_id'] + "+" + jt['category'] + "+"
-                    elif 'others' == jt['category'] and (
-                            'srt' == jt['file_extension'] or 'ass' == jt['file_extension']):
-                        repStr = '[' + dirname + ']' + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1]
+                    elif 'others' == jt['category'] and ('srt' == jt['file_extension'] or 'ass' == jt['file_extension']):
+                        remark = self.getsize(jt['size'])
+                        repStr = dirname + jt['name'].replace("#", "_").replace("$", "_").replace(jt['file_extension'], '')[0:-1] + remark
                         subtitle[repStr] = jt['file_id']
             maker = jo['next_marker']
             i = i + 1
@@ -420,7 +423,11 @@ class Spider(Spider):  # 元类 默认的元类 type
                 dirname = items[1]
             self.listFiles(map, shareId, shareToken, item, dirname, subtitle)
         for key in map.keys():
+            if ']|' in key:
+                key = key.split(']|')[1].split('/[')[0]
             for subKey in subtitle.keys():
+                if ']|' in subKey:
+                    subKey = subKey.split(']|')[1].split('/[')[0]
                 if key in subKey and map[key][-1] == "+":
                     map[key] = map[key] + subtitle[subKey]
                     break
@@ -429,8 +436,9 @@ class Spider(Spider):  # 元类 默认的元类 type
         self.localTime = int(time.time())
         url = 'https://api.aliyundrive.com/token/refresh'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
+            token = requests.get('https://agit.ai/Ltang/Tvsy/raw/branch/master/token.json').text
             form = {
-                'refresh_token': 'ab0b9a7555e84175bbc6f8e60310ae49'
+                'refresh_token': token
             }
             rsp = requests.post(url, json=form, headers=self.header)
             jo = json.loads(rsp.text)
@@ -442,6 +450,27 @@ class Spider(Spider):  # 元类 默认的元类 type
             return False
         else:
             return True
+
+    def getsize(self, size):
+        size = int(size)
+        if size > 1024 * 1024 * 1024 * 1024.0:
+            fs = "TB"
+            sz = round(size / (1024 * 1024 * 1024 * 1024.0), 2)
+        elif size > 1024 * 1024 * 1024.0:
+            fs = "GB"
+            sz = round(size / (1024 * 1024 * 1024.0), 2)
+        elif size > 1024 * 1024.0:
+            fs = "MB"
+            sz = round(size / (1024 * 1024.0), 2)
+        elif size > 1024.0:
+            fs = "KB"
+            sz = round(size / (1024.0), 2)
+        else:
+            fs = "KB"
+            sz = round(size / (1024.0), 2)
+        remark = '/[' + str(sz) + fs + ']'
+        return remark
+
 
         # print(self.authorization)
         # print(self.timeoutTick)
