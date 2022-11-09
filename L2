@@ -299,10 +299,6 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/feqePQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
 }, 
-{"key":"yuqeys","name":"云雀影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yuqeysPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
-},
 {"key":"gfysPQ","name":"干饭影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -349,6 +345,12 @@
 },
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
+},
+{"key":"cspyunque","name":"云雀影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+},
+{"key":"csprp123","name":123影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
 },
 {"key":"csp韩剧堆","name":"韩剧堆堆(Xu)","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://hanjudui.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
