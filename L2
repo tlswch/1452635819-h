@@ -97,9 +97,8 @@
 },
 //{"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
-{ "key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
-},
+//{ "key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
+//  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
  "filterable":1,"type_flag":1
 },
@@ -111,6 +110,9 @@
 },
 {"key":"310直播","name":"310看球(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/310zbYQ.json"
+},
+{"key":"虎牙直播","name":"虎牙直播(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/huyaBIU.json"
 },
 //==================================PY爬虫==================================================================
               {"key":"000","name":"下面(py)爬虫需加py插件","type":1,"api":"csp_Bdys01"},
@@ -178,7 +180,7 @@
 {"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
 },
-{"key": "py_ali","name":"推送","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
+{"key": "py_ali","name":"推送(py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_ali.py"
 },
 //==================================Xpath==================================================================
