@@ -331,6 +331,9 @@
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"
 },
+{"key":"csp农民影视","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,
+ "filterable":1,"ext":"https://agit.ai/ihymn/tvbox/raw/branch/master/Meow/农民影视.json"
+},
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json"
 },
