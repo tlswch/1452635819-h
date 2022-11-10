@@ -8,5 +8,6 @@
 //"播放标题":">&&<",
 "分类":"电视剧$2#动漫$4#电影$1#综艺$3#专题$5",
 "分类url":"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html",
-"搜索url": "https://www.gfysys1.com/vodsearch/{wd}----------{pg}---.html"
+"搜索url": "https://www.gfysys1.com/vodsearch/{wd}----------{pg}---.html",
+"搜索数组": "class=\"stui-vodlist__box&&</div>"
 }
