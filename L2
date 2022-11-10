@@ -243,10 +243,9 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xcysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key":"yanetfli","name":"鸭奈飞(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yanetfliPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
-},
+//{"key":"yanetfli","name":"鸭奈飞(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yanetfliPQ.json",
+// "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"},
 {"key":"cspaiky","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aikysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -453,8 +452,8 @@
   ],
 "parses": [
     {"name":"默认","type":3,"url":"Demo"},
+    {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name": "多多测试","url": "https://h5.freejson.xyz/player/?url="},
-    {"name": "多多①线","url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name": "91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
@@ -466,7 +465,6 @@
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},   
-    {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
