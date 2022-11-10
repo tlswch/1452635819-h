@@ -6,18 +6,15 @@
 "sites": [
 
 //==================================jar爬虫==================================================================
-{"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
- "api":"https://t4.secan.icu/vod?sites=all&ali_token=4f7aa3b591b24f9b950e25949a80aa0e&timeout=10&douban=96385077"
-},
-{"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
-},
+//{"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
+// "api":"https://t4.secan.icu/vod?sites=all&ali_token=4f7aa3b591b24f9b950e25949a80aa0e&timeout=10&douban=96385077"},
+//{"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
+// "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"},
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js"
 },
-{"key": "cspAlist2","name":"️alist合集()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"
-},
+//{"key": "cspAlist2","name":"️alist合集()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
+//  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/alist.json"},
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
@@ -97,8 +94,9 @@
 },
 //{"key":"AliPS","name":"阿里盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
-//{ "key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-//  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
+{ "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
+},
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
  "filterable":1,"type_flag":1
 },
@@ -180,16 +178,18 @@
 {"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
 },
-{"key": "py_ali","name":"推送(py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
+{"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_ali.py"
 },
+
 //==================================Xpath==================================================================
 { "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dsxysPQ.json",
   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 {"key":"539PQ","name":"539影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/539ysPQ.json"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/539ysPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
 },
 {"key":"diezyyPQ","name":"蝶众影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/diezyyPQ.json",
@@ -243,10 +243,9 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xcysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key":"yanetfli","name":"鸭奈飞(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yanetfliPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
-},
+//{"key":"yanetfli","name":"鸭奈飞(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/yanetfliPQ.json",
+// "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"},
 {"key":"cspaiky","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aikysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -331,11 +330,14 @@
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"
 },
+{"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/nmysPH.json"
+},
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json"
 },
 {"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/40ybH.json"
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/40yPH.json"
 },
 {"key":" czsppPH","name":"厂长资源(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/czsppPH.json"
@@ -450,8 +452,8 @@
   ],
 "parses": [
     {"name":"默认","type":3,"url":"Demo"},
+    {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name": "多多测试","url": "https://h5.freejson.xyz/player/?url="},
-    {"name": "多多①线","url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name": "91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
@@ -463,7 +465,6 @@
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},   
-    {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
