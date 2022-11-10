@@ -3,7 +3,7 @@
   "站名": "追剧猫",
   "主页url": "https://chasemiao.com",
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4#记录$76",
-  "分类url": "https://chasemiao.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catepg}/",
+  "分类url": "https://chasemiao.com/index.php/vod/show/id/{cateId}/page/{catepg}/",
   //"数组": "class=\"module-items&&</div>",
   "副标题": "module-item-note\">&&</div>",
   //"导演": "导演：&&</div>",
