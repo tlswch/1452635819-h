@@ -457,7 +457,8 @@
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},
-    {"name":"万能解析","url": "https://www.8090.la//8090//?url="},   
+    {"name":"解析1","url": "https://www.8090.la//8090//?url="},   
+    {"name":"解析2","url": "http://aliys.cn:89//mf//?url="}, 
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
