@@ -14,7 +14,7 @@
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "drpy优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/dr/youku.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/youku.js"
 },
 {"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
@@ -461,6 +461,7 @@
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
+    {"name":"江湖解析1","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name":"tkys","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
     {"name":"xifanys", "type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
     {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url="},
