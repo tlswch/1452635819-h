@@ -41,6 +41,10 @@ CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w128582
 湖南卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225704/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225704/index.m3u8
+湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
 第一财经,http://219.151.139.35/keonline.shanghai.liveplay.qq.com/live/program/live/dycjhd/4000000/mnf.m3u8
 第一财经,http://111.40.196.30:80/wh7f454c46tw4271377561_1868192408/PLTV/88888888/224/3221225497/index.m3u8
 文体,#genre#
