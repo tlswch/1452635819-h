@@ -463,7 +463,6 @@
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
-    {"name":"江湖解析1","type":1,"url":"http://103.40.240.46/jh/?url="},
     {"name":"tkys","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
     {"name":"xifanys", "type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
     {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url="},
