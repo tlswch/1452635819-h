@@ -384,8 +384,9 @@
 },
 //{"key": "310zb","name":"310直播(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/310zb.js"},
-//{"key": "drpy莫扎兔","name":"莫扎兔(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/mzto.js"},
+{"key": "d金曼影视","name":"金曼影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/jinmantv.js"
+},
 //{"key": "d万能影视","name":"万能影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/wnys.js"},
 //{"key": "d蓝光影院","name":"蓝光影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
