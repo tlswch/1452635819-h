@@ -11,6 +11,7 @@
   "晴园宝库": "https://alist.52qy.repl.co",
   "神族九帝": "https://alist.shenzjd.com",
   "姬路白雪": "https://pan.jlbx.xyz",
+  "秋雨分享": "https://share.laowang.me",
   "梦拾网盘": "http://breadmyth.asuscomm.com:22222",
   "DISK":"http://124.222.140.243:8080/"
 }
