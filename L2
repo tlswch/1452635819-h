@@ -307,6 +307,10 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
+{"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6080dyPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+},
 {"key":"xinyaoPQ","name":"新尧影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xinyaoPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
