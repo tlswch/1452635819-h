@@ -1,11 +1,10 @@
-"分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-"分类": "电影&电视剧&综艺&动漫",{
+{
 "站名": "300影视",
-"主页url": "https://www.300kan.top",
+"主页url": "https://www.6080dy1.com/",
 //"请求头": "",
 "免嗅":"1",
-"分类url":"https://www.300kan.top/vodshow/{cateId}--------{catePg}---.html",
-"分类": "电视剧$39#电影$38#动漫$40#综艺$41",
+"分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类": "电影&电视剧&综艺&动漫",
 "数组": "class=\"module-item&&</div>",
 //"标题": "alt=\"&&\"",
 "副标题":"class=\"module-item-text\">&&</div>",
