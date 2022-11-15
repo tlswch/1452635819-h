@@ -307,6 +307,10 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/gfysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
+{"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6080dyPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+},
 {"key":"xinyaoPQ","name":"新尧影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xinyaoPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -331,6 +335,9 @@
 },
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/XPB/lkvodP.js"
+},
+{"key":"美剧56","name":"美剧56(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/meiju56P.json"
 },
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"
@@ -367,6 +374,9 @@
 {"key": "drpy喵喵","name":"喵喵影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/maom.js"
 },
+{"key": "鸭奈飞","name":"奈飞影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/yanetfli.js"
+},
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/007ys.js"
 },
@@ -391,8 +401,6 @@
 },
 //{"key": "310zb","name":"310直播(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/310zb.js"},
-//{"key": "大中影视","name":"大中影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/malustv.js"},
 //{"key": "蓝光影院","name":"蓝光影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
 // "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lgyy.js"},
 //{"key": "drpy追剧喵","name":"追剧喵(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
@@ -445,14 +453,15 @@
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
    ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
-   //["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2RlYWRyYWluL1RWYm94L3Jhdy9icmFuY2gvbWFzdGVyL2xpdmUudHh0"]}]}
+   //["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3NlYXh6ai9UVi9yYXcvYnJhbmNoL21hc3Rlci8lZTclOTQlYjUlZTglYTclODYlZTclOWIlYjQlZTYlOTIlYWQlZTYlYmElOTAudHh0"]}]}
   ],
 "parses": [
+    {"name": "Web聚合","type": 3,"url": "Web"},
     {"name":"默认","type":3,"url":"Demo"},
     {"name":"ok解析","url": "https://okjx.cc/?url="},
-    {"name": "多多测试","url": "https://h5.freejson.xyz/player/?url="},
+    {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
-    {"name": "91解析","url": "http://91fanli.top/m3u8/?url=",
+    {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
     },
     {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
