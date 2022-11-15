@@ -458,9 +458,9 @@
 "parses": [
     {"name":"默认","type":3,"url":"Demo"},
     {"name":"ok解析","url": "https://okjx.cc/?url="},
-    {"name": "多多测试","url": "https://h5.freejson.xyz/player/?url="},
+    {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
-    {"name": "91解析","url": "http://91fanli.top/m3u8/?url=",
+    {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
     },
     {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
