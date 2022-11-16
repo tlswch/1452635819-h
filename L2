@@ -183,8 +183,8 @@
 },
 
 //==================================Xpath==================================================================
-{ "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dsxysPQ.json",
+{ "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nmysPQ.json",
   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 { "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
