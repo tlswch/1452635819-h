@@ -38,18 +38,18 @@
 
 {"key":"kkdyPQ","name":"看看电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kkdyPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/xBPQ.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 {"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/deyuysPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/xBPQ.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aiysPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/xBPQ.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 }, 
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/xBPQ.jar",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar",
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/wnvodPQ.json"
 },
 {"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
