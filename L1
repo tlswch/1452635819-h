@@ -1,6 +1,6 @@
 {"wallpaper":"https://qiu.moe/a723",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q3.jar",
-//"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar;md5;614831abf011d5e24b9dcb372c94392c",
+//"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar",
 "sites": [
 
 //==================================jar爬虫==================================================================
@@ -34,6 +34,10 @@
 {"key":"csp_kuaikan","name":"快看影视()","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nmys.json"
+},
+{"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
+ "quickSearch":1,"searchable":1,"ext":"",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Y.jar"
 },
 {"key":"LiteApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"剧荒TV(SP)","name":"剧荒呀TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
@@ -200,10 +204,8 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/diezyyPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
-},
+//{"key":"cspxBPQ极品","name":"极品影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/jpysPQ.json"},
 {"key":"cspbcwzg","name":"北川影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/bcwzgPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -216,10 +218,8 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/mozhatPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key":"歪片星球","name":"歪片星球(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/waipianPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
-},
+//{"key":"歪片星球","name":"歪片星球(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/waipianPQ.json"},
 {"key":"coke","name":"coke影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/cokePQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -272,10 +272,8 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/lgyyPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key":"panghu虎","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/panghuPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
-},
+//{"key":"panghu虎","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/panghuPQ.json"},
 {"key":"FosiPQ","name":"Fosit影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/FosiPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
@@ -316,9 +314,9 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/6080dyPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key":"xinyaoPQ","name":"新尧影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/xinyaoPQ.json",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+{"key":"嘿嘿PQ","name":"嘿嘿影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/heiheiPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
 },
 {"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nunxunPQ.json",
