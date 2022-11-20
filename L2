@@ -406,8 +406,9 @@
 {"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/huya.js"
 },
-//{"key": "310zb","name":"310直播(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-// "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/310zb.js"},
+{"key": "drbdys","name":"BD影视(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/bd360.js"
+},
 {"key": "蓝光影院","name":"乐动影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/ledonys.js"
 },
