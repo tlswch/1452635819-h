@@ -1,5 +1,5 @@
 {"wallpaper":"https://qiu.moe/a723",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar",
+"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q3.jar",
 //"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar",
 "sites": [
 
@@ -36,20 +36,20 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nmys.json"
 },
 {"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
- "quickSearch":1,"searchable":1,"ext":""//,
-// "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Y.jar"
+ "quickSearch":1,"searchable":1,"ext":"",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
 },
 {"key":"LiteApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
 {"key":"剧荒TV(SP)","name":"剧荒呀TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"kkdyPQ","name":"看看电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kkdyPQ.json"//,
- //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/kkdyPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 {"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/deyuysPQ.json"//,
- //"jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/deyuysPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/aiysPQ.json",
