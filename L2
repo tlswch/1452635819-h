@@ -38,18 +38,18 @@
  "quickSearch":1,"searchable":1,"ext":"",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
 },
-{"key":"YQK","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
+{"key":"YQK","name":"一起看TV()","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"https://api-tx.shumaxc.xyz",
  "jar":"http://rl1eetffv.bkt.clouddn.com/qj1121.jar;md5;536fa865c4502be4907a2c6759373de8"
 },
-{"key":"蓝光电影","name":"蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
 },
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
   "searchable":1,"ext":"",
   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
 },
-{"key":"sliu","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,
+{"key":"sliu","name":"石榴电影()","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
 },
@@ -494,7 +494,7 @@
     {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
     {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
     {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
-    //{"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
+    {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},
