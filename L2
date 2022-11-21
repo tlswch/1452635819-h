@@ -39,7 +39,7 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
 },
 {"key":"YQK","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
- "searchable":1,"ext":"https://api-tx.shumaxc.xyz",
+ "searchable":1,
  "jar":"http://rl1eetffv.bkt.clouddn.com/qj1121.jar;md5;536fa865c4502be4907a2c6759373de8"
 },
 {"key":"蓝光电影","name":"蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,
