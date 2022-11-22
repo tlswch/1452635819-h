@@ -6,10 +6,19 @@
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/1452635819/h/raw/branch/master/H/token.txt&timeout=10&douban=96385077"
 },
-//{"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
-// "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"},
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/Alist.js"
+},
+{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
+{"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+},
+{"key": "drpy优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/youku.js"
+},
+{"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/TXsp.js"
 },
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
@@ -25,22 +34,23 @@
 },
 {"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
  "quickSearch":1,"searchable":1,"ext":"",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"YQK","name":"一起看TV()","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"https://api-tx.shumaxc.xyz",
- "jar":"http://rl1eetffv.bkt.clouddn.com/qj1121.jar;md5;536fa865c4502be4907a2c6759373de8"
+ //"jar":"http://rl1eetffv.bkt.clouddn.com/qj1121.jar;md5;536fa865c4502be4907a2c6759373de8"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
   "searchable":1,"ext":"",
-  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar" 
 },
 {"key":"sliu","name":"石榴电影()","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"csp_CZSPP","name":"厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0
