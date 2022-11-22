@@ -34,7 +34,7 @@
 },
 {"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
  "quickSearch":1,"searchable":1,"ext":"",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"YQK","name":"一起看TV()","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"https://api-tx.shumaxc.xyz",
