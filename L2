@@ -42,15 +42,15 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
   "searchable":1,"ext":"",
-  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar" 
+  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar" 
 },
 {"key":"sliu","name":"石榴电影()","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"",
- "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/y.jar"
 },
 {"key":"csp_CZSPP","name":"厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0
