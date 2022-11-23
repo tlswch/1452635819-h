@@ -2,6 +2,8 @@
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q3.jar",
 //"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar",
 "sites": [
+{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar"
+},
 //==================================jar爬虫==================================================================
 {"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
  "api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/1452635819/h/raw/branch/master/H/token.txt&timeout=10&douban=96385077"
