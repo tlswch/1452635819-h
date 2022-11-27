@@ -32,6 +32,8 @@ CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 CNC新聞,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC新聞,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+东方卫视,http://live.cooltv.top/tv/aishang.php?id=dfwshd
+东方卫视,http://115.149.139.141:10001/tsfile/live/1031_1.m3u8
 东方卫视,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw834921086_-1745167681/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.150.223.57&timestamp=20220831033555&ContentId=264104266&timezone=UTC&mtv_session=a6b41bb3b8962d5e86494be96581bdf4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=48c7ce4e4a539e610bed586eae522962
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8$超清1080P
 东方卫视,http://182.242.221.89/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -41,6 +43,8 @@ CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w128582
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
 东方卫视,http://webapi.miguvideo.com/gateway/playurl/v3/play/playurl?contId=651632648&rateType=3
+湖南卫视,http://live.cooltv.top/tv/aishang.php?id=hunwshd
+湖南卫视,http://115.149.139.141:10001/tsfile/live/1023_1.m3u8
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://yfsl.vsd.gehua.net.cn/live/HuNanHD_6000.m3u8?sign=test
 湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
