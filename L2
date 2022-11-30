@@ -457,6 +457,9 @@
 {"key": "drnydod","name":"纽约影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/nydod.js"
 },
+{"key": "drasyy","name":"艾斯影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/asyy.js"
+},
 //==================================采集资源=================================================================
 {  "key":"4星资源2","name":"爱 追 剧","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/"},
 {  "key": "M3U8资源","name":"资源采集","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
