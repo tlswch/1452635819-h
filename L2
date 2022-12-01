@@ -15,8 +15,8 @@
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
 {"key": "drpy优酷","name":"优酷视频(js)","type":3,
- "api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
-//  "api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy2.min.js",
+ //"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/youku.js"
 },
 {"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
