@@ -174,7 +174,7 @@
 {"key":"py_kuaikan","name":"快看影视(Py)","type":3,"api":"py_kuaikan","searchable":1,"quickSearch":1,"filterable":0,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kuaikan.py"
 },
-{"key": "py_mdtv","name": "(py)","type": 3,"api":"py_mdtv","searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "py_mdtv","name": "麦豆TV(py)","type": 3,"api":"py_mdtv","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/mdtv.py"
 },
 {"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,
@@ -440,10 +440,10 @@
 {"key": "drp奇优影院","name":"奇优影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/quyy.js"
 },
-{"key": "siguys","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+{"key": "siguys","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/siguys.js"
 },
-{"key": "wagj","name":"我爱跟剧(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+{"key": "wagj","name":"我爱跟剧(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/wagj.js"
 },
 {"key": "8dys","name":"叭度影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
