@@ -14,9 +14,7 @@
 {"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key": "drpy优酷","name":"优酷视频(js)","type":3,
- //"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
+{"key": "优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/youku.js"
 },
 {"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
@@ -440,12 +438,10 @@
 {"key": "drp奇优影院","name":"奇优影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/quyy.js"
 },
-{"key": "siguys","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/siguys.js"
-},
-{"key": "wagj","name":"我爱跟剧(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/wagj.js"
-},
+//{"key": "sigu","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
+//"ext": "https://agit.ai/1452635819/t/raw/branch/main/siguys.js"},
+//{"key": "wagj","name":"我爱跟剧(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
+//"ext": "https://agit.ai/1452635819/t/raw/branch/main/js/wagj.js"},
 {"key": "8dys","name":"叭度影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/8dys.js"
 },
