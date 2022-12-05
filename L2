@@ -438,10 +438,13 @@
 {"key": "drpy牛马","name":"牛马TV(js)","type":3,"api": "https://agit.ai/1452635819/t/raw/branch/main/drpy.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/LmTV.js"
 },
-{"key": "drp奇优影院","name":"奇优影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+{"key": "奇优影院","name":"奇优影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/quyy.js"
 },
-{"key": "sigu","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
+{"key": "宅腐影视","name":"宅腐影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/fujuys.js"
+},
+{"key": "siguo","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/siguys.js"
 },
 {"key":"哔哩影视","name":"哔哩影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
