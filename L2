@@ -445,7 +445,7 @@
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/fujuys.js"
 },
 {"key": "siguo","name":"思古影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/18av.js"
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/siguys.js"
 },
 {"key":"哔哩影视","name":"哔哩影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/biliys.js"
@@ -456,8 +456,8 @@
 {"key": "188k","name":"188k影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/188kan.js"
 },
-{"key": "lggys","name":"落阁影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lggys.js"
+{"key": "18av","name":"18av(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/18av.js"
 },
 {"key": "lzizy","name":"量子影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/lzizy.js"
