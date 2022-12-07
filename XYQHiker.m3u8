@@ -4,7 +4,9 @@
 {"key":"csp_YQ-次元动漫","name":"️💠香佬┃次元动漫","type":3,"api":"csp_XYQHiker","searchable":1,
  "quickSearch":1,"filterable":1,"ext":"./XYQHiker/次元动漫.json"
 },
-{"key":"csp_YQ-野荷塘剧","name":"️💠香佬┃野荷塘剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/野荷塘影院.json","jar":""},
+{"key":"csp_YQ-野荷塘剧","name":"️💠香佬┃野荷塘剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,
+"filterable":1,"ext":"./XYQHiker/野荷塘影院.json"
+},
 
 {"key":"csp_YQ-语音影视","name":"️💠香佬┃核桃影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/看看.json","jar":""},
 {"key":"csp_YQ-乐猪踢微","name":"️💠香佬┃乐猪踢微","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/乐猪.json","jar":""},
