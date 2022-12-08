@@ -223,6 +223,10 @@
   "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/dsxysPQ.json",
   "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
+{"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/tvbPQ.json"//,
+// "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+},
 {"key":"539PQ","name":"539影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/539ysPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
