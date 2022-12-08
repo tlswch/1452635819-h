@@ -126,8 +126,8 @@
 {"key":"csp鹅直播","name":"企鹅体育(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/liveqqP3.json"
 },
-{"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"
+{"key":"柠檬树PH","name":"柠檬直播(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/lu1zbPH.json"
 },
 {"key":"cspzfan","name":"抓饭体育(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zhuafanPQ.json"
