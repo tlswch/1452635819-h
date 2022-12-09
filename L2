@@ -89,7 +89,9 @@
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"追剧喵","name":"追剧喵()","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"追剧喵","name":"追剧喵()","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q.jar"
+},
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"cspTkys","name":"天空影视()","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Nianying","name":"Nianying()","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":0},
@@ -102,6 +104,22 @@
 },
 {"key":"tcafe","name":"小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
+},
+{"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp鹅直播","name":"企鹅体育(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/liveqqP3.json"
+},
+{"key":"柠檬树PH","name":"柠檬直播(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/lu1zbPH.json"
+},
+{"key":"cspzfan","name":"抓饭体育(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zhuafanPQ.json"
+},
+{"key":"310直播","name":"310看球(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/310zbYQ.json"
+},
+{"key":"虎牙直播","name":"虎牙直播(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/huyaBIU.json"
 },
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"
@@ -120,22 +138,6 @@
 },
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
  "filterable":1,"type_flag":1
-},
-{"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp鹅直播","name":"企鹅体育(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/liveqqP3.json"
-},
-{"key":"柠檬树PH","name":"柠檬直播(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/H/lu1zbPH.json"
-},
-{"key":"cspzfan","name":"抓饭体育(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/zhuafanPQ.json"
-},
-{"key":"310直播","name":"310看球(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/310zbYQ.json"
-},
-{"key":"虎牙直播","name":"虎牙直播(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/H/huyaBIU.json"
 },
 //==================================PY爬虫==================================================================
               {"key":"000","name":"下面(py)爬虫需加py插件","type":1,"api":"csp_Bdys01"},
