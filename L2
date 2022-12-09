@@ -413,6 +413,10 @@
 {"key":"csprp123","name":123影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
 },
+{"key": "csp_香蕉AV解说","name": "香蕉AV解说",
+      "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,
+	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉AV解说.json"
+},
 //==================================js爬虫==================================================================
 {"key": "drkukeyy","name":"酷客影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kukeyy.js"
