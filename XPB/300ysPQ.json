@@ -2,7 +2,7 @@
 "站名": "300影视",
 "主页url": "https://www.300kan.top",
 //"请求头": "",
-"免嗅":"1",
+"免嗅":"0",
 "分类url":"https://www.300kan.top/vodshow/{cateId}--------{catePg}---.html",
 "分类": "电视剧$39#电影$38#动漫$40#综艺$41",
 "数组": "class=\"module-item&&</div>",
