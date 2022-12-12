@@ -244,6 +244,10 @@
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/sryyPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/PQ.jar"
 },
+{"key":"52kjuPQ","name":"52看剧(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/52kjuPQ.json",
+ "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
+},
 {"key":"smdyyPQ","name":"神马影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/smdyyPQ.json",
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
