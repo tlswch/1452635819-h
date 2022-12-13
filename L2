@@ -12,7 +12,7 @@
 {"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q2.jar"
 },
-{"key": "优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
+{"key": "优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/youku.js"
 },
 {"key":"搜狗影视","name":"搜狗影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy2.min.js",
