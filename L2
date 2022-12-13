@@ -13,13 +13,13 @@
  "jar": "./jar/Q2.jar"
 },
 {"key": "优酷","name":"优酷视频(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/youku.js"
+ "ext": "./lib/js/youku.js"
 },
 {"key":"搜狗影视","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/sogou.js"
+ "ext": "./lib/js/sogou.js"
 },
 {"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/TXsp.js"
+ "ext": "./lib/js/TXsp.js"
 },
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/bilimd.py"
