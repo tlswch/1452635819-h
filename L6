@@ -1,5 +1,5 @@
 {"wallpaper":"https://qiu.moe/a723",
-"spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q3.jar",
+"spider":"./jar/Q3.jar",
 //"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar",
 "sites": [
 //==================================主体源==================================================================
