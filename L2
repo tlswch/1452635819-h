@@ -360,6 +360,7 @@
 //{"key":"csprp123","name":123影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
 // "ext":"https://imaxw.com/vodshow/{cateId}--------{catePg}---/"},
 //==================================js爬虫==================================================================
+{"key": "drMgTV","name":"芒果果TV(js)","type":3,"api":"./lib/drpy.ym.js","ext": "./lib/js/MgTV.js"},
 {"key": "drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.ym.js","ext": "./lib/js/kukeyy.js"},
 {"key": "dr_VOF","name":"VOFLIX(js)","type":3,"api":"./lib/drpy.ym.js", "ext": "./lib/js/VOFLIX.js"},
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"./lib/drpy.ym.js","ext": "./lib/js/007ys.js"},
