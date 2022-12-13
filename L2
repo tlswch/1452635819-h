@@ -12,15 +12,9 @@
 {"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q2.jar"
 },
-{"key": "优酷","name":"优酷视频(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "./lib/js/youku.js"
-},
-{"key":"搜狗影视","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "./lib/js/sogou.js"
-},
-{"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "./lib/js/TXsp.js"
-},
+{"key": "优酷","name":"优酷视频(js)","type":3,"api":"./lib/drpy.ym.js","ext": "./lib/js/youku.js"},
+{"key":"搜狗影视","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.ym.js","ext": "./lib/js/sogou.js"},
+{"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"./lib/drpy.ym.js", "ext": "./lib/js/TXsp.js"},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/bilimd.py"
 },
@@ -417,11 +411,8 @@
 {"key": "drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.ym.js",
  "ext": "./lib/js/kukeyy.js"
 },
-{"key": "drkBz","name":"看B站网(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "./lib/js/kBz.js"
-},
-{"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "./lib/js/maom.js"
+{"key": "dr_VOF","name":"VOFLIX(js)","type":3,"api":"./lib/drpy.ym.js",
+ "ext": "./lib/js/VOFLIX.js"
 },
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"./lib/drpy.ym.js",
  "ext": "./lib/js/007ys.js"
@@ -459,8 +450,11 @@
 {"key": "drnydod","name":"纽约影院(js)","type":3,"api":"./lib/drpy.ym.js",
  "ext": "./lib/js/nydod.js"
 },
-{"key": "dr_VOF","name":"VOFLIX(js)","type":3,"api":"./lib/drpy.ym.js",
- "ext": "./lib/js/VOFLIX.js"
+{"key": "drkBz","name":"看B站网(js)","type":3,"api":"./lib/drpy.ym.js",
+ "ext": "./lib/js/kBz.js"
+},
+{"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"./lib/drpy.ym.js",
+ "ext": "./lib/js/maom.js"
 },
 //==================================采集资源=================================================================
 {  "key": "M3U8资源","name":"资源采集","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
