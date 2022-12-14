@@ -412,8 +412,14 @@
  "ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
 },
 //==================================js爬虫==================================================================
+{"key": "drkuyu77","name":"七七影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kuyu77.js"
+},
 {"key": "drkukeyy","name":"酷客影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kukeyy.js"
+},
+{"key": "drzbuk","name":"真不卡院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/zbuk.js"
 },
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kBz.js"
