@@ -412,11 +412,17 @@
  "ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
 },
 //==================================js爬虫==================================================================
+{"key":"driqiyi","name":"爱奇影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
+ "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/iqiyi.js"
+},
+{"key":"drMgTV","name":"芒果TV(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
+ "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/MgTV.js"
+},
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/kuyu77.js"
 },
 {"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
- "searchable": 2,"ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kukeyy.js"
+ "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/kukeyy.js"
 },
 {"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/bulei.js"
@@ -426,6 +432,9 @@
 },
 {"key":"8号院","name":"8号影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/8hyy.js"
+},
+{"key":"drclys","name":"尘落影视(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
+ "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/clys.js"
 },
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "searchable": 2,"ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kBz.js"
