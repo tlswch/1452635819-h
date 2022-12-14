@@ -13,13 +13,13 @@
 {"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/Q2.jar"
 },
-{"key": "优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key": "优酷","name":"优酷视频(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/youku.js"
 },
-{"key":"搜狗影视","name":"搜狗影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"搜狗影视","name":"搜狗影视(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/sogou.js"
 },
-{"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"腾云驾雾","name":"腾讯影视(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/TXsp.js"
 },
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
@@ -412,25 +412,25 @@
  "ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
 },
 //==================================js爬虫==================================================================
-{"key": "drkuyu77","name":"七七影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/kuyu77.js"
 },
-{"key": "drkukeyy","name":"酷客影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kukeyy.js"
 },
-{"key": "drbulei","name":"布雷蓝光(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/bulei.js"
 },
-{"key": "drzbuk","name":"真不卡院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"drzbuk","name":"真不卡院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/zbuk.js"
 },
-{"key": "8号影院","name":"8号影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/libs/drpy.min.js",
+{"key":"8号院","name":"8号影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/8hyy.js"
 },
-{"key": "drkBz","name":"看B站网(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+{"key": "drkBz","name":"看B站网(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kBz.js"
 },
-{"key":"drtugoy","name":"土狗影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+{"key":"drtugoy","name":"土狗影院(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/tugoyy.js"
 },
 {"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
