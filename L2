@@ -424,8 +424,8 @@
 {"key": "drzbuk","name":"真不卡院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/zbuk.js"
 },
-{"key": "8号影院","name":"8号影院(js)","type":3,"api": "http://101.34.67.237/libs/drpy.min.js", "searchable": 2,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/8hyy.js"
+{"key": "8号影院","name":"8号影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/8hyy.js"
 },
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kBz.js"
