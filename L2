@@ -418,6 +418,9 @@
 {"key": "drkukeyy","name":"酷客影院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/t/raw/branch/main/js/kukeyy.js"
 },
+{"key": "drbulei","name":"布雷蓝光(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
+ "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/bulei.js"
+},
 {"key": "drzbuk","name":"真不卡院(js)","type":3,"api":"https://agit.ai/1452635819/t/raw/branch/main/lib/drpy.ym.js",
  "ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/zbuk.js"
 },
