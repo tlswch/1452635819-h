@@ -435,9 +435,7 @@
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
-    {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
-     "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
-    },
+    {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
     {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
     {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
     {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
@@ -447,6 +445,9 @@
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},
     {"name":"解析1","url": "https://www.8090.la//8090//?url="},   
     {"name":"解析2","url": "http://aliys.cn:89//mf//?url="}, 
+    {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
+     "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
+    },
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
