@@ -1,6 +1,5 @@
 {"wallpaper":"https://qiu.moe/a723",
 "spider":"https://agit.ai/1452635819/h/raw/branch/master/jar/Q3.jar",
-//"spider":"https://notabug.org/hogo18/h/raw/master/jar/Q2.jar",
 "sites": [
 //==================================主体源==================================================================
 //{"key":"t4public","name":"全局筛选()","type":4,"searchable":1,"quickSearch":1,"filterable":0,
@@ -479,15 +478,15 @@
 "parses": [
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name":"默认","type":3,"url":"Demo"},
-    {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
-    {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
-    {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
-    {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
     {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"parwix1","url": "https://jx.parwix.com:4433/player/?url="},
+    {"name":"ok解析","url": "https://okjx.cc/?url="},
+    {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
+    {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
     {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},
     {"name":"解析1","url": "https://www.8090.la//8090//?url="},   
