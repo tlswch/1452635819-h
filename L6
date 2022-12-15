@@ -226,6 +226,9 @@
 {"key":"mozhatPQ","name":"莫扎兔视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/mozhatPQ.json","jar": "./jar/Q2.jar"
 },
+{"key":"AByyPQ","name":"AB影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/AByyPQ.json","jar": "./jar/Q2.jar"
+},
 {"key":"coke","name":"coke影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/cokePQ.json","jar": "./jar/Q2.jar"
 },
