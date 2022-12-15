@@ -23,7 +23,7 @@
  "searchable": 2,"ext": "./lib/js/TXsp.js"
 },
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/bilimd.py"
+ "ext": "./Py/bilimd.py"
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {  "key": "Bili","name": "Bilibili站()","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,
@@ -140,77 +140,77 @@
 //==================================PY爬虫==================================================================
               {"key":"000","name":"下面(py)爬虫需加py插件","type":1,"api":"csp_Bdys01"},
 {"key": "py_douban","name": "豆瓣推荐(py)","type": 3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/douban.py"
+ "ext": "./Py/douban.py"
 },
 {"key": "py_Alist","name": "Alist网盘(py)","type": 3,"api":"py_Alist","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/Alist.py"
+  "ext": "./Py/Alist.py"
 },
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv.py"
-  //"ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/mdtv.py"
+  "ext": "./Py/cctv.py"
+  //"ext": "./Py/mdtv.py"
 },
 {"key":"py_cctvfull","name":"央视大全(py)","type":3,"api":"py_cctvfull","searchable":0,"quickSearch":0,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctvfull.py"
+ "ext": "./Py/cctvfull.py"
 },
 {"key": "py_cctv6","name": "央视电影(py)","type": 3,"api":"py_cctv6","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cctv6.py"
+  "ext": "./Py/cctv6.py"
 },
 {"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/jrskb.py"
+ "ext": "./Py/jrskb.py"
 },
 {"key":"py_kunyu77","name":"酷云七七(py)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kunyu77.py"
+ "ext": "./Py/kunyu77.py"
 },
 {"key": "py_cyys","name": "创艺影视(py)","type": 3,"api":"py_cyys","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/cyys.py"
+ "ext": "./Py/cyys.py"
 },
 {"key": "py_kpys","name": "快播影视(py)","type": 3,"api":"py_kpys","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kpys.py"
+ "ext": "./Py/kpys.py"
 },
 {"key":"py_bilibili","name":"哔哩哔哩(py)","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_bilibili.py"	
+ "ext": "./Py/py_bilibili.py"	
 },
 {"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/xgys.py"
+ "ext": "./Py/xgys.py"
 },
 {"key":"py_kuaikan","name":"快看影视(Py)","type":3,"api":"py_kuaikan","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/kuaikan.py"
+ "ext": "./Py/kuaikan.py"
 },
 {"key": "py_mdtv","name": "麦豆TV(py)","type": 3,"api":"py_mdtv","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/mdtv.py"
+ "ext": "./Py/mdtv.py"
 },
 {"key":"py_huya","name":"虎牙直播(py)","type":3,"api":"py_huya","searchable": 0,"quickSearch":0,"filterable":1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/huya.py"
+ "ext":"./Py/huya.py"
 }, 
 {"key":"py_douyu","name":"斗鱼直播(py)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable": 1,
- "ext":"https://agit.ai/1452635819/h/raw/branch/master/Py/douyu.py"
+ "ext":"./Py/douyu.py"
 },
 {"key": "py_czys","name": "厂长影视(py)","type": 3,"api":"py_czys","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/czys.py"
+ "ext": "./Py/czys.py"
 },
 {"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/voflix.py"
+ "ext": "./Py/voflix.py"
 }, 
 {"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/qifu.py"
+ "ext": "./Py/qifu.py"
 },
 {"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/libvio.py"
+ "ext": "./Py/libvio.py"
 },
 {"key": "py_gitcafe", "name":"小纸条(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/gitcafe.py"
+ "ext": "./Py/gitcafe.py"
 },
 {"key": "Yiso1","name":"💠易搜(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_yiso.py"
+ "ext": "./Py/py_yiso.py"
 },
 {"key": "Pansou","name":" 💎盘搜(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_pansou.py"
+ "ext": "./Py/py_pansou.py"
 },
 {"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_zhaozy.py"
+ "ext": "./Py/py_zhaozy.py"
 },
 {"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://agit.ai/1452635819/h/raw/branch/master/Py/py_ali.py"
+ "ext": "./Py/py_ali.py"
 },
 
 //==================================Xpath==================================================================
