@@ -17,7 +17,7 @@
 },
 {"key":"drMgTV","name":"芒果TV(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/MgTV.js"},
 {"key":"优酷","name":"优酷视频(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/youku.js"},
-{"key":"搜狗","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/rrys.js"},
+{"key":"搜狗","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/sogou.js"},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/bilimd.py"
 },
@@ -415,6 +415,7 @@
 {"key":"drclys","name":"尘落影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/clys.js"},
 {"key": "dr_VOF","name":"VOFLIX(js)","type":3,"api":"./lib/drpy.min.js", "ext": "./lib/js/VOFLIX.js"},
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/007ys.js"},
+{"key":"人人影视","name":"人人影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/rrys.js"},
 {"key": "金曼影视","name":"金曼影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/jinmantv.js"},
 {"key": "奇优影院","name":"奇优影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/quyy.js"},
 {"key": "宅腐影视","name":"宅腐影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/fujuys.js"},
