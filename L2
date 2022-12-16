@@ -137,7 +137,7 @@
  "ext": "./Py/douban.py"
 },
 {"key": "py_Alist","name": "Alist网盘(py)","type": 3,"api":"py_Alist","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "./Py/Alist.py"
+  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/alist.py"
 },
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,
   "ext": "./Py/cctv.py"
