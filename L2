@@ -416,6 +416,7 @@
 {"key":"8号院","name":"8号影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/8hyy.js"},
 {"key":"drclys","name":"尘落影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/clys.js"},
 {"key": "dr_VOF","name":"VOFLIX(js)","type":3,"api":"./lib/drpy.min.js", "ext": "./lib/js/VOFLIX.js"},
+{"key":"drdmxq","name":"大米星球(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/dmxq.js"},
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/007ys.js"},
 {"key":"人人影视","name":"人人影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/rrys.js"},
 {"key": "金曼影视","name":"金曼影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/jinmantv.js"},
