@@ -137,11 +137,11 @@
  "ext": "./Py/douban.py"
 },
 {"key": "py_Alist","name": "Alist网盘(py)","type": 3,"api":"py_Alist","searchable": 1,"quickSearch": 1,"filterable": 1,
-  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/alist.py"
+  "ext": "./PY/alist.py"
 },
 {"key": "py_cctv","name": "央视视频(py)","type": 3,"api":"py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,
-  //"ext": "./Py/cctv.py"
-  "ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_yydshd.py"
+  "ext": "./Py/cctv.py"
+  //"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_yydshd.py"
 },
 {"key":"py_cctvfull","name":"央视大全(py)","type":3,"api":"py_cctvfull","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "./Py/cctvfull.py"
