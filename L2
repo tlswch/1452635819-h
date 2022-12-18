@@ -1,7 +1,7 @@
 {"wallpaper":"https://qiu.moe/a723",
 "spider":"./jar/Q3.jar",
 "sites": [
-//==================================主体源==================================================================
+//==================================主力接口源==================================================================
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"./XPB/Alist.js"
 },
@@ -82,7 +82,7 @@
 {"key": "2345_s","name":"2345影视()","type":3,"api":"csp_YS2345","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "./XPB/2345.js", "jar": "./jar/b.jar"
 },
-{"key":"tcafe","name":"小纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"tcafe","name":"小纸条条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"./H/token.txt"
 },
 {"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
@@ -104,7 +104,7 @@
 {"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/token.txt"
 },
-{"key":"Upyunso","name":"Up云()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
+{"key":"Upyunso","name":"Up云搜()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
  "filterable":0,"ext":"./H/token.txt"
 },
 {"key": "Yiso","name": "易搜()","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"filterable":1,
