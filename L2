@@ -449,26 +449,26 @@
    "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
 },
 //====================================电视课堂================================================================
-{  "key":"biliKT","name":"bili杂谈()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/bilijyB.json"
+{  "key":"biliKT","name":"bili杂谈()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+   "ext":"./jy/bilijyB.json"
 },
-{  "key":"csp_TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,
-   "filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/TVkt.js"
+{  "key":"TVBOX","name":"TVBOX课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+   "ext":"./jy/TVkt.js"
 },
 {  "key":"学堂1","name":"高中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/gzkc.txt"
+   "ext":"./jy/gzkc.txt"
 },
 {  "key":"学堂2","name":"初中课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/czkc.txt"
+   "ext":"./jy/czkc.txt"
 },
 {  "key":"学堂3","name":"小学课堂()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xxkc.txt"
+   "ext":"./jy/xxkc.txt"
 },
 {  "key":"学堂4","name":"学前学习()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-   "ext":"https://agit.ai/1452635819/h/raw/branch/master/jy/xqjy.txt"
+   "ext":"./jy/xqjy.txt"
 },
 {  "key": "tjbook","name": "听书()","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,
-   "ext": "https://agit.ai/1452635819/h/raw/branch/master/jy/tjbook.json"
+   "ext": "./jy/tjbook.json"
 }
 ],
  "lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
