@@ -342,7 +342,7 @@
  "ext": "./H/zjdrPH.json"
 },
 {"key":"imaxwPH","name":"imax影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/imaxwPH.json"
+ "ext": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/Hk/XYQHiker/野荷塘影院.json"
 },
 {"key":"白嫖联盟","name":"白嫖联盟(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./H/bpzlmPH.json"
