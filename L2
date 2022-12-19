@@ -341,8 +341,11 @@
 {"key":"zjdrPH","name":"追剧达人(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/zjdrPH.json"
 },
+{"key":"yhtPH","name":"野荷影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/yhtPH.json"
+},
 {"key":"imaxwPH","name":"imax影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "https://notabug.org/yzzsjc/TVBox-Pro/raw/master/Hk/XYQHiker/野荷塘影院.json"
+ "ext": "./H/imaxwPH.json"
 },
 {"key":"白嫖联盟","name":"白嫖联盟(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./H/bpzlmPH.json"
