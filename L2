@@ -339,7 +339,7 @@
  "ext": "./H/czsppPH.json"
 },
 {"key":"zjdrPH","name":"追剧达人(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/zjdrPH.json","jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/H.jar"
+ "ext": "./H/zjdrPH.json","jar": "https://agit.ai/1452635819/h/raw/branch/master/jar/XYQPlugin_1028.jar"
 },
 {"key":"yhtPH","name":"野荷影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/yhtPH.json"
