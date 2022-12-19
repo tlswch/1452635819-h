@@ -356,8 +356,8 @@
 {"key":"cspyunque","name":"云雀影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 },
-{"key":"csprp123","name":123影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"
+{"key":"555Biu","name":"💠555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 //==================================js爬虫==================================================================
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kuyu77.js"},
