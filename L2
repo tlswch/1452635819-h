@@ -372,7 +372,7 @@
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kuyu77.js"},
 {"key":"drczspp","name":"厂长资源(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/czspp.js"},
 {"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kukeyy.js"},
-{"key":"drdidays","name":"低端影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/didays.js"},
+{"key":"drdidays","name":"低端影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/didays.js"},
 {"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/bulei.js"},
 {"key":"drzbuk","name":"真不卡院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/zbuk.js"},
 {"key":"8号院","name":"8号影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/8hyy.js"},
