@@ -439,6 +439,7 @@
     {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
+    {"name":"麒麟解析","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
     {"name":"风起兖州","url":"http://jx.gbxy.net.cn/?url="},
     {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
