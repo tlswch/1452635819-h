@@ -439,6 +439,7 @@
     {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
+    {"name":"风起兖州","url":"http://jx.gbxy.net.cn/?url="},
     {"name":"万能解析","url": "https://json.legendwhb.cn//llq//?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"ok解析","url": "https://okjx.cc/?url="},
@@ -459,18 +460,17 @@
     {"name": "lg解析","type":1,"url":"https://www.1920lgzy.top/json.php?url=",
      "ext":{"header":{"User-Agent":"Mozilla/5.0"}}
     },
-    {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url=",
-     "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
-    },
-    {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
-     "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}
-    },
     {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
     {"name":"饭1解析","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
     {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
      "header":{"User-Agent":"Mozilla/5.0"}
     },
-    {"name": "酷云解析","url": "http://api.ckflv.cn/?url=","type": 1}
+    {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url=",
+     "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+    },
+    {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
+     "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}
+    }
   ],
 "flags": ["qq","iqiyi","mgtv","qiyi","youku","sohu","wasu","letv","tudou","pptv","renrenmi","bilibili","m1905","9亿奇异"
   ],
