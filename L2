@@ -205,6 +205,9 @@
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/nmysPQ.json","jar": "./jar/Q2.jar"
 },
+{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/yanetfliPQ.json","jar": "./jar/Q2.jar"
+},
 { "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/dsxysPQ.json","jar": "./jar/Q2.jar"
 },
@@ -229,6 +232,12 @@
 {"key":"coke","name":"coke影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/cokePQ.json","jar": "./jar/Q2.jar"
 },
+{ "key":"zxzjPQ","name":"在线之家(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"./XPB/zxzjPQ.json","jar": "./jar/Q2.jar"
+},
+{"key":"AByyPQ","name":"AB影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/AByyPQ.json", "jar": "./jar/Q2.jar"
+},
 {"key":" rr520PQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/rr520PQ.json","jar": "./jar/Q2.jar"
 },
@@ -249,9 +258,6 @@
 },
 {"key":"xcysPQ","name":"小城影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/xcysPQ.json","jar": "./jar/Q2.jar"
-},
-{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/yanetfliPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/netflixPQ.json", "jar": "./jar/Q2.jar"
@@ -285,12 +291,6 @@
 {"key":"ysgcPQ","name":"影视工厂(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ysgcPQ.json","jar": "./jar/Q2.jar"
 }, 
-{ "key":"zxzjPQ","name":"在线之家(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"./XPB/zxzjPQ.json","jar": "./jar/Q2.jar"
-},
-{"key":"AByyPQ","name":"AB影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/AByyPQ.json", "jar": "./jar/Q2.jar"
-},
 {"key":"番茄PQ","name":"番茄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/feqePQ.json","jar": "./jar/PQ.jar"
 }, 
