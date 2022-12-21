@@ -1,7 +1,6 @@
 {
 "免嗅":"0",
 "分类url":"https://dsxys.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-//"分类":"数字||$124",
 "分类": "电视剧$2#国产剧$13#日韩剧$15#海外剧$23#电影$1#动作片$6#战争片$12#动漫$4#综艺$3",
 //"数组": "class=\"module-item&&</a>",
 "副标题":"class=\"module-item-note\">&&</div>",
