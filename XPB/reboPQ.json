@@ -21,7 +21,7 @@
 "播放数组":"<ul class=\"player&&</ul>",
 "分类":"电影$dy#剧集$tv#动漫$dm",
 "分类url":"https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-"免嗅":"1",
+"免嗅":"0",
 "筛选": {
 "dy":[
 {"key":"class","name":"剧情","value":[
