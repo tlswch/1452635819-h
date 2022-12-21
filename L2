@@ -390,7 +390,7 @@
 {"key": "188k","name":"188k影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/188kan.js"},
 {"key": "dr_YOKE","name":"YOKE影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/yoke.js"},
 {"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/huya.js"},
-{"key": "drdzys","name":"大中影视(js)","type":3,"api": "./lib/drpy.min.js","ext": "./lib/js/dzys.js"},
+{"key": "drbdys01","name":"哔滴影视(js)","type":3,"api": "./lib/drpy.min.js","ext": "./lib/js/bdys01.js"},
 {"key": "drkokys","name":"KOK影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kokys.js"},
 {"key": "drnydod","name":"纽约影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/nydod.js"},
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kBz.js"},
