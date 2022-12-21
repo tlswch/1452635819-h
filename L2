@@ -209,7 +209,7 @@
  "ext":"./XPB/yanetfliPQ.json","jar": "./jar/Q2.jar"
 },
 { "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"./XPB/dsxysPQ.json","jar": "./jar/Q2.jar"
+  "ext":"./XPB/dsxysPQ.json"//,"jar": "./jar/Q2.jar"
 },
 {"key":"ziziPQ","name":"子子影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ.jar"
