@@ -416,10 +416,10 @@
  "ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
 },
 {"key":"app_阿里","name":"阿里影视(v)","type":3,"playerType":2,"api":"csp_AppYsV2", "searchable":1, "quickSearch":1,
-  "filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod"
+  "filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"//"http://aliys.cn:90/api.php/v1.vod"
 },
 {  "key": "csp_appysv2_影库","name": "影库影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
-   "quickSearch": 1,"filterable": 1,"ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
+   "quickSearch": 1,"filterable": 1,"ext": "https://www.jiajia.pub/api.php/v1.vod"//"https://yingkudy.com/lvdou_api.php/v1.vod"
 },
 //====================================电视课堂================================================================
 {  "key":"biliKT","name":"bili杂谈()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
