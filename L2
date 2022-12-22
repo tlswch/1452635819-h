@@ -56,6 +56,12 @@
 {"key":"kkdyPQ","name":"看看电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/kkdyPQ.json","jar": "./jar/Q2.jar"
 },
+{"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/tvbPQ.json"
+},
+{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/panghuPQ.json"
+},
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/aiysPQ.json", "jar": "./jar/Q2.jar"
 }, 
@@ -196,26 +202,20 @@
 },
 
 //==================================Xpath==================================================================
-{"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/tvbPQ.json"
-},
-{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/panghuPQ.json"
-},
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"./XPB/nmysPQ.json"//,"jar": "./jar/Q2.jar"
+  "ext":"./XPB/nmysPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/yanetfliPQ.json"//,"jar": "./jar/Q2.jar"
+ "ext":"./XPB/yanetfliPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/zjdrPQ.json"//,"jar": "./jar/Q2.jar"
+ "ext":"./XPB/zjdrPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"ziziPQ","name":"子子影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ziziPQ.json"//,"jar": "./jar/PQ.jar"
+ "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ.jar"
 },
 {"key":"diezyyPQ","name":"蝶众影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/diezyyPQ.json"//,"jar": "./jar/Q2.jar"
+ "ext":"./XPB/diezyyPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"cspftys","name":"饭团影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ftysPQ.json","jar": "./jar/Q2.jar"
@@ -320,6 +320,7 @@
 // "ext":"./XPB/deyuysPQ.json","jar": "./jar/Q2.jar"},
 //{"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/300ysPQ.json","jar": "./jar/PQ.jar"},
+//==================================其它Xpath==================================================================
 {  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"./XPB/zaixiandyP.json"
 },
