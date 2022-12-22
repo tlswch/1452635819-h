@@ -201,7 +201,7 @@
  "ext": "./Py/py_ali.py"
 },
 
-//==================================Xpath==================================================================
+//==================================Xpath__XBPQ==================================================================
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/nmysPQ.json","jar": "./jar/Q2.jar"
 },
@@ -320,6 +320,7 @@
 // "ext":"./XPB/deyuysPQ.json","jar": "./jar/Q2.jar"},
 //{"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/300ysPQ.json","jar": "./jar/PQ.jar"},
+
 //==================================其它Xpath==================================================================
 {  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"./XPB/zaixiandyP.json"
