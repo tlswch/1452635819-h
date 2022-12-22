@@ -275,7 +275,8 @@
  "ext":"./XPB/lgyyPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"555dd5PQ","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/555dd5PQ.json"//,"jar": "./jar/Q2.jar"},
+ "ext":"./XPB/555dd5PQ.json"//,"jar": "./jar/Q2.jar"
+},
 {"key":"FosiPQ","name":"Fosit影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/FosiPQ.json", "jar": "./jar/Q2.jar"
 },
