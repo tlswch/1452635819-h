@@ -403,7 +403,10 @@
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kBz.js"},
 {"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/maom.js"},
 //==================================采集资源=================================================================
-{  "key": "M3U8资源","name":"资源采集","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
+{"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/"},
+{"key":"影图","name":"影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/"},
+{"key": "M3U8资源","name":"资源采集","type": 1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/"},
+{"key":"映迷","name":"映迷采集","type":1,"api":"https://www.inmi.app/api.php/provide/vod/"},
 //{  "key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
 //{  "key": "诺讯资源","name": "诺讯资源", "type": 1,"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list"},
 {  "key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/"},
@@ -412,8 +415,14 @@
 //{  "key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/"},
 {  "key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 //==================================M浏览器V1爬虫==================================================================
+{"key":"啊玲影视","name":"啊玲影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://520dml.xyz/api.php/v1.vod"
+},
 { "key": "csp佳佳","name": "佳佳影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
   "quickSearch": 1,"filterable": 1,"ext": "https://www.jiajia.pub/api.php/v1.vod"
+},
+{"key":"云玺TV","name":"云玺TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://43.138.193.213:8181//api.php/Miguo/vod/"
 },
 {"key":"万能影院","name":"万能影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
