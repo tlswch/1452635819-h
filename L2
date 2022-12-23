@@ -421,9 +421,8 @@
 { "key": "csp佳佳","name": "佳佳影视(v)","type": 3,"api": "csp_AppYsV2","searchable": 1,
   "quickSearch": 1,"filterable": 1,"ext": "https://www.jiajia.pub/api.php/v1.vod"
 },
-{"key":"云玺TV","name":"云玺TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"http://43.138.193.213:8181//api.php/Miguo/vod/"
-},
+//{"key":"云玺TV","name":"云玺TV(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"http://43.138.193.213:8181//api.php/Miguo/vod/"},
 {"key":"万能影院","name":"万能影院(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"
 },
