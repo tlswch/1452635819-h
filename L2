@@ -483,7 +483,7 @@
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
-    {"name": "懒懒解析","url": "http://lanlan.ckflv.cn/?url=","type":1},
+    {"name": "南南解析","url": "http://lanlan.ckflv.cn/?url=","type":1},
     {"name": "lg解析","type":1,"url":"https://www.1920lgzy.top/json.php?url=",
      "ext":{"header":{"User-Agent":"Mozilla/5.0"}}
     },
