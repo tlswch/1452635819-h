@@ -1,6 +1,6 @@
 {"wallpaper":"https://qiu.moe/a723",
-//"spider":"./jar/Q3.jar",
-"spider": "img+https://hutool.ml/jar",
+"spider":"./jar/Q3.jar",
+//"spider": "img+https://hutool.ml/jar",
 "sites": [
 
 //==================================主力接口源==================================================================
