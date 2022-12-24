@@ -478,6 +478,9 @@
     {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
     },
+    {"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=",
+     "ext":{"header":{"User-Agent":""}}
+    },
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
