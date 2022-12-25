@@ -482,11 +482,11 @@
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name":"默认","type":3,"url":"Demo"},
     {"name":"菜妮斯","url":"https://jx.cainisi.cf/?v="},
-    {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
-    {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
     {"name":"麒麟解析","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
     {"name":"新视角析","url": "https://jx1.bw66.xyz//player//?url="},
+    {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
+    {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
@@ -514,10 +514,8 @@
     {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
-    //{"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=",
-    // "ext":{"header":{"User-Agent":""}}},
-    {"name": "keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=",
-     "ext": {"header": {"User-Agent": "okhttp/4.1.0"	}}
+    {"name":"PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=",
+     "ext":{"header":{"User-Agent":""}}
     }
   ],
 "flags": ["qq","iqiyi","mgtv","qiyi","youku","sohu","wasu","letv","tudou","pptv","renrenmi","bilibili","m1905","9亿奇异"
