@@ -27,6 +27,11 @@
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
 },
+//{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
+//  "searchable":1,"ext":"","jar": "./jar/Q.jar"},
+{"key":"AppTT","name":"图图影视()","type": 3,"api": "csp_AppTT","searchable":1,"quickSearch": 1,"filterable":1,
+ "ext": "http://121.205.88.126:7788","jar": "./jar/Q1.jar"
+},
 {"key":"fant","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
@@ -42,18 +47,13 @@
 {"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
-//{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
-//  "searchable":1,"ext":"","jar": "./jar/Q.jar"},
-{"key":"AppTT","name":"图图影视()","type": 3,"api": "csp_AppTT","searchable":1,"quickSearch": 1,"filterable":1,
- "ext": "http://121.205.88.126:7788","jar": "./jar/Q1.jar"
-},
 {"key":"sliu","name":"石榴电影()","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"","jar": "./jar/Q.jar"
 },
 {"key":"csp_CZSPP","name":"厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0//,"jar": "./jar/Q.jar"
 },
-{"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
+{"key":"百影视频","name":"百影视频()","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0,"ext":"http://47.104.99.175","jar": "./jar/Q.jar"
 },
 {"key":"LiteApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
