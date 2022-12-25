@@ -481,6 +481,7 @@
 "parses": [
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name":"默认","type":3,"url":"Demo"},
+    {"name":"菜妮斯","url":"https://jx.cainisi.cf/?v="},
     {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
     {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
