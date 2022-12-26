@@ -318,7 +318,7 @@
  "ext":"./XPB/nunxunPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/xkysPQ.json","jar": "./jar/PQ1.jar"
+ "ext":"./XPB/xkysPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"subaib","name":"素白影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/subaibPQ.json", "jar": "./jar/Q2.jar"
