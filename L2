@@ -73,7 +73,7 @@
  "ext":"./XPB/panghuPQ.json"
 },
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/aiysPQ.json", "jar": "./jar/PQ1.jar"
+ "ext":"./XPB/aiysPQ.json", "jar": "./jar/Q2.jar"
 }, 
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/wnvodPQ.json","jar": "./jar/PQ1.jar"
@@ -213,13 +213,13 @@
 
 //==================================Xpath__XBPQ==================================================================
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-  "ext":"./XPB/nmysPQ.json","jar": "./jar/Q2.jar"
+  "ext":"./XPB/nmysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/yanetfliPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/zjdrPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/zjdrPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"ziziPQ","name":"子子影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ.jar"
