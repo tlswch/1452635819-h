@@ -222,16 +222,16 @@
  "ext":"./XPB/zjdrPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"ziziPQ","name":"子子影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ.jar"
+ "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"diezyyPQ","name":"蝶众影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/diezyyPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/diezyyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"cspftys","name":"饭团影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ftysPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/ftysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"耐看点播","name":"耐看点播(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/nkvodPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"reboPQ","name":"热播影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/reboPQ.json","jar": "./jar/Q2.jar"
