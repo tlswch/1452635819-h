@@ -234,13 +234,13 @@
  "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"reboPQ","name":"热播影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/reboPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/reboPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"sryyPQ","name":"私人影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/sryyPQ.json","jar": "./jar/PQ.jar"
+ "ext":"./XPB/sryyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"smdyyPQ","name":"神马影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/smdyyPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/smdyyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"mozhatPQ","name":"莫扎兔视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/mozhatPQ.json","jar": "./jar/Q2.jar"
