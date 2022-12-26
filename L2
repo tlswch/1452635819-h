@@ -282,10 +282,10 @@
  "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"csplgyy","name":"蓝光影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/lgyyPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/lgyyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"555dd5PQ","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/555dd5PQ.json","jar": "./jar/duo.jar"
+ "ext":"./XPB/555dd5PQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"FosiPQ","name":"Fosit影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/FosiPQ.json", "jar": "./jar/Q2.jar"
@@ -303,7 +303,7 @@
  "ext":"./XPB/ysgcPQ.json","jar": "./jar/Q2.jar"
 }, 
 {"key":"番茄PQ","name":"番茄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/feqePQ.json","jar": "./jar/PQ.jar"
+ "ext":"./XPB/feqePQ.json","jar": "./jar/PQ1.jar"
 }, 
 {"key":"gfysPQ","name":"干饭影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/gfysPQ.json", "jar": "./jar/Q2.jar"
@@ -312,13 +312,13 @@
  "ext":"./XPB/6080dyPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"嘿嘿PQ","name":"嘿嘿影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/heiheiPQ.json", "jar": "./jar/PQ.jar"
+ "ext":"./XPB/heiheiPQ.json", "jar": "./jar/PQ1.jar"
 },
 {"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nunxunPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/xkysPQ.json","jar": "./jar/PQ.jar"
+ "ext":"./XPB/xkysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"subaib","name":"素白影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/subaibPQ.json", "jar": "./jar/Q2.jar"
