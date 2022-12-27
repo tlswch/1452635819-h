@@ -260,6 +260,9 @@
 {"key":"hetoPQ","name":"核桃影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/hetoPQ.json", "jar": "./jar/PQ1.jar"
 },
+{"key":"honglinPQ","name":"红领巾院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/honglingjinPQ.json", "jar": "./jar/PQ1.jar"
+},
 { "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/dsxysPQ.json","jar": "./jar/Q2.jar"
 },
