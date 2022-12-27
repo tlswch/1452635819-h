@@ -7,6 +7,13 @@
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable": 0,
   "ext":"./XPB/Alist.js"
 },
+{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
+{"key":"腾讯","name":"腾讯影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/TXsp.js"},
+{"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"driqiyi","name":"爱奇影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/iqiyi.js"},
+{"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drMgTV","name":"芒果TV(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/MgTV.js"},
+{"key":"优酷","name":"优酷视频(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/youku.js"},
 {"key":"搜狗","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/sogou.js"},
 {"key": "py_bilimd","name":"哔哩影视(py)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/bilimd.py"
@@ -20,8 +27,19 @@
  "ext":"./XPB/360ysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/kuyu77.js"},
+{"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
+},
+{"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./H/nmysPH.json"
+},
+{"key":"csp_panghu","name":"胖虎影视()","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,
+ "filterable": 1,"jar": "./jar/Q1.jar"
+},
+{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/panghuPQ.json"
 },
 //{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 //  "searchable":1,"ext":"","jar": "./jar/Q.jar"},
@@ -62,9 +80,6 @@
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
 },
-{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/panghuPQ.json"
-},
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/aiysPQ.json", "jar": "./jar/Q2.jar"
 }, 
@@ -82,9 +97,6 @@
 {"key":"cspTkys","name":"天空影视()","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
  "filterable":1,"jar": "./jar/Q1.jar"
-},
-{"key": "csp_panghu","name":"胖虎影视()","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,
- "filterable": 1,"jar": "./jar/Q1.jar"
 },
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext": "./H/bdys01XP.json"
@@ -214,20 +226,17 @@
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/zjdrPQ.json","jar": "./jar/PQ1.jar"
 },
-{"key":"ziziPQ","name":"子子影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ1.jar"
-},
-{"key":"diezyyPQ","name":"蝶众影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/diezyyPQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"cspftys","name":"饭团影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ftysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"耐看点播","name":"耐看点播(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
 },
-{"key":"reboPQ","name":"热播影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/reboPQ.json","jar": "./jar/PQ1.jar"
+{"key":"csplgyy","name":"蓝光影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/lgyyPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"555dd5PQ","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/555dd5PQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"sryyPQ","name":"私人影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/sryyPQ.json","jar": "./jar/Q2.jar"
@@ -235,14 +244,14 @@
 {"key":"smdyyPQ","name":"神马影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/smdyyPQ.json","jar": "./jar/PQ1.jar"
 },
-{"key":"mozhatPQ","name":"莫扎兔视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/mozhatPQ.json","jar": "./jar/Q2.jar"
-},
 {"key":"coke","name":"coke影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/cokePQ.json","jar": "./jar/Q2.jar"
 },
 { "key":"zxzjPQ","name":"在线之家(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/zxzjPQ.json","jar": "./jar/Q2.jar"
+},
+{"key":"honglinPQ","name":"红领巾院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/honglingjinPQ.json", "jar": "./jar/PQ1.jar"
 },
 {"key":"AByyPQ","name":"AB影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/AByyPQ.json", "jar": "./jar/Q2.jar"
@@ -250,6 +259,18 @@
 {"key":" rr520PQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/rr520PQ.json","jar": "./jar/Q2.jar"
 },
+{"key":"reboPQ","name":"热播影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/reboPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"ziziPQ","name":"子子影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/ziziPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"diezyyPQ","name":"蝶众影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/diezyyPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"ysgcPQ","name":"影视工厂(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/ysgcPQ.json","jar": "./jar/Q2.jar"
+}, 
 {"key":"hetoPQ","name":"核桃影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/hetoPQ.json", "jar": "./jar/PQ1.jar"
 },
@@ -258,6 +279,9 @@
 },
 {"key":"lezhuPQ","name":"乐猪影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/lezhuPQ.json"//,"jar": "./jar/Q2.jar"
+},
+{"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/6080dyPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"xcysPQ","name":"小城影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/xcysPQ.json","jar": "./jar/Q2.jar"
@@ -274,17 +298,14 @@
 {"key":"qxsyy","name":"七时影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/Q2.jar"
 },
-{"key":"csplgyy","name":"蓝光影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/lgyyPQ.json","jar": "./jar/PQ1.jar"
-},
-{"key":"555dd5PQ","name":"555电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/555dd5PQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"FosiPQ","name":"Fosit影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/FosiPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"6dPQ","name":"六度影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/6dPQ.json","jar": "./jar/Q2.jar"
+},
+{"key":"mozhatPQ","name":"莫扎兔视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/mozhatPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"kuaikan","name":"快看.影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/kuaikanPQ.json","jar": "./jar/Q2.jar"
@@ -292,17 +313,11 @@
 {"key":"ddguiPQ","name":"达达龟影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ddguiPQ.json","jar": "./jar/Q2.jar"
 },
-{"key":"ysgcPQ","name":"影视工厂(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ysgcPQ.json","jar": "./jar/Q2.jar"
-}, 
 {"key":"番茄PQ","name":"番茄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/feqePQ.json","jar": "./jar/PQ1.jar"
 }, 
 {"key":"gfysPQ","name":"干饭影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/gfysPQ.json", "jar": "./jar/Q2.jar"
-},
-{"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/6080dyPQ.json", "jar": "./jar/Q2.jar"
 },
 {"key":"嘿嘿PQ","name":"嘿嘿影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/heiheiPQ.json", "jar": "./jar/PQ1.jar"
@@ -318,6 +333,9 @@
 },
 {"key":"hdikPQ","name":"hdik影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/hdikPQ.json", "jar": "./jar/Q2.jar"
+},
+{"key":"kanykPQ","name":"看一影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/kanykPQ.json", "jar": "./jar/Q2.jar"
 },
 //{"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/deyuysPQ.json","jar": "./jar/Q2.jar"},
@@ -339,9 +357,6 @@
 },
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kkdyPH.json"
-},
-{"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./H/nmysPH.json"
 },
 {"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/40yPH.json"
@@ -389,9 +404,8 @@
  "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 //==================================js爬虫==================================================================
-{"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kuyu77.js"},
+
 {"key":"drczspp","name":"厂长资源(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/czspp.js"},
-{"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
 {"key":"drhwyy","name":"花屋影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/hwyy.js"},
 {"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kukeyy.js"},
 {"key":"drlzizys","name":"量子影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/lzizys.js"},
@@ -477,19 +491,20 @@
 "parses": [
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name":"默认","type":3,"url":"Demo"},
-    {"name":"菜妮斯","url":"https://jx.cainisi.cf/?v="},
-    {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
-    {"name":"麒麟解析","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
-    {"name":"新视角析","url": "https://jx1.bw66.xyz//player//?url="},
-    {"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
+    {"name":"全能解析1","url":"https://jx.4kdv.com/?url="},
+    {"name":"全能解析2","url":"https://jx.cainisi.cf/?v="},
+    {"name":"全能解析3","url": "https://dm.xmflv.com:4433/?url="},
+    {"name":"全能解析4","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
+    {"name":"全能解析5","url": "https://jx1.bw66.xyz//player//?url="},
+    {"name":"全能解析6","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"hxys解析","url": "https://hxys.tv/bfq/?url="},
-    {"name":"嗅探解析","url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
     {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
-    {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},
-    {"name":"解析1","url": "https://www.8090.la//8090//?url="},   
+    //{"name":"xmf解析", "url": "https://jx.xmflv.com/?url="},
+    //{"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
+    //{"name":"解析1","url": "https://www.8090.la//8090//?url="},   
     {"name":"解析2","url": "http://aliys.cn:89//mf//?url="}, 
     {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
