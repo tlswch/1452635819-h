@@ -27,8 +27,19 @@
  "ext":"./XPB/360ysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/kuyu77.js"},
+{"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
+},
+{"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./H/nmysPH.json"
+},
+{"key":"csp_panghu","name":"胖虎影视()","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,
+ "filterable": 1,"jar": "./jar/Q1.jar"
+},
+{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/panghuPQ.json"
 },
 //{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 //  "searchable":1,"ext":"","jar": "./jar/Q.jar"},
@@ -69,9 +80,6 @@
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
 },
-{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/panghuPQ.json"
-},
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/aiysPQ.json", "jar": "./jar/Q2.jar"
 }, 
@@ -89,9 +97,6 @@
 {"key":"cspTkys","name":"天空影视()","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
  "filterable":1,"jar": "./jar/Q1.jar"
-},
-{"key": "csp_panghu","name":"胖虎影视()","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,
- "filterable": 1,"jar": "./jar/Q1.jar"
 },
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext": "./H/bdys01XP.json"
@@ -353,9 +358,6 @@
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kkdyPH.json"
 },
-{"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./H/nmysPH.json"
-},
 {"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/40yPH.json"
 },
@@ -402,9 +404,8 @@
  "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 //==================================js爬虫==================================================================
-{"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kuyu77.js"},
+
 {"key":"drczspp","name":"厂长资源(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/czspp.js"},
-{"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
 {"key":"drhwyy","name":"花屋影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/hwyy.js"},
 {"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kukeyy.js"},
 {"key":"drlzizys","name":"量子影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/lzizys.js"},
