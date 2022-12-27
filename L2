@@ -484,7 +484,8 @@
 "parses": [
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name":"默认","type":3,"url":"Demo"},
-    {"name":"菜妮斯","url":"https://jx.cainisi.cf/?v="},
+    {"name":"全能解析1","url":"https://jx.4kdv.com/?url="},
+    {"name":"全能解析2","url":"https://jx.cainisi.cf/?v="},
     {"name":"虾米解析","url": "https://dm.xmflv.com:4433/?url="},
     {"name":"麒麟解析","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
     {"name":"新视角析","url": "https://jx1.bw66.xyz//player//?url="},
@@ -494,14 +495,13 @@
     {"name":"ok解析","url": "https://okjx.cc/?url="},
     {"name":"爱酷解析","url": "https://jx.zhanlangbu.com/?url="},
     {"name":"鸿途解析", "url": "https://h5.freejson.xyz/player/?url="},
-    {"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
     {"name":"诺讯解析","url":"https://www.nxflv.com/?url="},
-    {"name":"解析1","url": "https://www.8090.la//8090//?url="},   
+    //{"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
+    //{"name":"解析1","url": "https://www.8090.la//8090//?url="},   
     {"name":"解析2","url": "http://aliys.cn:89//mf//?url="}, 
     {"name":"91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
     },
-    {"name":"3号线","url":"https://jx.4kdv.com/?url="},
     {"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"江湖解析","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
