@@ -404,12 +404,12 @@
  "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 //==================================js爬虫==================================================================
-
+{"key":"drkkdy","name":"看看电影(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/kkdy.js"},
 {"key":"drczspp","name":"厂长资源(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/czspp.js"},
 {"key":"drhwyy","name":"花屋影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/hwyy.js"},
 {"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kukeyy.js"},
 {"key":"drlzizys","name":"量子影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/lzizys.js"},
-{"key":"drdidays","name":"低端影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/didays.js"},
+{"key":"drdidays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
 {"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/bulei.js"},
 {"key":"drzbuk","name":"真不卡院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/zbuk.js"},
 {"key":"8号院","name":"8号影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/8hyy.js"},
@@ -428,9 +428,9 @@
 {"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/huya.js"},
 {"key": "drjiukuys","name":"九酷影视(js)","type":3,"api": "./lib/drpy.min.js","ext": "./lib/js/jiukuys.js"},
 {"key": "drkokys","name":"KOK影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kokys.js"},
-{"key": "drnydod","name":"纽约影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/nydod.js"},
+//{"key": "drnydod","name":"纽约影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/nydod.js"},
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kBz.js"},
-{"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/maom.js"},
+//{"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/maom.js"},
 //==================================采集资源=================================================================
 {"key":"爱酷影视","name":"爱酷影视","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/"},
 {"key":"影图","name":"影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/"},
