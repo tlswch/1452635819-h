@@ -428,7 +428,7 @@
 {"key": "drjiukuys","name":"九酷影视(js)","type":3,"api": "./lib/drpy.min.js","ext": "./lib/js/jiukuys.js"},
 {"key": "drkokys","name":"KOK影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kokys.js"},
 {"key": "drkBz","name":"看B站网(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/kBz.js"},
-//{"key": "宅腐影视","name":"宅腐影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/fujuys.js"},
+{"key": "宅腐影视","name":"宅腐影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "https://notabug.org/hogo18/s/raw/main/Js/100%e5%bd%b1%e9%99%a2.js"},
 //{"key": "drnydod","name":"纽约影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/nydod.js"},
 //{"key": "dr喵喵","name":"喵喵影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/maom.js"},
 //==================================采集资源=================================================================
