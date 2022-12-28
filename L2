@@ -8,7 +8,7 @@
   "ext":"./XPB/Alist.js"
 },
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1,
- "jar": "./jar/Q.jar"
+ "jar": "./jar/Q2.jar"
 },
 {"key":"腾讯","name":"腾讯影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable": 2,"ext": "./lib/js/TXsp.js"},
 {"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
