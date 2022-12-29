@@ -369,6 +369,9 @@
 {"key":"yhtPH","name":"野荷影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/yhtPH.json"
 },
+{"key":"qnyokPH","name":"青年影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/qnyokePH.json"
+},
 {"key":"188kanPH","name":"188影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/188kPH.json"
 },
