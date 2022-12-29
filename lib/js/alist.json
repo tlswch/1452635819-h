@@ -1,24 +1,10 @@
-[{
-	"name": "🙋丫仙女",
-	"server": "http://alist.xiaoya.pro/",
-	"startPage": "/",
-	"showAll": false,
-	"search": true,
-	"params": {
-		"/abc": {
-			"password": "123"
-		},
-		"/abc/abc": {
-			"password": "123"
-		}
-	}
-}, {
-	"name": "🌤晴园的宝藏库",
-	"server": "https://alist.52qy.repl.co"
-}, {
-	"name": "🐭米奇妙妙屋",
-	"server": "https://anime.mqmmw.ga"
-}, {
+[
+{"name": "🙋丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
+	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
+}, 
+{"name": "🌤晴园的宝藏库","server": "https://alist.52qy.repl.co"}, 
+{"name": "🐭米奇妙妙屋","server": "https://anime.mqmmw.ga"}, 
+{
 	"name": "💂小兵组网盘影视",
 	"server": "https://6vv.app"
 }, {
