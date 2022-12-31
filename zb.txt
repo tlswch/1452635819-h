@@ -40,7 +40,6 @@ CNN新闻,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w128582
 东方卫视,http://183.207.255.197/live/program/live/hddfws/2300000/mnf.m3u8
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
-湖南卫视,http://yfsl.vsd.gehua.net.cn/live/HuNanHD_6000.m3u8?sign=test
 湖南卫视,http://1.195.111.251:11190/tsfile/live/0128_1.m3u8
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
