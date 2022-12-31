@@ -43,15 +43,14 @@
 {"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json"
 },
+//{"key":"Dy1010","name":"Dy1010()","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,
+// "jar": "./jar/Q1.jar"},
 //{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 //  "searchable":1,"ext":"","jar": "./jar/Q.jar"},
 {"key":"AppTT","name":"图图影视()","type": 3,"api": "csp_AppTT","searchable":1,"quickSearch": 1,"filterable":1,
  "ext": "http://121.205.88.126:7788","jar": "./jar/Q1.jar"
 },
 {"key":"fant","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
-},
-{"key":"Dy1010","name":"Dy1010()","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
 {"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
@@ -113,6 +112,9 @@
 {"key":"csp鹅直播","name":"企鹅体育(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
  "ext":"./H/liveqqP3.json"
 },
+{"key":"QBiu酷奇MV","name":"酷奇MV(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
+ "ext":"./H/kuqiQB.json"
+},
 {"key":"柠檬树PH","name":"柠檬直播(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/lu1zbPH.json"
 },
@@ -159,6 +161,15 @@
 },
 {"key": "py_cctv6","name": "央视电影(py)","type": 3,"api":"py_cctv6","searchable": 1,"quickSearch": 1,"filterable": 1,
   "ext": "./Py/cctv6.py"
+},
+{"key": "py_cctv5","name": "央视体育(py)","type": 3,"api":"py_cctv5","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "./Py/cctvty.py"
+},
+{"key": "py_cctvxw","name":"央视新闻(py)","type": 3,"api":"py_cctvxw","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "./Py/cctvxw.py"
+},
+{"key": "py_cctvjs","name":"央视军事(py)","type": 3,"api":"py_cctvjs","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "./Py/cctvjs.py"
 },
 {"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "./Py/jrskb.py"
@@ -402,6 +413,9 @@
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/300PH.json"
 },
+{"key":"XBiu胖虎","name":"胖虎影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
+},
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 },
@@ -520,7 +534,7 @@
     {"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"自动解析03","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
     {"name":"自动解析04","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-    {"name":"江湖解析05","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
+    {"name":"自动解析05","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=",
      "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
     },
     {"name":"自动解析06","type":1,"url":"https://www.1920lgzy.top/json.php?url=",
