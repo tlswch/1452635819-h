@@ -163,6 +163,15 @@
 {"key": "py_cctv6","name": "央视电影(py)","type": 3,"api":"py_cctv6","searchable": 1,"quickSearch": 1,"filterable": 1,
   "ext": "./Py/cctv6.py"
 },
+{"key": "py_cctv5","name": "央视体育(py)","type": 3,"api":"py_cctv5","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "./Py/cctvty.py"
+},
+{"key": "py_cctvxw","name":"央视新闻(py)","type": 3,"api":"py_cctvxw","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "./Py/cctvxw.py"
+},
+{"key": "py_cctvjs","name":"央视军事(py)","type": 3,"api":"py_cctvjs","searchable": 1,"quickSearch": 1,"filterable": 1,
+  "ext": "./Py/cctvjs.py"
+},
 {"key": "py_jrskb","name": "体育直播(py)","type": 3,"api":"py_jrskb","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "./Py/jrskb.py"
 },
