@@ -44,8 +44,6 @@
 {"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json"
 },
-{"key":"Dy1010","name":"Dy1010()","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q.jar"},
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
   "searchable":1,"ext":"","jar": "./jar/Q.jar"
 },
