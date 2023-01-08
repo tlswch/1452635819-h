@@ -251,7 +251,7 @@
  "ext":"./XPB/ftysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/tootwPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/tootwPQ.json","jar": "./jar/Q1.jar"
 },
 {"key":"耐看点播","name":"耐看点播(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
