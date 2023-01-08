@@ -81,10 +81,10 @@
  "ext":"./XPB/tvbPQ.json"
 },
 {"key":"aiysPQ","name":"爱酷电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/aiysPQ.json", "jar": "./jar/Q1.jar"
+ "ext":"./XPB/aiysPQ.json", "jar": "./jar/Q2.jar"
 }, 
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/wnvodPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/wnvodPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"csp_Cokemv","name":"Cokemv()","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
