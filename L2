@@ -239,7 +239,7 @@
  "ext":"./XPB/buleiPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"ddysPQ","name":"低端影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ddysPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/ddysPQ.json","jar": "./jar/Q1.jar"
 },
 {"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"
