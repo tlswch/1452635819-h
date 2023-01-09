@@ -10,5 +10,6 @@
 "线路标题": ">&&</h3>",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5",
 "分类url":"https://abu22.com/vodtype/{cateId}-{catePg}.html",
+"搜索url":"https://abu22.com/?c=search&wd={wd}",
 "年份":"2004-2022",
 "筛选":"0"}
