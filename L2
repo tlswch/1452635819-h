@@ -336,7 +336,7 @@
  "ext":"./XPB/nunxunPQ.json", "jar": "./jar/Q1.jar"
 },
 {"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/xkysPQ.json","jar": "./jar/PQ1.jar"
+ "ext":"./XPB/xkysPQ.json","jar": "./jar/Q1.jar"
 },
 {"key":"subaib","name":"素白影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/subaibPQ.json", "jar": "./jar/Q1.jar"
@@ -348,12 +348,12 @@
  "ext":"./XPB/kanykPQ.json", "jar": "./jar/Q1.jar"
 },
 {"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/deyuysPQ.json","jar": "./jar/Q2.jar"},
+ "ext":"./XPB/deyuysPQ.json","jar": "./jar/Q1.jar"},
 {"key":"qxsyy","name":"七时影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/Q1.jar"
 },
 {"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/300ysPQ.json","jar": "./jar/PQ1.jar"},
+ "ext":"./XPB/300ysPQ.json","jar": "./jar/Q1.jar"},
 
 //==================================其它Xpath==================================================================
 {  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
