@@ -352,7 +352,7 @@
 //{"key":"mozhatPQ","name":"莫扎兔视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"./XPB/mozhatPQ.json","jar": "./jar/Q1.jar"},
 {"key":"嘿嘿PQ","name":"嘿嘿影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/tutuPQ.json", "jar": "./jar/Q1.jar"},
+ "ext":"./XPB/tutuPQ.json", "jar": "./jar/Q2.jar"},
 
 //==================================其它Xpath==================================================================
 {  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
