@@ -2,7 +2,7 @@
 "站名": "蝶众影院",
 "主页url": "https://www.diezz.net/",
 //"请求头": "",
-"免嗅":"0",
+"免嗅":"1",
 "图片代理": "0",
 "分类url":"https://www.diezz.net/vodshow/{cateId}--------{catePg}---.html",
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
