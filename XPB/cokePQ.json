@@ -2,7 +2,7 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "COKEMV",
   "主页url": "https://cokemv.me",
-  "免嗅": "1",
+  "免嗅": "0",
   "分类": "电影$1#电视剧$2#动漫$3#综艺$29",
   "分类url": "https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "副标题": "module-item-note\">&&</div>",
