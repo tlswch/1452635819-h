@@ -547,7 +547,7 @@
     {"name":"自动解析06","type":1,"url":"https://www.1920lgzy.top/json.php?url=",
      "ext":{"header":{"User-Agent":"Mozilla/5.0"}}
     },
-    {"name":"自动解析07","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
+    {"name":"自动解析07","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=",
      "header":{"User-Agent":"Mozilla/5.0"}
     },
     {"name":"自动解析08","type":1,"url":"http://pandown.pro/app/kxjx.php?url=",
