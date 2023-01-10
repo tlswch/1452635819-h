@@ -70,10 +70,10 @@
 //{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"胖虎影视()","type": 3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+ "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "./jar/D.jar"
 },
 {"key":"Ddys","name":"低端影视()","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
- "ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+ "ext":"1cc92323700909e7d46623bc85b958d6","jar":"./jar/D.jar"
 },
 {"key":"Ddys1","name":"低端美剧()","type":3,"api": "csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,
  "click":"ddys.tv;#vjsp > button","jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"
@@ -103,9 +103,6 @@
 },
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext": "./H/bdys01XP.json"
-},
-{"key": "2345_s","name":"2345影视()","type":3,"api":"csp_YS2345","searchable":0,"quickSearch":0,"filterable":1,
- "ext": "./XPB/2345.js", "jar": "./jar/b.jar"
 },
 {"key":"tcafe","name":"小纸条条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"./H/token.txt"
