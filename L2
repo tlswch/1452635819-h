@@ -2,7 +2,7 @@
 "spider":"./jar/Q3.jar",
 "sites": [
 {
-			"key": "Ddys",
+			"key": "Ddys1",
 			"name": "低端美剧(爬虫)",
 			"type": 3,
 			"api": "csp_Ddrk",
