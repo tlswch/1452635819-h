@@ -9,7 +9,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"click": "ddys.tv;#vjsp > button",
-			"filterable": 1
+			"filterable": 1,"jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"
 		},
 //==================================主力接口源==================================================================
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
