@@ -1,7 +1,16 @@
 {"wallpaper":"https://qiu.moe/a723",
 "spider":"./jar/Q3.jar",
 "sites": [
-
+{
+			"key": "Ddys",
+			"name": "低端美剧(爬虫)",
+			"type": 3,
+			"api": "csp_Ddrk",
+			"searchable": 1,
+			"quickSearch": 1,
+			"click": "ddys.tv;#vjsp > button",
+			"filterable": 1
+		},
 //==================================主力接口源==================================================================
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
   "ext":"./XPB/Alist.js"
@@ -237,6 +246,9 @@
 {"key":"buleiPQ","name":"布蕾影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/buleiPQ.json","jar": "./jar/PQ1.jar"
 },
+{"key":"348dyPQ","name":"348电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/348PQ.json","jar": "./jar/Q1.jar"
+},
 {"key":"ddysPQ","name":"低端影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ddysPQ.json","jar": "./jar/Q1.jar"
 },
@@ -348,10 +360,7 @@
 //{ "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/dsxysPQ.json","jar": "./jar/Q1.jar"},
 {"key":"brovodPQ","name":"兄弟影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/brovodPQ.json", "jar": "./jar/Q1.jar"
-},
-{"key":"348dyPQ","name":"348电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/348PQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/brovodPQ.json", "jar": "./jar/PQ1.jar"
 },
 {"key":"91fPQ","name":"91f影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/91freePQ.json", "jar": "./jar/Q1.jar"
