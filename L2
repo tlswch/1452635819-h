@@ -39,8 +39,10 @@
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
-//{"key":"csp_panghu","name":"胖虎影视()","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,
-// "filterable": 1,"jar": "./jar/Q1.jar"},
+{"key":"csp_panghu","name":"胖虎影视()","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,
+ "filterable": 1,"ext": "c41fdb671b20925c76fa9b6ff8bad027",
+ "jar": "https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"
+},
 //{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/panghuPQ.json"},
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
