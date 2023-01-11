@@ -221,9 +221,8 @@
 {"key": "Pansou","name":" 💎盘搜(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/py_pansou.py"
 },
-{"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./Py/py_zhaozy.py"
-},
+//{"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
+//"ext": "./Py/py_zhaozy.py"},
 {"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/py_ali.py"
 },
