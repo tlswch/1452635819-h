@@ -418,7 +418,7 @@
  "ext": "./H/188kPH.json"
 },
 {"key":"freeokPH","name":"免费影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/freeokPH.json"
+ "ext": "./H/zxzjPH.json"
 },
 {"key":"1dtvPH","name":"壹度影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/1dtvPH.json"
