@@ -39,8 +39,6 @@
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
-//{"key":"panghu","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/panghuPQ.json"},
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
   "searchable":1,"ext":"","jar": "./jar/Q.jar"
 },
@@ -72,11 +70,6 @@
 {"key":"csp_panghu","name":"胖虎影视()","type": 3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "./jar/D.jar"
 },
-{"key":"Ddys","name":"低端影视()","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
- "ext":"1cc92323700909e7d46623bc85b958d6","jar":"./jar/D.jar"
-},
-//{"key":"Ddys1","name":"低端美剧()","type":3,"api": "csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,
-// "click":"ddys.tv;#vjsp > button","jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"},
 {"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
    "ext": "https://www.555ys1.com/api.php/app/"
 },
@@ -125,8 +118,10 @@
 {"key":"虎牙直播","name":"虎牙直播(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
  "ext":"./H/huyaBIU.json"
 },
-{"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/token.txt"
+//{"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
+// "ext": "./H/token.txt"},
+{"key":"Zhaozy0","name":"找资源()","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1",
+ "ext": "./H/token.txt","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar"
 },
 {"key":"Upyunso","name":"Up云搜()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
  "filterable":0,"ext":"./H/token.txt"
@@ -219,9 +214,8 @@
 {"key": "Pansou","name":" 💎盘搜(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/py_pansou.py"
 },
-{"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./Py/py_zhaozy.py"
-},
+//{"key": "Zhaozy","name":" 🔋找资源(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
+//"ext": "./Py/py_zhaozy.py"},
 {"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./Py/py_ali.py"
 },
@@ -369,23 +363,44 @@
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./XPB/lkvodP.js"
 },
-{"key":"美剧56","name":"美剧56(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/meiju56P.json"
-},
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kkdyPH.json"
+},
+{"key":"yanetfliPH","name":"鸭奈飞视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/yanetfliPH.json"
 },
 {"key":"kanetfliPH","name":"看看奈飞(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kanetfliPH.json"
 },
+{"key":"netflyPH","name":"奈飞中文(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/netflyPH.json"
+},
+{"key":"naifeiPH","name":"奈飞影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/naifeiPH.json"
+},
+{"key":"waijumiPH","name":"外剧影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/waijumiPH.json"
+},
+{"key":"zyonePH","name":"往往影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/zyonePH.json"
+},
 {"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/40yPH.json"
+},
+{"key":"piakuPH","name":"片库影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/piakuPH.json"
 },
 {"key":" czsppPH","name":"厂长资源(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/czsppPH.json"
 },
+{"key":"zjtuPH","name":"追兔资源(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/zjtuPH.json"
+},
 {"key":"zjdrPH","name":"追剧达人(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/zjdrPH.json","jar": "./jar/H.jar"
+},
+{"key":"90rPH","name":"90r影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/90rPH.json"
 },
 {"key":"yhtPH","name":"野荷影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/yhtPH.json"
@@ -416,6 +431,9 @@
 },
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/300PH.json"
+},
+{"key":"imaxwPH","name":"imaxw影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/imaxwPH.json"
 },
 {"key":"XBiu胖虎","name":"胖虎影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
