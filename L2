@@ -72,11 +72,11 @@
 {"key":"csp_panghu","name":"胖虎影视()","type": 3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "./jar/D.jar"
 },
-{"key":"Ddys","name":"低端影视()","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
- "ext":"1cc92323700909e7d46623bc85b958d6","jar":"./jar/D.jar"
+//{"key":"Ddys","name":"低端影视()","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
+// "ext":"1cc92323700909e7d46623bc85b958d6","jar":"./jar/D.jar"},
+{"key":"Ddys1","name":"低端美剧()","type":3,"api": "csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,
+ "click":"ddys.tv;#vjsp > button","jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"
 },
-//{"key":"Ddys1","name":"低端美剧()","type":3,"api": "csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,
-// "click":"ddys.tv;#vjsp > button","jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"},
 {"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
    "ext": "https://www.555ys1.com/api.php/app/"
 },
