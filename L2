@@ -373,7 +373,7 @@
  "ext": "./H/kkdyPH.json"
 },
 {"key":"yanetfliPH","name":"鸭奈飞视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/ yanetfliPH.json"
+ "ext": "./H/yanetfliPH.json"
 },
 {"key":"kanetfliPH","name":"看看奈飞(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kanetfliPH.json"
