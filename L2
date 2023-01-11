@@ -127,7 +127,7 @@
 },
 //{"key": "zhaozy","name": "找资源()","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "./H/token.txt"},
-{"key":"Zhaozy","name":"找资源()","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1",
+{"key":"Zhaozy0","name":"找资源()","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1",
  "ext": "./H/token.txt","jar": "http://w.g9.pub:66/2251087869/smallmi/jar/ali.jar"
 },
 {"key":"Upyunso","name":"Up云搜()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
