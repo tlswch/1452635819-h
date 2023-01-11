@@ -372,8 +372,17 @@
 {"key":"kkdyPH","name":"看看电影(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kkdyPH.json"
 },
+{"key":"yanetfliPH","name":"鸭奈飞视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/ yanetfliPH.json"
+},
 {"key":"kanetfliPH","name":"看看奈飞(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/kanetfliPH.json"
+},
+{"key":"netflyPH","name":"奈飞中文(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/netflyPH.json"
+},
+{"key":"naifeiPH","name":"奈飞影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/naifeiPH.json"
 },
 {"key":"waijumiPH","name":"外剧影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/waijumiPH.json"
@@ -384,6 +393,9 @@
 {"key":"40PH","name":"星辰影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/40yPH.json"
 },
+{"key":"piakuPH","name":"片库影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/piakuPH.json"
+},
 {"key":" czsppPH","name":"厂长资源(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/czsppPH.json"
 },
@@ -392,6 +404,9 @@
 },
 {"key":"zjdrPH","name":"追剧达人(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/zjdrPH.json","jar": "./jar/H.jar"
+},
+{"key":"90rPH","name":"90r影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/90rPH.json","jar": "./jar/H.jar"
 },
 {"key":"yhtPH","name":"野荷影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/yhtPH.json"
@@ -422,6 +437,9 @@
 },
 {"key":" 300PH","name":"300影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/300PH.json"
+},
+{"key":"imaxwPH","name":"imaxw影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/imaxwPH.json"
 },
 {"key":"XBiu胖虎","name":"胖虎影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
