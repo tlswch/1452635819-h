@@ -227,6 +227,9 @@
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/nmysPQ.json","jar": "./jar/PQ1.jar"
 },
+{ "key":黑狐影院PQ","name":"黑狐影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+  "ext":"./XPB/heihuPQ.json"//,"jar": "./jar/PQ1.jar"
+},
 {"key":"buleiPQ","name":"布蕾影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/buleiPQ.json","jar": "./jar/PQ1.jar"
 },
