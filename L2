@@ -311,9 +311,6 @@
 {"key":"番茄PQ","name":"番茄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/feqePQ.json","jar": "./jar/PQ1.jar"
 }, 
-{"key":"gfysPQ","name":"干饭影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/gfysPQ.json", "jar": "./jar/Q1.jar"
-},
 {"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nunxunPQ.json", "jar": "./jar/Q1.jar"
 },
@@ -339,10 +336,6 @@
 // "ext":"./XPB/300ysPQ.json","jar": "./jar/Q1.jar"},
 //{"key":"xcysPQ","name":"小城影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,//
 // "ext":"./XPB/xcysPQ.json","jar": "./jar/Q1.jar"},
-//{ "key":"zxzjPQ","name":"在线之家(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-//  "ext":"./XPB/zxzjPQ.json","jar": "./jar/Q1.jar"},
-//{ "key":"xBPQdsxys","name":"师兄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/dsxysPQ.json","jar": "./jar/Q1.jar"},
 {"key":"brovodPQ","name":"兄弟影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/brovodPQ.json", "jar": "./jar/PQ1.jar"
 },
