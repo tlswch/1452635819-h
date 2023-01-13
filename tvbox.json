@@ -1,6 +1,5 @@
 {
 "spider":"./jar/Q3.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
@@ -521,6 +520,10 @@
    "ext": "./jy/tjbook.json"
 }
 ],
+"lives": [{"group": "redirect", "channels": [ {"name": "redirect","urls": 
+   ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ="]}]}
+  // ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3o4MTI2MzQzL1RWQm94L3Jhdy9icmFuY2gvbWFzdGVyL2JjLnR4dA=="]}]}
+  ],
 "parses":[
 //{"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
