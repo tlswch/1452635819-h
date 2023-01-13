@@ -441,6 +441,7 @@
  "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 //==================================js爬虫==================================================================
+{"key":"drkkdy","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/panghuys.js"},
 {"key":"drkkdy","name":"看看电影(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/kkdy.js"},
 {"key":"drczspp","name":"厂长资源(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/czspp.js"},
 {"key":"drhwyy","name":"花屋影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/hwyy.js"},
