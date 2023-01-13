@@ -587,30 +587,9 @@
 {"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
 ],
 "hotSearch":[
-{
-"name":"mobilesearch",
-"request":{
-"method":"GET",
-"header":[
-{
-"key":"Referer",
-"value":"https://boXPy.once678.repl.co"
-}
-],
-"url":{
-"raw":"https://boXPy.once678.repl.co/hotsugg?t={time}"
-}
-},
-"response":{
-"result":"$.data",
-"data":[
-{
-"key":"keyword",
-"value":"title"
-}
-]
-}
-}
+{"name":"mobilesearch","request":{"method":"GET","header":[{"key":"Referer","value":"https://boXPy.once678.repl.co"}],
+"url":{"raw":"https://boXPy.once678.repl.co/hotsugg?t={time}"}},"response":{"result":"$.data","data":[
+{"key":"keyword","value":"title"}]}}
 ],
 
 "ijk": [{"group": "软解码","options": [
