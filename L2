@@ -428,9 +428,8 @@
 {"key":"imaxwPH","name":"imaxw影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/imaxwPH.json"
 },
-{"key":"XBiu胖虎","name":"胖虎影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
-},
+//{"key":"XBiu胖虎","name":"胖虎影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+// "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 },
