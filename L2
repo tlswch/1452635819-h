@@ -43,7 +43,7 @@
  "jar": "./jar/Q1.jar"
 },
 {"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
-  "searchable":1,"ext":"","jar": "./jar/Q.jar"
+  "searchable":1,"ext":"","jar": "./jar/Q1.jar"
 },
 {"key":"fant","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
