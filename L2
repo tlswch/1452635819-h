@@ -65,7 +65,8 @@
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"},
+ "jar": "./jar/Q1.jar"
+},
 //{"key":"剧荒TV(SP)","name":"剧荒呀TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
