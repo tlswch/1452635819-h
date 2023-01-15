@@ -36,18 +36,18 @@
 {"key":"csp农民","name":"农民影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./H/nmysPH.json"
 },
+{"key":"csp_SP293","name":"293影视()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
+ "date":"2023-01-15 09:15:17","jar": "http://www.dmtv.ml/mao/jar/dmtv.jar"
+},
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
-{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
-  "searchable":1,"ext":"","jar": "./jar/Q.jar"
-},
-{"key":"fant","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
-},
-{"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
- "quickSearch":1,"searchable":1,"ext":"","jar": "./jar/Q.jar"
-},
+//{"key":"Tutu","name":"图图影视()","api":"csp_TutuYs","type":3,"filterable":1,"playerType":2,"quickSearch":1,
+//  "searchable":1,"ext":"","jar": "./jar/Q.jar"},
+//{"key":"fant","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
+// "jar": "./jar/Q1.jar"},
+//{"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
+// "quickSearch":1,"searchable":1,"ext":"","jar": "./jar/Q.jar"},
 {"key":"YQK","name":"一起看TV()","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": "./jar/Q.jar"
 },
@@ -64,8 +64,9 @@
 {"key":"csp_Cokemv","name":"Cokemv()","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3E电影()","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
-// "jar": "./jar/Q.jar"},
+{"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
+ "jar": "./jar/Q1.jar"
+},
 //{"key":"剧荒TV(SP)","name":"剧荒呀TV()","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"csp_Zxzj","name":"在线之家()","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -351,7 +352,10 @@
    "filterable":1,"ext":"./XPB/heihutvP.json"
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"./XPB/348zP.js"
+   "filterable":1,"ext":"./XPB/348zP.js"  
+},
+{"key":"云播看看","name":"云播看看(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/135kanP.json"
 },
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./XPB/lkvodP.js"
@@ -428,8 +432,9 @@
 {"key":"imaxwPH","name":"imaxw影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/imaxwPH.json"
 },
-//{"key":"XBiu胖虎","name":"胖虎影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
-// "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"},
+{"key":"akuys","name":"爱酷影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"https://www.zhanlangbu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+},
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 },
@@ -528,13 +533,13 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"自动解析00","type":3,"url":"Demo"},
 {"name":"全能解析00","url":"http://txcgb.3vkj.club/player/777/?url="},
-{"name":"全能解析01","url": "https://txcgb.rth1.one/777/?url="},
-{"name":"全能解析02","url":"https://jx.4kdv.com/?url="},
-{"name":"全能解析03","url":"https://jx.cainisi.cf/?v="},
-{"name":"全能解析04","url": "https://jx.xmflv.com/?url="},
-{"name":"全能解析05","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
-{"name":"全能解析06","url": "https://jx1.bw66.xyz//player//?url="},
-{"name":"全能解析07","url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"全能解析01","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
+{"name":"全能解析02","url": "https://txcgb.rth1.one/777/?url="},
+{"name":"全能解析03","url":"https://jx.4kdv.com/?url=","showType":1},
+{"name":"全能解析04","url":"https://jx.cainisi.cf/?v="},
+{"name":"全能解析05","url": "https://jx.xmflv.com/?url="},
+{"name":"全能解析06","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
+{"name":"全能解析07","url": "https://jx1.bw66.xyz//player//?url="},
 {"name":"全能解析08","url": "http://aliys.cn:89//mf//?url="}, 
 {"name":"全能解析09","url": "http://91fanli.top/m3u8/?url=",
   "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
