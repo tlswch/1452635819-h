@@ -2,6 +2,8 @@
 "spider":"./jar/Q3.jar",
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
+  {"key":"csp_SP293","name":"293视频()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
+  "date":"2023-01-15 09:15:17","jar": "http://www.dmtv.ml/mao/jar/dmtv.jar"},
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
   "ext":"./XPB/Alist.js"
 },
