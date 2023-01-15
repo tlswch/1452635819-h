@@ -355,7 +355,10 @@
    "filterable":1,"ext":"./XPB/heihutvP.json"
 },
 {  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"./XPB/348zP.js"
+   "filterable":1,"ext":"./XPB/348zP.js"  
+},
+{"key":"云播看看","name":"云播看看(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/135kanP.json"
 },
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./XPB/lkvodP.js"
