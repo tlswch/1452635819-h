@@ -1,9 +1,9 @@
 {
   "drives": [
+    {"name": "杜比网盘","server": "https://dubi.tk"},
     {"name": "小雅网盘","server": "http://alist.xiaoya.pro"},
     //{"name": "freeok","server": "http://www.freeok.vip"},
     {"name": "晴园宝库","server": "https://alist.52qy.repl.co"},
-    {"name": "杜比网盘","server": "https://dubi.tk"},
     {"name": "帥鵬网盘","server": "https://hi.shuaipeng.wang"},
     {"name": "星夢网盘","server": "https://pan.bashroot.top"},
     {"name": "梓澪网盘","server": "https://zi0.cc"},
