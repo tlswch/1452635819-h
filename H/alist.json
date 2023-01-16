@@ -1,7 +1,7 @@
 {
   "drives": [
     {"name": "小雅","server": "http://alist.xiaoya.pro"},
-    {"name": "freeok","server": "http://www.freeok.vip"},
+    //{"name": "freeok","server": "http://www.freeok.vip"},
     {"name": "杜比","server": "https://dubi.tk"},
     {"name": "帥鵬","server": "https://hi.shuaipeng.wang"},
     {"name": "星夢","server": "https://pan.bashroot.top"},
