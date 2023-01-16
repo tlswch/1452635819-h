@@ -2,6 +2,7 @@
 {"name": "🙋丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
 	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 }, 
+{"name": "杜比网盘","server": "https://dubi.tk"},
 {"name" : "💂小兵网盘","server" : "https://6vv.app","startPage" : "/","showAll" : false,"search" : true}, 
 {"name": "🌤晴园宝库","server": "https://alist.52qy.repl.co"},
 {"name": "🐭米奇妙屋","server": "https://anime.mqmmw.ga"}, 
@@ -17,9 +18,5 @@
 {"name": "💫触光","server": "https://pan.ichuguang.com"}, 
 {"name": "🕵️好汉吧","server": "https://8023.haohanba.cn"}, 
 {"name": "💢repl","server": "https://ali.liucn.repl.co"}, 
-{"name": "🌨秋雨分享","server": "https://share.laowang.me","password": "s8;K^h[j<b","params": {"/Onedrive-2": {
-		"password": "s8;K^h[j<b"},"/Onedrive-3": {"password": "s8;K^h[j<b"}}
-},
-{"name": "🌨秋雨分享2","server": "https://share.laowang.me","password": "s8;K^h[j<b"}, 
 {"name": "💦讯维云盘","server": "https://pan.xwbeta.com"}
 ]
