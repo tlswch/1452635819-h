@@ -6,9 +6,6 @@
   "ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://agit.ai/84816647/tvboxxx/raw/branch/main/JAR/cs.jar"
 },
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
-  "ext":"./XPB/Alist.js","jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"
-},
-{ "key":"csp_Alist2","name":"Alist集合(jar)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"./H/alist.json","jar": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar"
 },
 {"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
