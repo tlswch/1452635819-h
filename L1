@@ -2,8 +2,8 @@
 "spider":"./jar/Q3.jar",
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
-{ "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,
-  "ext":"./XPB/Alist.js"
+{ "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
+  "ext":"./H/alist.json","jar": "./jar/A.jar"
 },
 {"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
  "api": "./lib/alist.min.js","ext": "./lib/js/alist.json"
@@ -37,7 +37,7 @@
  "ext":"./H/nmysPH.json"
 },
 {"key":"csp_SP293","name":"293影视()","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
- "date":"2023-01-15 09:15:17","jar": "http://www.dmtv.ml/mao/jar/dmtv.jar"
+ "jar": "http://www.dmtv.ml/mao/jar/dmtv.jar","date":"2023-01-15 09:15:17"
 },
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
@@ -84,6 +84,9 @@
 },
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
+},
+{"key":"胖虎影视","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/wnvodPQ.json","jar": "./jar/PQ1.jar"
@@ -243,7 +246,7 @@
  "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/zjdrPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/zjdrPQ.json","jar": "./jar/Q1.jar" 
 },
 {"key":"cspftys","name":"饭团影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ftysPQ.json","jar": "./jar/PQ1.jar"
@@ -447,7 +450,7 @@
 //==================================js爬虫==================================================================
 {"key":"drkkdy","name":"看看电影(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/kkdy.js"},
 {"key":"drtvyb03","name":"TVb云播(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/tvyb03.js"},
-//{"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/panghuys.js"},
+{"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/panghuys.js"},
 {"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/bulei.js"},
 {"key":"人人影视","name":"人人影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/rrys.js"},
 {"key":"drVid影视","name":"Vid影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/vidhub.js"},
