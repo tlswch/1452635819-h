@@ -225,7 +225,7 @@
  "ext":"./XPB/lezhuPQ.json"
 },
 {"key":"pg8090PQ","name":"苹果电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./pg8090PQ.json","jar": "./jar/PQ1.jar"
+ "ext":"./XPB/pg8090PQ.json"
 },
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/nmysPQ.json","jar": "./jar/PQ1.jar"
