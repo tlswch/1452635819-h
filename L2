@@ -462,7 +462,7 @@
 {"key":"drczspp","name":"厂长资源(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/czspp.js"},
 {"key":"drkukeyy","name":"酷客影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/kukeyy.js"},
 {"key":"哔嘀影视","name":"哔嘀影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/bdys01.js"},
-//{"key":"drddays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
+{"key":"drddays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
 {"key":"drzbuk","name":"真不卡院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/zbuk.js"},
 {"key":"8号院","name":"8号影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/8hyy.js"},
 {"key":"drclys","name":"尘落影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/clys.js"},
