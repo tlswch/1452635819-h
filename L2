@@ -69,7 +69,7 @@
  "ext":"./XPB/tvbPQ.json"
 },
 {"key":"胖虎影视","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/panghuPQ.json","jar": "./jar/Q2.jar"
+ "ext":"./XPB/panghuPQ.json","jar": "./jar/Q1.jar"
 },
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/wnvodPQ.json","jar": "./jar/PQ1.jar"
