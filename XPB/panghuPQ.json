@@ -11,9 +11,9 @@
 //"导演":"导演：&&</div>",
 //"主演":"主演：&&</div>",
 //"简介":"<p>&&</p>",
-"播放数组":"<ul class=\"stui-content__playlist\">&&</ul>",
+//"播放数组":"<ul class=\"stui-content__playlist\">&&</ul>",
 "免嗅":"1",
-"分类":"电影$1#剧集$2#综艺$3#动漫$4",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.bilituys.com/bilishow/{cateId}--------{catePg}---.html",
 "筛选":{
 
