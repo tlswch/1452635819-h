@@ -164,12 +164,6 @@
 {"key":"py_bilibili","name":"哔哩哔哩(py)","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "./Py/py_bilibili.py"	
 },
-{"key": "py_star","name": "星光影视(Py)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./Py/xgys.py"
-},
-{"key":"py_kuaikan","name":"快看影视(Py)","type":3,"api":"py_kuaikan","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "./Py/kuaikan.py"
-},
 {"key": "py_mdtv","name": "麦豆TV(py)","type": 3,"api":"py_mdtv","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "./Py/mdtv.py"
 },
@@ -181,12 +175,6 @@
 },
 {"key": "py_czys","name": "厂长影视(py)","type": 3,"api":"py_czys","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "./Py/czys.py"
-},
-{"key": "voflix","name":"Voflix(py)","type":3,"api":"py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "./Py/voflix.py"
-}, 
-{"key": "py_qifu","name": "茶杯狐(py)","type": 3,"api":"py_qifu","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "./Py/qifu.py"
 },
 {"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "./Py/libvio.py"
