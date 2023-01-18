@@ -589,7 +589,7 @@
 "url":{"raw":"https://boXPy.once678.repl.co/hotsugg?t={time}"}},"response":{"result":"$.data","data":[
 {"key":"keyword","value":"title"}]}}
 ],
-"flags":["imgo","youku","qq","iqiyi","qiyi","fun","letv","leshi","sohu","tudou","xigua","cntv","1905","pptv","mgtv","wasu","bilibili","renrenmi"
+"flags":["imgo","youku","qq","iqiyi","qiyi","fun","letv","leshi","sohu","tudou","xigua","cntv","1905","pptv","BYGA","mgtv","wasu","bilibili","renrenmi"
 ],
 "ijk":[
 {"group":"软解码","options":[
