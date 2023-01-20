@@ -83,7 +83,7 @@
  "ext":"./XPB/wnvodPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"kkdyPQ","name":"看看电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/kkdyPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/kkdyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
