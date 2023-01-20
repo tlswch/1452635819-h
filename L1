@@ -3,7 +3,7 @@
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
-  "ext":"./H/alist.json","jar": "./jar/A.jar"
+  "ext":"./H/alist.json","jar": "./jar/X.jar"
 },
 {"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
  "api": "./lib/alist.min.js","ext": "./lib/js/alist.json"
@@ -22,13 +22,17 @@
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr360","name":"360影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/360ys.js"},
 {"key":"360PQ","name":"360影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/360ysPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/360ysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/kuyu77.js"},
-{"key":"LiteApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1},
+{"key":"LApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"jar": "./jar/X.jar"},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key":"cNkdy","name":"南柯影院()","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"jar": "./jar/X.jar"},
 {"key":"drddays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
+{"key":"cspDiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,
+ "quickSearch":1,"filterable":0,"jar": "./jar/X.jar"
+},
 {"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
@@ -37,10 +41,13 @@
  "ext":"./H/nmysPH.json"
 },
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
+ "jar": "./jar/X.jar"
 },
 //{"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
 // "quickSearch":1,"searchable":1,"ext":"","jar": "./jar/Q.jar"},
+{"key":"csp_AppTT","name":"图图影视()","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://124.248.66.89:7788","jar": "./jar/X.jar"
+},
 {"key":"YQK","name":"一起看TV()","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": "./jar/Q.jar"
 },
@@ -48,22 +55,22 @@
  "searchable":1,"ext":"","jar": "./jar/Q.jar"
 },
 {"key":"csp_CZSPP","name":"厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,
- "filterable":0//,"jar": "./jar/Q.jar"
+ "filterable":0//,"jar": "./jar/X.jar"
 },
 {"key":"百影视频","name":"百影视频()","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0,"ext":"http://47.104.99.175","jar": "./jar/Q.jar"
 },
 {"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
+ "jar": "./jar/X.jar"
 },
 {"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
- "filterable":1,"jar": "./jar/Q1.jar"
+ "filterable":1,"jar": "./jar/X.jar"
 },
 {"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
    "ext": "https://www.555ys1.com/api.php/app/"
 },
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,
- "jar": "./jar/Q1.jar"
+ "jar": "./jar/X.jar"
 },
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
@@ -71,11 +78,13 @@
 {"key":"胖虎影视","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
 },
+//{"key":"c-panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
+// "jar": "./jar/X.jar"},
 {"key":"wnvodPQ","name":"万能影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/wnvodPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"kkdyPQ","name":"看看电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/kkdyPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/kkdyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
@@ -107,7 +116,7 @@
  "ext":"./H/huyaBIU.json"
 },
 {"key":"Zhaozy0","name":"找资源()","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1",
- "ext": "./H/token.txt","jar": "./jar/A.jar"
+ "ext": "./H/token.txt","jar": "./jar/X.jar"
 },
 {"key":"Upyunso","name":"Up云搜()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
  "filterable":0,"ext":"./H/token.txt"
@@ -195,11 +204,14 @@
 },
 
 //==================================Xpath__XBPQ==================================================================
+{"key":"100ysPQ","name":"100影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/100ysPQ.json"
+},
 {"key":"lezhuPQ","name":"乐猪影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/lezhuPQ.json"
 },
 {"key":"hohoPQ","name":"HOHO影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/hohotvPQ.json"
+ "ext":"./XPB/hohotvPQ.json"  
 },
 { "key":"nmysPQ","name":"农民影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/nmysPQ.json","jar": "./jar/PQ1.jar"
@@ -537,8 +549,8 @@
 {"name":"自动解析06","type":1,"url":"https://www.1920lgzy.top/json.php?url=",
      "ext":{"header":{"User-Agent":"Mozilla/5.0"}}
 },
-{"name":"自动解析07","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=",
-   "header":{"User-Agent":"Mozilla/5.0"}
+{"name":"自动解析07","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=",//20221230
+   "header":{"User-Agent":"Mozilla/5.0"}  //74e860ee6889f03cae108d6c228aa725
 },
 {"name":"自动解析08","type":1,"url":"http://pandown.pro/app/kxjx.php?url=",
    "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
