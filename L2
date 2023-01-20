@@ -28,6 +28,7 @@
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/kuyu77.js"},
 {"key":"LApple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"jar": "./jar/X.jar"},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key":"cNkdy","name":"南柯影院()","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"jar": "./jar/X.jar"},
 {"key":"drddays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
 {"key":"cspDiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,
  "quickSearch":1,"filterable":0,"jar": "./jar/X.jar"
