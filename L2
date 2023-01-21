@@ -217,7 +217,7 @@
   "ext":"./XPB/nmysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"52kjuPQ","name":"52看剧(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,//
- "ext":"./XPB/52kjuPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/52kjuPQ.json","jar": "./jar/PQ1.jar"
 },
 { "key":黑狐影院PQ","name":"黑狐影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/heihuPQ.json"//,"jar": "./jar/PQ1.jar"
@@ -226,10 +226,10 @@
  "ext":"./XPB/buleiPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"348dyPQ","name":"348电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/348PQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/348PQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"ddysPQ","name":"低端影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ddysPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/ddysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"
