@@ -523,7 +523,8 @@
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"自动解析00","type":3,"url":"Demo"},
-{"name":"全能解析00","url":"http://txcgb.3vkj.club/player/777/?url="},
+{"name":"全能解析00","url":"https://jx.777jiexi.com/player/?url="},
+//{"name":"全能解析00","url":"http://txcgb.3vkj.club/player/777/?url="},
 {"name":"全能解析01","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
 {"name":"全能解析02","url": "https://txcgb.rth1.one/777/?url="},
 {"name":"全能解析03","url":"https://jx.4kdv.com/?url=","showType":1},
