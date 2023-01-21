@@ -235,7 +235,7 @@
  "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/zjdrPQ.json","jar": "./jar/Q1.jar" 
+ "ext":"./XPB/zjdrPQ.json","jar": "./jar/PQ1.jar" 
 },
 {"key":"cspftys","name":"饭团影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ftysPQ.json","jar": "./jar/PQ1.jar"
