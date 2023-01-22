@@ -321,7 +321,7 @@
 //{"key":"qxsyy","name":"七时影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/PQ1.jar"},
 {"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/300ysPQ.json","jar": "./jar/PQ1.jar"
+ "ext":"./XPB/300ysPQ.json","jar": "./jar/Q2.jar"
 },
 {"key":"brovodPQ","name":"兄弟影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/brovodPQ.json", "jar": "./jar/PQ1.jar"
