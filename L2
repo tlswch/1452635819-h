@@ -474,6 +474,7 @@
 {"key":"木子看剧","name":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/"},
 {"key":"6U资源","name":"6U资源","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php"},
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
+{"key": "优质资源","name":"优质资源","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/"},
 //==================================M浏览器V1爬虫======================================================================
 {"key":"啊玲影视","name":"啊玲影视(v)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://520dml.xyz/api.php/v1.vod"
