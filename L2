@@ -43,8 +43,6 @@
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/X.jar"
 },
-//{"key":"鸭奈flix","name":"鸭奈飞视()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,
-// "quickSearch":1,"searchable":1,"ext":"","jar": "./jar/Q.jar"},
 {"key":"csp_AppTT","name":"图图影视()","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://124.248.66.89:7788","jar": "./jar/X.jar"
 },
