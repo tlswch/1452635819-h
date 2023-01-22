@@ -521,7 +521,7 @@
   ],
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"自动解析00","type":3,"url":"Demo"},
+//{"name":"自动解析00","type":3,"url":"Demo"},
 {"name":"hogo解析00","url": "https://vip.lianfaka.com/vip/?url=","ext":{"header": 
  {"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer": "https://www.dy6g.com/"}}
 },
@@ -542,7 +542,8 @@
 {"name":"全能解析11","url":"https://www.nxflv.com/?url="},
 //{"name":"全能解析00","url":"http://txcgb.3vkj.club/player/777/?url="},
 //{"name":"txcgb","url":"http://yy.freeee.ml/jx/player/777player/?url="},
-//{"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},  
+//{"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
+{"name": "Json聚合","type": 3,"url": "Demo"},  
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"自动解析03","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
