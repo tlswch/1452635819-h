@@ -2,6 +2,17 @@
 "spider":"./jar/Q3.jar",
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
+  {
+			"key": "Hei1",
+			"name": "🍅石榴",
+			"type": "3",
+			"api": "csp_Dora",
+			"searchable": "1",
+			"quickSearch": "1",
+			"filterable": "1",
+			"ext": "3bff500c8b1e06c052a1b0f1f7a62b45",
+			"jar": "./jar/Q1.jar"
+		},
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"./H/alist.json","jar": "./jar/X.jar"
 },
