@@ -415,8 +415,8 @@
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./XPB/lkvodP.js"
 },
-{"key":"akuys","name":"爱酷影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"https://www.zhanlangbu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+{"key":"555Biu","name":"💠555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
@@ -424,9 +424,8 @@
 {"key":"cspyunque","name":"云雀影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
 },
-{"key":"555Biu","name":"💠555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
-},
+//{"key":"akuys","name":"爱酷影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+// "ext":"https://www.zhanlangbu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 //==================================js爬虫==============================================================================
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/kuyu77.js"},
 {"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
