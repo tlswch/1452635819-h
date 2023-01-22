@@ -231,9 +231,6 @@
 {"key":"ddysPQ","name":"低端影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ddysPQ.json","jar": "./jar/PQ1.jar"
 },
-{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"zjdrPQ","name":"追剧达人(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/zjdrPQ.json","jar": "./jar/PQ1.jar" 
 },
@@ -245,6 +242,9 @@
 },
 {"key":"耐看点播","name":"耐看点播(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/nunxunPQ.json", "jar": "./jar/PQ1.jar"
 },
 {"key":"csplgyy","name":"蓝光影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/lgyyPQ.json","jar": "./jar/PQ1.jar"
@@ -285,10 +285,6 @@
 {"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/6080dyPQ.json", "jar": "./jar/PQ1.jar"
 },
-//{"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-//"ext":"./XPB/netflixPQ.json", "jar": "./jar/Q2.jar"},
-//{"key":"cspaiky","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/aikysPQ.json","jar": "./jar/PQ1.jar"}, 
 {"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkdywPQ.json","jar": "./jar/PQ1.jar"
 },
@@ -301,11 +297,6 @@
 {"key":"番茄PQ","name":"番茄影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/feqePQ.json","jar": "./jar/PQ1.jar"
 }, 
-{"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/nunxunPQ.json", "jar": "./jar/PQ1.jar"
-},
-//{"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/xkysPQ.json","jar": "./jar/Q2.jar"},
 {"key":"subaib","name":"素白影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/subaibPQ.json", "jar": "./jar/PQ1.jar"
 },
@@ -318,8 +309,6 @@
 {"key":"deyuys","name":"段友影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/deyuysPQ.json","jar": "./jar/PQ1.jar"
 },
-//{"key":"qxsyy","name":"七时影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/PQ1.jar"},
 {"key":"300ysPQ","name":"300影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/300ysPQ.json","jar": "./jar/Q2.jar"
 },
@@ -332,7 +321,16 @@
 {"key":"pg8090PQ","name":"苹果电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/pg8090PQ.json"
 },
-
+//{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"},
+//{"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":"./XPB/netflixPQ.json", "jar": "./jar/Q2.jar"},
+//{"key":"cspaiky","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"./XPB/aikysPQ.json","jar": "./jar/PQ1.jar"}, 
+//{"key":"qxsyy","name":"七时影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/PQ1.jar"},
+//{"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"./XPB/xkysPQ.json","jar": "./jar/Q2.jar"},
 //==================================其它Xpath==================================================================
 {  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
    "filterable":1,"ext":"./XPB/zaixiandyP.json"
