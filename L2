@@ -218,6 +218,9 @@
 { "key":黑狐影院PQ","name":"黑狐影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
   "ext":"./XPB/heihuPQ.json"//,"jar": "./jar/PQ1.jar"
 },
+{"key":"91fPQ","name":"91f影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/91freePQ.json", "jar": "./jar/PQ1.jar"
+},
 {"key":"buleiPQ","name":"布蕾影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/buleiPQ.json","jar": "./jar/PQ1.jar"
 },
@@ -308,8 +311,6 @@
 {"key":"ysgcPQ","name":"影视工厂(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/ysgcPQ.json","jar": "./jar/PQ1.jar"
 },
-{"key":"91fPQ","name":"91f影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/91freePQ.json", "jar": "./jar/PQ1.jar"},
 //{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"},
 //{"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
