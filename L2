@@ -361,7 +361,7 @@
  "ext": "./H/zjtuPH.json"
 },
 {"key":"zjdrPH","name":"追剧达人(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/zjdrPH.json"//,"jar": "./jar/H.jar"
+ "ext": "./H/zjdrPH.json","jar": "./jar/H.jar"
 },
 {"key":"90rPH","name":"90r影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/90rPH.json"
