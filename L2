@@ -317,22 +317,7 @@
 // "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/PQ1.jar"},
 //{"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/xkysPQ.json","jar": "./jar/Q2.jar"},
-//==================================其它Xpath==================================================================
-{  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"./XPB/zaixiandyP.json"
-},
-{  "key":"heihuP","name":"黑狐影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"./XPB/heihutvP.json"
-},
-{  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
-   "filterable":1,"ext":"./XPB/348zP.js"  
-},
-{"key":"云播看看","name":"云播看看(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/135kanP.json"
-},
-{"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./XPB/lkvodP.js"
-},
+//==================================Xpath__XYQHiker==================================================================
 {"key":"freedream","name":"咕噜影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/freedreamPH.json"
 },
@@ -413,6 +398,22 @@
 },
 {"key":"imaxwPH","name":"imaxw影视(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/imaxwPH.json"
+},
+//==================================其它Xpath==================================================================
+{  "key":"zaixiandy","name":"在线电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"./XPB/zaixiandyP.json"
+},
+{  "key":"heihuP","name":"黑狐影院(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"./XPB/heihutvP.json"
+},
+{  "key":"csp_348","name":"348电影(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,
+   "filterable":1,"ext":"./XPB/348zP.js"  
+},
+{"key":"云播看看","name":"云播看看(X)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/135kanP.json"
+},
+{"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./XPB/lkvodP.js"
 },
 {"key":"akuys","name":"爱酷影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://www.zhanlangbu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
