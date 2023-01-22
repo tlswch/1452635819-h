@@ -421,9 +421,8 @@
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---"
 },
-{"key":"cspyunque","name":"云雀影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-},
+//{"key":"cspyunque","name":"云雀影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+// "ext":"https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 //{"key":"akuys","name":"爱酷影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
 // "ext":"https://www.zhanlangbu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 //==================================js爬虫==============================================================================
