@@ -3,7 +3,7 @@
 "站名":"六度TV(xBPQ)",
 //"请求头":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42",
 "请求头":"电脑",
-"免嗅":"1",
+"免嗅":"0",
 "分类":"电视剧$2#动漫$3#电影$1#综艺$4#全网资源$5",
 "分类url":"http://6d.wpwpzm.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html",
 "副标题":"pic-text text-right\">&&</span",
