@@ -277,7 +277,7 @@
  "ext":"./XPB/diezyyPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"ysgcPQ","name":"影视工厂(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/ysgcPQ.json","jar": "./jar/Q1.jar"
+ "ext":"./XPB/ysgcPQ.json","jar": "./jar/PQ1.jar"
 }, 
 {"key":"hetoPQ","name":"核桃影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/hetoPQ.json", "jar": "./jar/PQ1.jar"
@@ -286,10 +286,10 @@
  "ext":"./XPB/6080dyPQ.json", "jar": "./jar/PQ1.jar"
 },
 {"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/netflixPQ.json", "jar": "./jar/PQ1.jar"
+ "ext":"./XPB/netflixPQ.json", "jar": "./jar/Q1.jar"
 },
 {"key":"cspaiky","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/aikysPQ.json","jar": "./jar/PQ1.jar"
+ "ext":"./XPB/aikysPQ.json","jar": "./jar/Q1.jar"
 }, 
 {"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkdywPQ.json","jar": "./jar/Q1.jar"
