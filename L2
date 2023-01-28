@@ -345,14 +345,13 @@
 // "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"},
 //{"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/tootwPQ.json","jar": "./jar/Q1.jar"},
-//{"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-//"ext":"./XPB/netflixPQ.json", "jar": "./jar/Q2.jar"},
+{"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/netflixPQ.json", "jar": "./jar/Q2.jar"
+},
 //{"key":"cspaiky","name":"爱酷影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/aikysPQ.json","jar": "./jar/PQ1.jar"}, 
-//{"key":"qxsyy","name":"七时影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/qxsyyPQ.json", "jar": "./jar/PQ1.jar"},
-//{"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/xkysPQ.json","jar": "./jar/Q2.jar"},
+{"key":"xkysPQ","name":"星空影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/xkysPQ.json","jar": "./jar/Q2.jar"},
 
 //==================================Xpath__XYQHiker==================================================================
 {"key":"freedream","name":"咕噜影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
