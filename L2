@@ -558,9 +558,7 @@
 {"name":"自动解析08","type":1,"url":"http://pandown.pro/app/kxjx.php?url=",
    "ext":{"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
 },
-{"name":"自动解析09","type":1,"url":"proxy://do=jx&name=playmv&url=",
-    "ext":{"header":{"User-Agent":""}}
-}
+{"name":"自动解析09","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="}
 ],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
