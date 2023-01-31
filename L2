@@ -2,7 +2,6 @@
 "spider":"./jar/Q3.jar",
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
-  {"key":"Bili_相声","name":"相声小品()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/outyshz/out/raw/branch/master/TVBox/bilibili/%e7%9b%b8%e5%a3%b0.txt"},
 //==================================主力资源接口=================================================================
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"./H/alist.json","jar": "./jar/X.jar"
