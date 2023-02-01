@@ -34,17 +34,20 @@
 {"key":"yanetflix_spider","name":"鸭奈飞","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"","jar": "./jar/Q.jar"
 },
-{"key":"csp_AppTT","name":"图图影视()","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"http://124.248.66.89:7788","jar": "./jar/X.jar"
-},
 {"key":"百影视频","name":"百影视频()","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0,"ext":"http://47.104.99.175","jar": "./jar/Q.jar"
 },
 {"key":"YQK","name":"一起看TV()","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar": "./jar/Q.jar"
 },
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
+ "filterable":0,"ext":"http://118.190.144.126","jar": "./jar/Q.jar"
+},
 {"key":"sliu","name":"石榴电影()","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,
  "searchable":1,"ext":"","jar": "./jar/Q.jar"
+},
+{"key":"csp_AppTT","name":"图图影视()","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"http://124.248.66.89:7788","jar": "./jar/X.jar"
 },
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
