@@ -6,8 +6,8 @@
   "线路标题": "<span>&&</small>",
   "播放数组":"class=\"module-play-list-content&&</div>",
   "播放标题":"span>&&<",
-  "搜索url":"https://netflix.mom/vodsearch/-------------.html?wd={wd}",
-  "filter":{
+  "搜索url":"https://netflix.mom/vodsearch/-------------.html?wd={wd}",//"filter":
+  "筛选":{
     "dianying":[
       {
         "key": "cateId",
