@@ -1,6 +1,7 @@
 {
   "drives": [
     {"name": "杜比网盘","server": "https://dubi.tk"},
+    {"name": "觸光网盘","server": "https://pan.ichuguang.com"},
     {"name": "神族九帝","server": "https://alist.shenzjd.com"},
     {"name": "小雅网盘","server": "http://alist.xiaoya.pro"},
     {"name": "小雅盘2","server": "http://alistxy.ganggang.live:5678"},
@@ -12,7 +13,6 @@
     {"name": "SB网盘","server":"http://sbpan.tk"},
     {"name": "梓澪网盘","server": "https://zi0.cc"},
     {"name": "米奇网盘","server": "https://anime.mqmmw.ga"},
-    {"name": "觸光网盘","server": "https://pan.ichuguang.com"},
     {"name": "一只魚","server": "https://alist.youte.ml"},
     {"name": "七米藍","server": "https://al.chirmyram.com"},
     {"name": "雲播放","server": "https://quanzi.laoxianghuijia.cn"},
