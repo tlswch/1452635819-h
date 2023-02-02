@@ -236,7 +236,7 @@
   "ext":"./XPB/nmysPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/netflixPQ.json", "jar": "./jar/Q2.jar"
+ "ext":"./XPB/netflixPQ.json", "jar": "./jar/PQ1.jar"
 },
 {"key":"52kjuPQ","name":"52看剧(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,//
  "ext":"./XPB/52kjuPQ.json","jar": "./jar/PQ1.jar"
