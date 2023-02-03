@@ -1,5 +1,5 @@
 [
-{"name": "🙋丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
+{"name": "💠丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
 	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 }, 
 {"name": "杜比网盘","server": "https://dubi.tk"},
