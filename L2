@@ -272,6 +272,9 @@
 {"key":"耐看点播","name":"耐看点播(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
 },
+{"key":"万博剧院","name":"万博剧院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/wanboPQ.json","jar": "./jar/PQ1.jar"
+},
 {"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nunxunPQ.json", "jar": "./jar/PQ1.jar"
 },
