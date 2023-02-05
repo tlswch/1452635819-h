@@ -103,10 +103,10 @@
 {"key":"虎牙直播","name":"虎牙直播(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
  "ext":"./H/huyaBIU.json"
 },
-{"key":"tcafe","name":"阿里💠纸条()","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"./H/token.txt"
+{"key":"tcafe","name":"阿里💠纸条()","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
+ "ext":"./H/token.txt","jar": "./jar/Q1.jar"
 },
-{"key":"Zhaozy0","name":"阿里💠找源()","type":3,"api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1",
+{"key":"Zhaozy0","name":"阿里💠找源()","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/token.txt","jar": "./jar/Q1.jar"
 },
 {"key":"Upyunso","name":"阿里💠云搜()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
@@ -454,7 +454,7 @@
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./XPB/lkvodP.js"
 },
-{"key":"555Biu","name":"💠555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"555Biu","name":"555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
