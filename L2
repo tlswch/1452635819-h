@@ -349,8 +349,8 @@
 },
 //{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"},
-//{"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-// "ext":"./XPB/tootwPQ.json","jar": "./jar/Q1.jar"},
+{"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/tootwPQ.json","jar": "./jar/Q1.jar"},
 {"key":"rrysPQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "playerType": "2","ext":"./XPB/rrysPQ.json","jar": "./jar/PQ1.jar"
 }, 
@@ -454,7 +454,7 @@
 {"key":"lkvodP","name":"来看点播(X)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./XPB/lkvodP.js"
 },
-{"key":"555Biu","name":"💠555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"555Biu","name":"555影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
  "ext":"https://www.555dy.vip/vodtype/{cateId}{year}.html"
 },
 {"key":"cspikan6","name":"爱看影视(Xu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
