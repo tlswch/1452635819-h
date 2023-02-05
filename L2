@@ -104,7 +104,7 @@
  "ext":"./H/huyaBIU.json"
 },
 {"key":"tcafe","name":"阿里💠纸条()","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"./H/token.txt"
+ "ext":"./H/token.txt","jar": "./jar/Q1.jar"
 },
 {"key":"Zhaozy0","name":"阿里💠找源()","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/token.txt","jar": "./jar/Q1.jar"
