@@ -225,7 +225,7 @@
 {"key": "dr我爱电影","name":"我爱电影(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/5imv.js"},
 {"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/panghuys.js"},
 {"key": "金曼影视","name":"金曼影视(js)","type":3,"api":"./lib/drpy.min.js",
- "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大师兄影视.js"},
+ "ext": "./lib/js/panghuys.js"},
 
 //==================================Xpath__XBPQ======================================================================
 {"key":"100ysPQ","name":"100影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
