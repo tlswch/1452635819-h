@@ -202,7 +202,6 @@
 {"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/bulei.js"},
 {"key":"drddays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
 {"key":"奇优影院","name":"奇优影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/quyy.js"},
-{"key":"来看点播","name":"来看点播(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/来看点播.js"},
 {"key":"人人影视","name":"人人影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/rrys.js"},
 {"key":"drVid影视","name":"Vid影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/vidhub.js"},
 {"key":"drlgyy","name":"蓝光影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/lgyy.js"},
@@ -223,6 +222,7 @@
 {"key": "100影院","name":"100影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/dy100.js"},
 {"key": "dr蜥蜴影视","name":"蜥蜴影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/xi1ys.js"},
 {"key": "dr我爱电影","name":"我爱电影(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/5imv.js"},
+//{"key":"来看","name":"来看点播(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/来看点播.js"},
 //{"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/panghuys.js"},
 {"key": "师兄影视","name":"师兄影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/大师兄影视.js"},
 
