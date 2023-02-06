@@ -201,6 +201,7 @@
 {"key":"drfositv","name":"fos影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/fositv.js"},
 {"key":"drbulei","name":"布雷蓝光(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/bulei.js"},
 {"key":"drddays","name":"低端影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./lib/js/didays.js"},
+{"key":"奇优影院","name":"奇优影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/quyy.js"},
 {"key":"人人影视","name":"人人影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/rrys.js"},
 {"key":"drVid影视","name":"Vid影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/vidhub.js"},
 {"key":"drlgyy","name":"蓝光影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/lgyy.js"},
@@ -214,8 +215,6 @@
 {"key": "dr_VOF","name":"VOFLIX(js)","type":3,"api":"./lib/drpy.min.js", "ext": "./lib/js/VOFLIX.js"},
 {"key": "drpy007影视","name":"007影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/007ys.js"},
 {"key":"drlzizys","name":"量子影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/lzizys.js"},
-{"key": "奇优影院","name":"奇优影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/quyy.js"},
-{"key": "来看点播","name":"来看点播(js)","type":3,"api": "./lib/drpy.min.js","ext": "./lib/js/来看点播.js"},
 {"key": "光棍影院","name":"光棍影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/光棍影院.js"},
 {"key":"哔哩影视","name":"哔哩影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/biliys.js"},
 {"key": "8dys","name":"叭度影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/8dys.js"},
@@ -223,8 +222,9 @@
 {"key": "100影院","name":"100影院(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/dy100.js"},
 {"key": "dr蜥蜴影视","name":"蜥蜴影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/xi1ys.js"},
 {"key": "dr我爱电影","name":"我爱电影(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/5imv.js"},
+//{"key":"来看","name":"来看点播(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/来看点播.js"},
 //{"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/panghuys.js"},
-//{"key": "金曼影视","name":"金曼影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/腾云驾雾.js"},
+{"key": "师兄影视","name":"师兄影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/大师兄影视.js"},
 
 //==================================Xpath__XBPQ======================================================================
 {"key":"100ysPQ","name":"100影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
@@ -271,6 +271,9 @@
 },
 {"key":"耐看点播","name":"耐看点播(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nkvodPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"万博剧院","name":"万博剧院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/wanboPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"nunxun","name":"诺讯影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nunxunPQ.json", "jar": "./jar/PQ1.jar"
@@ -543,6 +546,7 @@
 {"name":"全能解析12","url":"http://txcgb.3vkj.club/player/777/?url="},
 //{"name":"txcgb","url":"http://yy.freeee.ml/jx/player/777player/?url="},
 //{"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
+{"name": "tg255","type": 1,"url": "https://jx.255jx.tk/api/?key=YYac1YA1lkwwf3an4G&url="},
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"自动解析03","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
