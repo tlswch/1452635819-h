@@ -9,6 +9,13 @@
 {"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
  "api": "./lib/alist.min.js","ext": "./lib/js/alist.json"
 }, 
+{"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
+{"key":"腾讯","name":"腾讯影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable": 2,"ext": "./lib/js/txys.js"},
+{"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"driqiyi","name":"爱奇影院(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/iqiyi.js"},
+{"key": "csp_MGTV","name":"芒果果TV()","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drMgTV","name":"芒果TV(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/MgTV.js"},
+{"key":"优酷","name":"优酷视频(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/youku.js"},
 {"key":"搜狗","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/sogou.js"},
 {"key":"2345","name":"2345影视()","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
@@ -23,7 +30,6 @@
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Apple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"jar":"./jar/Q1.jar"},
-//{"key":"cNkdy","name":"南柯影院()","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"jar": "./jar/X.jar"},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
 },
@@ -216,7 +222,7 @@
 {"key": "dr蜥蜴影视","name":"蜥蜴影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/xi1ys.js"},
 {"key": "dr我爱电影","name":"我爱电影(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/5imv.js"},
 //{"key":"来看","name":"来看点播(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/来看点播.js"},
-//{"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/panghuys.js"},
+{"key":"drpang","name":"胖虎影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/鸭奈飞.js"},
 {"key": "师兄影视","name":"师兄影视(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/大师兄影视.js"},
 
 //==================================Xpath__XBPQ======================================================================
@@ -304,9 +310,6 @@
 {"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/6080dyPQ.json", "jar": "./jar/PQ1.jar"
 },
-{"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/nkdywPQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"6dPQ","name":"六度影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/6dPQ.json","jar": "./jar/PQ1.jar"
 },
@@ -343,14 +346,15 @@
 {"key":"hohoPQ","name":"HOHO影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/hohotvPQ.json"  
 },
+{"key":"rrysPQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "playerType": "2","ext":"./XPB/rrysPQ.json","jar": "./jar/PQ1.jar"
+}, 
+//{"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"./XPB/nkdywPQ.json","jar": "./jar/PQ1.jar"},
 //{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"},
 //{"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/tootwPQ.json","jar": "./jar/Q1.jar"},
-{"key":"rrysPQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "playerType": "2","ext":"./XPB/rrysPQ.json","jar": "./jar/PQ1.jar"
-}, 
-
 //==================================Xpath__XYQHiker==================================================================
 {"key":"freedream","name":"咕噜影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/freedreamPH.json"
@@ -523,29 +527,19 @@
 },
 {"name":"hogo解析01","url":"https://jx.4kdv.com/?url=","showType":1},
 {"name":"全能解析00","url":"https://jx.777jiexi.com/player/?url="},
-{"name":"全能解析01","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
+{"name":"全能解析01","url":"https://byg.ziqj5.shop/?url="},
 {"name":"全能解析02","url": "https://txcgb.rth1.one/777/?url="},
 {"name":"全能解析03","url":"https://www.m4410.com/vip.html?url="},
 {"name":"全能解析04","url":"https://jx.cainisi.cf/?v="},
-{"name":"全能解析05","url": "https://jx.xmflv.com/?url="},
+{"name":"全能解析05","url": "https://jx.m3u8.pw/?url="},//https://jx.xmflv.com/?url=
 {"name":"全能解析06","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
-{"name":"全能解析07","url": "https://jx1.bw66.xyz//player//?url="},
-{"name":"全能解析08","url": "http://aliys.cn:89//mf//?url="}, 
-{"name":"全能解析09","url": "http://91fanli.top/m3u8/?url=",
-  "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
-},
-{"name":"全能解析10", "url": "https://h5.freejson.xyz/player/?url="},
-{"name":"全能解析11","url":"https://www.nxflv.com/?url="},
-{"name":"全能解析12","url":"http://txcgb.3vkj.club/player/777/?url="},
-//{"name":"txcgb","url":"http://yy.freeee.ml/jx/player/777player/?url="},
-//{"name":"夜幕解析","url": "https://www.yemu.xyz/?url="},
-{"name": "tg255","type": 1,"url": "https://jx.255jx.tk/api/?key=YYac1YA1lkwwf3an4G&url="},
+{"name":"全能解析07","url": "http://vip.26db.cn/g/?url="},
+{"name":"全能解析08","url":"http://yy.freeee.ml/jx/player/777player/?url="},
+{"name":"全能解析09","url":"http://txcgb.3vkj.club/player/777/?url="},
+{"name":"全能解析11", "url": "https://h5.freejson.xyz/player/?url="},
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"自动解析03","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
-{"name":"自动解析04","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
-   "header":{"User-Agent":"Mozilla/5.0"}
-},
 {"name":"自动解析07","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="}
 ],
 "rules":[
