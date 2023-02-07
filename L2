@@ -30,7 +30,6 @@
 },
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Apple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"jar":"./jar/Q1.jar"},
-//{"key":"cNkdy","name":"南柯影院()","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"jar": "./jar/X.jar"},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
 },
@@ -311,9 +310,6 @@
 {"key":"6080PQ","name":"6080电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/6080dyPQ.json", "jar": "./jar/PQ1.jar"
 },
-{"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/nkdywPQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"6dPQ","name":"六度影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/6dPQ.json","jar": "./jar/PQ1.jar"
 },
@@ -350,14 +346,15 @@
 {"key":"hohoPQ","name":"HOHO影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/hohotvPQ.json"  
 },
+{"key":"rrysPQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "playerType": "2","ext":"./XPB/rrysPQ.json","jar": "./jar/PQ1.jar"
+}, 
+//{"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+// "ext":"./XPB/nkdywPQ.json","jar": "./jar/PQ1.jar"},
 //{"key":"yanetfli","name":"鸭奈飞视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/yanetfliPQ.json","jar": "./jar/PQ1.jar"},
 //{"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 // "ext":"./XPB/tootwPQ.json","jar": "./jar/Q1.jar"},
-{"key":"rrysPQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "playerType": "2","ext":"./XPB/rrysPQ.json","jar": "./jar/PQ1.jar"
-}, 
-
 //==================================Xpath__XYQHiker==================================================================
 {"key":"freedream","name":"咕噜影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/freedreamPH.json"
