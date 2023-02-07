@@ -543,9 +543,6 @@
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"自动解析03","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
-{"name":"自动解析04","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=",
-   "header":{"User-Agent":"Mozilla/5.0"}//  74e860ee6889f03cae108d6c228aa725
-},
 {"name":"自动解析07","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="}
 ],
 "rules":[
