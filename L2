@@ -352,7 +352,7 @@
 {"key":"rrysPQ","name":"人人影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "playerType": "2","ext":"./XPB/rrysPQ.json","jar": "./jar/PQ1.jar"
 }, 
-{"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"nkdyw","name":"二次萌影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/zzzlllmmm1/samllmi/raw/branch/master/xinxie/ercimeng.json","jar": "./jar/PQ1.jar"},
 {"key":"mztPQ","name":"莫扎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/mztPQ.json","jar": "./jar/PQ1.jar"
