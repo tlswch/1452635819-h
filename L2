@@ -355,7 +355,7 @@
 {"key":"nkdyw","name":"南柯电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/zzzlllmmm1/samllmi/raw/branch/master/xinxie/348.json","jar": "./jar/PQ1.jar"},
 {"key":"tootwPQ","name":"托乌视频(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://agit.ai/zzzlllmmm1/samllmi/raw/branch/master/xinxie/yinggou.json","jar": "./jar/Q1.jar"},
+ "ext":"https://agit.ai/zzzlllmmm1/samllmi/raw/branch/master/xinxie/mzt.json","jar": "./jar/Q1.jar"},
 //==================================Xpath__XYQHiker==================================================================
 {"key":"freedream","name":"咕噜影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/freedreamPH.json"
