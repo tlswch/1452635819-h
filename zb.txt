@@ -1,5 +1,4 @@
 ﻿新闻,#genre#
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8$超清1080P
 CCTV13,http://117.169.121.162:6610/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
