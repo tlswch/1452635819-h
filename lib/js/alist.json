@@ -1,7 +1,6 @@
 [
 {"name": "小丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
-	"params": {"/abc": {"password": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"},
-	"/abc/abc": {"password": "https://agit.ai/1452635819/h/raw/branch/master/H/token.txt"}}
+	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 }, 
 {"name": "小雅网盘","server": "http://alistxy.ganggang.live:5678/","startPage": "/","showAll": false,"search": true,
 "params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
