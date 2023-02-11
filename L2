@@ -50,11 +50,11 @@
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
 },
-{"key":"csp_panghu","name":"胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
-},
 {"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"csp_panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
+ "jar": "./jar/Q1.jar"
 },
 {"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
    "ext": "https://www.555ys1.com/api.php/app/"
