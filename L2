@@ -6,9 +6,8 @@
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"./H/alist.json","jar": "./jar/Q1.jar"
 },
-{"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
- "api": "./lib/alist.min.js","ext": "./lib/js/alist.json"
-}, 
+//{"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
+// "api": "./lib/alist.min.js","ext": "./lib/js/alist.json"}, 
 {"key": "csp_QQ","name":"腾讯视频()","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"腾讯","name":"腾讯影视(js)","type":3,"api":"./lib/drpy2.min.js","searchable": 2,"ext": "./lib/js/txys.js"},
 {"key":"csp_IQIYI","name":"爱奇艺影()","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
