@@ -2,9 +2,6 @@
 "spider":"./jar/Q3.jar",
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
-  {"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
-   "jar": "./jar/Q1.jar"
-  },
 //==================================主力资源接口=================================================================
 { "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
   "ext":"./H/alist.json","jar": "./jar/Q1.jar"
@@ -54,7 +51,10 @@
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/tvbPQ.json"
 },
-{"key":"胖虎影视","name":"胖虎影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_panghu","name":"胖虎影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
+ "jar": "./jar/Q1.jar"
+},
+{"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
