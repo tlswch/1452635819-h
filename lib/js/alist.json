@@ -2,9 +2,6 @@
 {"name": "💠小丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
 	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
 }, 
-{"name": "ho网盘","server": "http://127.0.0.1:5244/63e6f2cff7691d15f56a4c37bab9819ffe001a5c/%E5%BD%B1%E8%A7%86","startPage": "/","showAll": false,"search": true,
-"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
-},
 {"name": "小雅网盘","server": "http://alistxy.ganggang.live:5678/","startPage": "/","showAll": false,"search": true},
 {"name": "杜比网盘","server": "https://dubi.tk","startPage": "/","showAll": false,"search": true},
 {"name": "💫触光网盘","server": "https://pan.ichuguang.com","startPage": "/","showAll": false,"search": true}, 
