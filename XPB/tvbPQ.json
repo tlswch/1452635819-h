@@ -1,18 +1,14 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "TVB云播",
+  "免嗅":"1",
   "主页url": "http://www.tvyb03.com",
-  
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
-  
   "分类url": "http://www.tvyb03.com/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
-  
   "副标题": "#ff9900;\">&&</span>",
-  
   "搜索模式": "0",
   "搜索后缀": "/vod/detail/id/",
-  
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
   "影片类型": "分类：&&<span",
