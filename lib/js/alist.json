@@ -1,8 +1,11 @@
 [
 {"name": "💠小丫仙女","server": "http://alist.xiaoya.pro/","startPage": "/","showAll": false,"search": true,
 	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
-}, 
-{"name": "小雅网盘","server": "http://alistxy.ganggang.live:5678/","startPage": "/","showAll": false,"search": true},
+},
+{"name": "💠小雅盘1","server": "https://alist.you-mostmost.repl.co/","startPage": "/","showAll": false,"search": true,
+	"params": {"/abc": {"password": "123"},"/abc/abc": {"password": "123"}}
+},  
+{"name": "小雅盘2","server": "http://alistxy.ganggang.live:5678/","startPage": "/","showAll": false,"search": true},
 {"name": "杜比网盘","server": "https://dubi.tk","startPage": "/","showAll": false,"search": true},
 {"name": "💫触光网盘","server": "https://pan.ichuguang.com","startPage": "/","showAll": false,"search": true}, 
 {"name": "🌤晴园宝库","server": "https://alist.52qy.repl.co","startPage": "/","showAll": false,"search": true},
