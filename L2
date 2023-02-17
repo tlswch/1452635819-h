@@ -113,7 +113,7 @@
 },
 {"key":"YiSo1","name":"阿里💠易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"
 },
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
+{"key":"Yi","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
  "ext": "./H/token.txt","jar": "./jar/Q1.jar"
 },
 {"key":"Upyunso","name":"阿里💠云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
