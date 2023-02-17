@@ -111,16 +111,10 @@
 {"key":"Zhaozy0","name":"阿里💠找源()","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/token.txt","jar": "./jar/Q1.jar"
 },
-{"key":"Upyunso","name":"阿里💠云搜()","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,
- "filterable":0,"ext":"./H/token.txt"
+{"key":"YiSo","name":"阿里💠易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"
 },
-{"key":"YiSo1","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "./jar/Q1.jar"
-},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
- "changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar": "./jar/Q1.jar"
-},
-{"key": "Yiso","name": "阿里💠易搜()","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"filterable":1,
- "ext": "./H/token.txt"
+{"key":"Upyunso","name":"阿里💠云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
+ "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"
 },
 {"key":"AliPS","name":"阿里💠盘搜()","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/token.txt"
