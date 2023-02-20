@@ -2,6 +2,7 @@
 "urls": [
 {"url":"https://raw.fastgit.org/leevi0709/duo/main/v.json","name":"点击选择下方线路"},
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风线路"},
+{"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧技线路"},
 {"url":"http://111.67.196.181/mtv/meow.txt","name":"太阳线路"},
 {"url":"https://raw.liucn.cc/box/m.json","name":"老刘备线路"},
 {"url":"http://dxawi.github.io/0/0.json","name":"dxawi线路"},
@@ -12,7 +13,7 @@
 {"url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8","name":"分享者线路"},
 {"url":"https://agit.ai/n/b/raw/branch/a/b/c.json","name":"agit/abc线路"},
 {"url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg","name":"agit/66666线路"},
-{"url":"https://download.kstore.space/download/2863/01.txt", "name":"潇洒线路"},
+{"url":"https://download.kstore.space/download/2863/01.txt", "name":"潇洒线路"},//
 {"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"元兴线路"}
 ]
 }
