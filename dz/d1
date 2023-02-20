@@ -2,11 +2,15 @@
     "urls": [
         {
            "url":"https://raw.fastgit.org/leevi0709/duo/main/v.json",
-           "name":"🔔点击选择下方线路"
+           "name":"点击选择下方线路"
         },
         {
-           "url": "https://raw.fastgit.org/leevi0709/duo/main/v.json",
-           "name":"🏡家庭版"
+           "url": "https://agit.ai/1452635819/h/raw/branch/master/mao3",
+           "name":"经典版"
+        },
+        {
+           "url": "https://agit.ai/1452635819/h/raw/branch/master/L1",
+           "name":"完整版"
         },
         {
           "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
