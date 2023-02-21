@@ -2,10 +2,10 @@
     "urls": [
         {
            "url":"https://yydsys.top/duo/x.json",
-           "name":"阿里4kt版"
+           "name":"4k版"
         },
         {
-           "url": "https://agit.ai/1452635819/h/raw/branch/master/L0",
+           "url": "./L0",
            "name":"精简版"
         },
         {
