@@ -29,17 +29,8 @@
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
 },
-{"key":"csp-yanet","name":"鸭奈飞影()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,
- "searchable":1,"ext":"","jar": "./jar/Q.jar"
-},
-{"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/tvbPQ.json"
-},
 {"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
-},
-{"key":"csp_panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
 },
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
@@ -50,9 +41,11 @@
 {"key":"py_cctvfull","name":"央视大全(py)","type":3,"api":"py_cctvfull","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "./Py/cctvfull.py"
 },
-{"key":"人人影视","name":"人人影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/rrys.js"},
 {"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/netflixPQ.json", "jar": "./jar/PQ1.jar"
+},
+{"key":"naifeiPH","name":"奈飞影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+ "ext": "./H/naifeiPH.json"
 },
 {"key":"348dyPQ","name":"348电影(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/348PQ.json","jar": "./jar/PQ1.jar"
