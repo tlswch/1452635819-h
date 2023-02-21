@@ -29,9 +29,6 @@
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/nmys.json"
 },
-{"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
@@ -43,6 +40,9 @@
 },
 {"key":"netfzw","name":"奈飞中文(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/netflixPQ.json", "jar": "./jar/PQ1.jar"
+},
+{"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"naifeiPH","name":"奈飞影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/naifeiPH.json"
