@@ -179,16 +179,16 @@
 {"key": "py_libvio","name": "Libvio(py)","type": 3,"api":"py_ali","searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "./Py/libvio.py"
 },
-//{"key": "py_gitcafe", "name":"小纸条💠(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,
-//"filterable":0,"ext": "./Py/gitcafe.py"},
+{"key": "py_gitcafe", "name":"小纸条💠(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,
+"filterable":0,"ext": "./Py/gitcafe.py"},
 ///{"key": "Yiso","name":"易搜💠(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
 // "ext": "./Py/py_yiso.py"},
 //{"key": "Pansou","name":" 盘搜💠(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "./Py/py_pansou.py"},
 //{"key": "Zhaozy","name":"找资源💠(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 //"ext": "./Py/py_zhaozy.py"},
-//{"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
-//"ext": "./Py/py_ali.py"},
+{"key": "py_ali","name":"推送(Py)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":1,
+"ext": "./Py/py_ali.py"},
 
 //==================================js__爬虫========================================================================
 {"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/huya.js"},
