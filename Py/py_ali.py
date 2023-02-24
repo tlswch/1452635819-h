@@ -122,21 +122,49 @@ class Spider(Spider):  # 元类 默认的元类 type
         shareId = ids[0]
         shareToken = ids[1]
         fileId = ids[2]
+        category = ids[3]
         subtitle = ids[4]
-        url = '{0}?do=push_agent&api=python&type=m3u8&share_id={1}&file_id={2}'.format(self.localProxyUrl, shareId,
-                                                                                       fileId)
-        subtitleUrl = self.subtitleContent(id)
+        url = self.getDownloadUrl(shareId, shareToken, fileId, category)
+
+        noRsp = requests.get(url, headers=self.header, allow_redirects=False, verify=False)
+        realUrl = ''
+        if 'Location' in noRsp.headers:
+            realUrl = noRsp.headers['Location']
+        if 'location' in noRsp.headers and len(realUrl) == 0:
+            realUrl = noRsp.headers['location']
         newHeader = {
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36",
             "referer": "https://www.aliyundrive.com/",
         }
+        subtitleUrl = self.subtitleContent(id)
         result = {
             'parse': '0',
             'playUrl': '',
-            'url': url,
+            'url': realUrl,
             'header': newHeader,
             'subt': subtitleUrl
         }
+        
+        # if not self.login():
+        #     return {}
+        # ids = id.split('+')
+        # shareId = ids[0]
+        # shareToken = ids[1]
+        # fileId = ids[2]
+        # subtitle = ids[4]
+        # url = '{0}?do=push_agent&api=python&type=m3u8&share_id={1}&file_id={2}'.format(self.localProxyUrl, shareId,fileId)
+        # subtitleUrl = self.subtitleContent(id)
+        # newHeader = {
+        #     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36",
+        #     "referer": "https://www.aliyundrive.com/",
+        # }
+        # result = {
+        #     'parse': '0',
+        #     'playUrl': '',
+        #     'url': url,
+        #     'header': newHeader,
+        #     'subt': subtitleUrl
+        # }
         return result
 
     def detailContent(self, array):
@@ -163,7 +191,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             'vod_name': infoJo['share_name'],
             'vod_pic': infoJo['avatar'],
             'vod_content': tid,
-            'vod_play_from': 'AliYun原画$$$AliYun'
+            'vod_play_from': 'AliYun$$$AliYun原画'
         }
         fileType = fileInfo['type']
         if fileType != 'folder':
@@ -174,6 +202,8 @@ class Spider(Spider):  # 元类 默认的元类 type
         hashMap = {}
         dirname = self.dirname
         self.listFiles(hashMap, shareId, shareToken, fileId, dirname)
+        if not hashMap:
+            return {}
         sortedMap = sorted(hashMap.items(), key=lambda x: x[0])
         arrayList = []
         playList = []
@@ -221,6 +251,8 @@ class Spider(Spider):  # 元类 默认的元类 type
         customHeader = self.header.copy()
         customHeader['x-share-token'] = token
         customHeader['authorization'] = self.authorization
+        customHeader['x-signature'] = self.signature
+        customHeader['x-device-id'] = self.deviceId
         url = 'https://api.aliyundrive.com/v2/file/get_share_link_video_preview_play_info'
         if category == 'video':
             rsp = requests.post(url, json=params, headers=customHeader)
@@ -287,8 +319,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             if 'x-oss-expires' in tmpSlice:
                 count = count + 1
                 mediaMap[str(count)] = host + tmpSlice
-                tmpSlice = "{0}?do=push_agent&api=python&type=media&share_id={1}&file_id={2}&media_id={3}".format(
-                    self.localProxyUrl, shareId, fileId, count)
+                tmpSlice = "{0}?do=push_agent&api=python&type=media&share_id={1}&file_id={2}&media_id={3}".format(self.localProxyUrl, shareId, fileId, count)
             m3u8List.append(tmpSlice)
         self.localMedia[fileId] = mediaMap
         return '\n'.join(m3u8List)
@@ -327,7 +358,6 @@ class Spider(Spider):  # 元类 默认的元类 type
     def proxyM3U8(self, map):
         shareId = map['share_id']
         fileId = map['file_id']
-
         shareToken = self.getToken(shareId, '')
         content = self.getMediaSlice(shareId, shareToken, fileId)
 
@@ -434,11 +464,12 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def login(self):
         self.localTime = int(time.time())
-        url = 'https://api.aliyundrive.com/token/refresh'
+        url = 'https://auth.aliyundrive.com/v2/account/token'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
-            token = requests.get('https://agit.ai/1452635819/h/raw/branch/master/H/token.txt').text
+            token = requests.get('https://cjk.lm317379829.repl.co/CJK/token.txt').text.replace('\n','').replace(' ','')
             form = {
-                'refresh_token': token
+                'refresh_token': token,
+                'grant_type': 'refresh_token'
             }
             rsp = requests.post(url, json=form, headers=self.header)
             jo = json.loads(rsp.text)
@@ -446,6 +477,10 @@ class Spider(Spider):  # 元类 默认的元类 type
                 self.authorization = jo['token_type'] + ' ' + jo['access_token']
                 self.expiresIn = int(jo['expires_in'])
                 self.timeoutTick = self.localTime + self.expiresIn
+                data = requests.post("https://aliautho.lm317379829.repl.co/getToken?ali_token={}".format(token))
+                resp = json.loads(data.content)
+                self.deviceId = resp['x-device-id']
+                self.signature = resp['x-signature']
                 return True
             return False
         else:
@@ -471,7 +506,8 @@ class Spider(Spider):  # 元类 默认的元类 type
         remark = '/[' + str(sz) + fs + ']'
         return remark
 
-
+#t=Spider()
+#t.login()
         # print(self.authorization)
         # print(self.timeoutTick)
         # print(self.localTime)
