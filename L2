@@ -35,7 +35,6 @@
 //{"key":"2345","name":"2345影视()","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,
 // "jar": "./jar/Q1.jar"},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr360","name":"360影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/360ys.js"},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Apple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"jar":"./jar/Q1.jar"},
 {"key":"csp_Nmys","name":"农民影视()","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
@@ -62,8 +61,8 @@
 {"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
 },
-{"key":"csp_panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
+{"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
+ "filterable":1,"jar": "./jar/Q1.jar"
 },
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
@@ -74,8 +73,8 @@
 {"key":"csp_CZSPP","name":"厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0//,"jar": "./jar/Q1.jar"
 },
-{"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
- "filterable":1,"jar": "./jar/Q1.jar"
+{"key":"csp_panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
+ "jar": "./jar/Q1.jar"
 },
 {"key":"fantuan","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1, 
  "ext":"https://www.fantuanhd.com","jar": "./jar/Q1.jar"
@@ -173,8 +172,8 @@
 },
 {"key": "py_gitcafe", "name":"小纸条💠(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,
 "filterable":0,"ext": "./Py/gitcafe.py"},
-{"key": "Yiso","name":"易搜💠(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
- "ext": "./Py/py_yiso.py"},
+//{"key": "Yiso","name":"易搜💠(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
+// "ext": "./Py/py_yiso.py"},
 //{"key": "Pansou","name":" 盘搜💠(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "./Py/py_pansou.py"},
 //{"key": "Zhaozy","name":"找资源💠(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
@@ -184,6 +183,7 @@
 
 //==================================js__爬虫========================================================================
 {"key": "drhuya","name":"虎牙直播(js)","type":3,"api":"./lib/drpy.min.js","ext": "./lib/js/huya.js"},
+{"key":"dr360","name":"360影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/360ys.js"},
 {"key":"drkuyu77","name":"七七影院(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext":"./lib/js/kuyu77.js"},
 {"key":"drnmys","name":"农民影视(js)","type":3,"api":"./lib/drpy.min.js","searchable": 2,"ext": "./lib/js/nmys.js"},
 {"key":"drkkdy","name":"看看电影(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/kkdy.js"},
