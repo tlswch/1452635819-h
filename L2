@@ -65,8 +65,6 @@
 {"key":"csp_panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
-//{"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
-//   "ext": "https://www.555ys1.com/api.php/app/"},
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
@@ -82,9 +80,8 @@
 {"key":"fantuan","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1, 
  "ext":"https://www.fantuanhd.com","jar": "./jar/Q1.jar"
 },
-{"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,
- "jar": "./jar/Q.jar"
-},
+//{"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,
+// "jar": "./jar/Q.jar"},
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
@@ -176,8 +173,8 @@
 },
 {"key": "py_gitcafe", "name":"小纸条💠(Py)","type":3,"api": "py_gitcafe","searchable":1,"quickSearch":1,
 "filterable":0,"ext": "./Py/gitcafe.py"},
-///{"key": "Yiso","name":"易搜💠(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
-// "ext": "./Py/py_yiso.py"},
+{"key": "Yiso","name":"易搜💠(Py)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable": 1,
+ "ext": "./Py/py_yiso.py"},
 //{"key": "Pansou","name":" 盘搜💠(Py)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":1,
 // "ext": "./Py/py_pansou.py"},
 //{"key": "Zhaozy","name":"找资源💠(Py)","type": 3,"api": "py_zhaozy","searchable":1,"quickSearch":1,"filterable":1,
