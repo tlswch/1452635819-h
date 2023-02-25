@@ -524,14 +524,11 @@
 {"name":"全能解析05","url": "https://jx.m3u8.pw/?url="},//https://jx.xmflv.com/?url=
 {"name":"全能解析06","url":"https://www.cygqw.com/jiexi/jiekou-2/?url="},
 {"name":"全能解析07","url": "http://vip.26db.cn/g/?url="},
-{"name":"全能解析08","url":"http://yy.freeee.ml/jx/player/777player/?url="},
-{"name":"全能解析09","url":"http://txcgb.3vkj.club/player/777/?url="},
-{"name":"全能解析11", "url": "https://h5.freejson.xyz/player/?url="},
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"自动解析02","url":"http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=","type":1,
  "ext": {"header":{"User-Agent":"Mozilla/5.0"}}  
 }, 
-{"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="}
+{"name":"自动解析03","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="}
 ],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
