@@ -528,12 +528,10 @@
 {"name":"全能解析09","url":"http://txcgb.3vkj.club/player/777/?url="},
 {"name":"全能解析11", "url": "https://h5.freejson.xyz/player/?url="},
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
-{"name": "星辰云","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
+{"name":"自动解析02","url":"http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=","type":1,
  "ext": {"header":{"User-Agent":"Mozilla/5.0"}}  
 }, 
-{"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"自动解析03","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="},
-{"name":"自动解析07","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="}
+{"name":"自动解析02","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="}
 ],
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
