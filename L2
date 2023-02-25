@@ -65,9 +65,8 @@
 {"key":"csp_panghu","name":"胖虎影视()","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
-{"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
-   "ext": "https://www.555ys1.com/api.php/app/"
-},
+//{"key":"555电影","name":"555电影(V)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+//   "ext": "https://www.555ys1.com/api.php/app/"},
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
@@ -78,7 +77,7 @@
  "filterable":0//,"jar": "./jar/Q1.jar"
 },
 {"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
- "jar": "./jar/Q1.jar"
+ "ext":"https://www.lgyy.tv","jar": "./jar/Q1.jar"
 },
 {"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
  "filterable":1,"jar": "./jar/Q1.jar"
