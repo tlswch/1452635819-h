@@ -76,14 +76,14 @@
 {"key":"csp_CZSPP","name":"厂长资源()","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,
  "filterable":0//,"jar": "./jar/Q1.jar"
 },
-{"key":"蓝光电影","name":"蓝光电影()","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"https://www.lgyy.tv","jar": "./jar/Q1.jar"
-},
 {"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
  "filterable":1,"jar": "./jar/Q1.jar"
 },
+{"key":"fantuan","name":"饭团影视()","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1, 
+ "ext":"https://www.fantuanhd.com","jar": "./jar/Q1.jar"
+},
 {"key": "Lezhu_spider","name":"乐猪影视()","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,
- "jar": "./jar/Q1.jar"
+ "jar": "./jar/Q.jar"
 },
 {"key":"csp_Bttoo","name":"两个BT()","type": 3,"api":"csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"哔滴","name":"哔滴影视()","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
