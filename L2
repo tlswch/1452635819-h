@@ -43,9 +43,6 @@
 {"key":"csp_ZJMiao","name":"视觉影院()","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,
  "filterable":1,"jar": "./jar/Q1.jar"
 },
-{"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
-},
 {"key":"BuLei","name":"布雷影院()","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
  "jar": "./jar/Q1.jar"
 },
@@ -54,6 +51,12 @@
 },
 {"key":"naifeiPH","name":"奈飞影院(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/naifeiPH.json"
+},
+{"key":"哔兔影视","name":"哔兔影视(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
+},
+{"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"./XPB/tvbPQ.json"
 },
 //{"key":"csp-yanet","name":"鸭奈飞影()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 // "searchable":1,"ext":"","jar": "./jar/Q.jar"},
@@ -69,9 +72,6 @@
 {"key":"csp_AppTT","name":"图图影视()","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg==",
  "jar": "./jar/Q1.jar"
-},
-{"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/tvbPQ.json"
 },
 {"key":"cspDiDuan","name":"低端影视()","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,
  "quickSearch":1,"filterable":0,"jar": "./jar/Q1.jar"
@@ -92,12 +92,8 @@
 {"key":"bdys","name":"哔嘀磁力()","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable":1,
  "ext": "./H/bdys01XP.json"
 },
-{"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp鹅直播","name":"企鹅体育(P3)","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0, 
  "ext":"./H/liveqqP3.json"
-},
-{"key":"QBiu酷奇MV","name":"酷奇MV(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
- "ext":"./H/kuqiQB.json"
 },
 {"key":"柠檬树PH","name":"柠檬直播(PH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
  "ext": "./H/lu1zbPH.json"
@@ -108,11 +104,15 @@
 {"key":"310直播","name":"310看球(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
  "ext":"./H/310zbYQ.json"
 },
+{"key":"Bili","name":"Bilibili站()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,
+ "ext": "./jy/BiLikt.js"
+},
+{"key":"csp_Yj1211","name":"网红直播()","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"虎牙直播","name":"虎牙直播(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
  "ext":"./H/huyaBIU.json"
 },
-{"key":"Bili","name":"Bilibili站()","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable": 1,
- "ext": "./jy/BiLikt.js"
+{"key":"QBiu酷奇MV","name":"酷奇MV(yq)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
+ "ext":"./H/kuqiQB.json"
 },
 { "key":"push_agent","name":"推送()","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
   "ext":"./H/token.txt"
@@ -120,7 +120,6 @@
 {"key": "csp_bendi", "name": "本地视频()","type": 3,"api": "csp_LocalFile","searchable":0,"quickSearch":0,
  "filterable":1,"type_flag":1
 },
-
 //==================================PY__爬虫==========================================================================
 {"key":"py_cctvfull","name":"央视大全(py)","type":3,"api":"py_cctvfull","searchable":0,"quickSearch":0,"filterable":1,
  "ext": "./Py/cctvfull.py"
