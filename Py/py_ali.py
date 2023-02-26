@@ -463,10 +463,10 @@ class Spider(Spider):  # 元类 默认的元类 type
                     break
 
     def login(self):
-        self.localTime = int(time.time())    //https://cjk.lm317379829.repl.co/CJK/token.txt
+        self.localTime = int(time.time())
         url = 'https://auth.aliyundrive.com/v2/account/token'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
-            token = requests.get('https://agit.ai/1452635819/h/raw/branch/master/H/token.txt').text.replace('\n','').replace(' ','')
+            token = requests.get('https://cjk.lm317379829.repl.co/CJK/token.txt').text.replace('\n','').replace(' ','')
             form = {
                 'refresh_token': token,
                 'grant_type': 'refresh_token'
