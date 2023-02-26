@@ -527,7 +527,8 @@
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"自动解析02","url":"http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=","type":1,
  "ext": {"header":{"User-Agent":"Mozilla/5.0"}}  
-}, 
+},
+{"name": "左岸急速","url": "http://59.110.212.57:9931/zuoan/?url=","type":1}, 
 {"name":"自动解析03","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="}
 ],
 "rules":[
