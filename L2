@@ -56,7 +56,7 @@
  "ext":"./XPB/panghuPQ.json","jar": "./jar/PQ1.jar"
 },
 {"key":"tvbPQ","name":"tvb影院(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"./XPB/tvbPQ.json","jar": "./jar/PQ.jar"
+ "ext":"./XPB/tvbPQ.json","jar": "./jar/PQ1.jar"
 },
 //{"key":"csp-yanet","name":"鸭奈飞影()","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 // "searchable":1,"ext":"","jar": "./jar/Q.jar"},
