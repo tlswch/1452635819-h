@@ -1,6 +1,7 @@
 {
   "drives": [
     {"name": "💠小雅网盘","server": "http://alist.xiaoya.pro"},
+    {"name": "💠流年网盘","server" : "http://aruisi.fun:666"},
     {"name": "💠小雅镜像","server": "https://alist.you-mostmost.repl.co"},
     //{"name": "小雅盘3","server": "http://alistxy.ganggang.live:5678"},
     {"name": "杜比网盘","server": "https://dubi.tk"},
