@@ -3,30 +3,22 @@
 "wallpaper":"https://qiu.moe/a723",
 "sites":[
 //==================================主力资源接口=================================================================
-{ "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
-  "ext":"./H/alist.json","jar": "./jar/Q1.jar"
-},
+//{ "key":"csp_Alist1","name":"Alist集合()","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,
+//  "ext":"./H/alist.json","jar": "./jar/Q1.jar"},
 {"key": "Alist","name":"Alist合集(js)","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 0,
  "api": "./lib/alist.min.js","ext": "./lib/js/alist.json"
 },
-{"key":"Upyunso","name":"阿里💠云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
- "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"
-},
-{"key":"YiSo1","name":"阿里💠易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
- "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"
-},
-{"key":"AliPS","name":"阿里💠盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
- "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"
-},
-{"key":"Zhaozy0","name":"阿里💠找源()","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
- "ext": "./H/token.txt","jar": "./jar/Q1.jar"
-},
-{"key":"tcafe","name":"阿里💠纸条()","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
- "ext":"./H/token.txt","jar": "./jar/Q1.jar"
-},
+//{"key":"Upyunso","name":"阿里💠云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
+// "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"},
+//{"key":"YiSo1","name":"阿里💠易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
+// "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"},
+//{"key":"AliPS","name":"阿里💠盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
+// "changeable":0,"ext": "./H/token.txt","jar": "./jar/Q1.jar"},
+//{"key":"Zhaozy0","name":"阿里💠找源()","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
+// "changeable":0,"ext": "./H/token.txt$$$yingshi$$$abcd1234","jar": "./jar/Q1.jar"},
+//{"key":"tcafe","name":"阿里💠纸条()","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
+// "ext":"./H/token.txt","jar": "./jar/Q1.jar"},
 {"key":"搜狗","name":"搜狗影视(js)","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./lib/js/sogou.js"},
-//{"key":"2345","name":"2345影视()","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,
-// "jar": "./jar/Q1.jar"},
 {"key": "SP360","name":"360资源()","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"七七影视()","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Apple","name":"小苹果果()","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"jar":"./jar/Q1.jar"},
