@@ -1,5 +1,8 @@
-# h仓库:
+# h仓库https://agit.ai/1452635819/h.git
 1,zb.txt的编码为：aHR0cHM6Ly9hZ2l0LmFpLzE0NTI2MzU4MTkvaC9yYXcvYnJhbmNoL21hc3Rlci96Yi50eHQ=
+
+
+
 MD5值:  ;md5;614831abf011d5e24b9dcb372c94392c  Q2
 添加过程
 1.添加pyramid.aar到android项目libs目录下
